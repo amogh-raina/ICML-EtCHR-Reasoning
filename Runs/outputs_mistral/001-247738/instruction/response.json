@@ -1,0 +1,49 @@
+{
+  "item_id": "001-247738",
+  "case_name": "CASE OF TSAAVA AND OTHERS v. GEORGIA",
+  "case_number": "(Applications nos. 13186/20 and 4 others)",
+  "date": "11 December 2025",
+  "prompt_type": "instruction",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "3",
+    "10",
+    "10-1",
+    "11",
+    "11-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": {
+    "Existence of an interference": "The applicants include journalists who were actively reporting on the demonstration (see paragraphs 44, 47, 51, 54–65, 105–106). They were injured by kinetic impact projectiles or tear gas while performing their professional duties—such as filming, taking photographs, or livestreaming the events. For example, Mr. Tsaava was hit by a projectile while presumably taking a photo (see paragraph 47), Mr. Svanadze was struck while raising his hands to call for calm (see paragraph 51), and Ms. Baghashvili was injured while holding a microphone with a television logo (see paragraph 54). Additionally, other applicants, as participants in the demonstration, were engaging in expressive conduct protected under Article 10, such as chanting demands or holding signs (see paragraphs 17–18). The use of force by police, including indiscriminate firing of projectiles, directly hindered their ability to impart or receive information. This constitutes an interference with their rights under Article 10 of the ECHR.",
+    "Lawfulness of the interference": "The interference must be 'prescribed by law' under Article 10 § 2. Georgia’s domestic legal framework—including the Police Act (see paragraph 179), Ministerial Order no. 1002 (see paragraphs 181–192), and Ministerial Order no. 1006 (see paragraphs 193–196)—governs the use of force during demonstrations. However, the use of kinetic impact projectiles during the dispersal did not comply with these legal requirements. Specifically: (i) Ministerial Order no. 1002 § 8(1)(d) requires that an order for the use of non-lethal weapons, including kinetic impact projectiles, be issued by the unit leader with the consent of a supervisor (see paragraph 188). Yet, the Public Defender’s Office (PDO) report confirmed that high-level officials did not authorize their use, and officers fired approximately 800 projectiles without proper command (see paragraphs 169–171); (ii) warnings were not issued before the deployment of kinetic impact projectiles (see paragraphs 32, 35, 187), contrary to Ministerial Order no. 1002 § 8(7); and (iii) projectiles were fired at prohibited body parts (e.g., head, see paragraph 50) and within unsafe ranges, violating Ministerial Order no. 1002 § 9(1)(c) (see paragraph 189). Since the specific actions were not executed in accordance with domestic legal procedures, the interference lacked a lawful basis.",
+    "Legitimate aims of the interference": "As the interference with the applicants’ Article 10 rights was found to lack a basis in domestic law at the previous step, this step is not applicable. The assessment does not proceed further.",
+    "Necessary in a democratic society": "As a violation has already been identified at the lawfulness stage, this step is not applicable. The assessment does not proceed further."
+  },
+  "raw_content": "```json\n{\n  \"assessment\": {\n    \"Existence of an interference\": \"The applicants include journalists who were actively reporting on the demonstration (see paragraphs 44, 47, 51, 54–65, 105–106). They were injured by kinetic impact projectiles or tear gas while performing their professional duties—such as filming, taking photographs, or livestreaming the events. For example, Mr. Tsaava was hit by a projectile while presumably taking a photo (see paragraph 47), Mr. Svanadze was struck while raising his hands to call for calm (see paragraph 51), and Ms. Baghashvili was injured while holding a microphone with a television logo (see paragraph 54). Additionally, other applicants, as participants in the demonstration, were engaging in expressive conduct protected under Article 10, such as chanting demands or holding signs (see paragraphs 17–18). The use of force by police, including indiscriminate firing of projectiles, directly hindered their ability to impart or receive information. This constitutes an interference with their rights under Article 10 of the ECHR.\",\n\n    \"Lawfulness of the interference\": \"The interference must be 'prescribed by law' under Article 10 § 2. Georgia’s domestic legal framework—including the Police Act (see paragraph 179), Ministerial Order no. 1002 (see paragraphs 181–192), and Ministerial Order no. 1006 (see paragraphs 193–196)—governs the use of force during demonstrations. However, the use of kinetic impact projectiles during the dispersal did not comply with these legal requirements. Specifically: (i) Ministerial Order no. 1002 § 8(1)(d) requires that an order for the use of non-lethal weapons, including kinetic impact projectiles, be issued by the unit leader with the consent of a supervisor (see paragraph 188). Yet, the Public Defender’s Office (PDO) report confirmed that high-level officials did not authorize their use, and officers fired approximately 800 projectiles without proper command (see paragraphs 169–171); (ii) warnings were not issued before the deployment of kinetic impact projectiles (see paragraphs 32, 35, 187), contrary to Ministerial Order no. 1002 § 8(7); and (iii) projectiles were fired at prohibited body parts (e.g., head, see paragraph 50) and within unsafe ranges, violating Ministerial Order no. 1002 § 9(1)(c) (see paragraph 189). Since the specific actions were not executed in accordance with domestic legal procedures, the interference lacked a lawful basis.\",\n\n    \"Legitimate aims of the interference\": \"As the interference with the applicants’ Article 10 rights was found to lack a basis in domestic law at the previous step, this step is not applicable. The assessment does not proceed further.\",\n\n    \"Necessary in a democratic society\": \"As a violation has already been identified at the lawfulness stage, this step is not applicable. The assessment does not proceed further.\"\n  },\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 6746,
+    "prompt_tokens": 33646,
+    "total_tokens": 40392,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 6816,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.101064,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.101064,
+      "upstream_inference_prompt_cost": 0.050469,
+      "upstream_inference_completions_cost": 0.050595
+    }
+  }
+}

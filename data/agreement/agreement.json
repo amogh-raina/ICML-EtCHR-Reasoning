@@ -1,0 +1,82 @@
+{
+  "human_iaa": {
+    "occurrence": {
+      "alpha_nominal": 0.13948427809813957,
+      "exact": 0.9694444444444444,
+      "within1": 1.0,
+      "n_pairs": 720
+    },
+    "comprehensiveness": {
+      "alpha_ordinal": 0.08549631812928071,
+      "exact": 0.4136947218259629,
+      "within1": 0.8744650499286734,
+      "n_pairs": 701
+    },
+    "conciseness": {
+      "alpha_ordinal": 0.10613641382356198,
+      "exact": 0.36666666666666664,
+      "within1": 0.9055555555555556,
+      "n_pairs": 180
+    }
+  },
+  "judge_alignment": {
+    "claude": {
+      "comprehensiveness": {
+        "spearman": 0.1562454072793399,
+        "mean_signed_diff_judge_minus_human": -0.26223241590214064,
+        "within1": 0.8577981651376146,
+        "n": 218
+      },
+      "conciseness": {
+        "spearman": 0.2352158298065809,
+        "mean_signed_diff_judge_minus_human": -0.5416666666666667,
+        "within1": 0.8035714285714286,
+        "n": 56
+      },
+      "occurrence": {
+        "pct_agreement": 0.9732142857142857,
+        "n": 224
+      }
+    },
+    "deepseek": {
+      "comprehensiveness": {
+        "spearman": 0.23857201297242034,
+        "mean_signed_diff_judge_minus_human": -0.05478395061728385,
+        "within1": 0.8194444444444444,
+        "n": 216
+      },
+      "conciseness": {
+        "spearman": 0.2846440208941436,
+        "mean_signed_diff_judge_minus_human": 0.4404761904761905,
+        "within1": 0.8392857142857143,
+        "n": 56
+      },
+      "occurrence": {
+        "pct_agreement": 0.9642857142857143,
+        "n": 224
+      }
+    },
+    "gpt5.5": {
+      "comprehensiveness": {
+        "spearman": 0.3256200910965997,
+        "mean_signed_diff_judge_minus_human": -0.012176560121765552,
+        "within1": 0.8538812785388128,
+        "n": 219
+      },
+      "conciseness": {
+        "spearman": 0.22890867598287873,
+        "mean_signed_diff_judge_minus_human": 0.011904761904761942,
+        "within1": 0.9285714285714286,
+        "n": 56
+      },
+      "occurrence": {
+        "pct_agreement": 0.9776785714285714,
+        "n": 224
+      }
+    }
+  },
+  "judge_iaa": {
+    "comprehensiveness_alpha_ordinal": 0.40608281074855523,
+    "conciseness_alpha_ordinal": 0.07596558059824898
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "item_id": "001-242859",
+  "case_name": "CASE OF AVAGYAN v. RUSSIA",
+  "case_number": "(Application no. 36911/20)",
+  "date": "29 April 2025",
+  "prompt_type": "instruction",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Existence of an interference": "There was an interference with the applicant’s freedom of expression. She was prosecuted and convicted for two Instagram comments about the existence of COVID-19 cases in the Krasnodar Region, and she was fined RUB 30,000 (see paragraphs 5, 6, 8 and 9). Her posts concerned a matter of obvious public interest, namely the pandemic and the authorities’ response to it. Expression on the Internet, including on social-media platforms, falls within the scope of Article 10, even where it is informal or controversial (see no. 64569/09). The administrative conviction and fine therefore amounted to an interference with the applicant’s Article 10 rights."
+    },
+    {
+      "Lawfulness of the interference": "The interference appears to have had a basis in domestic law. The police charged the applicant under Article 13.15(9) of the Code of Administrative Offences, which had been introduced by Federal Law no. 28-FZ and criminalised the online dissemination of socially important information known to be untrue where it created certain risks, including to life or health (see paragraphs 6 and 13). The proceedings were conducted under that provision, and the domestic courts expressly relied on it (see paragraphs 8 and 11). Although the domestic application of the provision raises serious concerns, especially given Article 1.5 of the CAO, which states that a defendant is not required to prove innocence (see paragraph 12), the measure was formally prescribed by law."
+    },
+    {
+      "Legitimate aims of the interference": "The interference pursued at least one legitimate aim under Article 10 § 2. In the context of the COVID-19 pandemic, sanctioning allegedly false statements about the existence of infections could be said to serve the protection of health and the prevention of disorder, and also the protection of the rights of others whose health might be endangered by misleading information (see paragraphs 11 and 13). The Court has accepted that States may react to harmful misinformation in sensitive public-health contexts, provided that the response remains compatible with Article 10 (see nos. 31365/20 and 32525/20). This step is therefore likely satisfied."
+    },
+    {
+      "Necessary in a democratic society": "The decisive issue is necessity, and on the facts the interference was not shown to be necessary in a democratic society. First, the domestic courts did not give relevant and sufficient reasons. The trial court convicted the applicant essentially because she had \"failed to put forward any evidence to disprove\" the existence of coronavirus in the region (see paragraph 8), thereby reversing the burden of proof in direct tension with Article 1.5 of the CAO (see paragraph 12). Second, the authorities did not demonstrate that the applicant had knowingly disseminated false information, which was an element of the offence. She argued that her statements reflected her understanding of publicly available information and that the situation had not been officially clarified (see paragraph 7), but this was not meaningfully addressed. Third, the courts failed to assess the context and wording of the comments. The posts included opinionated and speculative language such as \"Think about why our government would need this\" and \"Everyone knows...\" (see paragraph 5), yet the courts treated them as straightforward factual assertions without examining whether they were value judgments, exaggeration, or part of an online exchange on a matter of public concern (see nos. 20007/22 and 28232/22). Fourth, there was no concrete analysis of risk: the authorities did not explain how these comments, posted to an account with 2,600 followers and receiving very limited interaction, created a real risk to life, health, or public order as required by Article 13.15(9) (see paragraphs 5 and 13). Finally, the appeal court merely referred in a summary way to regional anti-COVID regulations as proof that the statements were untrue, without engaging with the applicant’s complaints about burden of proof, context, or proportionality (see paragraphs 10 and 11). In these circumstances, the sanction was capable of producing a chilling effect and did not answer a pressing social need. The interference was therefore disproportionate and not necessary in a democratic society."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"Existence of an interference\": \"There was an interference with the applicant’s freedom of expression. She was prosecuted and convicted for two Instagram comments about the existence of COVID-19 cases in the Krasnodar Region, and she was fined RUB 30,000 (see paragraphs 5, 6, 8 and 9). Her posts concerned a matter of obvious public interest, namely the pandemic and the authorities’ response to it. Expression on the Internet, including on social-media platforms, falls within the scope of Article 10, even where it is informal or controversial (see no. 64569/09). The administrative conviction and fine therefore amounted to an interference with the applicant’s Article 10 rights.\"\n    },\n    {\n      \"Lawfulness of the interference\": \"The interference appears to have had a basis in domestic law. The police charged the applicant under Article 13.15(9) of the Code of Administrative Offences, which had been introduced by Federal Law no. 28-FZ and criminalised the online dissemination of socially important information known to be untrue where it created certain risks, including to life or health (see paragraphs 6 and 13). The proceedings were conducted under that provision, and the domestic courts expressly relied on it (see paragraphs 8 and 11). Although the domestic application of the provision raises serious concerns, especially given Article 1.5 of the CAO, which states that a defendant is not required to prove innocence (see paragraph 12), the measure was formally prescribed by law.\"\n    },\n    {\n      \"Legitimate aims of the interference\": \"The interference pursued at least one legitimate aim under Article 10 § 2. In the context of the COVID-19 pandemic, sanctioning allegedly false statements about the existence of infections could be said to serve the protection of health and the prevention of disorder, and also the protection of the rights of others whose health might be endangered by misleading information (see paragraphs 11 and 13). The Court has accepted that States may react to harmful misinformation in sensitive public-health contexts, provided that the response remains compatible with Article 10 (see nos. 31365/20 and 32525/20). This step is therefore likely satisfied.\"\n    },\n    {\n      \"Necessary in a democratic society\": \"The decisive issue is necessity, and on the facts the interference was not shown to be necessary in a democratic society. First, the domestic courts did not give relevant and sufficient reasons. The trial court convicted the applicant essentially because she had \\\"failed to put forward any evidence to disprove\\\" the existence of coronavirus in the region (see paragraph 8), thereby reversing the burden of proof in direct tension with Article 1.5 of the CAO (see paragraph 12). Second, the authorities did not demonstrate that the applicant had knowingly disseminated false information, which was an element of the offence. She argued that her statements reflected her understanding of publicly available information and that the situation had not been officially clarified (see paragraph 7), but this was not meaningfully addressed. Third, the courts failed to assess the context and wording of the comments. The posts included opinionated and speculative language such as \\\"Think about why our government would need this\\\" and \\\"Everyone knows...\\\" (see paragraph 5), yet the courts treated them as straightforward factual assertions without examining whether they were value judgments, exaggeration, or part of an online exchange on a matter of public concern (see nos. 20007/22 and 28232/22). Fourth, there was no concrete analysis of risk: the authorities did not explain how these comments, posted to an account with 2,600 followers and receiving very limited interaction, created a real risk to life, health, or public order as required by Article 13.15(9) (see paragraphs 5 and 13). Finally, the appeal court merely referred in a summary way to regional anti-COVID regulations as proof that the statements were untrue, without engaging with the applicant’s complaints about burden of proof, context, or proportionality (see paragraphs 10 and 11). In these circumstances, the sanction was capable of producing a chilling effect and did not answer a pressing social need. The interference was therefore disproportionate and not necessary in a democratic society.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 2185,
+    "prompt_tokens": 1919,
+    "total_tokens": 4104,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1285,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0375725,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0375725,
+      "upstream_inference_prompt_cost": 0.0047975,
+      "upstream_inference_completions_cost": 0.032775
+    }
+  },
+  "citations": [
+    "64569/09",
+    "31365/20",
+    "32525/20",
+    "20007/22",
+    "28232/22"
+  ],
+  "ref_paragraphs": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ]
+}

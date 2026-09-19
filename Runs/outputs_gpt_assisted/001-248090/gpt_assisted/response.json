@@ -1,0 +1,84 @@
+{
+  "item_id": "001-248090",
+  "case_name": "CASE OF KHADIJA ISMAYILOVA v. AZERBAIJAN (No. 4)",
+  "case_number": "(Applications nos. 71556/16 and 74112/17)",
+  "date": "27 January 2026",
+  "prompt_type": "gpt_assisted",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "high",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Interference with freedom of expression": "There was a clear interference with the applicant’s Article 10 rights. She was a well-known investigative journalist and government critic whose professional activity concerned alleged high-level corruption, a matter at the core of public-interest reporting (see paragraphs 5 and 12). She was prosecuted and ultimately convicted for “illegal entrepreneurship” and tax evasion in direct connection with her work for Azadliq Radio and the income derived from that work (see paragraphs 10, 11 and 16). The sanctions were severe: an initial sentence of seven and a half years’ imprisonment, later replaced by a suspended sentence with probation conditions that effectively prevented international travel (see paragraphs 11 and 16). Such criminal measures were plainly capable of silencing the applicant and chilling investigative journalism more broadly."
+    },
+    {
+      "Context of the expression and level of scrutiny": "The speech context calls for the strictest scrutiny. The applicant was acting as an investigative journalist and public watchdog, and her reporting concerned issues of corruption and public accountability (see paragraph 5). The Court has already recognised in the applicant’s earlier cases that she had faced serious pressure linked to her journalistic work (see nos. 65286/13 and 57270/14). In that setting, the domestic courts were required to examine her case with particular care and to give especially convincing reasons for imposing criminal liability affecting her media work. Instead, they largely repeated the prosecution’s position and failed to engage with her central Article 10-related arguments (see paragraphs 14, 16, 19 and 20)."
+    },
+    {
+      "Lawfulness of the illegal entrepreneurship conviction": "The conviction for illegal entrepreneurship, insofar as it rested on the applicant’s journalistic activity without Ministry of Foreign Affairs accreditation, appears not to have been “prescribed by law” in the Convention sense. The applicant argued that, after 1 October 2010, she was not an employee or formal representative of foreign media but a freelance journalist, and that accreditation under the Law on Media was not a legal precondition for journalistic work but a facility giving access to information (see paragraph 12). The text of the Law on Media supports that reading: Article 50 describes accreditation as an access mechanism, while Article 53 states that non-accredited foreign correspondents are subject to the same rights and obligations as representatives of foreign legal entities, rather than being barred from work or exposed to criminal punishment as such (see paragraph 29). Despite this, the domestic courts treated the absence of accreditation as “entrepreneurial activity without State registration” under Article 192 of the Criminal Code (see paragraphs 14, 16 and 20). That was an extensive and unforeseeable interpretation of criminal law. The later amendment adding the words “tax registration” only reinforces the ambiguity of the original text and the lack of foreseeability in the interpretation used against the applicant (see paragraphs 17-22)."
+    },
+    {
+      "Lawfulness and safeguards concerning the tax-evasion conviction": "The tax-evasion conviction also raises serious lawfulness concerns. The domestic courts relied mainly on an “interim audit report” and a forensic accounting report based on it (see paragraph 11). Yet the applicant specifically argued that the Tax Code did not provide for such an interim report, that the statutory procedures for tax inspections and liability decisions had not been followed, and that there had been no proper decision determining what violation she had committed and why she was personally responsible (see paragraph 13; compare paragraphs 25-27). She also submitted that Azadliq Radio was a non-commercial organisation, that the transfers from Prague were operational funding rather than profit, and that classifying the entire amount as taxable profit was arbitrary (see paragraph 13). Those were substantial objections going directly to foreseeability and protection against arbitrariness, but the appellate and cassation courts did not answer them in any meaningful way (see paragraphs 14 and 16). In those circumstances, the use of criminal tax law against her professional activity did not appear to rest on a sufficiently clear and safeguarded legal basis."
+    },
+    {
+      "Legitimate aim and necessity, in the alternative": "Even assuming that the measures pursued legitimate aims such as the prevention of crime or protection of the economic order, the interference was not shown to be necessary in a democratic society. The domestic courts did not perform any balancing exercise taking account of the applicant’s role as an investigative journalist, the public-interest nature of her work, the distinction between media regulation and criminal punishment, or the chilling effect of prosecution (see paragraphs 12, 14, 16, 19 and 20). They gave formulaic reasons and ignored her specific defence that lack of accreditation was not criminally punishable and that the tax findings were procedurally and substantively flawed. The severity of the sanctions, including imprisonment and continuing probation restrictions, was manifestly disproportionate in the context of press freedom (see paragraphs 11, 16 and 19)."
+    },
+    {
+      "Conclusion": "The case concerns the use of criminal law to penalise and deter the applicant’s journalistic activity. The decisive criminal provisions were applied in an unforeseeable and arbitrary manner, and the domestic courts failed to provide relevant and sufficient reasons compatible with Article 10 standards (see paragraphs 12-20). Against the background of the applicant’s role as a prominent anti-corruption journalist and the Court’s earlier findings concerning pressure on her work (see nos. 65286/13 and 57270/14), the interference was incompatible with Article 10."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"Interference with freedom of expression\": \"There was a clear interference with the applicant’s Article 10 rights. She was a well-known investigative journalist and government critic whose professional activity concerned alleged high-level corruption, a matter at the core of public-interest reporting (see paragraphs 5 and 12). She was prosecuted and ultimately convicted for “illegal entrepreneurship” and tax evasion in direct connection with her work for Azadliq Radio and the income derived from that work (see paragraphs 10, 11 and 16). The sanctions were severe: an initial sentence of seven and a half years’ imprisonment, later replaced by a suspended sentence with probation conditions that effectively prevented international travel (see paragraphs 11 and 16). Such criminal measures were plainly capable of silencing the applicant and chilling investigative journalism more broadly.\"\n    },\n    {\n      \"Context of the expression and level of scrutiny\": \"The speech context calls for the strictest scrutiny. The applicant was acting as an investigative journalist and public watchdog, and her reporting concerned issues of corruption and public accountability (see paragraph 5). The Court has already recognised in the applicant’s earlier cases that she had faced serious pressure linked to her journalistic work (see nos. 65286/13 and 57270/14). In that setting, the domestic courts were required to examine her case with particular care and to give especially convincing reasons for imposing criminal liability affecting her media work. Instead, they largely repeated the prosecution’s position and failed to engage with her central Article 10-related arguments (see paragraphs 14, 16, 19 and 20).\"\n    },\n    {\n      \"Lawfulness of the illegal entrepreneurship conviction\": \"The conviction for illegal entrepreneurship, insofar as it rested on the applicant’s journalistic activity without Ministry of Foreign Affairs accreditation, appears not to have been “prescribed by law” in the Convention sense. The applicant argued that, after 1 October 2010, she was not an employee or formal representative of foreign media but a freelance journalist, and that accreditation under the Law on Media was not a legal precondition for journalistic work but a facility giving access to information (see paragraph 12). The text of the Law on Media supports that reading: Article 50 describes accreditation as an access mechanism, while Article 53 states that non-accredited foreign correspondents are subject to the same rights and obligations as representatives of foreign legal entities, rather than being barred from work or exposed to criminal punishment as such (see paragraph 29). Despite this, the domestic courts treated the absence of accreditation as “entrepreneurial activity without State registration” under Article 192 of the Criminal Code (see paragraphs 14, 16 and 20). That was an extensive and unforeseeable interpretation of criminal law. The later amendment adding the words “tax registration” only reinforces the ambiguity of the original text and the lack of foreseeability in the interpretation used against the applicant (see paragraphs 17-22).\"\n    },\n    {\n      \"Lawfulness and safeguards concerning the tax-evasion conviction\": \"The tax-evasion conviction also raises serious lawfulness concerns. The domestic courts relied mainly on an “interim audit report” and a forensic accounting report based on it (see paragraph 11). Yet the applicant specifically argued that the Tax Code did not provide for such an interim report, that the statutory procedures for tax inspections and liability decisions had not been followed, and that there had been no proper decision determining what violation she had committed and why she was personally responsible (see paragraph 13; compare paragraphs 25-27). She also submitted that Azadliq Radio was a non-commercial organisation, that the transfers from Prague were operational funding rather than profit, and that classifying the entire amount as taxable profit was arbitrary (see paragraph 13). Those were substantial objections going directly to foreseeability and protection against arbitrariness, but the appellate and cassation courts did not answer them in any meaningful way (see paragraphs 14 and 16). In those circumstances, the use of criminal tax law against her professional activity did not appear to rest on a sufficiently clear and safeguarded legal basis.\"\n    },\n    {\n      \"Legitimate aim and necessity, in the alternative\": \"Even assuming that the measures pursued legitimate aims such as the prevention of crime or protection of the economic order, the interference was not shown to be necessary in a democratic society. The domestic courts did not perform any balancing exercise taking account of the applicant’s role as an investigative journalist, the public-interest nature of her work, the distinction between media regulation and criminal punishment, or the chilling effect of prosecution (see paragraphs 12, 14, 16, 19 and 20). They gave formulaic reasons and ignored her specific defence that lack of accreditation was not criminally punishable and that the tax findings were procedurally and substantively flawed. The severity of the sanctions, including imprisonment and continuing probation restrictions, was manifestly disproportionate in the context of press freedom (see paragraphs 11, 16 and 19).\"\n    },\n    {\n      \"Conclusion\": \"The case concerns the use of criminal law to penalise and deter the applicant’s journalistic activity. The decisive criminal provisions were applied in an unforeseeable and arbitrary manner, and the domestic courts failed to provide relevant and sufficient reasons compatible with Article 10 standards (see paragraphs 12-20). Against the background of the applicant’s role as a prominent anti-corruption journalist and the Court’s earlier findings concerning pressure on her work (see nos. 65286/13 and 57270/14), the interference was incompatible with Article 10.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 3497,
+    "prompt_tokens": 7155,
+    "total_tokens": 10652,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 2328,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0680385,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0680385,
+      "upstream_inference_prompt_cost": 0.0155835,
+      "upstream_inference_completions_cost": 0.052455
+    }
+  },
+  "citations": [
+    "65286/13",
+    "57270/14"
+  ],
+  "ref_paragraphs": [
+    5,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    25,
+    26,
+    27,
+    29
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "item_id": "001-244004",
+  "case_name": "CASE OF RODINA AND BORISOVA v. LATVIA",
+  "case_number": "(Applications nos. 2623/16 and 2299/16)",
+  "date": "10 July 2025",
+  "prompt_type": "instruction",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [],
+  "violation_prediction": "no",
+  "assessment": [
+    {
+      "Existence of an interference": "The first applicant, an association, sought to organise a demonstration and a march on 9 May 2014 to support ‘Russian schools’ and celebrate Victory Day (see paragraph 16), while the second applicant requested authorisation for a demonstration on 23 September 2014 to call for an end to the war in south-east Ukraine (see paragraph 35). Riga City Council refused to authorise both events (see paragraphs 20 and 38). The organisation of public assemblies for the purpose of expressing opinions falls within the ambit of Article 10 of the Convention, as it constitutes a form of expression (see, mutatis mutandis, Ezelin v. France, no. 11800/85, § 37). The refusal to authorise the applicants’ events therefore amounted to an interference with their right to freedom of expression."
+    },
+    {
+      "Lawfulness of the interference": "The interference was based on the Law on Demonstrations, Marches and Pickets, which was in force at the material time. Specifically, Riga City Council relied on sections 15 and 151 of that Law, which permit restrictions on assemblies if they endanger public safety, the democratic system of the State, public welfare or morals, or if they promote prohibited activities such as war propaganda (see paragraphs 57-58). Furthermore, the decisions to refuse authorisation were subject to judicial review by the Administrative District Court and, in the case of the first applicant, by the Supreme Court (see paragraphs 25-28, 32, 44-47, and 51). Thus, the interference had a basis in domestic law and was therefore lawful."
+    },
+    {
+      "Legitimate aims of the interference": "Riga City Council, as well as the domestic courts, invoked the protection of public order and safety, the prevention of disorder, and national security as the grounds for the restrictions (see paragraphs 23, 28, 40, and 46). These aims are explicitly listed in the second paragraph of Article 10 of the Convention as legitimate justifications for restricting the right to freedom of expression. Additionally, for the second applicant, the interference aimed to protect the territorial integrity of Ukraine, which aligns with the legitimate aim of maintaining national security under Article 10 § 2."
+    },
+    {
+      "Necessary in a democratic society": "The domestic authorities and courts provided relevant and sufficient reasons for concluding that the interference was necessary. For the first applicant, the Security Police report highlighted the high risk of endangering public order and safety due to the applicants’ activities promoting societal division and ethnic tensions (see paragraph 18). The videos posted on the first applicant’s website, which depicted war scenes, aggressive slogans, and symbols associated with radical groups, demonstrated that the planned events aimed to glorify the Russian nation and reject Latvian identity (see paragraph 29). In the context of the Russian Federation’s military actions in Ukraine (see paragraph 11), the Administrative District Court and Supreme Court concluded that the events were not peaceful and that less restrictive measures, such as altering the time or venue, would not mitigate the risks (see paragraphs 24, 30-31, and 32-33). For the second applicant, the involvement of B.A., who had publicly supported separatist entities in Ukraine and was under criminal investigation in Latvia, indicated that the real aim of the planned demonstration was to endorse internationally unrecognised and unlawful entities, thereby threatening national security and democratic order (see paragraphs 36, 39, 47, and 49-50). The courts found that the goals pursued by B.A. were not peaceful and that the risks could not be averted through less restrictive means (see paragraphs 40-41 and 48). In light of the specific and pressing context of the conflict in Ukraine and its impact on Latvian society (see paragraphs 62-63), as well as the Court’s jurisprudence, which permits restrictions on assemblies that promote hate speech or undermine democratic values (see, for instance, Petropavlovskis v. Latvia, no. 44230/06), the interference responded to a pressing social need and was proportionate to the legitimate aims pursued. Therefore, the interference was necessary in a democratic society."
+    }
+  ],
+  "raw_content": "```json\n{\n  \"assessment\": [\n    {\n      \"Existence of an interference\": \"The first applicant, an association, sought to organise a demonstration and a march on 9 May 2014 to support ‘Russian schools’ and celebrate Victory Day (see paragraph 16), while the second applicant requested authorisation for a demonstration on 23 September 2014 to call for an end to the war in south-east Ukraine (see paragraph 35). Riga City Council refused to authorise both events (see paragraphs 20 and 38). The organisation of public assemblies for the purpose of expressing opinions falls within the ambit of Article 10 of the Convention, as it constitutes a form of expression (see, mutatis mutandis, Ezelin v. France, no. 11800/85, § 37). The refusal to authorise the applicants’ events therefore amounted to an interference with their right to freedom of expression.\"\n    },\n    {\n      \"Lawfulness of the interference\": \"The interference was based on the Law on Demonstrations, Marches and Pickets, which was in force at the material time. Specifically, Riga City Council relied on sections 15 and 151 of that Law, which permit restrictions on assemblies if they endanger public safety, the democratic system of the State, public welfare or morals, or if they promote prohibited activities such as war propaganda (see paragraphs 57-58). Furthermore, the decisions to refuse authorisation were subject to judicial review by the Administrative District Court and, in the case of the first applicant, by the Supreme Court (see paragraphs 25-28, 32, 44-47, and 51). Thus, the interference had a basis in domestic law and was therefore lawful.\"\n    },\n    {\n      \"Legitimate aims of the interference\": \"Riga City Council, as well as the domestic courts, invoked the protection of public order and safety, the prevention of disorder, and national security as the grounds for the restrictions (see paragraphs 23, 28, 40, and 46). These aims are explicitly listed in the second paragraph of Article 10 of the Convention as legitimate justifications for restricting the right to freedom of expression. Additionally, for the second applicant, the interference aimed to protect the territorial integrity of Ukraine, which aligns with the legitimate aim of maintaining national security under Article 10 § 2.\"\n    },\n    {\n      \"Necessary in a democratic society\": \"The domestic authorities and courts provided relevant and sufficient reasons for concluding that the interference was necessary. For the first applicant, the Security Police report highlighted the high risk of endangering public order and safety due to the applicants’ activities promoting societal division and ethnic tensions (see paragraph 18). The videos posted on the first applicant’s website, which depicted war scenes, aggressive slogans, and symbols associated with radical groups, demonstrated that the planned events aimed to glorify the Russian nation and reject Latvian identity (see paragraph 29). In the context of the Russian Federation’s military actions in Ukraine (see paragraph 11), the Administrative District Court and Supreme Court concluded that the events were not peaceful and that less restrictive measures, such as altering the time or venue, would not mitigate the risks (see paragraphs 24, 30-31, and 32-33). For the second applicant, the involvement of B.A., who had publicly supported separatist entities in Ukraine and was under criminal investigation in Latvia, indicated that the real aim of the planned demonstration was to endorse internationally unrecognised and unlawful entities, thereby threatening national security and democratic order (see paragraphs 36, 39, 47, and 49-50). The courts found that the goals pursued by B.A. were not peaceful and that the risks could not be averted through less restrictive means (see paragraphs 40-41 and 48). In light of the specific and pressing context of the conflict in Ukraine and its impact on Latvian society (see paragraphs 62-63), as well as the Court’s jurisprudence, which permits restrictions on assemblies that promote hate speech or undermine democratic values (see, for instance, Petropavlovskis v. Latvia, no. 44230/06), the interference responded to a pressing social need and was proportionate to the legitimate aims pursued. Therefore, the interference was necessary in a democratic society.\"\n    }\n  ],\n  \"violation\": \"no\"\n}\n```",
+  "usage": {
+    "completion_tokens": 8569,
+    "prompt_tokens": 16943,
+    "total_tokens": 25512,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 8149,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.089682,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.089682,
+      "upstream_inference_prompt_cost": 0.0254145,
+      "upstream_inference_completions_cost": 0.0642675
+    }
+  }
+}

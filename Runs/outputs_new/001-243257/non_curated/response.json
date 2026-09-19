@@ -1,0 +1,84 @@
+{
+  "item_id": "001-243257",
+  "case_name": "CASE OF SELISHCHEVA AND OTHERS v. RUSSIA",
+  "case_number": "(Applications nos. 39056/22 and 9 others –",
+  "date": "27 May 2025",
+  "prompt_type": "non_curated",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1",
+    "11",
+    "11-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "1. Interference with Article 10 rights": "The refusals to register the applicants as candidates amounted to an interference with their freedom of expression because the decisive reason for the refusals was their alleged past expression of support for Mr Navalnyy’s organisations and related opposition activity, including protest participation, campaign work, online posts and sharing materials (see paragraphs 5-6). In the Court’s case-law, political expression and participation in public debate enjoy the highest level of protection, especially in an electoral context and where opposition voices are concerned (see nos. 28881/07, 14305/17, 37949/18)."
+    },
+    {
+      "2. The impugned conduct was predominantly peaceful political expression": "The material relied on by the authorities was, in substance, ordinary opposition activity: joining or assisting protests against Mr Navalnyy’s imprisonment, supporting coalition candidates, collecting signatures, volunteering in campaigns, providing legal assistance to detained protesters, following or reposting FBK content, publishing protest-related information, and sharing photographs of Mr Navalnyy (see paragraph 6). Even the more extensive allegations against Mr Markelov and Mr Levchenko concerned political leadership, anti-corruption investigations, work for opposition structures, party candidacy and prior administrative sanctions linked to protests (see paragraphs 7-8). None of these facts, as summarised, show advocacy of violence, hate, or any concrete extremist conduct. Under Article 10 standards, the State must distinguish sharply between genuinely extremist activity and peaceful dissent; otherwise restrictions risk suppressing pluralism itself (see nos. 20261/12, 37920/07)."
+    },
+    {
+      "3. Serious doubts as to whether the interference was 'prescribed by law'": "The domestic legal provision itself required that involvement in an extremist organisation be established by a final court decision, yet the electoral commissions and courts treated police information transmitted through the Ministry of Justice as sufficient, despite the applicants’ objection that no prior judicial finding had established their involvement (see paragraphs 9 and 11). The domestic courts also dismissed as irrelevant the fact that much of the impugned conduct pre-dated the designation of the organisations as extremist (see paragraph 9). Such an approach points to a lack of foreseeability and safeguards against arbitrariness. The reliance on police intelligence about political activities and affiliations, rather than on prior judicial findings, is especially problematic in light of the need for strict scrutiny where political expression is restricted (see nos. 25501/07, 28396/95)."
+    },
+    {
+      "4. Use of broad and weak evidentiary grounds": "The evidentiary basis was exceptionally broad and imprecise. It included merely following social-media accounts, sharing materials, collecting signatures for opposition candidates, supporting a coalition that had used 'Smart Voting', and even receiving payments from entities with names similar to, but not clearly identical with, a banned organisation (see paragraph 6). This suggests that the authorities equated general opposition engagement with 'involvement' in extremist activity. Article 10 does not permit such guilt by association. Where sanctions are imposed for political speech, the reasons must be relevant and sufficient, and the evidence must demonstrate a pressing social need; the facts here instead indicate a sweeping and indiscriminate approach (see nos. 14305/17, 37949/18)."
+    },
+    {
+      "5. Legitimate aim and pressing social need": "The Government could argue that the restriction pursued the protection of national security or prevention of disorder by excluding persons linked to extremist organisations. However, even assuming a legitimate aim, the case file summary does not disclose any concrete assessment showing that these applicants themselves posed a threat through their own expression. The courts did not examine whether the particular acts relied on were connected to the specific activities for which the organisations had been banned; they simply accepted the police reports and applied the disqualification automatically (see paragraphs 5, 6 and 9). That falls short of the 'pressing social need' test required in cases involving political speech (see nos. 28881/07, 20261/12)."
+    },
+    {
+      "6. Disproportionality of the sanction": "The consequence was severe: all applicants were barred from standing in the municipal elections despite having duly submitted nomination papers and supporting signatures without irregularities (see paragraph 4). In an electoral period, excluding opposition candidates on the basis of prior peaceful campaigning, protest activity and online support has a particularly strong chilling effect on public debate. The measure was also effectively blanket in operation, as all applicants were refused registration within a short period on the basis of standardised police information (see paragraphs 5 and 9). The Court generally requires very weighty reasons for measures that silence or marginalise opposition actors during elections, and such reasons are not apparent here (see nos. 14305/17, 37949/18)."
+    },
+    {
+      "7. Overall assessment": "Taken together, the case points to a restriction directed at peaceful opposition expression rather than at proven extremist conduct. The authorities relied on vague and overbroad indicators of 'involvement', accepted police data in place of prior judicial findings, disregarded the temporal issue that most conduct occurred before the organisations were banned, and imposed the drastic consequence of exclusion from the elections (see paragraphs 5-11). In light of the Court’s strict protection of political expression and electoral debate, these reasons would likely be found neither sufficiently lawful nor necessary in a democratic society under Article 10 (see nos. 28881/07, 14305/17, 37949/18, 20261/12)."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"1. Interference with Article 10 rights\": \"The refusals to register the applicants as candidates amounted to an interference with their freedom of expression because the decisive reason for the refusals was their alleged past expression of support for Mr Navalnyy’s organisations and related opposition activity, including protest participation, campaign work, online posts and sharing materials (see paragraphs 5-6). In the Court’s case-law, political expression and participation in public debate enjoy the highest level of protection, especially in an electoral context and where opposition voices are concerned (see nos. 28881/07, 14305/17, 37949/18).\"\n    },\n    {\n      \"2. The impugned conduct was predominantly peaceful political expression\": \"The material relied on by the authorities was, in substance, ordinary opposition activity: joining or assisting protests against Mr Navalnyy’s imprisonment, supporting coalition candidates, collecting signatures, volunteering in campaigns, providing legal assistance to detained protesters, following or reposting FBK content, publishing protest-related information, and sharing photographs of Mr Navalnyy (see paragraph 6). Even the more extensive allegations against Mr Markelov and Mr Levchenko concerned political leadership, anti-corruption investigations, work for opposition structures, party candidacy and prior administrative sanctions linked to protests (see paragraphs 7-8). None of these facts, as summarised, show advocacy of violence, hate, or any concrete extremist conduct. Under Article 10 standards, the State must distinguish sharply between genuinely extremist activity and peaceful dissent; otherwise restrictions risk suppressing pluralism itself (see nos. 20261/12, 37920/07).\"\n    },\n    {\n      \"3. Serious doubts as to whether the interference was 'prescribed by law'\": \"The domestic legal provision itself required that involvement in an extremist organisation be established by a final court decision, yet the electoral commissions and courts treated police information transmitted through the Ministry of Justice as sufficient, despite the applicants’ objection that no prior judicial finding had established their involvement (see paragraphs 9 and 11). The domestic courts also dismissed as irrelevant the fact that much of the impugned conduct pre-dated the designation of the organisations as extremist (see paragraph 9). Such an approach points to a lack of foreseeability and safeguards against arbitrariness. The reliance on police intelligence about political activities and affiliations, rather than on prior judicial findings, is especially problematic in light of the need for strict scrutiny where political expression is restricted (see nos. 25501/07, 28396/95).\"\n    },\n    {\n      \"4. Use of broad and weak evidentiary grounds\": \"The evidentiary basis was exceptionally broad and imprecise. It included merely following social-media accounts, sharing materials, collecting signatures for opposition candidates, supporting a coalition that had used 'Smart Voting', and even receiving payments from entities with names similar to, but not clearly identical with, a banned organisation (see paragraph 6). This suggests that the authorities equated general opposition engagement with 'involvement' in extremist activity. Article 10 does not permit such guilt by association. Where sanctions are imposed for political speech, the reasons must be relevant and sufficient, and the evidence must demonstrate a pressing social need; the facts here instead indicate a sweeping and indiscriminate approach (see nos. 14305/17, 37949/18).\"\n    },\n    {\n      \"5. Legitimate aim and pressing social need\": \"The Government could argue that the restriction pursued the protection of national security or prevention of disorder by excluding persons linked to extremist organisations. However, even assuming a legitimate aim, the case file summary does not disclose any concrete assessment showing that these applicants themselves posed a threat through their own expression. The courts did not examine whether the particular acts relied on were connected to the specific activities for which the organisations had been banned; they simply accepted the police reports and applied the disqualification automatically (see paragraphs 5, 6 and 9). That falls short of the 'pressing social need' test required in cases involving political speech (see nos. 28881/07, 20261/12).\"\n    },\n    {\n      \"6. Disproportionality of the sanction\": \"The consequence was severe: all applicants were barred from standing in the municipal elections despite having duly submitted nomination papers and supporting signatures without irregularities (see paragraph 4). In an electoral period, excluding opposition candidates on the basis of prior peaceful campaigning, protest activity and online support has a particularly strong chilling effect on public debate. The measure was also effectively blanket in operation, as all applicants were refused registration within a short period on the basis of standardised police information (see paragraphs 5 and 9). The Court generally requires very weighty reasons for measures that silence or marginalise opposition actors during elections, and such reasons are not apparent here (see nos. 14305/17, 37949/18).\"\n    },\n    {\n      \"7. Overall assessment\": \"Taken together, the case points to a restriction directed at peaceful opposition expression rather than at proven extremist conduct. The authorities relied on vague and overbroad indicators of 'involvement', accepted police data in place of prior judicial findings, disregarded the temporal issue that most conduct occurred before the organisations were banned, and imposed the drastic consequence of exclusion from the elections (see paragraphs 5-11). In light of the Court’s strict protection of political expression and electoral debate, these reasons would likely be found neither sufficiently lawful nor necessary in a democratic society under Article 10 (see nos. 28881/07, 14305/17, 37949/18, 20261/12).\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 2384,
+    "prompt_tokens": 2225,
+    "total_tokens": 4609,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1187,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0413225,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0413225,
+      "upstream_inference_prompt_cost": 0.0055625,
+      "upstream_inference_completions_cost": 0.03576
+    }
+  },
+  "citations": [
+    "28881/07",
+    "14305/17",
+    "37949/18",
+    "20261/12",
+    "37920/07",
+    "25501/07",
+    "28396/95"
+  ],
+  "ref_paragraphs": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ]
+}

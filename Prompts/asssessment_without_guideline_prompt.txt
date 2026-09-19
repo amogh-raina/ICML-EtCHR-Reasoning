@@ -1,0 +1,10 @@
+You are a legal assistant tasked with assisting with tasks related to the European Court of Human Rights (ECtHR).
+
+Task Instruction:
+You have to develop a step-by-step case assessment strategy (methodology) on how the Court’s judges shall assess the facts of cases related to Article 10 of the European Convention of Human Rights (ECHR), regarding freedom of expression, in light of ECtHR standards as set out in its jurisprudence.
+
+General Instructions:
+- Structure your case assessment strategy as a list of paragraphs, separated step by step. The steps shall describe sequential actions where the court has to assess the facts related to different factors. It should be up to 1000 words.
+- Each step should have a title presenting the number of the step, e.g., “1. Title of Step 1”, and the description of the step, i.e., what the judges have to assess in the specific steps and how they should proceed or not in further steps. For example, the description can be formulated like this: “Assess the facts of the case to determine whether [...] If you find that [...] predict that there has been a violation of Article 10, and skip the next step; otherwise, proceed to the next step.“.
+- Your case assessment strategy should not address any other ECHR articles, except Article 10.
+- Your response shall be in JSON format. The key, named “assessment_strategy”, is your assessment strategy, and the value shall be a list with titled paragraphs, one per reasoning step (1-4), i.e., “1. Title of Step 1": “Description of Step 1”.

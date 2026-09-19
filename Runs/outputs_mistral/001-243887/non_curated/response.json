@@ -1,0 +1,66 @@
+{
+  "item_id": "001-243887",
+  "case_name": "CASE OF ARVANITIS AND PHILELEFTHEROS PUBLIC COMPANY LIMITED v. CYPRUS",
+  "case_number": "(Application no. 49917/22)",
+  "date": "3 July 2025",
+  "prompt_type": "non_curated",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "no",
+  "assessment": [
+    {
+      "Interference with Article 10": "The defamation judgment against the applicants, ordering them to pay damages, constitutes an interference with their right to freedom of expression under Article 10 § 1 of the Convention (see paragraphs 8-16)."
+    },
+    {
+      "Legitimate aim and legal basis": "The interference was prescribed by domestic law, namely section 19 of the Civil Wrongs Law (Cap. 148) (see paragraph 18), and pursued the legitimate aim of protecting the reputation of C.K., as recognized in Article 10 § 2."
+    },
+    {
+      "Public interest nature of the expression": "The article addressed the recovery of Greek-Cypriot property from the Turkish-occupied territories, a matter of clear public interest in Cyprus as it relates to the broader Cyprus problem and the rights of displaced persons (see paragraph 10). The European Court has consistently afforded high protection to expression on matters of public concern (see Axel Springer AG v. Germany, no. 60641/08)."
+    },
+    {
+      "Factual basis and journalistic good faith": "The domestic courts found that the article contained unverified factual inaccuracies. Specifically, C.K. had never stated he 'bought' the paintings—he used the term 'recovered'—and there was no basis for the accusation that he had 'bargained with thieves' (see paragraphs 12, 13, 16). The first applicant admitted he neither sought C.K.’s opinion nor verified the facts beforehand (see paragraph 10). The Court has repeatedly emphasized that journalistic good faith requires reasonable verification of facts, particularly when making serious allegations against individuals (see Thoma v. Luxembourg, no. 23556/94). The failure to engage in even basic fact-checking with the subject of the criticism significantly weakens the applicants’ claim."
+    },
+    {
+      "Status of the individual targeted": "Both the District Court and the Supreme Court explicitly determined that C.K. was a private individual, not a public figure (see paragraphs 14, 16). The Court’s jurisprudence clearly distinguishes between private individuals and public figures, granting the former greater protection for their reputation, as they cannot be expected to tolerate the same level of uninformed or unjustified criticism as those who actively participate in public life (see Axel Springer AG v. Germany, no. 60641/08)."
+    },
+    {
+      "Distinction between fact and opinion": "While parts of the article were opinion, the domestic courts correctly identified that its core contained serious factual imputations: that C.K. had purchased stolen property from thieves and acted against national interests (see paragraph 6). The Courts established that these factual assertions were not true (see paragraphs 12, 13, 16). The Court’s case law underscores that statements of fact must have a sufficient basis, and cannot be protected under Article 10 if they are found to be false (see Feldek v. Slovakia, no. 59330/00, which highlights the necessity of distinguishing verifiable facts from non-provable value judgments)."
+    },
+    {
+      "Proportionality of the sanction": "The sanction was a civil award of EUR 12,000 in damages (see paragraph 11), a moderate and non-criminal penalty. The Court has recognized that civil lawsuits for defamation and damages awards are compatible with Article 10 so long as they are not excessive or disproportionate to the legitimate aim pursued (see principles confirmed in Axel Springer AG v. Germany, no. 60641/08)."
+    },
+    {
+      "Overall balancing exercise": "The domestic courts conducted a thorough examination, properly considering the public interest element, the status of C.K., the lack of factual basis for the allegations, and the absence of journalistic good faith (see paragraphs 12-14, 16). Their conclusion that the interference was justified to protect reputation is consistent with the Court’s requirement that a fair balance be struck between competing rights. The applicants’ failure to meet basic journalistic standards in verifying fundamental facts, combined with the serious and reputational harm caused to a private individual, strongly supports the finding that the interference was 'necessary in a democratic society'."
+    }
+  ],
+  "raw_content": "```json\n{\n  \"assessment\": [\n    {\"Interference with Article 10\": \"The defamation judgment against the applicants, ordering them to pay damages, constitutes an interference with their right to freedom of expression under Article 10 § 1 of the Convention (see paragraphs 8-16).\"},\n    \n    {\"Legitimate aim and legal basis\": \"The interference was prescribed by domestic law, namely section 19 of the Civil Wrongs Law (Cap. 148) (see paragraph 18), and pursued the legitimate aim of protecting the reputation of C.K., as recognized in Article 10 § 2.\"},\n    \n    {\"Public interest nature of the expression\": \"The article addressed the recovery of Greek-Cypriot property from the Turkish-occupied territories, a matter of clear public interest in Cyprus as it relates to the broader Cyprus problem and the rights of displaced persons (see paragraph 10). The European Court has consistently afforded high protection to expression on matters of public concern (see Axel Springer AG v. Germany, no. 60641/08).\"},\n    \n    {\"Factual basis and journalistic good faith\": \"The domestic courts found that the article contained unverified factual inaccuracies. Specifically, C.K. had never stated he 'bought' the paintings—he used the term 'recovered'—and there was no basis for the accusation that he had 'bargained with thieves' (see paragraphs 12, 13, 16). The first applicant admitted he neither sought C.K.’s opinion nor verified the facts beforehand (see paragraph 10). The Court has repeatedly emphasized that journalistic good faith requires reasonable verification of facts, particularly when making serious allegations against individuals (see Thoma v. Luxembourg, no. 23556/94). The failure to engage in even basic fact-checking with the subject of the criticism significantly weakens the applicants’ claim.\"},\n    \n    {\"Status of the individual targeted\": \"Both the District Court and the Supreme Court explicitly determined that C.K. was a private individual, not a public figure (see paragraphs 14, 16). The Court’s jurisprudence clearly distinguishes between private individuals and public figures, granting the former greater protection for their reputation, as they cannot be expected to tolerate the same level of uninformed or unjustified criticism as those who actively participate in public life (see Axel Springer AG v. Germany, no. 60641/08).\"},\n    \n    {\"Distinction between fact and opinion\": \"While parts of the article were opinion, the domestic courts correctly identified that its core contained serious factual imputations: that C.K. had purchased stolen property from thieves and acted against national interests (see paragraph 6). The Courts established that these factual assertions were not true (see paragraphs 12, 13, 16). The Court’s case law underscores that statements of fact must have a sufficient basis, and cannot be protected under Article 10 if they are found to be false (see Feldek v. Slovakia, no. 59330/00, which highlights the necessity of distinguishing verifiable facts from non-provable value judgments).\"},\n\n    {\"Proportionality of the sanction\": \"The sanction was a civil award of EUR 12,000 in damages (see paragraph 11), a moderate and non-criminal penalty. The Court has recognized that civil lawsuits for defamation and damages awards are compatible with Article 10 so long as they are not excessive or disproportionate to the legitimate aim pursued (see principles confirmed in Axel Springer AG v. Germany, no. 60641/08).\"},\n\n    {\"Overall balancing exercise\": \"The domestic courts conducted a thorough examination, properly considering the public interest element, the status of C.K., the lack of factual basis for the allegations, and the absence of journalistic good faith (see paragraphs 12-14, 16). Their conclusion that the interference was justified to protect reputation is consistent with the Court’s requirement that a fair balance be struck between competing rights. The applicants’ failure to meet basic journalistic standards in verifying fundamental facts, combined with the serious and reputational harm caused to a private individual, strongly supports the finding that the interference was 'necessary in a democratic society'.\"}\n  ],\n  \"violation\": \"no\"\n}\n```",
+  "usage": {
+    "completion_tokens": 10016,
+    "prompt_tokens": 3627,
+    "total_tokens": 13643,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 9523,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0805605,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0805605,
+      "upstream_inference_prompt_cost": 0.0054405,
+      "upstream_inference_completions_cost": 0.07512
+    }
+  }
+}

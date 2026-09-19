@@ -1,0 +1,3 @@
+**Evaluating anti-terrorism instructions**
+
+I’m noticing a potential issue in the developer instructions regarding step 4, where it says, "if interference cannot be so defended, predict that there has been no violation," which seems contradictory. It clearly should indicate a violation. I want to structure the content with titled paragraphs, each 180-220 words long, totaling 700-900 words. Also, I need to ensure valid JSON without unescaped quotes, considering double quotes for strings and escaping internal quotes. Drafting compactly will help too!

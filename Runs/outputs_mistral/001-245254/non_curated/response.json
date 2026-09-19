@@ -1,0 +1,63 @@
+{
+  "item_id": "001-245254",
+  "case_name": "CASE OF TUĞLUK v. TÜRKİYE",
+  "case_number": "(Application no. 71757/17)",
+  "date": "14 October 2025",
+  "prompt_type": "non_curated",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Interference with the rights guaranteed under Article 10": "The applicant’s conviction for membership of an illegal armed organisation under Article 314 § 1 of the Criminal Code and her pre-trial detention were based, to a significant extent, on her political speeches and statements. These included her advocacy for the ‘democratic autonomy’ project as a political solution to the Kurdish issue, her participation in conferences and press statements, and interviews she gave to media outlets such as ROJ TV (see paragraphs 14, 15, 28 and 29). In this light, the criminal proceedings and the conviction constituted an interference with her rights under Article 10 of the Convention."
+    },
+    {
+      "Political expression and its level of protection": "The expressions under consideration were political in nature as they pertained to the applicant’s role as a co-chair of the DTK and deputy chair of the HDP, as well as her advocacy of a political model to address societal issues (see paragraphs 7, 8 and 28). Political speech and debate on matters of public interest are at the very core of the values which Article 10 seeks to promote and protect. The Court has repeatedly stressed that the limits of permissible criticism are wider as regards politicians and public figures, who are subject to closer public scrutiny than private individuals (see no. 31451/03)."
+    },
+    {
+      "Legitimacy of the aim pursued by the interference": "The interference pursued a legitimate aim, namely the prevention of crime and the protection of national security and public safety, given that the applicant was convicted of membership of an illegal armed organisation (see paragraphs 44 and 61). However, the legality of the aim is not at the heart of the analysis under Article 10; rather, it is the necessity of the interference in a democratic society that must be carefully scrutinised."
+    },
+    {
+      "Necessity of the interference in a democratic society": "For an interference with freedom of expression to be considered ‘necessary in a democratic society’, it must correspond to a pressing social need and be proportionate to the legitimate aim pursued. In the present case, the national authorities based the applicant’s conviction and pre-trial detention on her political speeches, participation in meetings and interviews, without demonstrating that her expressions amounted to a call for violence, armed resistance or hatred. The indictment and court decisions relied heavily on the applicant’s political activities, such as her speeches advocating for democratic solutions and her leadership in the DTK, which she consistently described as a civil society platform (see paragraphs 21, 28 and 29). The Court has held that the mere fact that expressions may be perceived as controversial, shock or disturb cannot justify restrictions on freedom of expression under Article 10 (see no. 67360/11)."
+    },
+    {
+      "Proportionality of the measures taken": "The severity of the measures taken against the applicant – pre-trial detention followed by a criminal conviction leading to a ten-year prison sentence – must be assessed in relation to the nature of her expressions. The applicant’s speeches and activities did not entail incitement to violence or hatred but were primarily focused on political advocacy and participation in public debate (see paragraph 28). The national courts failed to demonstrate that there was a direct and immediate link between the applicant’s expressions and the commission of violent acts or the promotion of terrorism. In similar contexts, the Court has found that criminal convictions for political expression, without evidence of incitement to violence, violate Article 10 (see no. 16483/12)."
+    },
+    {
+      "Role of the applicant as a political figure": "The applicant was a well-known political figure, a former member of parliament and a high-ranking member of the HDP (see paragraphs 6, 7 and 8). The Court has consistently held that politicians enjoy a high level of protection under Article 10 due to their role in public debate and the democratic process. Restrictions on their freedom of expression must be narrowly interpreted and convinced of a particularly strong justification. In the present case, the lack of concrete evidence linking her speeches to violent or terrorist activities weighs heavily against the necessity of the interference (see no. 23199/17)."
+    },
+    {
+      "Lack of compelling evidence justifying the interference": "The national authorities’ reasoning for the applicant’s conviction and detention relied significantly on her political speeches and her association with the DTK, which she claimed was a civil society organisation (see paragraphs 21, 23 and 24). The fact that the trial court eventually convicted her of membership rather than leading or founding the organisation, and that it acknowledged the lack of evidence of her direct involvement in the organisation’s operational activities, further undermines the necessity of the interference with her freedom of expression (see paragraph 44). The Court has emphasised that the existence of a strong suspicion is not sufficient to justify a conviction or detention that interferes with Article 10 rights where the expressions in question do not cross the threshold of incitement to violence or hatred (see no. 67360/11)."
+    }
+  ],
+  "raw_content": "```json\n{\n  \"assessment\": [\n    {\n      \"Interference with the rights guaranteed under Article 10\": \"The applicant’s conviction for membership of an illegal armed organisation under Article 314 § 1 of the Criminal Code and her pre-trial detention were based, to a significant extent, on her political speeches and statements. These included her advocacy for the ‘democratic autonomy’ project as a political solution to the Kurdish issue, her participation in conferences and press statements, and interviews she gave to media outlets such as ROJ TV (see paragraphs 14, 15, 28 and 29). In this light, the criminal proceedings and the conviction constituted an interference with her rights under Article 10 of the Convention.\"\n    },\n    {\n      \"Political expression and its level of protection\": \"The expressions under consideration were political in nature as they pertained to the applicant’s role as a co-chair of the DTK and deputy chair of the HDP, as well as her advocacy of a political model to address societal issues (see paragraphs 7, 8 and 28). Political speech and debate on matters of public interest are at the very core of the values which Article 10 seeks to promote and protect. The Court has repeatedly stressed that the limits of permissible criticism are wider as regards politicians and public figures, who are subject to closer public scrutiny than private individuals (see no. 31451/03).\"\n    },\n    {\n      \"Legitimacy of the aim pursued by the interference\": \"The interference pursued a legitimate aim, namely the prevention of crime and the protection of national security and public safety, given that the applicant was convicted of membership of an illegal armed organisation (see paragraphs 44 and 61). However, the legality of the aim is not at the heart of the analysis under Article 10; rather, it is the necessity of the interference in a democratic society that must be carefully scrutinised.\"\n    },\n    {\n      \"Necessity of the interference in a democratic society\": \"For an interference with freedom of expression to be considered ‘necessary in a democratic society’, it must correspond to a pressing social need and be proportionate to the legitimate aim pursued. In the present case, the national authorities based the applicant’s conviction and pre-trial detention on her political speeches, participation in meetings and interviews, without demonstrating that her expressions amounted to a call for violence, armed resistance or hatred. The indictment and court decisions relied heavily on the applicant’s political activities, such as her speeches advocating for democratic solutions and her leadership in the DTK, which she consistently described as a civil society platform (see paragraphs 21, 28 and 29). The Court has held that the mere fact that expressions may be perceived as controversial, shock or disturb cannot justify restrictions on freedom of expression under Article 10 (see no. 67360/11).\"\n    },\n     {\n      \"Proportionality of the measures taken\": \"The severity of the measures taken against the applicant – pre-trial detention followed by a criminal conviction leading to a ten-year prison sentence – must be assessed in relation to the nature of her expressions. The applicant’s speeches and activities did not entail incitement to violence or hatred but were primarily focused on political advocacy and participation in public debate (see paragraph 28). The national courts failed to demonstrate that there was a direct and immediate link between the applicant’s expressions and the commission of violent acts or the promotion of terrorism. In similar contexts, the Court has found that criminal convictions for political expression, without evidence of incitement to violence, violate Article 10 (see no. 16483/12).\"\n    },\n    {\n      \"Role of the applicant as a political figure\": \"The applicant was a well-known political figure, a former member of parliament and a high-ranking member of the HDP (see paragraphs 6, 7 and 8). The Court has consistently held that politicians enjoy a high level of protection under Article 10 due to their role in public debate and the democratic process. Restrictions on their freedom of expression must be narrowly interpreted and convinced of a particularly strong justification. In the present case, the lack of concrete evidence linking her speeches to violent or terrorist activities weighs heavily against the necessity of the interference (see no. 23199/17).\"\n    },\n    {\n      \"Lack of compelling evidence justifying the interference\": \"The national authorities’ reasoning for the applicant’s conviction and detention relied significantly on her political speeches and her association with the DTK, which she claimed was a civil society organisation (see paragraphs 21, 23 and 24). The fact that the trial court eventually convicted her of membership rather than leading or founding the organisation, and that it acknowledged the lack of evidence of her direct involvement in the organisation’s operational activities, further undermines the necessity of the interference with her freedom of expression (see paragraph 44). The Court has emphasised that the existence of a strong suspicion is not sufficient to justify a conviction or detention that interferes with Article 10 rights where the expressions in question do not cross the threshold of incitement to violence or hatred (see no. 67360/11).\"\n    }\n  ],\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 3034,
+    "prompt_tokens": 7202,
+    "total_tokens": 10236,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 2161,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.033558,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.033558,
+      "upstream_inference_prompt_cost": 0.010803,
+      "upstream_inference_completions_cost": 0.022755
+    }
+  }
+}

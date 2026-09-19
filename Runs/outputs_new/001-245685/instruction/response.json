@@ -1,0 +1,73 @@
+{
+  "item_id": "001-245685",
+  "case_name": "CASE OF MARKO TEŠIĆ v. SERBIA",
+  "case_number": "(Application no. 61891/19)",
+  "date": "4 November 2025",
+  "prompt_type": "instruction",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Existence of an interference": "There was an interference with the applicant’s freedom of expression. He was fined RSD 80,000 for statements made in written objections submitted in the course of criminal proceedings in which he was acting as defence counsel, and that sanction was upheld on appeal and in the constitutional proceedings (see paragraphs 10-15). A pecuniary penalty imposed on a lawyer because of the wording used in procedural submissions constitutes an interference under Article 10, even when the statements are made in court-related documents rather than in the media (see no. 31611/96; no. 29369/10; no. 3699/08)."
+    },
+    {
+      "Lawfulness of the interference": "The interference appears to have been prescribed by law. The domestic courts relied on Article 231 §§ 1-3 of the Code of Criminal Procedure, which expressly allowed the court to fine defence counsel who insult the court or participants in proceedings in written or oral submissions (see paragraphs 11, 13 and 16). That provision seems sufficiently accessible and foreseeable for a practising lawyer. On the available facts, there is therefore no strong basis for finding a lack of legal basis."
+    },
+    {
+      "Legitimate aims of the interference": "The interference pursued legitimate aims recognised by Article 10 § 2, namely the protection of the reputation or rights of others, in particular the presiding judge, and the maintenance of the authority and impartiality of the judiciary. The sanction was imposed because the applicant’s written objections were considered to have insulted and belittled the panel and the presiding judge through phrases such as “outrageous”, references to the judge being in the “heat of passion”, and accusations of “malice” and unlawful alteration of the record (see paragraphs 10-11). Those aims are consistent with the Court’s case-law concerning criticism directed at judges and courts (see no. 29045/95; no. 29369/10)."
+    },
+    {
+      "Necessary in a democratic society": "The decisive issue is proportionality. Lawyers enjoy a special role in the administration of justice and may be expected to show dignity and courtesy, but they must also be able to defend their clients effectively, including by criticising procedural irregularities and judicial conduct when this is relevant to the defence (see no. 31611/96; no. 29369/10; no. 3699/08). Here, the impugned remarks were made in a written submission to the trial court, not in a public campaign or media statement (see paragraph 10). They concerned the way the hearing had been conducted, the content of the record, and the alleged obstruction of the defence’s ability to comment on evidence (see paragraphs 6-10). Thus, although the language was sharp, sarcastic and at times discourteous, it was closely linked to a concrete procedural dispute affecting the applicant’s client. The domestic courts focused mainly on the offensive tone and professional ethics (see paragraphs 11 and 13), but they did not convincingly balance that factor against the applicant’s role as defence counsel, the restricted audience of the statements, and the fact that the remarks were made in the context of seeking to protect the defence. Nor did they examine whether less restrictive means were available, such as a warning or disciplinary referral, instead of a substantial fine amounting to most of the statutory maximum (see paragraphs 11 and 16). In the Court’s case-law, sanctions on lawyers for courtroom-related criticism are difficult to justify where the statements, even if exaggerated, remain connected to the defence of a client and are not merely gratuitous personal attacks (see no. 31611/96; no. 3699/08; no. 29369/10). In these circumstances, the reasons given by the domestic courts do not appear relevant and sufficient to show a pressing social need. The interference was therefore not necessary in a democratic society."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"Existence of an interference\": \"There was an interference with the applicant’s freedom of expression. He was fined RSD 80,000 for statements made in written objections submitted in the course of criminal proceedings in which he was acting as defence counsel, and that sanction was upheld on appeal and in the constitutional proceedings (see paragraphs 10-15). A pecuniary penalty imposed on a lawyer because of the wording used in procedural submissions constitutes an interference under Article 10, even when the statements are made in court-related documents rather than in the media (see no. 31611/96; no. 29369/10; no. 3699/08).\"\n    },\n    {\n      \"Lawfulness of the interference\": \"The interference appears to have been prescribed by law. The domestic courts relied on Article 231 §§ 1-3 of the Code of Criminal Procedure, which expressly allowed the court to fine defence counsel who insult the court or participants in proceedings in written or oral submissions (see paragraphs 11, 13 and 16). That provision seems sufficiently accessible and foreseeable for a practising lawyer. On the available facts, there is therefore no strong basis for finding a lack of legal basis.\"\n    },\n    {\n      \"Legitimate aims of the interference\": \"The interference pursued legitimate aims recognised by Article 10 § 2, namely the protection of the reputation or rights of others, in particular the presiding judge, and the maintenance of the authority and impartiality of the judiciary. The sanction was imposed because the applicant’s written objections were considered to have insulted and belittled the panel and the presiding judge through phrases such as “outrageous”, references to the judge being in the “heat of passion”, and accusations of “malice” and unlawful alteration of the record (see paragraphs 10-11). Those aims are consistent with the Court’s case-law concerning criticism directed at judges and courts (see no. 29045/95; no. 29369/10).\"\n    },\n    {\n      \"Necessary in a democratic society\": \"The decisive issue is proportionality. Lawyers enjoy a special role in the administration of justice and may be expected to show dignity and courtesy, but they must also be able to defend their clients effectively, including by criticising procedural irregularities and judicial conduct when this is relevant to the defence (see no. 31611/96; no. 29369/10; no. 3699/08). Here, the impugned remarks were made in a written submission to the trial court, not in a public campaign or media statement (see paragraph 10). They concerned the way the hearing had been conducted, the content of the record, and the alleged obstruction of the defence’s ability to comment on evidence (see paragraphs 6-10). Thus, although the language was sharp, sarcastic and at times discourteous, it was closely linked to a concrete procedural dispute affecting the applicant’s client. The domestic courts focused mainly on the offensive tone and professional ethics (see paragraphs 11 and 13), but they did not convincingly balance that factor against the applicant’s role as defence counsel, the restricted audience of the statements, and the fact that the remarks were made in the context of seeking to protect the defence. Nor did they examine whether less restrictive means were available, such as a warning or disciplinary referral, instead of a substantial fine amounting to most of the statutory maximum (see paragraphs 11 and 16). In the Court’s case-law, sanctions on lawyers for courtroom-related criticism are difficult to justify where the statements, even if exaggerated, remain connected to the defence of a client and are not merely gratuitous personal attacks (see no. 31611/96; no. 3699/08; no. 29369/10). In these circumstances, the reasons given by the domestic courts do not appear relevant and sufficient to show a pressing social need. The interference was therefore not necessary in a democratic society.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 2324,
+    "prompt_tokens": 3034,
+    "total_tokens": 5358,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1482,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.042445,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.042445,
+      "upstream_inference_prompt_cost": 0.007585,
+      "upstream_inference_completions_cost": 0.03486
+    }
+  },
+  "citations": [
+    "31611/96",
+    "29369/10",
+    "3699/08",
+    "29045/95"
+  ],
+  "ref_paragraphs": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "item_id": "001-247645",
+  "case_name": "CASE OF PEŠIĆ v. SERBIA",
+  "case_number": "(Application no. 4545/21)",
+  "date": "13 January 2026",
+  "prompt_type": "non_curated",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Establishment of an interference with Article 10": "The applicant’s right to freedom of expression under Article 10 was interfered with by the domestic civil judgment ordering her to pay damages for non-pecuniary harm caused by her article. This judgment was issued by the Belgrade High Court and upheld on appeal (see paragraphs 8, 10 and 12)."
+    },
+    {
+      "Lawfulness and legitimate aim of the interference": "The interference was prescribed by domestic law, specifically Article 200 of the Obligations Act, which permits compensation for non-pecuniary damage resulting from the infringement of personal rights such as reputation (see paragraph 23). The measure pursued the legitimate aim of protecting the reputation of the Minister of the Interior, as recognised under Article 10 § 2 of the Convention."
+    },
+    {
+      "High level of protection for political speech": "The applicant’s statements were part of a public debate on a matter of significant public interest, concerning the demolition of buildings in Savamala and the police’s response to those events (see paragraphs 5-7). Criticism of a public official’s statements and conduct in office attracts a high level of protection under Article 10. The Court has repeatedly held that politicians must tolerate a greater degree of criticism than private individuals, as they inevitably and knowingly expose themselves to public scrutiny (see no. 26682/95)."
+    },
+    {
+      "Nature of the applicant’s statements as value judgments": "The applicant’s remarks, though strongly worded, constituted value judgments based on the Minister’s own public statements regarding the police’s inaction during the demolitions (see paragraph 7). The ECtHR has recognised that value judgments are generally protected under Article 10, provided there exists a sufficient factual basis for them (see no. 29856/13). In this case, the applicant’s criticism was directly tied to the Minister’s comments and the factual events in Savamala (see paragraphs 6-7)."
+    },
+    {
+      "Flaws in the domestic courts’ reasoning": "The domestic courts concluded that the applicant’s statements were defamatory, exceeded the bounds of acceptable criticism, and did not contribute to public debate (see paragraphs 10 and 12). However, they failed to adequately consider the contextual factors that weigh heavily in favour of Article 10 protection: the public interest nature of the debate, the status of the Minister as a public official, and the fact that the statements were tied to his official conduct. The Court has emphasised that restrictions on political speech must be subjected to the closest scrutiny (see no. 29369/10)."
+    },
+    {
+      "Disproportionality of the sanction": "The order to pay substantial damages (RSD 150,000) constituted a severe interference with the applicant’s freedom of expression (see paragraph 12). Given that the speech at issue was political in nature and directed at a public official’s handling of a matter of public concern, such a sanction was disproportionate. The domestic courts did not strike a fair balance between the applicant’s right to freedom of expression and the protection of the Minister’s reputation, as they did not afford appropriate weight to the public interest element (see paragraphs 10, 12; and no. 26682/95)."
+    },
+    {
+      "Relevance of the domestic legal framework": "Serbian law itself recognises that public officials must tolerate criticism of their actions in office (see paragraph 20). This legal acknowledgement of the heightened protection for political speech further underscores that the domestic courts’ failure to apply these principles in balance with the Minister’s reputation rights rendered their decision incompatible with Article 10 standards."
+    }
+  ],
+  "raw_content": "```json\n{\n  \"assessment\": [\n    {\"Establishment of an interference with Article 10\": \"The applicant’s right to freedom of expression under Article 10 was interfered with by the domestic civil judgment ordering her to pay damages for non-pecuniary harm caused by her article. This judgment was issued by the Belgrade High Court and upheld on appeal (see paragraphs 8, 10 and 12).\"},\n\n    {\"Lawfulness and legitimate aim of the interference\": \"The interference was prescribed by domestic law, specifically Article 200 of the Obligations Act, which permits compensation for non-pecuniary damage resulting from the infringement of personal rights such as reputation (see paragraph 23). The measure pursued the legitimate aim of protecting the reputation of the Minister of the Interior, as recognised under Article 10 § 2 of the Convention.\"},\n\n    {\"High level of protection for political speech\": \"The applicant’s statements were part of a public debate on a matter of significant public interest, concerning the demolition of buildings in Savamala and the police’s response to those events (see paragraphs 5-7). Criticism of a public official’s statements and conduct in office attracts a high level of protection under Article 10. The Court has repeatedly held that politicians must tolerate a greater degree of criticism than private individuals, as they inevitably and knowingly expose themselves to public scrutiny (see no. 26682/95).\"},\n\n    {\"Nature of the applicant’s statements as value judgments\": \"The applicant’s remarks, though strongly worded, constituted value judgments based on the Minister’s own public statements regarding the police’s inaction during the demolitions (see paragraph 7). The ECtHR has recognised that value judgments are generally protected under Article 10, provided there exists a sufficient factual basis for them (see no. 29856/13). In this case, the applicant’s criticism was directly tied to the Minister’s comments and the factual events in Savamala (see paragraphs 6-7).\"},\n\n    {\"Flaws in the domestic courts’ reasoning\": \"The domestic courts concluded that the applicant’s statements were defamatory, exceeded the bounds of acceptable criticism, and did not contribute to public debate (see paragraphs 10 and 12). However, they failed to adequately consider the contextual factors that weigh heavily in favour of Article 10 protection: the public interest nature of the debate, the status of the Minister as a public official, and the fact that the statements were tied to his official conduct. The Court has emphasised that restrictions on political speech must be subjected to the closest scrutiny (see no. 29369/10).\"},\n\n    {\"Disproportionality of the sanction\": \"The order to pay substantial damages (RSD 150,000) constituted a severe interference with the applicant’s freedom of expression (see paragraph 12). Given that the speech at issue was political in nature and directed at a public official’s handling of a matter of public concern, such a sanction was disproportionate. The domestic courts did not strike a fair balance between the applicant’s right to freedom of expression and the protection of the Minister’s reputation, as they did not afford appropriate weight to the public interest element (see paragraphs 10, 12; and no. 26682/95).\"},\n\n    {\"Relevance of the domestic legal framework\": \"Serbian law itself recognises that public officials must tolerate criticism of their actions in office (see paragraph 20). This legal acknowledgement of the heightened protection for political speech further underscores that the domestic courts’ failure to apply these principles in balance with the Minister’s reputation rights rendered their decision incompatible with Article 10 standards.\"}\n  ],\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 4028,
+    "prompt_tokens": 3515,
+    "total_tokens": 7543,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 3637,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0354825,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0354825,
+      "upstream_inference_prompt_cost": 0.0052725,
+      "upstream_inference_completions_cost": 0.03021
+    }
+  }
+}

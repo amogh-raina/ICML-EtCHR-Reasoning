@@ -1,0 +1,98 @@
+{
+  "item_id": "001-247839",
+  "case_name": "CASE OF DANILEŢ v. ROMANIA",
+  "case_number": "(Application no. 16915/21)",
+  "date": "15 December 2025",
+  "prompt_type": "instruction",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "1. Existence of an interference": "There was an interference with the applicant’s freedom of expression. He was disciplined for two Facebook posts published on his personal page, followed by formal proceedings before the Judicial Inspection Board, the CSM’s Disciplinary Board and the High Court, ending in a reduction of his salary by 5% for two months (see paragraphs 16-20, 26, 31, 41). The posts concerned public affairs: alleged political pressure on State institutions, the constitutional role of the army, and criticism of reforms affecting the justice system (see paragraphs 17-19). A disciplinary sanction of this kind is clearly capable of discouraging further speech by a serving judge and therefore constitutes an interference under Article 10."
+    },
+    {
+      "2. Lawfulness of the interference": "The interference appears to have had a basis in domestic law, namely Articles 90 and 99 (a) of Law no. 303/2004, read together with the ethical duties applicable to judges (see paragraphs 20, 24, 32-33, 43, 45). The domestic courts expressly held that the sanction rested on the disciplinary offence in Article 99 (a), not merely on a free-standing ethical rule (see paragraph 32). Although the notions of “honour”, “professional integrity” and “image of the justice system” were very broad and described by the High Court itself as “complex and dynamic” (see paragraph 40), and although domestic practice appears somewhat uneven (see paragraphs 53-56, 58-59), an experienced judge could reasonably foresee that highly public and provocative social-media comments might trigger disciplinary review. Accordingly, the lawfulness requirement was probably satisfied, albeit not without difficulty."
+    },
+    {
+      "3. Legitimate aims of the interference": "The interference pursued legitimate aims recognised by Article 10 § 2, chiefly maintaining the authority and impartiality of the judiciary and protecting the reputation and rights of others, including confidence in the justice system (see paragraphs 27-29, 33-35, 39-41). The domestic bodies repeatedly relied on the judge’s duty of discretion and on the need to preserve public confidence in judicial office and in State institutions (see paragraphs 27-28, 33-35, 39). Those aims are in principle legitimate, especially in relation to serving judges, whose speech may affect the appearance of independence and impartiality (see Wille v. Liechtenstein, no. 28396/95; Kudeshkina v. Russia, no. 29492/05)."
+    },
+    {
+      "4. Necessary in a democratic society": "The decisive issue is necessity, and on balance the interference was not necessary in a democratic society. The applicant’s posts formed part of an ongoing public debate on democracy, constitutional order and reforms affecting the judiciary, subjects on which he was already publicly active and well known (see paragraphs 14, 18-19, 21, 23). ECtHR case-law requires close scrutiny where a judge is sanctioned for speaking on matters of public interest, especially those touching judicial independence or the functioning of State institutions (see no. 28396/95; no. 29492/05). Here, the applicant did not comment on pending cases before him, disclose confidential information, insult identifiable private persons, or engage in partisan political activity as such (see paragraphs 17-19, 43). The tone of the first post was alarmist and the second colloquial, but neither appears plainly abusive. The domestic courts focused heavily on the possible effect of the wording, media amplification and readers’ comments (see paragraphs 20, 28, 37-39), yet they did not convincingly show a pressing social need for punishment. In particular, they refused to assess whether the statements had any factual basis or were rooted in a real public controversy (see paragraph 38), and they attributed significance to hostile media interpretations that may not fairly be imputable to the applicant (see paragraphs 29-30, 39). They also gave insufficient weight to the wider context of rule-of-law tensions in Romania and to the importance of allowing judges to contribute to debate on threats to judicial independence (see paragraphs 61-64, 71-72). Even a relatively mild disciplinary sanction may have a chilling effect on a judge’s willingness, and that of other magistrates, to speak out on such issues. The reasons given were therefore not relevant and sufficient to justify the interference."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"1. Existence of an interference\": \"There was an interference with the applicant’s freedom of expression. He was disciplined for two Facebook posts published on his personal page, followed by formal proceedings before the Judicial Inspection Board, the CSM’s Disciplinary Board and the High Court, ending in a reduction of his salary by 5% for two months (see paragraphs 16-20, 26, 31, 41). The posts concerned public affairs: alleged political pressure on State institutions, the constitutional role of the army, and criticism of reforms affecting the justice system (see paragraphs 17-19). A disciplinary sanction of this kind is clearly capable of discouraging further speech by a serving judge and therefore constitutes an interference under Article 10.\"\n    },\n    {\n      \"2. Lawfulness of the interference\": \"The interference appears to have had a basis in domestic law, namely Articles 90 and 99 (a) of Law no. 303/2004, read together with the ethical duties applicable to judges (see paragraphs 20, 24, 32-33, 43, 45). The domestic courts expressly held that the sanction rested on the disciplinary offence in Article 99 (a), not merely on a free-standing ethical rule (see paragraph 32). Although the notions of “honour”, “professional integrity” and “image of the justice system” were very broad and described by the High Court itself as “complex and dynamic” (see paragraph 40), and although domestic practice appears somewhat uneven (see paragraphs 53-56, 58-59), an experienced judge could reasonably foresee that highly public and provocative social-media comments might trigger disciplinary review. Accordingly, the lawfulness requirement was probably satisfied, albeit not without difficulty.\"\n    },\n    {\n      \"3. Legitimate aims of the interference\": \"The interference pursued legitimate aims recognised by Article 10 § 2, chiefly maintaining the authority and impartiality of the judiciary and protecting the reputation and rights of others, including confidence in the justice system (see paragraphs 27-29, 33-35, 39-41). The domestic bodies repeatedly relied on the judge’s duty of discretion and on the need to preserve public confidence in judicial office and in State institutions (see paragraphs 27-28, 33-35, 39). Those aims are in principle legitimate, especially in relation to serving judges, whose speech may affect the appearance of independence and impartiality (see Wille v. Liechtenstein, no. 28396/95; Kudeshkina v. Russia, no. 29492/05).\"\n    },\n    {\n      \"4. Necessary in a democratic society\": \"The decisive issue is necessity, and on balance the interference was not necessary in a democratic society. The applicant’s posts formed part of an ongoing public debate on democracy, constitutional order and reforms affecting the judiciary, subjects on which he was already publicly active and well known (see paragraphs 14, 18-19, 21, 23). ECtHR case-law requires close scrutiny where a judge is sanctioned for speaking on matters of public interest, especially those touching judicial independence or the functioning of State institutions (see no. 28396/95; no. 29492/05). Here, the applicant did not comment on pending cases before him, disclose confidential information, insult identifiable private persons, or engage in partisan political activity as such (see paragraphs 17-19, 43). The tone of the first post was alarmist and the second colloquial, but neither appears plainly abusive. The domestic courts focused heavily on the possible effect of the wording, media amplification and readers’ comments (see paragraphs 20, 28, 37-39), yet they did not convincingly show a pressing social need for punishment. In particular, they refused to assess whether the statements had any factual basis or were rooted in a real public controversy (see paragraph 38), and they attributed significance to hostile media interpretations that may not fairly be imputable to the applicant (see paragraphs 29-30, 39). They also gave insufficient weight to the wider context of rule-of-law tensions in Romania and to the importance of allowing judges to contribute to debate on threats to judicial independence (see paragraphs 61-64, 71-72). Even a relatively mild disciplinary sanction may have a chilling effect on a judge’s willingness, and that of other magistrates, to speak out on such issues. The reasons given were therefore not relevant and sufficient to justify the interference.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 2609,
+    "prompt_tokens": 18380,
+    "total_tokens": 20989,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1658,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.085085,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.085085,
+      "upstream_inference_prompt_cost": 0.04595,
+      "upstream_inference_completions_cost": 0.039135
+    }
+  },
+  "citations": [
+    "28396/95",
+    "29492/05"
+  ],
+  "ref_paragraphs": [
+    14,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    23,
+    24,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    37,
+    38,
+    39,
+    40,
+    41,
+    43,
+    45,
+    53,
+    54,
+    55,
+    56,
+    58,
+    59,
+    61,
+    62,
+    63,
+    64,
+    71,
+    72
+  ]
+}

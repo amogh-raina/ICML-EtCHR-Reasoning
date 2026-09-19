@@ -1,0 +1,82 @@
+{
+  "item_id": "001-245685",
+  "case_name": "CASE OF MARKO TEŠIĆ v. SERBIA",
+  "case_number": "(Application no. 61891/19)",
+  "date": "4 November 2025",
+  "prompt_type": "gpt_assisted",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "high",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "1. Interference with the applicant’s freedom of expression": "There was a clear interference with the applicant’s Article 10 rights. He was fined RSD 80,000 in contempt-of-court proceedings because of statements made in written objections filed in criminal proceedings in which he acted as defence counsel, and that fine was upheld on appeal and in constitutional proceedings (see paragraphs 10-15). A financial penalty of this kind is capable of discouraging a lawyer from speaking forcefully in defence of a client and therefore has a chilling effect on professional expression."
+    },
+    {
+      "2. Context of the speech and applicable level of protection": "The impugned remarks were made by a defence lawyer in the course of pending criminal proceedings, in a written procedural submission directly linked to how the trial had been conducted and to the recording of the defence’s objections (see paragraphs 5-10). Speech by lawyers on the functioning of the courts and the conduct of a hearing concerns the administration of justice, a matter of public interest, and is closely connected to the effective exercise of defence rights. While lawyers are bound by duties of dignity and courtesy, the Court gives strong protection to statements made in the performance of the defence function, especially where they are addressed to the court rather than disseminated publicly (see no. 31611/96, no. 29369/10, and no. 49910/06). The margin of appreciation is therefore relatively narrow."
+    },
+    {
+      "3. Lawfulness and legitimate aim": "The interference appears to have been prescribed by law. It was based on Article 231 of the Code of Criminal Procedure, which expressly allows a fine where defence counsel insults the court or participants in written submissions or oral remarks, and fixes a maximum amount of RSD 100,000 (see paragraphs 11, 16). Given the applicant’s professional status as a lawyer, the possibility of a sanction was sufficiently foreseeable. The measure also pursued legitimate aims under Article 10 § 2, namely protecting the authority of the judiciary and the reputation or rights of the presiding judge (see paragraphs 11 and 16). The decisive issue is therefore whether the sanction was necessary in a democratic society."
+    },
+    {
+      "4. Whether the domestic courts gave relevant and sufficient reasons": "The domestic courts focused mainly on the insulting tenor of several expressions: 'outrageous', the reference to the judge being in the 'heat of passion', accusations of 'malice', and the allegation that the record had been unlawfully altered (see paragraphs 10-13). However, they did not conduct a genuine Article 10 balancing exercise. In particular, they failed to assess that the remarks were embedded in a procedural complaint about alleged irregularities in the conduct of the hearing and the accuracy of the record, issues which the applicant had already raised orally during the hearing itself (see paragraphs 6-9). They also did not sufficiently distinguish between gratuitous invective and criticism connected to the defence of the client. Strasbourg case-law requires particularly careful scrutiny before sanctioning a lawyer for submissions made in judicial proceedings, and the reasons relied on must be relevant and sufficient (see no. 31611/96 and no. 29369/10)."
+    },
+    {
+      "5. Factual basis, tone, audience and impact": "The applicant’s language was undoubtedly sharp and at points intemperate. Still, it was not wholly detached from a factual basis. The record itself confirms prior disagreement about whether his objections were being properly recorded and notes that he complained that the judge’s conduct obstructed an effective defence (see paragraphs 8-9). In his written objections, he referred to specific episodes and to an alleged later amendment of the record after he had received a copy (see paragraph 10). Even if some formulations were exaggerated, the criticism cannot be seen as purely abusive or as a personal attack unrelated to the proceedings. Further, the audience was limited: the statements were made in a procedural filing within the case, not in the press or on a public platform, which reduced the risk of undermining public confidence in the judiciary at large. In the Court’s case-law, this setting weighs strongly in favour of protection (see no. 31611/96, no. 29369/10, and no. 49910/06)."
+    },
+    {
+      "6. Proportionality of the sanction": "The fine was substantial: RSD 80,000, close to the statutory maximum of RSD 100,000 (see paragraphs 11 and 16). Although it was not a criminal conviction with imprisonment, it was still a serious penalty for words used in the course of defence activity and was apt to deter robust advocacy by the applicant and other lawyers. The domestic courts did not explain why such a high fine was necessary, why less severe means would not suffice, or why the limited circulation of the remarks did not reduce the need for sanction. In cases concerning lawyers’ criticism of judges or other actors in judicial proceedings, the Court has attached particular importance to avoiding sanctions that may chill the defence function (see no. 29369/10 and no. 49910/06)."
+    },
+    {
+      "7. Overall conclusion under Article 10": "Balancing all the circumstances, the interference was not shown to answer a pressing social need. The applicant’s remarks, though discourteous in part, were made in his capacity as defence counsel, concerned the conduct of the hearing and the recording of objections, had at least some factual basis, and were contained in a written submission addressed to the court in the same proceedings (see paragraphs 5-10). The domestic courts did not provide relevant and sufficient reasons demonstrating that punishing him with a near-maximum fine was proportionate to protecting the authority of the judiciary (see paragraphs 11-15). The likely conclusion is therefore that Article 10 was violated."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"1. Interference with the applicant’s freedom of expression\": \"There was a clear interference with the applicant’s Article 10 rights. He was fined RSD 80,000 in contempt-of-court proceedings because of statements made in written objections filed in criminal proceedings in which he acted as defence counsel, and that fine was upheld on appeal and in constitutional proceedings (see paragraphs 10-15). A financial penalty of this kind is capable of discouraging a lawyer from speaking forcefully in defence of a client and therefore has a chilling effect on professional expression.\"\n    },\n    {\n      \"2. Context of the speech and applicable level of protection\": \"The impugned remarks were made by a defence lawyer in the course of pending criminal proceedings, in a written procedural submission directly linked to how the trial had been conducted and to the recording of the defence’s objections (see paragraphs 5-10). Speech by lawyers on the functioning of the courts and the conduct of a hearing concerns the administration of justice, a matter of public interest, and is closely connected to the effective exercise of defence rights. While lawyers are bound by duties of dignity and courtesy, the Court gives strong protection to statements made in the performance of the defence function, especially where they are addressed to the court rather than disseminated publicly (see no. 31611/96, no. 29369/10, and no. 49910/06). The margin of appreciation is therefore relatively narrow.\"\n    },\n    {\n      \"3. Lawfulness and legitimate aim\": \"The interference appears to have been prescribed by law. It was based on Article 231 of the Code of Criminal Procedure, which expressly allows a fine where defence counsel insults the court or participants in written submissions or oral remarks, and fixes a maximum amount of RSD 100,000 (see paragraphs 11, 16). Given the applicant’s professional status as a lawyer, the possibility of a sanction was sufficiently foreseeable. The measure also pursued legitimate aims under Article 10 § 2, namely protecting the authority of the judiciary and the reputation or rights of the presiding judge (see paragraphs 11 and 16). The decisive issue is therefore whether the sanction was necessary in a democratic society.\"\n    },\n    {\n      \"4. Whether the domestic courts gave relevant and sufficient reasons\": \"The domestic courts focused mainly on the insulting tenor of several expressions: 'outrageous', the reference to the judge being in the 'heat of passion', accusations of 'malice', and the allegation that the record had been unlawfully altered (see paragraphs 10-13). However, they did not conduct a genuine Article 10 balancing exercise. In particular, they failed to assess that the remarks were embedded in a procedural complaint about alleged irregularities in the conduct of the hearing and the accuracy of the record, issues which the applicant had already raised orally during the hearing itself (see paragraphs 6-9). They also did not sufficiently distinguish between gratuitous invective and criticism connected to the defence of the client. Strasbourg case-law requires particularly careful scrutiny before sanctioning a lawyer for submissions made in judicial proceedings, and the reasons relied on must be relevant and sufficient (see no. 31611/96 and no. 29369/10).\"\n    },\n    {\n      \"5. Factual basis, tone, audience and impact\": \"The applicant’s language was undoubtedly sharp and at points intemperate. Still, it was not wholly detached from a factual basis. The record itself confirms prior disagreement about whether his objections were being properly recorded and notes that he complained that the judge’s conduct obstructed an effective defence (see paragraphs 8-9). In his written objections, he referred to specific episodes and to an alleged later amendment of the record after he had received a copy (see paragraph 10). Even if some formulations were exaggerated, the criticism cannot be seen as purely abusive or as a personal attack unrelated to the proceedings. Further, the audience was limited: the statements were made in a procedural filing within the case, not in the press or on a public platform, which reduced the risk of undermining public confidence in the judiciary at large. In the Court’s case-law, this setting weighs strongly in favour of protection (see no. 31611/96, no. 29369/10, and no. 49910/06).\"\n    },\n    {\n      \"6. Proportionality of the sanction\": \"The fine was substantial: RSD 80,000, close to the statutory maximum of RSD 100,000 (see paragraphs 11 and 16). Although it was not a criminal conviction with imprisonment, it was still a serious penalty for words used in the course of defence activity and was apt to deter robust advocacy by the applicant and other lawyers. The domestic courts did not explain why such a high fine was necessary, why less severe means would not suffice, or why the limited circulation of the remarks did not reduce the need for sanction. In cases concerning lawyers’ criticism of judges or other actors in judicial proceedings, the Court has attached particular importance to avoiding sanctions that may chill the defence function (see no. 29369/10 and no. 49910/06).\"\n    },\n    {\n      \"7. Overall conclusion under Article 10\": \"Balancing all the circumstances, the interference was not shown to answer a pressing social need. The applicant’s remarks, though discourteous in part, were made in his capacity as defence counsel, concerned the conduct of the hearing and the recording of objections, had at least some factual basis, and were contained in a written submission addressed to the court in the same proceedings (see paragraphs 5-10). The domestic courts did not provide relevant and sufficient reasons demonstrating that punishing him with a near-maximum fine was proportionate to protecting the authority of the judiciary (see paragraphs 11-15). The likely conclusion is therefore that Article 10 was violated.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 3447,
+    "prompt_tokens": 3454,
+    "total_tokens": 6901,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 2208,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.058036,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.058036,
+      "upstream_inference_prompt_cost": 0.006331,
+      "upstream_inference_completions_cost": 0.051705
+    }
+  },
+  "citations": [
+    "31611/96",
+    "29369/10",
+    "49910/06"
+  ],
+  "ref_paragraphs": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ]
+}

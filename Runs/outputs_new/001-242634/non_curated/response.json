@@ -1,0 +1,83 @@
+{
+  "item_id": "001-242634",
+  "case_name": "CASE OF BACKOVIĆ v. SERBIA (No. 2)",
+  "case_number": "(Application no. 47600/17)",
+  "date": "8 April 2025",
+  "prompt_type": "non_curated",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Interference, legal basis and legitimate aim": "The fine imposed on the applicant for contempt of court because of statements made in his written objection clearly amounted to an interference with his freedom of expression under Article 10 (see paragraphs 10-14 and 16). The interference was prescribed by law, namely Articles 33 and 51 of the Enforcement Procedure Act (see paragraphs 20-21), and pursued a legitimate aim, namely maintaining the authority of the judiciary and protecting the reputation of judges, which is also recognised by domestic constitutional law (see paragraphs 17 and 19). The decisive question is therefore whether the interference was “necessary in a democratic society”."
+    },
+    {
+      "Status of the applicant and applicable Article 10 standards": "The applicant was a practising lawyer acting in ongoing judicial proceedings and speaking through a procedural remedy aimed at challenging a court decision (see paragraphs 2, 10 and 13). The Court’s case-law accepts that lawyers have special duties of dignity and loyalty toward the administration of justice, but it also gives strong protection to their freedom to defend their clients and to comment on the functioning of justice, especially when their remarks are made in the course of proceedings rather than through the media (see nos. 31611/96, 29369/10, 73797/01). Sanctions on lawyers may have a chilling effect not only on them personally but also on effective representation before the courts."
+    },
+    {
+      "Context and content of the impugned statements": "The applicant’s language was plainly harsh, sarcastic and intemperate. He referred to a “pen-pushing” interpretation, “legal geniuses”, “supreme nonsense”, and suggested that the decision might have been written out of “malice” or “lack of knowledge” (see paragraph 11). However, the remarks were closely linked to the subject matter of the dispute: the enforceability of the Administrative Court’s judgment and the quality of the first-instance court’s legal reasoning (see paragraphs 8-11 and 13). They were not comments on the judge’s private life or unrelated personal traits. Much of the wording constituted value judgments about judicial performance and institutional practice, expressed in a polemical style, rather than factual accusations capable of strict proof. Under the Court’s case-law, even sharp criticism of judges may remain protected where it concerns the administration of justice and has a sufficient factual basis in the case file (see nos. 31611/96 and 29369/10)."
+    },
+    {
+      "Limits of acceptable criticism and whether the remarks were gratuitously offensive": "The State may react where a lawyer’s statements amount to a purely gratuitous personal attack undermining the proper administration of justice. Here, some expressions approached that line, especially “supreme nonsense” and the references to “malice” and lack of knowledge (see paragraph 11). Still, taken as a whole, the objection remained an argumentative attack on the lawfulness and professionalism of the decision under challenge, not an autonomous campaign of abuse. The domestic courts themselves framed the issue mainly as insult to the court’s authority and the judge’s expertise, rather than identifying any disruption of proceedings or deliberate obstruction (see paragraphs 12 and 14). Since the statements were made in a written remedy intended to persuade a higher court, the threshold for restricting them should have been particularly high (see nos. 31611/96, 29369/10, 51041/99)."
+    },
+    {
+      "Adequacy of the domestic courts’ reasons": "The domestic courts focused almost exclusively on the offensive tone and on the applicant’s supposed intention to belittle the court (see paragraphs 12 and 14). They did not carry out a genuine balancing exercise between the need to protect judicial authority and the lawyer’s right to make forceful submissions on a matter of public importance, namely the execution of a judicial decision and the rule of law implications of refusing enforcement (see paragraphs 8-11 and 17). Nor did they meaningfully examine the applicant’s argument that his remarks concerned the quality of judicial reasoning and constituted value judgments protected by freedom of expression (see paragraph 13). The Constitutional Court’s reasoning was especially terse and abstract, merely stating that the lower courts had given acceptable reasons (see paragraph 17). Such reasoning falls short of the careful scrutiny required under Article 10 (see nos. 29369/10, 66232/10, 20261/12)."
+    },
+    {
+      "Nature and severity of the sanction": "The applicant was fined first RSD 100,000 and then RSD 50,000, which was still a substantial penalty for statements made in the course of legal representation, and he eventually had to pay it (see paragraphs 12, 14 and 16). Even where not extreme, a pecuniary sanction imposed on a lawyer for the wording of a pleading is capable of deterring robust advocacy in future cases. This chilling effect is an important factor in the proportionality assessment (see nos. 31611/96, 29369/10, 73797/01). The fact that the contempt fine was imposed summarily by the very judge whose decision had been criticised further reinforces the appearance of an over-sensitive reaction to courtroom criticism (see paragraph 12; compare no. 73797/01)."
+    },
+    {
+      "Overall assessment": "In sum, although the applicant’s wording was discourteous and excessive in part, the impugned statements were made in a procedural document, were connected to a live legal dispute, and primarily targeted the reasoning and professional handling of the case by the court rather than the judge’s private sphere (see paragraphs 10-13). The domestic courts did not convincingly demonstrate a pressing social need for the sanction and did not provide relevant and sufficient reasons showing that the fine was proportionate to the legitimate aim pursued (see paragraphs 14 and 17). In light of the Court’s approach to lawyers’ speech in judicial proceedings (see nos. 31611/96, 29369/10, 51041/99 and 73797/01), the interference was likely not necessary in a democratic society."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"Interference, legal basis and legitimate aim\": \"The fine imposed on the applicant for contempt of court because of statements made in his written objection clearly amounted to an interference with his freedom of expression under Article 10 (see paragraphs 10-14 and 16). The interference was prescribed by law, namely Articles 33 and 51 of the Enforcement Procedure Act (see paragraphs 20-21), and pursued a legitimate aim, namely maintaining the authority of the judiciary and protecting the reputation of judges, which is also recognised by domestic constitutional law (see paragraphs 17 and 19). The decisive question is therefore whether the interference was “necessary in a democratic society”.\"\n    },\n    {\n      \"Status of the applicant and applicable Article 10 standards\": \"The applicant was a practising lawyer acting in ongoing judicial proceedings and speaking through a procedural remedy aimed at challenging a court decision (see paragraphs 2, 10 and 13). The Court’s case-law accepts that lawyers have special duties of dignity and loyalty toward the administration of justice, but it also gives strong protection to their freedom to defend their clients and to comment on the functioning of justice, especially when their remarks are made in the course of proceedings rather than through the media (see nos. 31611/96, 29369/10, 73797/01). Sanctions on lawyers may have a chilling effect not only on them personally but also on effective representation before the courts.\"\n    },\n    {\n      \"Context and content of the impugned statements\": \"The applicant’s language was plainly harsh, sarcastic and intemperate. He referred to a “pen-pushing” interpretation, “legal geniuses”, “supreme nonsense”, and suggested that the decision might have been written out of “malice” or “lack of knowledge” (see paragraph 11). However, the remarks were closely linked to the subject matter of the dispute: the enforceability of the Administrative Court’s judgment and the quality of the first-instance court’s legal reasoning (see paragraphs 8-11 and 13). They were not comments on the judge’s private life or unrelated personal traits. Much of the wording constituted value judgments about judicial performance and institutional practice, expressed in a polemical style, rather than factual accusations capable of strict proof. Under the Court’s case-law, even sharp criticism of judges may remain protected where it concerns the administration of justice and has a sufficient factual basis in the case file (see nos. 31611/96 and 29369/10).\"\n    },\n    {\n      \"Limits of acceptable criticism and whether the remarks were gratuitously offensive\": \"The State may react where a lawyer’s statements amount to a purely gratuitous personal attack undermining the proper administration of justice. Here, some expressions approached that line, especially “supreme nonsense” and the references to “malice” and lack of knowledge (see paragraph 11). Still, taken as a whole, the objection remained an argumentative attack on the lawfulness and professionalism of the decision under challenge, not an autonomous campaign of abuse. The domestic courts themselves framed the issue mainly as insult to the court’s authority and the judge’s expertise, rather than identifying any disruption of proceedings or deliberate obstruction (see paragraphs 12 and 14). Since the statements were made in a written remedy intended to persuade a higher court, the threshold for restricting them should have been particularly high (see nos. 31611/96, 29369/10, 51041/99).\"\n    },\n    {\n      \"Adequacy of the domestic courts’ reasons\": \"The domestic courts focused almost exclusively on the offensive tone and on the applicant’s supposed intention to belittle the court (see paragraphs 12 and 14). They did not carry out a genuine balancing exercise between the need to protect judicial authority and the lawyer’s right to make forceful submissions on a matter of public importance, namely the execution of a judicial decision and the rule of law implications of refusing enforcement (see paragraphs 8-11 and 17). Nor did they meaningfully examine the applicant’s argument that his remarks concerned the quality of judicial reasoning and constituted value judgments protected by freedom of expression (see paragraph 13). The Constitutional Court’s reasoning was especially terse and abstract, merely stating that the lower courts had given acceptable reasons (see paragraph 17). Such reasoning falls short of the careful scrutiny required under Article 10 (see nos. 29369/10, 66232/10, 20261/12).\"\n    },\n    {\n      \"Nature and severity of the sanction\": \"The applicant was fined first RSD 100,000 and then RSD 50,000, which was still a substantial penalty for statements made in the course of legal representation, and he eventually had to pay it (see paragraphs 12, 14 and 16). Even where not extreme, a pecuniary sanction imposed on a lawyer for the wording of a pleading is capable of deterring robust advocacy in future cases. This chilling effect is an important factor in the proportionality assessment (see nos. 31611/96, 29369/10, 73797/01). The fact that the contempt fine was imposed summarily by the very judge whose decision had been criticised further reinforces the appearance of an over-sensitive reaction to courtroom criticism (see paragraph 12; compare no. 73797/01).\"\n    },\n    {\n      \"Overall assessment\": \"In sum, although the applicant’s wording was discourteous and excessive in part, the impugned statements were made in a procedural document, were connected to a live legal dispute, and primarily targeted the reasoning and professional handling of the case by the court rather than the judge’s private sphere (see paragraphs 10-13). The domestic courts did not convincingly demonstrate a pressing social need for the sanction and did not provide relevant and sufficient reasons showing that the fine was proportionate to the legitimate aim pursued (see paragraphs 14 and 17). In light of the Court’s approach to lawyers’ speech in judicial proceedings (see nos. 31611/96, 29369/10, 51041/99 and 73797/01), the interference was likely not necessary in a democratic society.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 2544,
+    "prompt_tokens": 3059,
+    "total_tokens": 5603,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1247,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0458075,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0458075,
+      "upstream_inference_prompt_cost": 0.0076475,
+      "upstream_inference_completions_cost": 0.03816
+    }
+  },
+  "citations": [
+    "31611/96",
+    "29369/10",
+    "73797/01",
+    "51041/99",
+    "66232/10",
+    "20261/12"
+  ],
+  "ref_paragraphs": [
+    2,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    16,
+    17,
+    19,
+    20,
+    21
+  ]
+}

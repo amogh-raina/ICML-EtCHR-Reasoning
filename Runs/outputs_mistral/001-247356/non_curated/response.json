@@ -1,0 +1,66 @@
+{
+  "item_id": "001-247356",
+  "case_name": "CASE OF KHAGHAGHUTYAN YERKKHOSUTYUN v. ARMENIA",
+  "case_number": "(Application no. 5497/17)",
+  "date": "4 December 2025",
+  "prompt_type": "non_curated",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Applicability of Article 10": "The applicant NGO’s activities—collecting and disseminating information about fatalities and crimes in the armed forces—fall within the scope of Article 10 of the Convention, which protects the right to receive and impart information on matters of public interest (see paragraphs 6-7, 13). The refusal by the Ministry of Defence to provide the requested information, followed by its classification as a state secret, constitutes an interference with the applicant’s rights under Article 10 (see no. 25390/94)."
+    },
+    {
+      "Prescribed by law": "The interference was based on multiple domestic legal provisions, including Article 23 of the Constitution, Article 201 of the Code of Criminal Procedure, section 8(1) of the Freedom of Information Act, section 9 of the State and Official Secrets Act, Government Decree no. 173, and the Minister of Defence’s Order no. 9-N (see paragraphs 11, 15, 23, 29, 35, 38-39). However, the legal framework’s foreseeability is undermined by the fact that the classification of the requested information occurred after the NGO’s initial requests and legal proceedings (see paragraphs 14-15, 38-39). This timing raises concerns about the accessibility and predictability of the law, as required by Article 10 (see no. 44158/98)."
+    },
+    {
+      "Legitimate aim pursued": "The Government argued that the refusal to disclose the information pursued the legitimate aim of protecting national security, as set out in Article 43 of the Constitution (see paragraph 23) and echoed in Article 10(2) of the Convention. The domestic courts accepted this justification, citing the military-political context and the potential threat to national security (see paragraphs 18, 20). National security is a recognized legitimate aim under Article 10(2) (see no. 25390/94)."
+    },
+    {
+      "Necessity in a democratic society: Public interest in the information": "The information sought by the applicant NGO concerned peacetime fatalities and crimes in the armed forces, a matter of significant public interest (see paragraphs 6-7, 13). The NGO’s work aimed at promoting transparency, assisting victims’ families, and addressing systemic issues such as corruption and impunity in the armed forces (see paragraphs 5-6, 16). The European Court has consistently held that the public has a strong interest in receiving information about matters of public concern, particularly where it relates to human rights (see no. 48876/08, no. 18030/11)."
+    },
+    {
+      "Necessity in a democratic society: Proportionality of the interference": "The Ministry of Defence had previously provided similar information for the years 2010-2011 without raising national security concerns (see paragraph 9), which undermines the Government’s argument that disclosure of such data inherently threatens national security. Furthermore, the classification of the information as a state secret occurred only after the NGO’s requests and the initiation of legal proceedings (see paragraphs 14-15, 38-39), suggesting a reactive rather than a pre-emptive measure. The domestic courts failed to conduct a balancing exercise between the public interest in the information and the Government’s national security claims, instead deferring to the executive’s assessment (see paragraphs 18, 20). This lack of proportionality analysis weighs against the necessity of the interference (see no. 37371/97, no. 48876/08)."
+    },
+    {
+      "Necessity in a democratic society: Relevance of prior disclosure": "The fact that the Ministry of Defence had already disclosed analogous information for 2010-2011 (see paragraph 9) demonstrates that the disclosure of such data does not inherently pose a threat to national security. This prior disclosure weakens the Government’s argument that the requested information for earlier periods (1994-2014) needed to be classified. The Court has previously found violations of Article 10 where authorities inconsistently applied restrictions on access to information (see no. 37971/97)."
+    },
+    {
+      "Constitutional and legal context": "The Armenian Constitutional Court had previously ruled that certain aspects of the State and Official Secrets Act, particularly the classification of extended lists of secret information, were incompatible with the Constitution (see paragraph 40). This domestic precedent suggests that the legal framework for classifying information as state secrets may not fully comply with the requirements of legality and proportionality under Article 10, further calling into question the lawfulness and necessity of the interference (see no. 35289/11)."
+    },
+    {
+      "Conclusion on necessity": "Given the public interest in the information, the applicant NGO’s legitimate role in promoting transparency, the prior disclosure of similar data, and the failure of domestic authorities to conduct a proper balancing exercise, the interference with the applicant’s Article 10 rights was not ‘necessary in a democratic society.’ The measures taken by the Armenian authorities were disproportionate to the aim pursued (see no. 48876/08, no. 37371/97)."
+    }
+  ],
+  "raw_content": "```json\n{\n  \"assessment\": [\n    {\"Applicability of Article 10\": \"The applicant NGO’s activities—collecting and disseminating information about fatalities and crimes in the armed forces—fall within the scope of Article 10 of the Convention, which protects the right to receive and impart information on matters of public interest (see paragraphs 6-7, 13). The refusal by the Ministry of Defence to provide the requested information, followed by its classification as a state secret, constitutes an interference with the applicant’s rights under Article 10 (see no. 25390/94).\"},\n\n    {\"Prescribed by law\": \"The interference was based on multiple domestic legal provisions, including Article 23 of the Constitution, Article 201 of the Code of Criminal Procedure, section 8(1) of the Freedom of Information Act, section 9 of the State and Official Secrets Act, Government Decree no. 173, and the Minister of Defence’s Order no. 9-N (see paragraphs 11, 15, 23, 29, 35, 38-39). However, the legal framework’s foreseeability is undermined by the fact that the classification of the requested information occurred after the NGO’s initial requests and legal proceedings (see paragraphs 14-15, 38-39). This timing raises concerns about the accessibility and predictability of the law, as required by Article 10 (see no. 44158/98).\"},\n\n     {\"Legitimate aim pursued\": \"The Government argued that the refusal to disclose the information pursued the legitimate aim of protecting national security, as set out in Article 43 of the Constitution (see paragraph 23) and echoed in Article 10(2) of the Convention. The domestic courts accepted this justification, citing the military-political context and the potential threat to national security (see paragraphs 18, 20). National security is a recognized legitimate aim under Article 10(2) (see no. 25390/94).\"},\n\n    {\"Necessity in a democratic society: Public interest in the information\": \"The information sought by the applicant NGO concerned peacetime fatalities and crimes in the armed forces, a matter of significant public interest (see paragraphs 6-7, 13). The NGO’s work aimed at promoting transparency, assisting victims’ families, and addressing systemic issues such as corruption and impunity in the armed forces (see paragraphs 5-6, 16). The European Court has consistently held that the public has a strong interest in receiving information about matters of public concern, particularly where it relates to human rights (see no. 48876/08, no. 18030/11).\"},\n\n     {\"Necessity in a democratic society: Proportionality of the interference\": \"The Ministry of Defence had previously provided similar information for the years 2010-2011 without raising national security concerns (see paragraph 9), which undermines the Government’s argument that disclosure of such data inherently threatens national security. Furthermore, the classification of the information as a state secret occurred only after the NGO’s requests and the initiation of legal proceedings (see paragraphs 14-15, 38-39), suggesting a reactive rather than a pre-emptive measure. The domestic courts failed to conduct a balancing exercise between the public interest in the information and the Government’s national security claims, instead deferring to the executive’s assessment (see paragraphs 18, 20). This lack of proportionality analysis weighs against the necessity of the interference (see no. 37371/97, no. 48876/08).\"},\n\n     {\"Necessity in a democratic society: Relevance of prior disclosure\": \"The fact that the Ministry of Defence had already disclosed analogous information for 2010-2011 (see paragraph 9) demonstrates that the disclosure of such data does not inherently pose a threat to national security. This prior disclosure weakens the Government’s argument that the requested information for earlier periods (1994-2014) needed to be classified. The Court has previously found violations of Article 10 where authorities inconsistently applied restrictions on access to information (see no. 37971/97).\"},\n\n    {\"Constitutional and legal context\": \"The Armenian Constitutional Court had previously ruled that certain aspects of the State and Official Secrets Act, particularly the classification of extended lists of secret information, were incompatible with the Constitution (see paragraph 40). This domestic precedent suggests that the legal framework for classifying information as state secrets may not fully comply with the requirements of legality and proportionality under Article 10, further calling into question the lawfulness and necessity of the interference (see no. 35289/11).\"},\n\n    {\"Conclusion on necessity\": \"Given the public interest in the information, the applicant NGO’s legitimate role in promoting transparency, the prior disclosure of similar data, and the failure of domestic authorities to conduct a proper balancing exercise, the interference with the applicant’s Article 10 rights was not ‘necessary in a democratic society.’ The measures taken by the Armenian authorities were disproportionate to the aim pursued (see no. 48876/08, no. 37371/97).\"}\n  ],\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 3815,
+    "prompt_tokens": 5756,
+    "total_tokens": 9571,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 3113,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0372465,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0372465,
+      "upstream_inference_prompt_cost": 0.008634,
+      "upstream_inference_completions_cost": 0.0286125
+    }
+  }
+}

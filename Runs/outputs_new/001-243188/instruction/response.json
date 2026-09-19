@@ -1,0 +1,79 @@
+{
+  "item_id": "001-243188",
+  "case_name": "CASE OF GEVORGYAN v. ARMENIA",
+  "case_number": "(Application no. 231/16)",
+  "date": "22 May 2025",
+  "prompt_type": "instruction",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "1. Existence of an interference": "There was an interference with the applicant’s freedom of expression. She was a journalist covering a politically sensitive street event involving an opposition party, which was plainly a matter of public interest (see paragraphs 5-8). During the incident, police officers pulled at the object in her hand while she shouted that it was her camera and that she was a journalist; she was then forced into a police car, taken to the police station, searched, and her camera and memory cards were seized for inspection for about three hours (see paragraphs 8-10, 15). Even if the measures were temporary, they directly impeded newsgathering and recording, which are protected aspects of journalistic freedom under Article 10, especially in the context of reporting on demonstrations and police action (see nos. 2594/07, 11882/10)."
+    },
+    {
+      "2. Lawfulness of the interference": "The interference appears to have had a basis in domestic law. The arrest record stated that the applicant was arrested on suspicion of hooliganism (see paragraph 9), criminal proceedings were opened on that basis under Article 258 of the former Criminal Code (see paragraphs 11 and 37), and the authorities relied on section 30 of the Police Act as authorising force where necessary to stop offences or overcome resistance (see paragraphs 29 and 41). Although the hooliganism case was later discontinued for lack of corpus delicti (see paragraph 31), the materials indicate that the measures were not wholly devoid of a legal basis. I would therefore proceed on the assumption that the interference was prescribed by law."
+    },
+    {
+      "3. Legitimate aims of the interference": "The interference pursued legitimate aims within the meaning of Article 10 § 2, namely the prevention of disorder or crime and the protection of public safety. The authorities consistently maintained that an altercation had broken out on Mashtots Avenue, that traffic had been affected, and that the applicant had been yelling on the road and resisting police instructions (see paragraphs 7-8, 21-22, 27, 29). In those circumstances, the police intervention can be linked to the restoration of public order and traffic safety, both recognised legitimate aims under Article 10 § 2."
+    },
+    {
+      "4. Necessary in a democratic society": "The interference was not shown to be necessary in a democratic society. The applicant was reporting on political activity and police conduct in a public place, an area where Article 10 protection is especially strong (see nos. 1172/12, 2594/07, 11882/10). The authorities acknowledged that force was used against her and that she sustained a wrist injury, while the video showed police pulling at her hands and at the camera she was holding (see paragraphs 8, 14, 29). The applicant stated that she identified herself as a journalist during the incident and had a press card attached to her bag (see paragraphs 8, 15-16). Even accepting that the police needed to move people away from the roadway, the response used against her - grabbing at her while she was filming, taking her to the station, and seizing her equipment - was a serious restriction on newsgathering at the very moment when events of public interest were unfolding (see paragraphs 8-10, 15). Less restrictive options were available, such as ordering her to move to a safe position while allowing her to continue filming. The domestic authorities also failed to provide sufficiently relevant and sufficient reasons addressing the specific role of the press: they treated the case mainly as a public-order issue, while the hooliganism proceedings themselves were later discontinued for lack of corpus delicti (see paragraph 31). Moreover, the corroborating statements of other journalists that police tried to grab her camera were not convincingly answered (see paragraph 26). Overall, the interference was disproportionate and likely to have a chilling effect on journalistic coverage of demonstrations."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"1. Existence of an interference\": \"There was an interference with the applicant’s freedom of expression. She was a journalist covering a politically sensitive street event involving an opposition party, which was plainly a matter of public interest (see paragraphs 5-8). During the incident, police officers pulled at the object in her hand while she shouted that it was her camera and that she was a journalist; she was then forced into a police car, taken to the police station, searched, and her camera and memory cards were seized for inspection for about three hours (see paragraphs 8-10, 15). Even if the measures were temporary, they directly impeded newsgathering and recording, which are protected aspects of journalistic freedom under Article 10, especially in the context of reporting on demonstrations and police action (see nos. 2594/07, 11882/10).\"\n    },\n    {\n      \"2. Lawfulness of the interference\": \"The interference appears to have had a basis in domestic law. The arrest record stated that the applicant was arrested on suspicion of hooliganism (see paragraph 9), criminal proceedings were opened on that basis under Article 258 of the former Criminal Code (see paragraphs 11 and 37), and the authorities relied on section 30 of the Police Act as authorising force where necessary to stop offences or overcome resistance (see paragraphs 29 and 41). Although the hooliganism case was later discontinued for lack of corpus delicti (see paragraph 31), the materials indicate that the measures were not wholly devoid of a legal basis. I would therefore proceed on the assumption that the interference was prescribed by law.\"\n    },\n    {\n      \"3. Legitimate aims of the interference\": \"The interference pursued legitimate aims within the meaning of Article 10 § 2, namely the prevention of disorder or crime and the protection of public safety. The authorities consistently maintained that an altercation had broken out on Mashtots Avenue, that traffic had been affected, and that the applicant had been yelling on the road and resisting police instructions (see paragraphs 7-8, 21-22, 27, 29). In those circumstances, the police intervention can be linked to the restoration of public order and traffic safety, both recognised legitimate aims under Article 10 § 2.\"\n    },\n    {\n      \"4. Necessary in a democratic society\": \"The interference was not shown to be necessary in a democratic society. The applicant was reporting on political activity and police conduct in a public place, an area where Article 10 protection is especially strong (see nos. 1172/12, 2594/07, 11882/10). The authorities acknowledged that force was used against her and that she sustained a wrist injury, while the video showed police pulling at her hands and at the camera she was holding (see paragraphs 8, 14, 29). The applicant stated that she identified herself as a journalist during the incident and had a press card attached to her bag (see paragraphs 8, 15-16). Even accepting that the police needed to move people away from the roadway, the response used against her - grabbing at her while she was filming, taking her to the station, and seizing her equipment - was a serious restriction on newsgathering at the very moment when events of public interest were unfolding (see paragraphs 8-10, 15). Less restrictive options were available, such as ordering her to move to a safe position while allowing her to continue filming. The domestic authorities also failed to provide sufficiently relevant and sufficient reasons addressing the specific role of the press: they treated the case mainly as a public-order issue, while the hooliganism proceedings themselves were later discontinued for lack of corpus delicti (see paragraph 31). Moreover, the corroborating statements of other journalists that police tried to grab her camera were not convincingly answered (see paragraph 26). Overall, the interference was disproportionate and likely to have a chilling effect on journalistic coverage of demonstrations.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 1885,
+    "prompt_tokens": 5803,
+    "total_tokens": 7688,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1034,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0427825,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0427825,
+      "upstream_inference_prompt_cost": 0.0145075,
+      "upstream_inference_completions_cost": 0.028275
+    }
+  },
+  "citations": [
+    "2594/07",
+    "11882/10",
+    "1172/12"
+  ],
+  "ref_paragraphs": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    14,
+    15,
+    16,
+    21,
+    22,
+    26,
+    27,
+    29,
+    31,
+    37,
+    41
+  ]
+}

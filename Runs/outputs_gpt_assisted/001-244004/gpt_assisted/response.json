@@ -1,0 +1,114 @@
+{
+  "item_id": "001-244004",
+  "case_name": "CASE OF RODINA AND BORISOVA v. LATVIA",
+  "case_number": "(Applications nos. 2623/16 and 2299/16)",
+  "date": "10 July 2025",
+  "prompt_type": "gpt_assisted",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "high",
+  "violation_ground_truth": [],
+  "violation_prediction": "no",
+  "assessment": [
+    {
+      "1. Interference with Article 10": "Both applicants were prevented from conveying their messages through planned public events, so there was an interference with their freedom of expression, regardless of the domestic characterisation of the measures as assembly restrictions (see paragraphs 16-24 and 35-41). In the second applicant’s case, the later tolerance of a smaller picket did not remove the prior restriction on the intended form, scale and visibility of her expression (see paragraph 42)."
+    },
+    {
+      "2. Lawfulness and legitimate aims": "The interference had a clear basis in domestic law, notably sections 10, 15 and 15(1) of the Law on Demonstrations, Marches and Pickets, which allowed a ban where an event endangered the democratic order, public safety or the rights of others, or promoted war propaganda or hatred (see paragraphs 56-59). The domestic authorities expressly relied on public safety, public order, national security and protection of the democratic order (see paragraphs 20-24 and 38-41). On the facts, those aims fall within Article 10 § 2."
+    },
+    {
+      "3. General proportionality framework": "The applicants’ intended speech concerned political and identity issues and therefore ordinarily attracts strong protection. That said, the Court gives reduced protection where expression is closely linked to hatred, glorification of unlawful violence, or anti-democratic aims (see no. 45581/15). The context was exceptionally sensitive: Russia’s actions in Crimea and eastern Ukraine had already produced acute security concerns in Latvia, including concern about the instrumentalisation of Russian-compatriot rhetoric and information warfare (see paragraphs 11, 34, 62-63; see nos. 20958/14, 38334/18, 8019/16). The key question is therefore whether the domestic courts gave relevant and sufficient reasons showing a pressing social need."
+    },
+    {
+      "4. First applicant: nature of the message and risks identified": "For the association Rodina, the domestic courts did not rely on abstract disagreement with a pro-Russian opinion. They examined the actual promotional videos and found war scenes, rifle-shot sounds, Cossack imagery, and slogans such as 'Glory to the Baltic Russian land', 'Riga – our city; Latvia – our country', and 'Russians do not give up' (see paragraph 29). They also noted that the publicly disseminated message did not match the formal explanation that the march was about 'Russian schools' (see paragraphs 16, 21, 29-30). Combined with intelligence about participation by a Cossack association linked to Russian interests and the risk of radicalised attendees amid a bomb threat and large 9 May gatherings, the authorities considered that the real aim was ethnic mobilisation and tension rather than peaceful public debate (see paragraphs 18-24, 30-31)."
+    },
+    {
+      "5. First applicant: sufficiency of reasons and proportionality": "There are factors favouring the first applicant, especially the absence of prior serious incidents at earlier events and the importance of protecting offensive or unsettling political speech (see paragraphs 13-15, 25, 32). But the domestic courts directly addressed those points and explained why 2014 was materially different because of the conflict in Ukraine and the changed social climate in Latvia (see paragraphs 19, 26, 30-33). They also considered less restrictive options and concluded that changing time, place or form would not neutralise the identified risks (see paragraphs 24 and 31). Given the specific content used by the organiser itself, the live security assessment, and the absence of any criminal conviction or damages, the interference appears proportionate. I therefore predict no violation of Article 10 in respect of the first applicant."
+    },
+    {
+      "6. Second applicant: evidence of the event’s real purpose": "The case against the second applicant is stronger. Although the declared aim was to 'stop the war in south-east Ukraine' (see paragraph 35), the authorities obtained public and security information showing that B.A. was the real driving force behind the event, that he supported the separatist entities in eastern Ukraine, and that he publicly framed the demonstration as a demand to recognise the 'DPR' and 'LPR' and oppose the 'war in Novorossiya' (see paragraphs 36-40). The domestic court also relied on information that B.A. had travelled to Ukraine, engaged with unlawful armed structures, and faced criminal proceedings in Latvia for violent anti-State incitement (see paragraph 47)."
+    },
+    {
+      "7. Second applicant: necessity and later confirmation of the risk": "The domestic courts were entitled to treat the stated peaceful aim with caution because the organiser never clearly distanced herself from B.A.’s activities and acknowledged his role in promoting the event (see paragraph 37). Critically, the smaller picket actually held after the ban confirmed the authorities’ prediction: participants, including the second applicant and B.A., displayed separatist symbols and posters calling for recognition of the 'DPR' and 'LPR' (see paragraph 42). That later conduct strongly supports the view that the interference answered a pressing social need and was not based on mere speculation. In this wartime geopolitical context, and given the limited nature of the measure, I predict no violation of Article 10 in respect of the second applicant either."
+    },
+    {
+      "8. Overall conclusion": "While the restrictions touched political expression and therefore required careful scrutiny, the domestic authorities relied on a sufficiently precise legal basis, pursued legitimate aims, and provided relevant and sufficient reasons tied to the applicants’ actual messages, the organisers’ conduct, and the concrete security context in 2014 Latvia (see paragraphs 18-24, 29-33, 36-50). The better prediction is that the Court would find no violation of Article 10."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"1. Interference with Article 10\": \"Both applicants were prevented from conveying their messages through planned public events, so there was an interference with their freedom of expression, regardless of the domestic characterisation of the measures as assembly restrictions (see paragraphs 16-24 and 35-41). In the second applicant’s case, the later tolerance of a smaller picket did not remove the prior restriction on the intended form, scale and visibility of her expression (see paragraph 42).\"\n    },\n    {\n      \"2. Lawfulness and legitimate aims\": \"The interference had a clear basis in domestic law, notably sections 10, 15 and 15(1) of the Law on Demonstrations, Marches and Pickets, which allowed a ban where an event endangered the democratic order, public safety or the rights of others, or promoted war propaganda or hatred (see paragraphs 56-59). The domestic authorities expressly relied on public safety, public order, national security and protection of the democratic order (see paragraphs 20-24 and 38-41). On the facts, those aims fall within Article 10 § 2.\"\n    },\n    {\n      \"3. General proportionality framework\": \"The applicants’ intended speech concerned political and identity issues and therefore ordinarily attracts strong protection. That said, the Court gives reduced protection where expression is closely linked to hatred, glorification of unlawful violence, or anti-democratic aims (see no. 45581/15). The context was exceptionally sensitive: Russia’s actions in Crimea and eastern Ukraine had already produced acute security concerns in Latvia, including concern about the instrumentalisation of Russian-compatriot rhetoric and information warfare (see paragraphs 11, 34, 62-63; see nos. 20958/14, 38334/18, 8019/16). The key question is therefore whether the domestic courts gave relevant and sufficient reasons showing a pressing social need.\"\n    },\n    {\n      \"4. First applicant: nature of the message and risks identified\": \"For the association Rodina, the domestic courts did not rely on abstract disagreement with a pro-Russian opinion. They examined the actual promotional videos and found war scenes, rifle-shot sounds, Cossack imagery, and slogans such as 'Glory to the Baltic Russian land', 'Riga – our city; Latvia – our country', and 'Russians do not give up' (see paragraph 29). They also noted that the publicly disseminated message did not match the formal explanation that the march was about 'Russian schools' (see paragraphs 16, 21, 29-30). Combined with intelligence about participation by a Cossack association linked to Russian interests and the risk of radicalised attendees amid a bomb threat and large 9 May gatherings, the authorities considered that the real aim was ethnic mobilisation and tension rather than peaceful public debate (see paragraphs 18-24, 30-31).\"\n    },\n    {\n      \"5. First applicant: sufficiency of reasons and proportionality\": \"There are factors favouring the first applicant, especially the absence of prior serious incidents at earlier events and the importance of protecting offensive or unsettling political speech (see paragraphs 13-15, 25, 32). But the domestic courts directly addressed those points and explained why 2014 was materially different because of the conflict in Ukraine and the changed social climate in Latvia (see paragraphs 19, 26, 30-33). They also considered less restrictive options and concluded that changing time, place or form would not neutralise the identified risks (see paragraphs 24 and 31). Given the specific content used by the organiser itself, the live security assessment, and the absence of any criminal conviction or damages, the interference appears proportionate. I therefore predict no violation of Article 10 in respect of the first applicant.\"\n    },\n    {\n      \"6. Second applicant: evidence of the event’s real purpose\": \"The case against the second applicant is stronger. Although the declared aim was to 'stop the war in south-east Ukraine' (see paragraph 35), the authorities obtained public and security information showing that B.A. was the real driving force behind the event, that he supported the separatist entities in eastern Ukraine, and that he publicly framed the demonstration as a demand to recognise the 'DPR' and 'LPR' and oppose the 'war in Novorossiya' (see paragraphs 36-40). The domestic court also relied on information that B.A. had travelled to Ukraine, engaged with unlawful armed structures, and faced criminal proceedings in Latvia for violent anti-State incitement (see paragraph 47).\"\n    },\n    {\n      \"7. Second applicant: necessity and later confirmation of the risk\": \"The domestic courts were entitled to treat the stated peaceful aim with caution because the organiser never clearly distanced herself from B.A.’s activities and acknowledged his role in promoting the event (see paragraph 37). Critically, the smaller picket actually held after the ban confirmed the authorities’ prediction: participants, including the second applicant and B.A., displayed separatist symbols and posters calling for recognition of the 'DPR' and 'LPR' (see paragraph 42). That later conduct strongly supports the view that the interference answered a pressing social need and was not based on mere speculation. In this wartime geopolitical context, and given the limited nature of the measure, I predict no violation of Article 10 in respect of the second applicant either.\"\n    },\n    {\n      \"8. Overall conclusion\": \"While the restrictions touched political expression and therefore required careful scrutiny, the domestic authorities relied on a sufficiently precise legal basis, pursued legitimate aims, and provided relevant and sufficient reasons tied to the applicants’ actual messages, the organisers’ conduct, and the concrete security context in 2014 Latvia (see paragraphs 18-24, 29-33, 36-50). The better prediction is that the Court would find no violation of Article 10.\"\n    }\n  ],\n  \"violation\": \"no\"\n}",
+  "usage": {
+    "completion_tokens": 6504,
+    "prompt_tokens": 16536,
+    "total_tokens": 23040,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 5256,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.1389,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.1389,
+      "upstream_inference_prompt_cost": 0.04134,
+      "upstream_inference_completions_cost": 0.09756
+    }
+  },
+  "citations": [
+    "45581/15",
+    "20958/14",
+    "38334/18",
+    "8019/16"
+  ],
+  "ref_paragraphs": [
+    11,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    56,
+    57,
+    58,
+    59,
+    62,
+    63
+  ]
+}

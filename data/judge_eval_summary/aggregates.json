@@ -1,0 +1,596 @@
+{
+  "instruction": {
+    "n_observations": 156,
+    "models": [
+      "claude",
+      "deepseek",
+      "gpt5.5"
+    ],
+    "pooled": {
+      "step_1.occurrence": {
+        "mean": 1.0,
+        "std": 0.0,
+        "n": 156
+      },
+      "step_2.occurrence": {
+        "mean": 1.0,
+        "std": 0.0,
+        "n": 156
+      },
+      "step_3.occurrence": {
+        "mean": 1.0,
+        "std": 0.0,
+        "n": 156
+      },
+      "step_4.occurrence": {
+        "mean": 1.0,
+        "std": 0.0,
+        "n": 156
+      },
+      "step_1.comprehensiveness": {
+        "mean": 4.371794871794871,
+        "std": 0.6741106324244748,
+        "n": 156
+      },
+      "step_2.comprehensiveness": {
+        "mean": 4.0,
+        "std": 0.915810939779251,
+        "n": 156
+      },
+      "step_3.comprehensiveness": {
+        "mean": 4.006410256410256,
+        "std": 0.8462196380166884,
+        "n": 156
+      },
+      "step_4.comprehensiveness": {
+        "mean": 4.153846153846154,
+        "std": 0.7717081694263093,
+        "n": 156
+      },
+      "overall_conciseness": {
+        "mean": 4.487179487179487,
+        "std": 0.5386623754015902,
+        "n": 156
+      }
+    },
+    "per_model": {
+      "claude": {
+        "step_1.occurrence": {
+          "mean": 1.0,
+          "std": 0.0,
+          "n": 52
+        },
+        "step_2.occurrence": {
+          "mean": 1.0,
+          "std": 0.0,
+          "n": 52
+        },
+        "step_3.occurrence": {
+          "mean": 1.0,
+          "std": 0.0,
+          "n": 52
+        },
+        "step_4.occurrence": {
+          "mean": 1.0,
+          "std": 0.0,
+          "n": 52
+        },
+        "step_1.comprehensiveness": {
+          "mean": 4.076923076923077,
+          "std": 0.3340866299625872,
+          "n": 52
+        },
+        "step_2.comprehensiveness": {
+          "mean": 3.9038461538461537,
+          "std": 0.45415793161373075,
+          "n": 52
+        },
+        "step_3.comprehensiveness": {
+          "mean": 3.730769230769231,
+          "std": 0.44788761788017434,
+          "n": 52
+        },
+        "step_4.comprehensiveness": {
+          "mean": 4.153846153846154,
+          "std": 0.53813823519705,
+          "n": 52
+        },
+        "overall_conciseness": {
+          "mean": 4.038461538461538,
+          "std": 0.19418390934515434,
+          "n": 52
+        }
+      },
+      "deepseek": {
+        "step_1.occurrence": {
+          "mean": 1.0,
+          "std": 0.0,
+          "n": 52
+        },
+        "step_2.occurrence": {
+          "mean": 1.0,
+          "std": 0.0,
+          "n": 52
+        },
+        "step_3.occurrence": {
+          "mean": 1.0,
+          "std": 0.0,
+          "n": 52
+        },
+        "step_4.occurrence": {
+          "mean": 1.0,
+          "std": 0.0,
+          "n": 52
+        },
+        "step_1.comprehensiveness": {
+          "mean": 4.461538461538462,
+          "std": 0.8034615908078426,
+          "n": 52
+        },
+        "step_2.comprehensiveness": {
+          "mean": 4.115384615384615,
+          "std": 1.0223741334649858,
+          "n": 52
+        },
+        "step_3.comprehensiveness": {
+          "mean": 4.115384615384615,
+          "std": 0.983268781274612,
+          "n": 52
+        },
+        "step_4.comprehensiveness": {
+          "mean": 4.365384615384615,
+          "std": 0.8638456233234868,
+          "n": 52
+        },
+        "overall_conciseness": {
+          "mean": 4.923076923076923,
+          "std": 0.269069117598525,
+          "n": 52
+        }
+      },
+      "gpt5.5": {
+        "step_1.occurrence": {
+          "mean": 1.0,
+          "std": 0.0,
+          "n": 52
+        },
+        "step_2.occurrence": {
+          "mean": 1.0,
+          "std": 0.0,
+          "n": 52
+        },
+        "step_3.occurrence": {
+          "mean": 1.0,
+          "std": 0.0,
+          "n": 52
+        },
+        "step_4.occurrence": {
+          "mean": 1.0,
+          "std": 0.0,
+          "n": 52
+        },
+        "step_1.comprehensiveness": {
+          "mean": 4.576923076923077,
+          "std": 0.6958181486046493,
+          "n": 52
+        },
+        "step_2.comprehensiveness": {
+          "mean": 3.980769230769231,
+          "std": 1.128774880131146,
+          "n": 52
+        },
+        "step_3.comprehensiveness": {
+          "mean": 4.173076923076923,
+          "std": 0.9439415453435879,
+          "n": 52
+        },
+        "step_4.comprehensiveness": {
+          "mean": 3.9423076923076925,
+          "std": 0.8263660476118017,
+          "n": 52
+        },
+        "overall_conciseness": {
+          "mean": 4.5,
+          "std": 0.6103679378930738,
+          "n": 52
+        }
+      }
+    }
+  },
+  "non_curated": {
+    "n_observations": 156,
+    "models": [
+      "claude",
+      "deepseek",
+      "gpt5.5"
+    ],
+    "pooled": {
+      "step_1.occurrence": {
+        "mean": 0.9615384615384616,
+        "std": 0.1929270423565773,
+        "n": 156
+      },
+      "step_2.occurrence": {
+        "mean": 0.8205128205128205,
+        "std": 0.38499567634236614,
+        "n": 156
+      },
+      "step_3.occurrence": {
+        "mean": 0.9230769230769231,
+        "std": 0.26732755161246785,
+        "n": 156
+      },
+      "step_4.occurrence": {
+        "mean": 0.9615384615384616,
+        "std": 0.1929270423565773,
+        "n": 156
+      },
+      "step_1.comprehensiveness": {
+        "mean": 4.044871794871795,
+        "std": 1.097463049376937,
+        "n": 156
+      },
+      "step_2.comprehensiveness": {
+        "mean": 2.8653846153846154,
+        "std": 1.5328090951205786,
+        "n": 156
+      },
+      "step_3.comprehensiveness": {
+        "mean": 3.08974358974359,
+        "std": 1.3313674506567754,
+        "n": 156
+      },
+      "step_4.comprehensiveness": {
+        "mean": 4.4423076923076925,
+        "std": 1.1429468681545603,
+        "n": 156
+      },
+      "overall_conciseness": {
+        "mean": 3.826923076923077,
+        "std": 0.9446860652018747,
+        "n": 156
+      }
+    },
+    "per_model": {
+      "gpt5.5": {
+        "step_1.occurrence": {
+          "mean": 0.9615384615384616,
+          "std": 0.19418390934515434,
+          "n": 52
+        },
+        "step_2.occurrence": {
+          "mean": 0.8076923076923077,
+          "std": 0.3979585917202717,
+          "n": 52
+        },
+        "step_3.occurrence": {
+          "mean": 0.9615384615384616,
+          "std": 0.19418390934515434,
+          "n": 52
+        },
+        "step_4.occurrence": {
+          "mean": 0.9615384615384616,
+          "std": 0.19418390934515434,
+          "n": 52
+        },
+        "step_1.comprehensiveness": {
+          "mean": 4.346153846153846,
+          "std": 1.1182026086119123,
+          "n": 52
+        },
+        "step_2.comprehensiveness": {
+          "mean": 3.076923076923077,
+          "std": 1.6668174894050114,
+          "n": 52
+        },
+        "step_3.comprehensiveness": {
+          "mean": 3.5961538461538463,
+          "std": 1.3322488047763654,
+          "n": 52
+        },
+        "step_4.comprehensiveness": {
+          "mean": 4.230769230769231,
+          "std": 1.181812908045485,
+          "n": 52
+        },
+        "overall_conciseness": {
+          "mean": 3.923076923076923,
+          "std": 0.6213885099044939,
+          "n": 52
+        }
+      },
+      "claude": {
+        "step_1.occurrence": {
+          "mean": 0.9615384615384616,
+          "std": 0.19418390934515434,
+          "n": 52
+        },
+        "step_2.occurrence": {
+          "mean": 0.8653846153846154,
+          "std": 0.3446422500840349,
+          "n": 52
+        },
+        "step_3.occurrence": {
+          "mean": 0.9230769230769231,
+          "std": 0.269069117598525,
+          "n": 52
+        },
+        "step_4.occurrence": {
+          "mean": 0.9615384615384616,
+          "std": 0.19418390934515434,
+          "n": 52
+        },
+        "step_1.comprehensiveness": {
+          "mean": 3.8461538461538463,
+          "std": 0.9369247858278927,
+          "n": 52
+        },
+        "step_2.comprehensiveness": {
+          "mean": 2.8846153846153846,
+          "std": 1.3526132463747633,
+          "n": 52
+        },
+        "step_3.comprehensiveness": {
+          "mean": 2.75,
+          "std": 0.9676127891899329,
+          "n": 52
+        },
+        "step_4.comprehensiveness": {
+          "mean": 4.653846153846154,
+          "std": 1.007513253639587,
+          "n": 52
+        },
+        "overall_conciseness": {
+          "mean": 3.173076923076923,
+          "std": 0.7335424081503759,
+          "n": 52
+        }
+      },
+      "deepseek": {
+        "step_1.occurrence": {
+          "mean": 0.9615384615384616,
+          "std": 0.19418390934515434,
+          "n": 52
+        },
+        "step_2.occurrence": {
+          "mean": 0.7884615384615384,
+          "std": 0.41238371915612493,
+          "n": 52
+        },
+        "step_3.occurrence": {
+          "mean": 0.8846153846153846,
+          "std": 0.3226025390322358,
+          "n": 52
+        },
+        "step_4.occurrence": {
+          "mean": 0.9615384615384616,
+          "std": 0.19418390934515434,
+          "n": 52
+        },
+        "step_1.comprehensiveness": {
+          "mean": 3.9423076923076925,
+          "std": 1.17845797446779,
+          "n": 52
+        },
+        "step_2.comprehensiveness": {
+          "mean": 2.6346153846153846,
+          "std": 1.5596486048911995,
+          "n": 52
+        },
+        "step_3.comprehensiveness": {
+          "mean": 2.923076923076923,
+          "std": 1.506146281546981,
+          "n": 52
+        },
+        "step_4.comprehensiveness": {
+          "mean": 4.4423076923076925,
+          "std": 1.211278073002127,
+          "n": 52
+        },
+        "overall_conciseness": {
+          "mean": 4.384615384615385,
+          "std": 1.0127393670836666,
+          "n": 52
+        }
+      }
+    }
+  },
+  "gpt_assisted": {
+    "n_observations": 156,
+    "models": [
+      "claude",
+      "deepseek",
+      "gpt5.5"
+    ],
+    "pooled": {
+      "step_1.occurrence": {
+        "mean": 1.0,
+        "std": 0.0,
+        "n": 156
+      },
+      "step_2.occurrence": {
+        "mean": 1.0,
+        "std": 0.0,
+        "n": 156
+      },
+      "step_3.occurrence": {
+        "mean": 0.9871794871794872,
+        "std": 0.11286186173625715,
+        "n": 156
+      },
+      "step_4.occurrence": {
+        "mean": 0.9807692307692307,
+        "std": 0.13777746649199518,
+        "n": 156
+      },
+      "step_1.comprehensiveness": {
+        "mean": 4.333333333333333,
+        "std": 0.6459135399380236,
+        "n": 156
+      },
+      "step_2.comprehensiveness": {
+        "mean": 3.8205128205128207,
+        "std": 0.9050908312085588,
+        "n": 156
+      },
+      "step_3.comprehensiveness": {
+        "mean": 3.4423076923076925,
+        "std": 0.9918401576176613,
+        "n": 156
+      },
+      "step_4.comprehensiveness": {
+        "mean": 4.384615384615385,
+        "std": 0.946719554901426,
+        "n": 156
+      },
+      "overall_conciseness": {
+        "mean": 3.9166666666666665,
+        "std": 0.7445139859457424,
+        "n": 156
+      }
+    },
+    "per_model": {
+      "gpt5.5": {
+        "step_1.occurrence": {
+          "mean": 1.0,
+          "std": 0.0,
+          "n": 52
+        },
+        "step_2.occurrence": {
+          "mean": 1.0,
+          "std": 0.0,
+          "n": 52
+        },
+        "step_3.occurrence": {
+          "mean": 1.0,
+          "std": 0.0,
+          "n": 52
+        },
+        "step_4.occurrence": {
+          "mean": 1.0,
+          "std": 0.0,
+          "n": 52
+        },
+        "step_1.comprehensiveness": {
+          "mean": 4.615384615384615,
+          "std": 0.6903777355896468,
+          "n": 52
+        },
+        "step_2.comprehensiveness": {
+          "mean": 3.8461538461538463,
+          "std": 1.1094003924504583,
+          "n": 52
+        },
+        "step_3.comprehensiveness": {
+          "mean": 3.769230769230769,
+          "std": 1.0022598898877617,
+          "n": 52
+        },
+        "step_4.comprehensiveness": {
+          "mean": 4.211538461538462,
+          "std": 0.8930348885778174,
+          "n": 52
+        },
+        "overall_conciseness": {
+          "mean": 3.8846153846153846,
+          "std": 0.6152903396865693,
+          "n": 52
+        }
+      },
+      "claude": {
+        "step_1.occurrence": {
+          "mean": 1.0,
+          "std": 0.0,
+          "n": 52
+        },
+        "step_2.occurrence": {
+          "mean": 1.0,
+          "std": 0.0,
+          "n": 52
+        },
+        "step_3.occurrence": {
+          "mean": 1.0,
+          "std": 0.0,
+          "n": 52
+        },
+        "step_4.occurrence": {
+          "mean": 0.9807692307692307,
+          "std": 0.1386750490563073,
+          "n": 52
+        },
+        "step_1.comprehensiveness": {
+          "mean": 4.076923076923077,
+          "std": 0.33408662996258726,
+          "n": 52
+        },
+        "step_2.comprehensiveness": {
+          "mean": 3.730769230769231,
+          "std": 0.6298267615963346,
+          "n": 52
+        },
+        "step_3.comprehensiveness": {
+          "mean": 3.1346153846153846,
+          "std": 0.595039829078731,
+          "n": 52
+        },
+        "step_4.comprehensiveness": {
+          "mean": 4.480769230769231,
+          "std": 0.8742590053562248,
+          "n": 52
+        },
+        "overall_conciseness": {
+          "mean": 3.3653846153846154,
+          "std": 0.48623588860399414,
+          "n": 52
+        }
+      },
+      "deepseek": {
+        "step_1.occurrence": {
+          "mean": 1.0,
+          "std": 0.0,
+          "n": 52
+        },
+        "step_2.occurrence": {
+          "mean": 1.0,
+          "std": 0.0,
+          "n": 52
+        },
+        "step_3.occurrence": {
+          "mean": 0.9615384615384616,
+          "std": 0.19418390934515434,
+          "n": 52
+        },
+        "step_4.occurrence": {
+          "mean": 0.9615384615384616,
+          "std": 0.1941839093451543,
+          "n": 52
+        },
+        "step_1.comprehensiveness": {
+          "mean": 4.3076923076923075,
+          "std": 0.7286426149573088,
+          "n": 52
+        },
+        "step_2.comprehensiveness": {
+          "mean": 3.8846153846153846,
+          "std": 0.9215044424232208,
+          "n": 52
+        },
+        "step_3.comprehensiveness": {
+          "mean": 3.423076923076923,
+          "std": 1.1938757751608151,
+          "n": 52
+        },
+        "step_4.comprehensiveness": {
+          "mean": 4.461538461538462,
+          "std": 1.0564746864916295,
+          "n": 52
+        },
+        "overall_conciseness": {
+          "mean": 4.5,
+          "std": 0.6416889479197478,
+          "n": 52
+        }
+      }
+    }
+  }
+}

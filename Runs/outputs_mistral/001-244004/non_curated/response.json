@@ -1,0 +1,69 @@
+{
+  "item_id": "001-244004",
+  "case_name": "CASE OF RODINA AND BORISOVA v. LATVIA",
+  "case_number": "(Applications nos. 2623/16 and 2299/16)",
+  "date": "10 July 2025",
+  "prompt_type": "non_curated",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Interference with Article 10": "The bans on the demonstrations and marches imposed by Riga City Council and upheld by the domestic courts constituted an interference with the applicants’ right to freedom of expression under Article 10 of the Convention. This right encompasses the freedom to impart information and ideas, including through public assemblies (see paragraph 20, 23, 38, 40)."
+    },
+    {
+      "Prescribed by law": "The interference was based on the Law on Demonstrations, Marches and Pickets (see paragraphs 55-58), which provides a clear legal framework for restrictions on public assemblies. The relevant provisions were publicly accessible and sufficiently precise, satisfying the 'prescribed by law' requirement under Article 10(2)."
+    },
+    {
+      "Legitimate aim": "The domestic authorities pursued legitimate aims under Article 10(2), including the protection of national security, public safety, and the democratic order (see paragraphs 20, 23, 38, 40). The prevention of disorder and the protection of the rights of others are recognized as valid grounds for restricting freedom of expression in the Court’s jurisprudence."
+    },
+    {
+      "Necessity in a democratic society – General standards": "Under the Court’s jurisprudence, any restriction on freedom of expression must be 'necessary in a democratic society,' meaning it must respond to a pressing social need and be proportionate to the legitimate aim pursued (see no. 25817/04, no. 25803/04). Political speech, especially on matters of public interest, enjoys enhanced protection and requires particularly convincing justification for restrictions (see no. 41462/17). Authorities must also demonstrate that less restrictive measures would be insufficient to address the concerns (see no. 31475/10)."
+    },
+    {
+      "Context of heightened tension": "The domestic authorities emphasized the geopolitical context of Russia’s military actions in Ukraine in 2014, which they argued heightened sensitivities around issues of national identity and sovereignty in Latvia (see paragraphs 11, 18, 26, 36, 39). While contextual factors may justify stricter scrutiny, the Court has held that even in times of tension, restrictions on fundamental rights must be carefully assessed and based on real, not hypothetical, risks (see no. 29580/12)."
+    },
+    {
+      "First applicant: Nature of the expression and prior conduct": "The first applicant, Rodina, sought to organize events with a stated aim of supporting Russian-language schools, a matter of legitimate public debate (see paragraph 16). The videos promoting the events contained provocative but non-violent slogans such as 'Glory to the heroes!' and 'Riga – our city; Latvia – our country' (see paragraph 29). Critically, the first applicant had organized similar events in previous years without incident (see paragraph 15). The domestic courts’ conclusion that the 2014 events would 'divide society' and promote ethnic tension relied heavily on the Security Police’s interpretation of the applicants’ motives (see paragraphs 18, 26, 30), rather than on concrete evidence of imminent violence or unlawful acts."
+    },
+    {
+      "First applicant: Proportionality of the ban": "The domestic authorities banned the events entirely despite initially considering less restrictive measures, such as limiting sound amplification or adjusting the venue (see paragraph 17). They ultimately concluded that no alternative could mitigate the perceived risks (see paragraph 24). However, the Court has repeatedly held that total bans on peaceful assemblies are rarely proportionate when less intrusive means—such as imposing conditions on the event or ensuring a police presence—could address legitimate concerns (see no. 23086/08). The absence of prior incidents and the lack of explicit incitement to violence or hatred in the applicants’ materials weigh against the necessity of a blanket prohibition."
+    },
+    {
+      "Second applicant: Discrepancy between stated and actual aims": "The second applicant requested authorization for a demonstration to 'call for the end of the war in south-east Ukraine' (see paragraph 35). However, the domestic authorities determined that the actual aim, as promoted by B.A. (a key organizer), was to demand recognition of the self-proclaimed 'Donetsk People’s Republic' and 'Lugansk People’s Republic' (see paragraphs 36, 39, 47). While this objective conflicts with Latvia’s official position and international law, the fact remains that a smaller picket with identical content—including posters calling for recognition of these entities—took place without intervention or incident (see paragraph 42). This demonstrates that the expression could occur peacefully, undermining the argument that a prior ban was necessary."
+    },
+    {
+      "Second applicant: Insufficiency of less restrictive measures": "The domestic authorities claimed that even altering the time, venue, or nature of the event would not prevent 'unwanted side effects' or threats to the democratic order (see paragraphs 40, 41). Yet, the eventual picket—held at the same location and with similar messaging—proceeded without disorder (see paragraph 42). The Court has emphasized that authorities must exhaust less restrictive alternatives before resorting to outright prohibitions (see no. 45581/15). Here, the lack of any disturbance during the actual gathering suggests that conditional authorization or post-facto sanctions for any unlawful conduct would have been sufficient."
+    },
+    {
+      "Overall proportionality assessment": "In both cases, the restrictions were content-based, targeting the political messages of the applicants rather than addressing imminent violence or unlawful acts. The Court has consistently protected even controversial political expression, as a cornerstone of democratic pluralism (see no. 58278/00). While the domestic authorities cited national security and public order concerns, the actual evidence of risk was largely speculative. The first applicant’s history of peaceful assemblies and the second applicant’s ability to hold a picket without incident demonstrate that the total bans were not the least restrictive means available. Consequently, the interference with the applicants’ Article 10 rights cannot be regarded as necessary in a democratic society."
+    }
+  ],
+  "raw_content": "```json\n{\n  \"assessment\": [\n    {\"Interference with Article 10\": \"The bans on the demonstrations and marches imposed by Riga City Council and upheld by the domestic courts constituted an interference with the applicants’ right to freedom of expression under Article 10 of the Convention. This right encompasses the freedom to impart information and ideas, including through public assemblies (see paragraph 20, 23, 38, 40).\"},\n\n    {\"Prescribed by law\": \"The interference was based on the Law on Demonstrations, Marches and Pickets (see paragraphs 55-58), which provides a clear legal framework for restrictions on public assemblies. The relevant provisions were publicly accessible and sufficiently precise, satisfying the 'prescribed by law' requirement under Article 10(2).\"},\n\n    {\"Legitimate aim\": \"The domestic authorities pursued legitimate aims under Article 10(2), including the protection of national security, public safety, and the democratic order (see paragraphs 20, 23, 38, 40). The prevention of disorder and the protection of the rights of others are recognized as valid grounds for restricting freedom of expression in the Court’s jurisprudence.\"},\n\n    {\"Necessity in a democratic society – General standards\": \"Under the Court’s jurisprudence, any restriction on freedom of expression must be 'necessary in a democratic society,' meaning it must respond to a pressing social need and be proportionate to the legitimate aim pursued (see no. 25817/04, no. 25803/04). Political speech, especially on matters of public interest, enjoys enhanced protection and requires particularly convincing justification for restrictions (see no. 41462/17). Authorities must also demonstrate that less restrictive measures would be insufficient to address the concerns (see no. 31475/10).\"},\n\n    {\"Context of heightened tension\": \"The domestic authorities emphasized the geopolitical context of Russia’s military actions in Ukraine in 2014, which they argued heightened sensitivities around issues of national identity and sovereignty in Latvia (see paragraphs 11, 18, 26, 36, 39). While contextual factors may justify stricter scrutiny, the Court has held that even in times of tension, restrictions on fundamental rights must be carefully assessed and based on real, not hypothetical, risks (see no. 29580/12).\"},\n\n    {\"First applicant: Nature of the expression and prior conduct\": \"The first applicant, Rodina, sought to organize events with a stated aim of supporting Russian-language schools, a matter of legitimate public debate (see paragraph 16). The videos promoting the events contained provocative but non-violent slogans such as 'Glory to the heroes!' and 'Riga – our city; Latvia – our country' (see paragraph 29). Critically, the first applicant had organized similar events in previous years without incident (see paragraph 15). The domestic courts’ conclusion that the 2014 events would 'divide society' and promote ethnic tension relied heavily on the Security Police’s interpretation of the applicants’ motives (see paragraphs 18, 26, 30), rather than on concrete evidence of imminent violence or unlawful acts.\"},\n\n    {\"First applicant: Proportionality of the ban\": \"The domestic authorities banned the events entirely despite initially considering less restrictive measures, such as limiting sound amplification or adjusting the venue (see paragraph 17). They ultimately concluded that no alternative could mitigate the perceived risks (see paragraph 24). However, the Court has repeatedly held that total bans on peaceful assemblies are rarely proportionate when less intrusive means—such as imposing conditions on the event or ensuring a police presence—could address legitimate concerns (see no. 23086/08). The absence of prior incidents and the lack of explicit incitement to violence or hatred in the applicants’ materials weigh against the necessity of a blanket prohibition.\"},\n\n    {\"Second applicant: Discrepancy between stated and actual aims\": \"The second applicant requested authorization for a demonstration to 'call for the end of the war in south-east Ukraine' (see paragraph 35). However, the domestic authorities determined that the actual aim, as promoted by B.A. (a key organizer), was to demand recognition of the self-proclaimed 'Donetsk People’s Republic' and 'Lugansk People’s Republic' (see paragraphs 36, 39, 47). While this objective conflicts with Latvia’s official position and international law, the fact remains that a smaller picket with identical content—including posters calling for recognition of these entities—took place without intervention or incident (see paragraph 42). This demonstrates that the expression could occur peacefully, undermining the argument that a prior ban was necessary.\"},\n\n    {\"Second applicant: Insufficiency of less restrictive measures\": \"The domestic authorities claimed that even altering the time, venue, or nature of the event would not prevent 'unwanted side effects' or threats to the democratic order (see paragraphs 40, 41). Yet, the eventual picket—held at the same location and with similar messaging—proceeded without disorder (see paragraph 42). The Court has emphasized that authorities must exhaust less restrictive alternatives before resorting to outright prohibitions (see no. 45581/15). Here, the lack of any disturbance during the actual gathering suggests that conditional authorization or post-facto sanctions for any unlawful conduct would have been sufficient.\"},\n\n    {\"Overall proportionality assessment\": \"In both cases, the restrictions were content-based, targeting the political messages of the applicants rather than addressing imminent violence or unlawful acts. The Court has consistently protected even controversial political expression, as a cornerstone of democratic pluralism (see no. 58278/00). While the domestic authorities cited national security and public order concerns, the actual evidence of risk was largely speculative. The first applicant’s history of peaceful assemblies and the second applicant’s ability to hold a picket without incident demonstrate that the total bans were not the least restrictive means available. Consequently, the interference with the applicants’ Article 10 rights cannot be regarded as necessary in a democratic society.\"}\n  ],\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 11507,
+    "prompt_tokens": 16494,
+    "total_tokens": 28001,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 11214,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.1110435,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.1110435,
+      "upstream_inference_prompt_cost": 0.024741,
+      "upstream_inference_completions_cost": 0.0863025
+    }
+  }
+}

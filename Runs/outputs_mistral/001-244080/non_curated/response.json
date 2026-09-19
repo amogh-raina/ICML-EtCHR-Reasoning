@@ -1,0 +1,47 @@
+{
+  "item_id": "001-244080",
+  "case_name": "CASE OF MZHAVANADZE AND RUKHADZE v. GEORGIA",
+  "case_number": "(Applications nos. 29760/21 and 33931/21)",
+  "date": "15 July 2025",
+  "prompt_type": "non_curated",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "11",
+    "11-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": {
+    "Existence of interference with the right to freedom of expression": "The applicants’ arrest, administrative-offence proceedings, and convictions for their conduct during the 9 November 2020 demonstration – specifically their alleged obstruction of a police vehicle and disobedience to police orders (see paragraphs 11, 12, 17, and 26) – constituted an interference with their right to freedom of expression under Article 10 of the Convention. Their actions were directly linked to a political protest denouncing the parliamentary election results and the newly introduced COVID-19 curfew, which falls within the ambit of Article 10 as a form of public debate on matters of general interest (see paragraph 10).",
+    "Interference prescribed by law": "The interference was based on Articles 166 and 173 of the Georgian Code of Administrative Offences, which criminalise minor hooliganism and disobedience to lawful police orders, respectively (see paragraph 32). The domestic legal framework was thus sufficiently accessible and foreseeable, satisfying the ‘prescribed by law’ requirement under Article 10 § 2.",
+    "Legitimate aim of the interference": "The interference pursued the legitimate aims of preventing disorder and ensuring public safety. The applicants’ alleged conduct – obstructing a police vehicle and refusing to comply with police orders to clear the road – was addressed to mitigate disruptions during a large-scale demonstration where tensions were heightened (see paragraphs 7, 19, and 26). These aims fall under the exceptions permitted by Article 10 § 2, namely the prevention of disorder and the protection of the rights of others.",
+    "Assessment of necessity in a democratic society": "The critical question is whether the interference was ‘necessary in a democratic society.’ In *Steel and Others v. the United Kingdom* (see no. 50841/99), the Court held that restrictions on protest-related expression must be strictly necessary and proportionate, particularly where the conduct in question is non-violent and tied to core political speech. In the present case, the applicants’ actions formed part of a peaceful political protest addressing issues of public concern (see paragraphs 7, 9, and 10). While the domestic courts found that the applicants obstructed a police vehicle and disobeyed orders to clear the road (see paragraph 26), there is no evidence that their conduct was violent or posed an imminent threat to public safety. The domestic legal framework even permits certain road obstructions during assemblies if justified by the number of participants (see paragraph 36), underscoring that such disruptions are not inherently incompatible with the right to protest. The severity of the sanctions – particularly the three-day administrative detention imposed on the first applicant (see paragraph 27) – further suggests a disproportionate response. The lack of compelling justification for such a severe measure, combined with the political and non-violent nature of the applicants’ expression, indicates that the interference was not necessary in a democratic society, as established in *Steel* (see no. 50841/99).",
+    "Summary of proportionality analysis": "Although the interference pursued legitimate aims, the means employed – arrest, conviction, and severe sanctions for non-violent protest conduct – were not proportionate to those aims. The applicants’ expression was directly tied to a political demonstration on matters of public interest, a context in which the Court affords a high level of protection under Article 10. The domestic authorities’ failure to justify the necessity of the interference in light of the peaceful nature of the protest and the lack of alternative, less intrusive measures (see paragraphs 18–26) renders the interference incompatible with the Convention’s standards."
+  },
+  "raw_content": "```json\n{\n  \"assessment\": {\n    \"Existence of interference with the right to freedom of expression\": \"The applicants’ arrest, administrative-offence proceedings, and convictions for their conduct during the 9 November 2020 demonstration – specifically their alleged obstruction of a police vehicle and disobedience to police orders (see paragraphs 11, 12, 17, and 26) – constituted an interference with their right to freedom of expression under Article 10 of the Convention. Their actions were directly linked to a political protest denouncing the parliamentary election results and the newly introduced COVID-19 curfew, which falls within the ambit of Article 10 as a form of public debate on matters of general interest (see paragraph 10).\",\n\n    \"Interference prescribed by law\": \"The interference was based on Articles 166 and 173 of the Georgian Code of Administrative Offences, which criminalise minor hooliganism and disobedience to lawful police orders, respectively (see paragraph 32). The domestic legal framework was thus sufficiently accessible and foreseeable, satisfying the ‘prescribed by law’ requirement under Article 10 § 2.\",\n\n    \"Legitimate aim of the interference\": \"The interference pursued the legitimate aims of preventing disorder and ensuring public safety. The applicants’ alleged conduct – obstructing a police vehicle and refusing to comply with police orders to clear the road – was addressed to mitigate disruptions during a large-scale demonstration where tensions were heightened (see paragraphs 7, 19, and 26). These aims fall under the exceptions permitted by Article 10 § 2, namely the prevention of disorder and the protection of the rights of others.\",\n\n    \"Assessment of necessity in a democratic society\": \"The critical question is whether the interference was ‘necessary in a democratic society.’ In *Steel and Others v. the United Kingdom* (see no. 50841/99), the Court held that restrictions on protest-related expression must be strictly necessary and proportionate, particularly where the conduct in question is non-violent and tied to core political speech. In the present case, the applicants’ actions formed part of a peaceful political protest addressing issues of public concern (see paragraphs 7, 9, and 10). While the domestic courts found that the applicants obstructed a police vehicle and disobeyed orders to clear the road (see paragraph 26), there is no evidence that their conduct was violent or posed an imminent threat to public safety. The domestic legal framework even permits certain road obstructions during assemblies if justified by the number of participants (see paragraph 36), underscoring that such disruptions are not inherently incompatible with the right to protest. The severity of the sanctions – particularly the three-day administrative detention imposed on the first applicant (see paragraph 27) – further suggests a disproportionate response. The lack of compelling justification for such a severe measure, combined with the political and non-violent nature of the applicants’ expression, indicates that the interference was not necessary in a democratic society, as established in *Steel* (see no. 50841/99).\",\n\n    \"Summary of proportionality analysis\": \"Although the interference pursued legitimate aims, the means employed – arrest, conviction, and severe sanctions for non-violent protest conduct – were not proportionate to those aims. The applicants’ expression was directly tied to a political demonstration on matters of public interest, a context in which the Court affords a high level of protection under Article 10. The domestic authorities’ failure to justify the necessity of the interference in light of the peaceful nature of the protest and the lack of alternative, less intrusive measures (see paragraphs 18–26) renders the interference incompatible with the Convention’s standards.\"\n  },\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 5752,
+    "prompt_tokens": 7654,
+    "total_tokens": 13406,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 5381,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.054621,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.054621,
+      "upstream_inference_prompt_cost": 0.011481,
+      "upstream_inference_completions_cost": 0.04314
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "item_id": "001-246134",
+  "case_name": "CASE OF EUROPA WAY S.R.L. v. ITALY",
+  "case_number": "(Application no. 64356/19)",
+  "date": "27 November 2025",
+  "prompt_type": "non_curated",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "1. Article 10 applicability and existence of an interference": "The applicant company operates in the television-broadcasting sector and sought access to a digital terrestrial frequency reserved to new entrants and small operators; it was even the only bidder for frequency A1 in the original procedure (see paragraphs 2, 12 and 13). In the Court’s case-law, access to broadcasting frequencies is a precondition for the effective exercise of freedom to impart information, so licensing and frequency-allocation measures fall within Article 10 (see no. 38433/09; see also no. 32283/04). The annulment of the ongoing call for bids and its replacement by a fee-based auction therefore amounted to an interference with the applicant company’s Article 10 interests (see paragraphs 16-21)."
+    },
+    {
+      "2. Governing principles under Article 10 in the broadcasting field": "Because terrestrial frequencies are scarce public resources, the State has a positive obligation to organise their allocation through a framework capable of guaranteeing pluralism, transparency and protection against arbitrariness. In the audiovisual sector, these safeguards are especially important because undue political influence over market access can directly affect media freedom and pluralism (see no. 38433/09; no. 32283/04). The domestic and EU-law context in the present case also stressed the independence of AGCOM and the need for objective, proportionate, transparent and non-discriminatory allocation criteria (see paragraphs 7-10, 28-30, 51, 55-57)."
+    },
+    {
+      "3. The decisive defect: legislative intervention in an ongoing allocation procedure": "The strongest element pointing to a violation is that, after the original \"beauty contest\" had already begun and after the applicant had been admitted as the sole bidder for A1, the legislature intervened to suspend and then annul that ongoing procedure (see paragraphs 13-17). The CJEU expressly held that the conduct of such a selection procedure belonged to the regulatory task of the independent authority and that the legislature’s annulment of the ongoing process jeopardised that independence; Article 3(3a) of the Framework Directive therefore precluded the annulment (see paragraphs 28-29). For Article 10 purposes, that finding is highly significant: in the media field, mid-stream political replacement of a licensing process undermines foreseeability and the institutional safeguards against State influence which are essential for pluralism."
+    },
+    {
+      "4. Legitimate aims and the State’s margin of appreciation": "The Government’s stated aims - efficient use of spectrum, economic exploitation of frequencies, freeing spectrum for other telecommunications and securing public finances - are capable of being regarded as legitimate in the regulation of broadcasting markets (see paragraphs 16, 25 and 40). Moreover, the CJEU made clear that EU law did not in itself require a free-of-charge procedure and that States retained discretion to choose between free and fee-based models, provided the criteria were objective, transparent, non-discriminatory and proportionate (see paragraph 30). Thus, Article 10 would not be violated merely because Italy preferred an auction model."
+    },
+    {
+      "5. Why the interference nonetheless appears disproportionate": "What makes the case problematic is not the abstract choice of a fee-based model, but the manner in which it was imposed. The change resulted from political objections to awarding frequencies free of charge and a desire to obtain revenue for the State (see paragraphs 14-16 and 25). It occurred after the applicant had already entered the original process and after the regulatory framework had led it to expect that access for new entrants would be assessed on qualitative criteria rather than on the basis of a very high financial bid (see paragraphs 10-13 and 19). The later auction set an opening bid of about EUR 30 million for each multiplex, even though the frequencies concerned were still formally reserved to new entrants and small operators (see paragraph 19). In practice, that substantially altered the conditions of market entry and risked making access depend mainly on financial capacity rather than pluralistic considerations."
+    },
+    {
+      "6. Limits of the subsequent domestic correction": "It is true that the applicant had not yet been awarded a frequency and had received no precise, unconditional assurance that it would necessarily obtain one (see paragraph 31). Those facts weaken any claim to an acquired right. It is also relevant that, after the CJEU judgment, the Consiglio di Stato required AGCOM to reassess the issue independently, and AGCOM later confirmed the replacement of the original process (see paragraphs 32-34 and 39-42). However, that later correction did not fully remove the Article 10 problem. First, the unlawful legislative annulment had already deprived the applicant of participation in the original process for years. Second, AGCOM’s later reasoning expressly stated that it could not disregard the spectrum-management directions and public-finance objective set by the legislature (see paragraph 39), which suggests that the authority’s independence remained constrained in practice. Third, the applicant obtained only limited reimbursement of costs and no redress for the loss of the opportunity to access the market during the relevant period (see paragraphs 18, 35-37)."
+    },
+    {
+      "7. Overall assessment and prediction": "Compared with cases where broadcasters had a clear final entitlement, the applicant’s position was less secure; this points away from an automatic finding of violation. Nevertheless, unlike a neutral redesign of the market adopted before any procedure began, the present case concerns the politically driven cancellation of an ongoing frequency-allocation process in the broadcasting sector, later found contrary to the regulatory authority’s independence, with inadequate remedial consequences for the applicant (see paragraphs 28-29, 32-39). In light of the central importance of independent and non-arbitrary allocation mechanisms for media pluralism under Article 10 (see no. 38433/09; no. 32283/04), the interference appears insufficiently safeguarded and disproportionate. A finding of a violation of Article 10 is therefore more likely than not."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"1. Article 10 applicability and existence of an interference\": \"The applicant company operates in the television-broadcasting sector and sought access to a digital terrestrial frequency reserved to new entrants and small operators; it was even the only bidder for frequency A1 in the original procedure (see paragraphs 2, 12 and 13). In the Court’s case-law, access to broadcasting frequencies is a precondition for the effective exercise of freedom to impart information, so licensing and frequency-allocation measures fall within Article 10 (see no. 38433/09; see also no. 32283/04). The annulment of the ongoing call for bids and its replacement by a fee-based auction therefore amounted to an interference with the applicant company’s Article 10 interests (see paragraphs 16-21).\"\n    },\n    {\n      \"2. Governing principles under Article 10 in the broadcasting field\": \"Because terrestrial frequencies are scarce public resources, the State has a positive obligation to organise their allocation through a framework capable of guaranteeing pluralism, transparency and protection against arbitrariness. In the audiovisual sector, these safeguards are especially important because undue political influence over market access can directly affect media freedom and pluralism (see no. 38433/09; no. 32283/04). The domestic and EU-law context in the present case also stressed the independence of AGCOM and the need for objective, proportionate, transparent and non-discriminatory allocation criteria (see paragraphs 7-10, 28-30, 51, 55-57).\"\n    },\n    {\n      \"3. The decisive defect: legislative intervention in an ongoing allocation procedure\": \"The strongest element pointing to a violation is that, after the original \\\"beauty contest\\\" had already begun and after the applicant had been admitted as the sole bidder for A1, the legislature intervened to suspend and then annul that ongoing procedure (see paragraphs 13-17). The CJEU expressly held that the conduct of such a selection procedure belonged to the regulatory task of the independent authority and that the legislature’s annulment of the ongoing process jeopardised that independence; Article 3(3a) of the Framework Directive therefore precluded the annulment (see paragraphs 28-29). For Article 10 purposes, that finding is highly significant: in the media field, mid-stream political replacement of a licensing process undermines foreseeability and the institutional safeguards against State influence which are essential for pluralism.\"\n    },\n    {\n      \"4. Legitimate aims and the State’s margin of appreciation\": \"The Government’s stated aims - efficient use of spectrum, economic exploitation of frequencies, freeing spectrum for other telecommunications and securing public finances - are capable of being regarded as legitimate in the regulation of broadcasting markets (see paragraphs 16, 25 and 40). Moreover, the CJEU made clear that EU law did not in itself require a free-of-charge procedure and that States retained discretion to choose between free and fee-based models, provided the criteria were objective, transparent, non-discriminatory and proportionate (see paragraph 30). Thus, Article 10 would not be violated merely because Italy preferred an auction model.\"\n    },\n    {\n      \"5. Why the interference nonetheless appears disproportionate\": \"What makes the case problematic is not the abstract choice of a fee-based model, but the manner in which it was imposed. The change resulted from political objections to awarding frequencies free of charge and a desire to obtain revenue for the State (see paragraphs 14-16 and 25). It occurred after the applicant had already entered the original process and after the regulatory framework had led it to expect that access for new entrants would be assessed on qualitative criteria rather than on the basis of a very high financial bid (see paragraphs 10-13 and 19). The later auction set an opening bid of about EUR 30 million for each multiplex, even though the frequencies concerned were still formally reserved to new entrants and small operators (see paragraph 19). In practice, that substantially altered the conditions of market entry and risked making access depend mainly on financial capacity rather than pluralistic considerations.\"\n    },\n    {\n      \"6. Limits of the subsequent domestic correction\": \"It is true that the applicant had not yet been awarded a frequency and had received no precise, unconditional assurance that it would necessarily obtain one (see paragraph 31). Those facts weaken any claim to an acquired right. It is also relevant that, after the CJEU judgment, the Consiglio di Stato required AGCOM to reassess the issue independently, and AGCOM later confirmed the replacement of the original process (see paragraphs 32-34 and 39-42). However, that later correction did not fully remove the Article 10 problem. First, the unlawful legislative annulment had already deprived the applicant of participation in the original process for years. Second, AGCOM’s later reasoning expressly stated that it could not disregard the spectrum-management directions and public-finance objective set by the legislature (see paragraph 39), which suggests that the authority’s independence remained constrained in practice. Third, the applicant obtained only limited reimbursement of costs and no redress for the loss of the opportunity to access the market during the relevant period (see paragraphs 18, 35-37).\"\n    },\n    {\n      \"7. Overall assessment and prediction\": \"Compared with cases where broadcasters had a clear final entitlement, the applicant’s position was less secure; this points away from an automatic finding of violation. Nevertheless, unlike a neutral redesign of the market adopted before any procedure began, the present case concerns the politically driven cancellation of an ongoing frequency-allocation process in the broadcasting sector, later found contrary to the regulatory authority’s independence, with inadequate remedial consequences for the applicant (see paragraphs 28-29, 32-39). In light of the central importance of independent and non-arbitrary allocation mechanisms for media pluralism under Article 10 (see no. 38433/09; no. 32283/04), the interference appears insufficiently safeguarded and disproportionate. A finding of a violation of Article 10 is therefore more likely than not.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 3726,
+    "prompt_tokens": 10701,
+    "total_tokens": 14427,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 2450,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0826425,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0826425,
+      "upstream_inference_prompt_cost": 0.0267525,
+      "upstream_inference_completions_cost": 0.05589
+    }
+  },
+  "citations": [
+    "38433/09",
+    "32283/04"
+  ],
+  "ref_paragraphs": [
+    2,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    25,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    51,
+    55,
+    56,
+    57
+  ]
+}

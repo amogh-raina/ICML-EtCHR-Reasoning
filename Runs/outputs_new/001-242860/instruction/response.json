@@ -1,0 +1,76 @@
+{
+  "item_id": "001-242860",
+  "case_name": "CASE OF TERGEK v. TÜRKİYE",
+  "case_number": "(Application no. 39631/20)",
+  "date": "29 April 2025",
+  "prompt_type": "instruction",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Existence of an interference": "There was an interference with the applicant’s Article 10 rights. The prison authorities first withheld a letter from his sister, including thirty-one pages of internet printouts, on 22 October 2018, and the applicant did not receive them until 25 October 2019 after a successful objection (see paragraphs 5-9). They also withheld a second set of materials sent by his wife, consisting of sixty-one pages of internet printouts, while delivering only the handwritten note and photographs (see paragraphs 10-14). Article 10 protects not only the imparting but also the receipt of information and ideas, including by prisoners, although imprisonment allows wider restrictions than in ordinary situations (see nos. 66400/01 and 21830/09). The delayed delivery of the first materials and the complete refusal of the second clearly affected the applicant’s ability to receive educational and medical information which he said related to physiotherapy and a distance-learning real-estate course (see paragraphs 7 and 12)."
+    },
+    {
+      "Lawfulness of the interference": "The interference had some formal basis in domestic law, since the authorities relied on section 68(3) of Law no. 5275 for both decisions and the enforcement judge later referred, for the second letter, to section 62 of the same Law (see paragraphs 6, 11, 13 and 17-19). However, the quality of the legal basis appears deficient in its application to the present case. For the first letter, the Disciplinary Board used very general formulae about prison security and possible organisational communication, without identifying any concrete passage or making a specific content-based assessment; the enforcement judge later held that approach unlawful (see paragraphs 6-8). For the second letter, the Board relied on a prior abstract decision about risks linked to internet printouts and again did not assess the actual content at all (see paragraph 11). The enforcement judge then shifted the reasoning, saying internet printouts were neither ‘books’ nor ‘correspondence’ because of their unknown origin (see paragraph 13). That combination of generic reasoning, inconsistent legal characterisation, and absence of individual examination points to an arbitrary and insufficiently foreseeable interference, contrary to the Court’s approach to the ‘prescribed by law’ requirement (see nos. 14946/08 and 56925/08). This strongly supports a finding that the interference was not lawful in the Convention sense."
+    },
+    {
+      "Legitimate aims of the interference": "The Government could plausibly argue that the measures pursued the prevention of disorder or crime and the protection of prison security, especially given the applicant’s conviction for membership of the FETÖ/PDY and the prison authorities’ concern that the materials might facilitate communication within that organisation (see paragraphs 4, 6 and 11). Those are legitimate aims under Article 10 § 2. Still, the legitimacy of the aims does not remove the need for an individualised demonstration that these particular materials created such a risk. Here, the authorities never explained why documents said to concern ankle rehabilitation and course preparation genuinely endangered prison order or security (see paragraphs 7 and 12)."
+    },
+    {
+      "Necessary in a democratic society": "The interference does not appear necessary in a democratic society. The domestic authorities did not show a pressing social need supported by relevant and sufficient reasons. The first set of documents was eventually delivered in full after the enforcement judge found the original decision unlawful because it had rested only on a general inspection and not on the actual content (see paragraphs 8-9). That later delivery undermines the claim of any real security risk. As to the second set, the authorities adopted a blanket refusal of internet printouts, without examining whether any page actually contained prohibited material and without considering less restrictive options such as checking, redacting, or withholding only problematic passages (see paragraphs 10-14). The applicant gave concrete and facially legitimate reasons for needing the documents for physiotherapy and education (see paragraphs 7 and 12), and section 62 itself shows special regard for textbooks used in studies (see paragraph 17). The enforcement judge’s reference to access through the prison library was abstract and unsupported by any indication that equivalent materials were available there (see paragraph 13). Finally, the Constitutional Court dismissed the complaint by a formulaic reference to its earlier case-law and did not perform a real balancing exercise (see paragraph 16). In line with the Court’s case-law requiring individualised and proportionate reasons for restricting prisoners’ access to information (see nos. 20233/06, 48876/08 and 21830/09), the measures were disproportionate."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"Existence of an interference\": \"There was an interference with the applicant’s Article 10 rights. The prison authorities first withheld a letter from his sister, including thirty-one pages of internet printouts, on 22 October 2018, and the applicant did not receive them until 25 October 2019 after a successful objection (see paragraphs 5-9). They also withheld a second set of materials sent by his wife, consisting of sixty-one pages of internet printouts, while delivering only the handwritten note and photographs (see paragraphs 10-14). Article 10 protects not only the imparting but also the receipt of information and ideas, including by prisoners, although imprisonment allows wider restrictions than in ordinary situations (see nos. 66400/01 and 21830/09). The delayed delivery of the first materials and the complete refusal of the second clearly affected the applicant’s ability to receive educational and medical information which he said related to physiotherapy and a distance-learning real-estate course (see paragraphs 7 and 12).\"\n    },\n    {\n      \"Lawfulness of the interference\": \"The interference had some formal basis in domestic law, since the authorities relied on section 68(3) of Law no. 5275 for both decisions and the enforcement judge later referred, for the second letter, to section 62 of the same Law (see paragraphs 6, 11, 13 and 17-19). However, the quality of the legal basis appears deficient in its application to the present case. For the first letter, the Disciplinary Board used very general formulae about prison security and possible organisational communication, without identifying any concrete passage or making a specific content-based assessment; the enforcement judge later held that approach unlawful (see paragraphs 6-8). For the second letter, the Board relied on a prior abstract decision about risks linked to internet printouts and again did not assess the actual content at all (see paragraph 11). The enforcement judge then shifted the reasoning, saying internet printouts were neither ‘books’ nor ‘correspondence’ because of their unknown origin (see paragraph 13). That combination of generic reasoning, inconsistent legal characterisation, and absence of individual examination points to an arbitrary and insufficiently foreseeable interference, contrary to the Court’s approach to the ‘prescribed by law’ requirement (see nos. 14946/08 and 56925/08). This strongly supports a finding that the interference was not lawful in the Convention sense.\"\n    },\n    {\n      \"Legitimate aims of the interference\": \"The Government could plausibly argue that the measures pursued the prevention of disorder or crime and the protection of prison security, especially given the applicant’s conviction for membership of the FETÖ/PDY and the prison authorities’ concern that the materials might facilitate communication within that organisation (see paragraphs 4, 6 and 11). Those are legitimate aims under Article 10 § 2. Still, the legitimacy of the aims does not remove the need for an individualised demonstration that these particular materials created such a risk. Here, the authorities never explained why documents said to concern ankle rehabilitation and course preparation genuinely endangered prison order or security (see paragraphs 7 and 12).\"\n    },\n    {\n      \"Necessary in a democratic society\": \"The interference does not appear necessary in a democratic society. The domestic authorities did not show a pressing social need supported by relevant and sufficient reasons. The first set of documents was eventually delivered in full after the enforcement judge found the original decision unlawful because it had rested only on a general inspection and not on the actual content (see paragraphs 8-9). That later delivery undermines the claim of any real security risk. As to the second set, the authorities adopted a blanket refusal of internet printouts, without examining whether any page actually contained prohibited material and without considering less restrictive options such as checking, redacting, or withholding only problematic passages (see paragraphs 10-14). The applicant gave concrete and facially legitimate reasons for needing the documents for physiotherapy and education (see paragraphs 7 and 12), and section 62 itself shows special regard for textbooks used in studies (see paragraph 17). The enforcement judge’s reference to access through the prison library was abstract and unsupported by any indication that equivalent materials were available there (see paragraph 13). Finally, the Constitutional Court dismissed the complaint by a formulaic reference to its earlier case-law and did not perform a real balancing exercise (see paragraph 16). In line with the Court’s case-law requiring individualised and proportionate reasons for restricting prisoners’ access to information (see nos. 20233/06, 48876/08 and 21830/09), the measures were disproportionate.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 2607,
+    "prompt_tokens": 3619,
+    "total_tokens": 6226,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1617,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0481525,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0481525,
+      "upstream_inference_prompt_cost": 0.0090475,
+      "upstream_inference_completions_cost": 0.039105
+    }
+  },
+  "citations": [
+    "66400/01",
+    "21830/09",
+    "14946/08",
+    "56925/08",
+    "20233/06",
+    "48876/08"
+  ],
+  "ref_paragraphs": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    16,
+    17,
+    18,
+    19
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "item_id": "001-246134",
+  "case_name": "CASE OF EUROPA WAY S.R.L. v. ITALY",
+  "case_number": "(Application no. 64356/19)",
+  "date": "27 November 2025",
+  "prompt_type": "instruction",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": {
+    "Existence of an interference": "The annulment of the original “beauty contest” bidding process by Article 3 quinquies of Decree-Law no. 16 of 2012 (see paragraph 16), following its prior suspension (see paragraph 15), directly prevented the applicant company from securing the A1 frequency for which it was the sole bidder (see paragraph 13). As the allocation of broadcasting frequencies is indispensable for a television operator to impart information and ideas to the public, this legislative act constituted a clear interference with the applicant’s right to freedom of expression under Article 10 of the Convention (see, mutatis mutandis, Centro Europa 7 S.r.l. and Di Stefano v. Italy, no. 38433/09).",
+    "Lawfulness of the interference": "The interference was grounded in domestic law, namely Article 3 quinquies of Decree-Law no. 16 of 2 March 2012, converted into Law no. 44 of 26 April 2012, which explicitly annulled the ongoing bidding process (see paragraph 16). This legal basis was acknowledged in Domestic proceedings (see paragraph 24). Therefore, the interference had a foundation in national legislation and was lawful under domestic law.",
+    "Legitimate aims of the interference": "The Italian authorities pursued the aims of ensuring the efficient use and economic exploitation of the radio spectrum and securing financial resources for the State (see paragraphs 16 and 25). These objectives relate to the organisation of broadcasting services and the rational management of limited public resources. In the context of Article 10(2), such aims can be subsumed under the protection of the rights of others (namely, the public interest in a well-ordered and competitive broadcasting market) and, more broadly, the prevention of disorder. The European Court of Human Rights has previously accepted similar justifications in broadcasting cases as legitimate under Article 10(2) (see Centro Europa 7 S.r.l. and Di Stefano v. Italy, no. 38433/09).",
+    "Necessary in a democratic society": "The interference fails the necessity test under Article 10(2). First, there was no pressing social need to annul an almost completed selection procedure where the applicant was the only bidder for the A1 frequency; less restrictive means, such as introducing fee-based allocation only for future frequencies, were available. Second, the annulment was not the least restrictive measure, as the original process could have been allowed to conclude for the already-initiated allocations. Third, and crucially, the reasons advanced were insufficient because the legislative annulment undermined the independence of AGCOM, the national regulatory authority. The Court of Justice of the European Union explicitly ruled that annulling an ongoing selection procedure conducted by an NRA violated the Framework Directive by compromising its independence (see paragraph 29). The European Court of Human Rights has consistently held that the independence of broadcasting regulators is essential for safeguarding media pluralism, a core component of freedom of expression (see Centro Europa 7 S.r.l. and Di Stefano v. Italy, no. 38433/09). By allowing political bodies to override AGCOM’s procedural autonomy, the measure struck at the structural guarantees meant to protect Article 10 rights. Consequently, the interference was not necessary in a democratic society."
+  },
+  "raw_content": "```json\n{\n  \"assessment\": {\n    \"Existence of an interference\": \"The annulment of the original “beauty contest” bidding process by Article 3 quinquies of Decree-Law no. 16 of 2012 (see paragraph 16), following its prior suspension (see paragraph 15), directly prevented the applicant company from securing the A1 frequency for which it was the sole bidder (see paragraph 13). As the allocation of broadcasting frequencies is indispensable for a television operator to impart information and ideas to the public, this legislative act constituted a clear interference with the applicant’s right to freedom of expression under Article 10 of the Convention (see, mutatis mutandis, Centro Europa 7 S.r.l. and Di Stefano v. Italy, no. 38433/09).\",\n\n    \"Lawfulness of the interference\": \"The interference was grounded in domestic law, namely Article 3 quinquies of Decree-Law no. 16 of 2 March 2012, converted into Law no. 44 of 26 April 2012, which explicitly annulled the ongoing bidding process (see paragraph 16). This legal basis was acknowledged in Domestic proceedings (see paragraph 24). Therefore, the interference had a foundation in national legislation and was lawful under domestic law.\",\n\n    \n    \"Legitimate aims of the interference\": \"The Italian authorities pursued the aims of ensuring the efficient use and economic exploitation of the radio spectrum and securing financial resources for the State (see paragraphs 16 and 25). These objectives relate to the organisation of broadcasting services and the rational management of limited public resources. In the context of Article 10(2), such aims can be subsumed under the protection of the rights of others (namely, the public interest in a well-ordered and competitive broadcasting market) and, more broadly, the prevention of disorder. The European Court of Human Rights has previously accepted similar justifications in broadcasting cases as legitimate under Article 10(2) (see Centro Europa 7 S.r.l. and Di Stefano v. Italy, no. 38433/09).\",\n\n    \"Necessary in a democratic society\": \"The interference fails the necessity test under Article 10(2). First, there was no pressing social need to annul an almost completed selection procedure where the applicant was the only bidder for the A1 frequency; less restrictive means, such as introducing fee-based allocation only for future frequencies, were available. Second, the annulment was not the least restrictive measure, as the original process could have been allowed to conclude for the already-initiated allocations. Third, and crucially, the reasons advanced were insufficient because the legislative annulment undermined the independence of AGCOM, the national regulatory authority. The Court of Justice of the European Union explicitly ruled that annulling an ongoing selection procedure conducted by an NRA violated the Framework Directive by compromising its independence (see paragraph 29). The European Court of Human Rights has consistently held that the independence of broadcasting regulators is essential for safeguarding media pluralism, a core component of freedom of expression (see Centro Europa 7 S.r.l. and Di Stefano v. Italy, no. 38433/09). By allowing political bodies to override AGCOM’s procedural autonomy, the measure struck at the structural guarantees meant to protect Article 10 rights. Consequently, the interference was not necessary in a democratic society.\"\n  },\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 7193,
+    "prompt_tokens": 11938,
+    "total_tokens": 19131,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 7414,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0718545,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0718545,
+      "upstream_inference_prompt_cost": 0.017907,
+      "upstream_inference_completions_cost": 0.0539475
+    }
+  }
+}

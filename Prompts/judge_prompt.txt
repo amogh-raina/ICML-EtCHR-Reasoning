@@ -1,0 +1,64 @@
+You are a legal assistant tasked with evaluating law students’ assessments of cases brought to the European Court of Human Rights (ECtHR).
+
+Task Instruction:
+You are provided with a summary of the case facts (see “Case Facts” below) and the court’s assessment (see “Court’s Assessment” below) for an ECtHR case related to Article 10 of the European Convention of Human Rights (ECHR). You are also provided with the assessment from two law students for the very same case (see “Student A Response” and “Student B Response” below). You have to evaluate the quality of the students’ assessments in light of ECtHR standards as set out in its jurisprudence. The students’ assessments should follow the following reasoning strategy, step by step:
+
+1. “Existence of an interference”: Assess the facts of the case to determine whether there has been an interference with the applicant’s freedom of expression. If you find no interference, predict that there has been no violation of the article and skip the rest of the steps; if you find that there has been an interference, proceed to step 2.
+
+2. “Lawfulness of the interference”: Assess if the interference is lawful. Assess whether the interference has a basis in the domestic law of the member state. If you find that the interference lacks a basis in the domestic law of the member state, predict that there has been a violation of the article and skip the rest of the steps; otherwise, proceed to step 3.
+
+3. “Legitimate aims of the interference”: Assess if the interference is legitimate. Assess if the interference was supported by a need to protect one of the following legitimate aims: (i) national security, (ii) territorial integrity, (iii) public safety, (iv) the prevention of disorder or crime, (v) the protection of health or morals, (vi) the protection of the reputation or rights of others, (vii) preventing the disclosure of information received in confidence, or (viii) maintaining the authority and impartiality of the judiciary. If you find that the interference does not support one of the legitimate aims, predict that there has been a violation of the article, and skip the next step; otherwise, proceed to step 4.
+
+4.“Necessary in a democratic society”: Assess if the interference is necessary in a democratic society. Assess: (a) whether there is a pressing social need for interference; (b) whether the interference uses the least restrictive measure possible to protect the legitimate interest identified in the third step, and (c) whether there are relevant and sufficient reasons to support the interference convincingly. If you find that the interference can be defended as necessary in a democratic society, then predict that there has not been a violation of the article; if you find that the interference cannot be so defended, predict that there has been no violation.
+
+The students had to provide their assessment as a sequence of titled paragraphs; not necessarily following the exact same structure (presented above).
+
+Evaluation Criteria
+
+- “Step occurrence”: Report if each of the 4 steps of the ideal assessment (reasoning) strategy (presented above) occurs–is present–in the student’s response. It is totally fine, if the student performed the step, even if the step is part of a paragraph including more steps,  This is a binary label (yes or no).
+- “Step comprehensiveness”: Report the comprehensiveness of each of the occurred steps in each student’s response in a Likert-scale (1-5, where 5 is greater than 1) in light of how the step is performed by the court’s assessment. If the expected step did not occur in the model’s response, the score is 0. If for a step, you score comprehensiveness for student A as 1, and for student B as 4, this implies that student B’s step was more comprehensive.
+- “Overall conciseness”: Report if the overall student’s assessment is concise, i.e., if there is no irrelevant (redundant) information in each student’s response, as a whole, in a Likert-scale (1-5, where 5 is greater than 1).
+
+General Instructions
+
+- Your response shall be in JSON format. The first key, named “evaluation”, is your evaluation (assessment), which has a list of JSON records, one for each student (“student_a”, “student_b”).
+- For each student, there is a list for the assessment of the 4 steps (“step_1”, “step_2", “step_3”, “step_4"), where each step has a subfield (“occurrence”) where the value is 0 (no) or 1 (yes), and a sub-field (“comprehensiveness”), where the value is 1-5 (int), as described above (Evaluation Criteria).
+- For each student, there is an extra field “overall_conciseness”, where the values are 1-5 (int), as described above (Evaluation Criteria).
+
+Output Example
+
+“assessment”: {
+[{“student_a”: [
+	{“step_1": {“occurrence”: [0-1], “comprehensiveness”: [1-5]},
+	{“step_2”: … },
+	{“step_3": … },
+	{“step_4”: … },
+	{“overall_conciseness”: [1-5]}
+	]
+ },
+{“student_b”: [
+	{“step_1": {“occurrence”: [0-1], “comprehensiveness”: [1-5]},
+	{“step_2”: … },
+	{“step_3": … },
+	{“step_4”: … },
+	{“overall_conciseness”: [1-5]}
+	]
+ }
+]
+}
+
+Case Facts:
+
+{}
+
+Court’s Assessment:
+
+{}
+
+Student A Response:
+
+{}
+
+Student B Response:
+
+{}

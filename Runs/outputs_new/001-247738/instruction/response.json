@@ -1,0 +1,128 @@
+{
+  "item_id": "001-247738",
+  "case_name": "CASE OF TSAAVA AND OTHERS v. GEORGIA",
+  "case_number": "(Applications nos. 13186/20 and 4 others)",
+  "date": "11 December 2025",
+  "prompt_type": "instruction",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "3",
+    "10",
+    "10-1",
+    "11",
+    "11-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "1. Existence of an interference": "There was an interference with Article 10 rights, at least in respect of the applicants who were journalists, camera operators or photographers covering the demonstration, a matter of evident public interest (see paragraphs 44-45). Several official video-assessment reports expressly stated that Mr Tsaava, Mr Kmuzov, Mr Svanadze, Ms Baghashvili, Mr Muradov and Ms Abashidze were calm, posed no danger, and were nevertheless hit by kinetic impact projectiles while filming, photographing or otherwise observing events (see paragraphs 47, 51, 54, 58 and 63). Mr Diasamidze, a Parliament-accredited journalist, was additionally pushed out of the Parliament courtyard, threatened and allegedly had his equipment damaged while he was live-streaming and identifying himself as a journalist (see paragraphs 45 and 66-67). These measures directly hindered journalistic newsgathering and reporting, and therefore amount to an interference with freedom of expression."
+    },
+    {
+      "2. Lawfulness of the interference": "There was a general domestic legal framework governing the policing of demonstrations and the use of force, including the Police Act, the Assemblies and Demonstrations Act, Ministerial Orders nos. 1002 and 1006, and the operational plan adopted before the protest (see paragraphs 159-165 and 177-195). However, the specific interference with journalists appears difficult to reconcile with that framework. Domestic law expressly required the authorities not to impede journalists’ professional activities (see paragraph 185), required a warning before force unless delay created an immediate risk (see paragraphs 180, 187 and 194), required command authorisation for non-lethal projectiles save urgent cases (see paragraph 188), prohibited targeting dangerous body areas and shooting from impermissibly close range (see paragraph 189), and prohibited the simultaneous use of tear gas and rubber bullets (see paragraph 190). Yet the first shooting was not preceded by a warning (see paragraph 32), projectiles were fired from above the stairs and even towards persons further away (see paragraphs 34 and 37), tear gas and kinetic projectiles were apparently used together (see paragraphs 35 and 39), and the investigation material indicates that no clear order authorising kinetic projectiles had been given, with senior officials even having ruled them out (see paragraphs 123, 126, 169-171 and 174). Thus, while there was a legal basis in abstracto, compliance with the law in concreto is seriously doubtful."
+    },
+    {
+      "3. Legitimate aims of the interference": "The operation pursued aims capable of being legitimate under Article 10 § 2, notably public safety, prevention of disorder or crime, and protection of the rights of others and State institutions. The facts show repeated attempts by a sizeable group to break through the police cordon, storm the Parliament building, seize police shields and batons, and assault officers (see paragraphs 20-23, 29-31 and 40). Many officers were injured (see paragraph 43). In those circumstances, some police intervention to restore order and protect Parliament could in principle be justified, as the Court has already recognised the gravity of the same events in related proceedings (see no. 13668/21)."
+    },
+    {
+      "4. Necessary in a democratic society": "The decisive issue is proportionality, and here the interference was unlikely to be necessary in a democratic society. Even if there was a pressing social need to stop violent individuals, the authorities had to distinguish them from peaceful demonstrators and from journalists performing a watchdog role. Domestic law itself required such separation and specifically protected journalists (see paragraphs 183 and 185). Yet many journalist-applicants were readily identifiable by press cards, cameras, microphones or “Press” markings (see paragraphs 45 and 54-63), and official reports repeatedly found that several of them posed no threat when injured (see paragraphs 47, 51, 54, 58 and 63). The absence of a prior warning before the initial firing (see paragraph 32), the apparent lack of the required authorisation for kinetic projectiles (see paragraphs 123, 126, 169-171, 174 and 188), the firing from elevated positions and towards persons further away (see paragraphs 34 and 37), and the apparent combined use of tear gas and kinetic projectiles (see paragraphs 35, 39 and 190) all point to insufficient safeguards and indiscriminate effects. The overall fact that around 40 journalists were injured (see paragraph 43) strongly supports that conclusion. Mr Diasamidze’s forcible removal and threats while live-streaming were especially hard to justify, since he identified himself as a journalist and there is no indication that he posed any danger (see paragraphs 66-67). The domestic civil courts later found, in several related claims, that peaceful applicants, including journalists, had been subjected to unnecessary and disproportionate force, and that the journalists’ injuries prevented them from continuing their professional duties during the event (see paragraphs 149-150, 153 and 156). In light of these factors, the reasons advanced by the authorities would probably not be regarded as relevant and sufficient under Article 10."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"1. Existence of an interference\": \"There was an interference with Article 10 rights, at least in respect of the applicants who were journalists, camera operators or photographers covering the demonstration, a matter of evident public interest (see paragraphs 44-45). Several official video-assessment reports expressly stated that Mr Tsaava, Mr Kmuzov, Mr Svanadze, Ms Baghashvili, Mr Muradov and Ms Abashidze were calm, posed no danger, and were nevertheless hit by kinetic impact projectiles while filming, photographing or otherwise observing events (see paragraphs 47, 51, 54, 58 and 63). Mr Diasamidze, a Parliament-accredited journalist, was additionally pushed out of the Parliament courtyard, threatened and allegedly had his equipment damaged while he was live-streaming and identifying himself as a journalist (see paragraphs 45 and 66-67). These measures directly hindered journalistic newsgathering and reporting, and therefore amount to an interference with freedom of expression.\"\n    },\n    {\n      \"2. Lawfulness of the interference\": \"There was a general domestic legal framework governing the policing of demonstrations and the use of force, including the Police Act, the Assemblies and Demonstrations Act, Ministerial Orders nos. 1002 and 1006, and the operational plan adopted before the protest (see paragraphs 159-165 and 177-195). However, the specific interference with journalists appears difficult to reconcile with that framework. Domestic law expressly required the authorities not to impede journalists’ professional activities (see paragraph 185), required a warning before force unless delay created an immediate risk (see paragraphs 180, 187 and 194), required command authorisation for non-lethal projectiles save urgent cases (see paragraph 188), prohibited targeting dangerous body areas and shooting from impermissibly close range (see paragraph 189), and prohibited the simultaneous use of tear gas and rubber bullets (see paragraph 190). Yet the first shooting was not preceded by a warning (see paragraph 32), projectiles were fired from above the stairs and even towards persons further away (see paragraphs 34 and 37), tear gas and kinetic projectiles were apparently used together (see paragraphs 35 and 39), and the investigation material indicates that no clear order authorising kinetic projectiles had been given, with senior officials even having ruled them out (see paragraphs 123, 126, 169-171 and 174). Thus, while there was a legal basis in abstracto, compliance with the law in concreto is seriously doubtful.\"\n    },\n    {\n      \"3. Legitimate aims of the interference\": \"The operation pursued aims capable of being legitimate under Article 10 § 2, notably public safety, prevention of disorder or crime, and protection of the rights of others and State institutions. The facts show repeated attempts by a sizeable group to break through the police cordon, storm the Parliament building, seize police shields and batons, and assault officers (see paragraphs 20-23, 29-31 and 40). Many officers were injured (see paragraph 43). In those circumstances, some police intervention to restore order and protect Parliament could in principle be justified, as the Court has already recognised the gravity of the same events in related proceedings (see no. 13668/21).\"\n    },\n    {\n      \"4. Necessary in a democratic society\": \"The decisive issue is proportionality, and here the interference was unlikely to be necessary in a democratic society. Even if there was a pressing social need to stop violent individuals, the authorities had to distinguish them from peaceful demonstrators and from journalists performing a watchdog role. Domestic law itself required such separation and specifically protected journalists (see paragraphs 183 and 185). Yet many journalist-applicants were readily identifiable by press cards, cameras, microphones or “Press” markings (see paragraphs 45 and 54-63), and official reports repeatedly found that several of them posed no threat when injured (see paragraphs 47, 51, 54, 58 and 63). The absence of a prior warning before the initial firing (see paragraph 32), the apparent lack of the required authorisation for kinetic projectiles (see paragraphs 123, 126, 169-171, 174 and 188), the firing from elevated positions and towards persons further away (see paragraphs 34 and 37), and the apparent combined use of tear gas and kinetic projectiles (see paragraphs 35, 39 and 190) all point to insufficient safeguards and indiscriminate effects. The overall fact that around 40 journalists were injured (see paragraph 43) strongly supports that conclusion. Mr Diasamidze’s forcible removal and threats while live-streaming were especially hard to justify, since he identified himself as a journalist and there is no indication that he posed any danger (see paragraphs 66-67). The domestic civil courts later found, in several related claims, that peaceful applicants, including journalists, had been subjected to unnecessary and disproportionate force, and that the journalists’ injuries prevented them from continuing their professional duties during the event (see paragraphs 149-150, 153 and 156). In light of these factors, the reasons advanced by the authorities would probably not be regarded as relevant and sufficient under Article 10.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 4053,
+    "prompt_tokens": 31875,
+    "total_tokens": 35928,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 2940,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.1404825,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.1404825,
+      "upstream_inference_prompt_cost": 0.0796875,
+      "upstream_inference_completions_cost": 0.060795
+    }
+  },
+  "citations": [
+    "13668/21"
+  ],
+  "ref_paragraphs": [
+    20,
+    21,
+    22,
+    23,
+    29,
+    30,
+    31,
+    32,
+    34,
+    35,
+    37,
+    39,
+    40,
+    43,
+    44,
+    45,
+    47,
+    51,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    66,
+    67,
+    123,
+    126,
+    149,
+    150,
+    153,
+    156,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    169,
+    170,
+    171,
+    174,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183,
+    184,
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194,
+    195
+  ]
+}

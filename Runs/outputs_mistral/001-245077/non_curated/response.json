@@ -1,0 +1,72 @@
+{
+  "item_id": "001-245077",
+  "case_name": "CASE OF IMANOV v. AZERBAIJAN",
+  "case_number": "(Application no. 62/20)",
+  "date": "7 October 2025",
+  "prompt_type": "non_curated",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Interference with Article 10 rights": "The applicant’s disbarment constituted a direct interference with his right to freedom of expression under Article 10, as it was imposed specifically in response to his public statements to the media about his client A.H.’s alleged torture in Gobustan Prison (see paragraphs 17, 21, and 22)."
+    },
+    {
+      "Legal basis and legitimate aim": "The interference was prescribed by domestic law, namely the Law on Advocates and Advocacy Activity of 28 December 1999, and pursued the legitimate aims of protecting the reputation of prison staff and the authority of the judiciary, as relied upon by the domestic courts and disciplinary bodies (see paragraphs 18, 21)."
+    },
+    {
+      "Nature of the expression": "The applicant’s statements addressed allegations of torture—a grave violation of human rights—and thus concerned a matter of significant public interest. His claims were based on first-hand observations of physical injuries on A.H.’s body during a prison visit on 8 August 2017, as well as A.H.’s direct account of ill-treatment (see paragraph 12)."
+    },
+    {
+      "Role as a lawyer and professional context": "The applicant made the statements in his capacity as A.H.’s legal representative. The European Court has consistently held that lawyers enjoy strong protection under Article 10 when expressing themselves in the course of their professional duties, particularly when defending clients’ rights or exposing human rights violations (see Nikula v. Finland, no. 31611/96, and Morice v. France, no. 29369/10)."
+    },
+    {
+      "Good faith and use of domestic remedies": "The applicant acted in good faith: on the same day as his media statements, he lodged formal complaints with the Prosecutor General, the Prison Service, and the Ombudsman, requesting investigations into the alleged ill-treatment (see paragraph 15). This demonstrates that his public statements were not reckless but part of a broader effort to address serious allegations through both official and public channels."
+    },
+    {
+      "Severity and proportionality of the sanction": "Disbarment is an exceptionally severe penalty that permanently removes a lawyer’s ability to practice, with a substantial chilling effect on the legal profession. The European Court has previously found disbarment to be disproportionate in cases involving lawyers’ public statements on matters of public interest (see Bagirov v. Azerbaijan, nos. 81024/12 and 28198/15)."
+    },
+    {
+      "Flaws in domestic reasoning": "The domestic courts’ criticism that the applicant should have awaited the outcome of his complaints before speaking to the media is unsound. The European Court does not require individuals to exhaust domestic remedies before publicly addressing urgent human rights concerns. Moreover, the Domestic Court of Appeal’s reliance on Schöpfer v. Switzerland (see paragraph 23) was misplaced, as that judgment actually reinforced protection for lawyers’ freedom of expression in professional contexts."
+    },
+    {
+      "Broader contextual factors": "The applicant’s disbarment occurred in a context where disciplinary proceedings are reportedly used as a tool to punish lawyers handling politically sensitive cases, as noted by international bodies (see paragraphs 29–30). This pattern suggests the sanction may have been motivated by impermissible considerations, further undermining its proportionality."
+    },
+    {
+      "Public interest and subsequent developments": "The seriousness of the underlying allegations is underscored by the fact that A.H.’s own application to the Court (no. 84594/17) was struck out following the Government’s unilateral declaration acknowledging a violation of the Convention (see paragraph 27). This lends credibility to the applicant’s public statements at the time."
+    },
+    {
+      "Overall balance under Article 10": "Weighing the public interest value of the applicant’s statements, his good faith, his professional role, and the extreme severity of the sanction against the aims pursued by the authorities, the interference with his Article 10 rights was not ‘necessary in a democratic society’. The domestic authorities failed to strike a fair balance between the applicant’s right to freedom of expression and the competing interests."
+    }
+  ],
+  "raw_content": "```json\n{\n  \"assessment\": [\n    {\"Interference with Article 10 rights\": \"The applicant’s disbarment constituted a direct interference with his right to freedom of expression under Article 10, as it was imposed specifically in response to his public statements to the media about his client A.H.’s alleged torture in Gobustan Prison (see paragraphs 17, 21, and 22).\"},\n\n    {\"Legal basis and legitimate aim\": \"The interference was prescribed by domestic law, namely the Law on Advocates and Advocacy Activity of 28 December 1999, and pursued the legitimate aims of protecting the reputation of prison staff and the authority of the judiciary, as relied upon by the domestic courts and disciplinary bodies (see paragraphs 18, 21).\"},\n\n    {\"Nature of the expression\": \"The applicant’s statements addressed allegations of torture—a grave violation of human rights—and thus concerned a matter of significant public interest. His claims were based on first-hand observations of physical injuries on A.H.’s body during a prison visit on 8 August 2017, as well as A.H.’s direct account of ill-treatment (see paragraph 12).\"},\n\n    {\"Role as a lawyer and professional context\": \"The applicant made the statements in his capacity as A.H.’s legal representative. The European Court has consistently held that lawyers enjoy strong protection under Article 10 when expressing themselves in the course of their professional duties, particularly when defending clients’ rights or exposing human rights violations (see Nikula v. Finland, no. 31611/96, and Morice v. France, no. 29369/10).\"},\n\n    {\"Good faith and use of domestic remedies\": \"The applicant acted in good faith: on the same day as his media statements, he lodged formal complaints with the Prosecutor General, the Prison Service, and the Ombudsman, requesting investigations into the alleged ill-treatment (see paragraph 15). This demonstrates that his public statements were not reckless but part of a broader effort to address serious allegations through both official and public channels.\"},\n\n    {\"Severity and proportionality of the sanction\": \"Disbarment is an exceptionally severe penalty that permanently removes a lawyer’s ability to practice, with a substantial chilling effect on the legal profession. The European Court has previously found disbarment to be disproportionate in cases involving lawyers’ public statements on matters of public interest (see Bagirov v. Azerbaijan, nos. 81024/12 and 28198/15).\"},\n\n    {\"Flaws in domestic reasoning\": \"The domestic courts’ criticism that the applicant should have awaited the outcome of his complaints before speaking to the media is unsound. The European Court does not require individuals to exhaust domestic remedies before publicly addressing urgent human rights concerns. Moreover, the Domestic Court of Appeal’s reliance on Schöpfer v. Switzerland (see paragraph 23) was misplaced, as that judgment actually reinforced protection for lawyers’ freedom of expression in professional contexts.\"},\n\n    {\"Broader contextual factors\": \"The applicant’s disbarment occurred in a context where disciplinary proceedings are reportedly used as a tool to punish lawyers handling politically sensitive cases, as noted by international bodies (see paragraphs 29–30). This pattern suggests the sanction may have been motivated by impermissible considerations, further undermining its proportionality.\"},\n\n    {\"Public interest and subsequent developments\": \"The seriousness of the underlying allegations is underscored by the fact that A.H.’s own application to the Court (no. 84594/17) was struck out following the Government’s unilateral declaration acknowledging a violation of the Convention (see paragraph 27). This lends credibility to the applicant’s public statements at the time.\"},\n\n    {\"Overall balance under Article 10\": \"Weighing the public interest value of the applicant’s statements, his good faith, his professional role, and the extreme severity of the sanction against the aims pursued by the authorities, the interference with his Article 10 rights was not ‘necessary in a democratic society’. The domestic authorities failed to strike a fair balance between the applicant’s right to freedom of expression and the competing interests.\"}\n  ],\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 5273,
+    "prompt_tokens": 3493,
+    "total_tokens": 8766,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 4976,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.044787,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.044787,
+      "upstream_inference_prompt_cost": 0.0052395,
+      "upstream_inference_completions_cost": 0.0395475
+    }
+  }
+}

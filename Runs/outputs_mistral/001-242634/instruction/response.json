@@ -1,0 +1,43 @@
+{
+  "item_id": "001-242634",
+  "case_name": "CASE OF BACKOVIĆ v. SERBIA (No. 2)",
+  "case_number": "(Application no. 47600/17)",
+  "date": "8 April 2025",
+  "prompt_type": "instruction",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [],
+  "violation_prediction": "yes",
+  "assessment": {
+    "Existence of an interference": "There was an interference with the applicant’s freedom of expression. On 7 March 2012, the Sombor Court of First Instance fined the applicant 100,000 RSD for contempt of court due to critical statements he made in his objection against a court decision (see paragraph 12). The fine, imposed for his written submissions as a lawyer, directly restricted his ability to express his views, thereby constituting an interference with his right under Article 10 of the Convention.",
+    "Lawfulness of the interference": "The interference was lawful. The fine was imposed pursuant to Articles 33 and 51 of the Enforcement Procedure Act, which explicitly provide a legal basis for sanctioning conduct that offends the court (see paragraphs 20 and 21, and paragraph 12). The domestic legal framework thus provided a clear foundation for the measure taken against the applicant, satisfying the requirement of lawfulness under Article 10(2).",
+    "Legitimate aims of the interference": "The interference pursued a legitimate aim. The domestic courts justified the fine as a measure to protect the authority and impartiality of the judiciary (see paragraphs 14 and 17), which is explicitly recognized as a legitimate ground for restriction under Article 10(2) of the Convention. Furthermore, Article 46 of the Serbian Constitution allows restrictions on freedom of expression for this specific purpose (see paragraph 19).",
+    "Necessary in a democratic society": "The interference was not necessary in a democratic society. The applicant, a lawyer acting in his professional capacity, criticized the judicial reasoning and practices in the context of legal proceedings (see paragraph 11). His statements, though strongly worded, targeted the quality of judicial decision-making rather than the personal characteristics of the judge. The European Court of Human Rights has consistently held that lawyers enjoy a high level of protection for such criticism when it forms part of their professional duties, provided it does not constitute gratuitous personal attacks (see no. 28470/12; see no. 31611/96). The domestic courts’ classification of the applicant’s remarks as insults was disproportionate, as the comments were part of a legitimate debate on the lawfulness and professionalism of a judicial decision. The fine—reduced but still substantial (see paragraph 14)—was not the least restrictive means to address the perceived harm, and the reasons adduced by the national authorities were not sufficient to justify such a serious restriction on freedom of expression in a democratic society."
+  },
+  "raw_content": "```json\n{\n  \"assessment\": {\n    \"Existence of an interference\": \"There was an interference with the applicant’s freedom of expression. On 7 March 2012, the Sombor Court of First Instance fined the applicant 100,000 RSD for contempt of court due to critical statements he made in his objection against a court decision (see paragraph 12). The fine, imposed for his written submissions as a lawyer, directly restricted his ability to express his views, thereby constituting an interference with his right under Article 10 of the Convention.\",\n\n    \"Lawfulness of the interference\": \"The interference was lawful. The fine was imposed pursuant to Articles 33 and 51 of the Enforcement Procedure Act, which explicitly provide a legal basis for sanctioning conduct that offends the court (see paragraphs 20 and 21, and paragraph 12). The domestic legal framework thus provided a clear foundation for the measure taken against the applicant, satisfying the requirement of lawfulness under Article 10(2).\",\n\n    \n    \"Legitimate aims of the interference\": \"The interference pursued a legitimate aim. The domestic courts justified the fine as a measure to protect the authority and impartiality of the judiciary (see paragraphs 14 and 17), which is explicitly recognized as a legitimate ground for restriction under Article 10(2) of the Convention. Furthermore, Article 46 of the Serbian Constitution allows restrictions on freedom of expression for this specific purpose (see paragraph 19).\",\n\n    \"Necessary in a democratic society\": \"The interference was not necessary in a democratic society. The applicant, a lawyer acting in his professional capacity, criticized the judicial reasoning and practices in the context of legal proceedings (see paragraph 11). His statements, though strongly worded, targeted the quality of judicial decision-making rather than the personal characteristics of the judge. The European Court of Human Rights has consistently held that lawyers enjoy a high level of protection for such criticism when it forms part of their professional duties, provided it does not constitute gratuitous personal attacks (see no. 28470/12; see no. 31611/96). The domestic courts’ classification of the applicant’s remarks as insults was disproportionate, as the comments were part of a legitimate debate on the lawfulness and professionalism of a judicial decision. The fine—reduced but still substantial (see paragraph 14)—was not the least restrictive means to address the perceived harm, and the reasons adduced by the national authorities were not sufficient to justify such a serious restriction on freedom of expression in a democratic society.\"\n  },\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 5402,
+    "prompt_tokens": 3779,
+    "total_tokens": 9181,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 5192,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0461835,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0461835,
+      "upstream_inference_prompt_cost": 0.0056685,
+      "upstream_inference_completions_cost": 0.040515
+    }
+  }
+}

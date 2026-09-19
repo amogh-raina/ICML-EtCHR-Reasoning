@@ -1,0 +1,84 @@
+{
+  "item_id": "001-248208",
+  "case_name": "CASE OF MORAWIEC v. POLAND",
+  "case_number": "(Application no. 46238/20)",
+  "date": "5 February 2026",
+  "prompt_type": "non_curated",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Protected expression and the applicant’s role": "The applicant was not speaking on a private or purely personal matter. As a judge with a long career, President of the Judges’ Association Themis, and an active participant in the public debate on the reorganisation of the judiciary, she took part in discussion on the rule of law and judicial independence, which are matters of the highest public interest (see paragraphs 7-9). Under the Court’s case-law, judges are bound by duties of reserve, but they may speak out where the functioning and independence of the judiciary are at stake; such speech attracts strong protection under Article 10, especially in a context of structural pressure on the courts (see no. 28274/08; see also no. 16915/21)."
+    },
+    {
+      "Existence of an interference": "The measures taken against the applicant were capable of seriously discouraging her from continuing her public activity. The prosecutor sought the lifting of her immunity on serious corruption-related charges (see paragraph 12). The Disciplinary Chamber then lifted her immunity, suspended her from office, and cut her salary by 50% (see paragraph 13). She remained suspended for 238 days (see paragraph 16). Even though the proceedings were formally criminal/immunity-related, such measures plainly had a chilling effect on her exercise of freedom of expression as a prominent judicial critic of the authorities’ reforms (see no. 16915/21). The intense publicity surrounding the case further aggravated that effect."
+    },
+    {
+      "Causal link between the applicant’s speech and the impugned measures": "There are strong indications of a connection between the applicant’s public speech and the action taken against her. Before the immunity proceedings, she and her association had openly criticised the recomposed National Council of the Judiciary, the Minister of Justice, and the broader judicial reforms (see paragraphs 8-9). She had also sued the Minister over a defamatory press release and won at two levels of jurisdiction (see paragraph 11). Shortly after the prosecution’s announcement, the applicant herself stated that the accusations formed part of a political game intended to silence the judicial community (see paragraph 17). This interpretation was echoed publicly by Judge Safjan, who expressly linked the accusations to her defence of judicial independence and to her earlier victory against the Minister (see paragraph 18). The sequence of events and the surrounding political context therefore support the view that the measures were at least partly retaliatory."
+    },
+    {
+      "State-driven stigmatisation and chilling effect": "The interference was reinforced by public statements from State actors and State-controlled media. Two days before the first-instance hearing, the State-owned TVP broadcast material suggesting that the applicant had used her position to conduct criminal activity; the Deputy Minister of Justice further suggested that her opposition to judicial reform might be motivated by self-interest (see paragraph 19). After the second-instance decision refused to lift her immunity, senior government officials publicly attacked that outcome, with the Minister of Justice saying that the judiciary was incapable of self-purification and implying that judges were being treated as above the law (see paragraph 21). Such official or quasi-official statements are relevant because they amplify the restrictive effect of the proceedings and tend to discredit the applicant in connection with her public stance (see no. 28396/95)."
+    },
+    {
+      "Whether the interference was justified": "The charges against the applicant concerned legitimate matters for criminal investigation in principle, and protecting the authority of the judiciary or preventing crime are capable of constituting legitimate aims. However, the decisive question is whether the interference was supported by relevant and sufficient reasons and was necessary in a democratic society. That requirement appears not to have been met. On appeal, the same Disciplinary Chamber quashed the first-instance decision and refused to lift immunity because the evidence was insufficient, the prosecution’s main witness had repeatedly changed his testimony and lacked credibility, and the prosecutorial initiative had been inadequate and premature (see paragraph 15). Those findings considerably weaken the claim that the severe interim measures imposed on the applicant were necessary."
+    },
+    {
+      "Particular weight of the applicant’s speech in a democratic society": "The applicant’s speech concerned the independence of the judiciary and alleged threats to the rule of law, not party-political campaigning or gratuitous personal attacks (see paragraphs 8-9 and 17). The Court generally affords little room for restrictions on expression contributing to debate of such public importance, especially where judges speak to defend institutional independence (see no. 28274/08; no. 16915/21). In those circumstances, particularly convincing reasons were required before a State could impose measures as grave as suspension from office, a major salary reduction, and public exposure to corruption allegations. On the facts summarised, those reasons were not convincingly established."
+    },
+    {
+      "Overall assessment": "Taken together, the applicant’s prominent criticism of the authorities’ judicial reforms, her conflict with the Minister of Justice, the timing of the prosecutorial action, the hostile public narrative promoted by State actors, and the later finding that the evidential basis for lifting immunity was insufficient all point to a disproportionate interference with her freedom of expression (see paragraphs 8-11, 15, 17-21). The measures were liable to silence not only the applicant but also other judges participating in debate on judicial independence. In line with the Court’s approach to retaliatory or chilling measures against judges speaking on rule-of-law issues (see no. 16915/21; no. 28274/08), a finding of a violation of Article 10 is the most likely outcome."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"Protected expression and the applicant’s role\": \"The applicant was not speaking on a private or purely personal matter. As a judge with a long career, President of the Judges’ Association Themis, and an active participant in the public debate on the reorganisation of the judiciary, she took part in discussion on the rule of law and judicial independence, which are matters of the highest public interest (see paragraphs 7-9). Under the Court’s case-law, judges are bound by duties of reserve, but they may speak out where the functioning and independence of the judiciary are at stake; such speech attracts strong protection under Article 10, especially in a context of structural pressure on the courts (see no. 28274/08; see also no. 16915/21).\"\n    },\n    {\n      \"Existence of an interference\": \"The measures taken against the applicant were capable of seriously discouraging her from continuing her public activity. The prosecutor sought the lifting of her immunity on serious corruption-related charges (see paragraph 12). The Disciplinary Chamber then lifted her immunity, suspended her from office, and cut her salary by 50% (see paragraph 13). She remained suspended for 238 days (see paragraph 16). Even though the proceedings were formally criminal/immunity-related, such measures plainly had a chilling effect on her exercise of freedom of expression as a prominent judicial critic of the authorities’ reforms (see no. 16915/21). The intense publicity surrounding the case further aggravated that effect.\"\n    },\n    {\n      \"Causal link between the applicant’s speech and the impugned measures\": \"There are strong indications of a connection between the applicant’s public speech and the action taken against her. Before the immunity proceedings, she and her association had openly criticised the recomposed National Council of the Judiciary, the Minister of Justice, and the broader judicial reforms (see paragraphs 8-9). She had also sued the Minister over a defamatory press release and won at two levels of jurisdiction (see paragraph 11). Shortly after the prosecution’s announcement, the applicant herself stated that the accusations formed part of a political game intended to silence the judicial community (see paragraph 17). This interpretation was echoed publicly by Judge Safjan, who expressly linked the accusations to her defence of judicial independence and to her earlier victory against the Minister (see paragraph 18). The sequence of events and the surrounding political context therefore support the view that the measures were at least partly retaliatory.\"\n    },\n    {\n      \"State-driven stigmatisation and chilling effect\": \"The interference was reinforced by public statements from State actors and State-controlled media. Two days before the first-instance hearing, the State-owned TVP broadcast material suggesting that the applicant had used her position to conduct criminal activity; the Deputy Minister of Justice further suggested that her opposition to judicial reform might be motivated by self-interest (see paragraph 19). After the second-instance decision refused to lift her immunity, senior government officials publicly attacked that outcome, with the Minister of Justice saying that the judiciary was incapable of self-purification and implying that judges were being treated as above the law (see paragraph 21). Such official or quasi-official statements are relevant because they amplify the restrictive effect of the proceedings and tend to discredit the applicant in connection with her public stance (see no. 28396/95).\"\n    },\n    {\n      \"Whether the interference was justified\": \"The charges against the applicant concerned legitimate matters for criminal investigation in principle, and protecting the authority of the judiciary or preventing crime are capable of constituting legitimate aims. However, the decisive question is whether the interference was supported by relevant and sufficient reasons and was necessary in a democratic society. That requirement appears not to have been met. On appeal, the same Disciplinary Chamber quashed the first-instance decision and refused to lift immunity because the evidence was insufficient, the prosecution’s main witness had repeatedly changed his testimony and lacked credibility, and the prosecutorial initiative had been inadequate and premature (see paragraph 15). Those findings considerably weaken the claim that the severe interim measures imposed on the applicant were necessary.\"\n    },\n    {\n      \"Particular weight of the applicant’s speech in a democratic society\": \"The applicant’s speech concerned the independence of the judiciary and alleged threats to the rule of law, not party-political campaigning or gratuitous personal attacks (see paragraphs 8-9 and 17). The Court generally affords little room for restrictions on expression contributing to debate of such public importance, especially where judges speak to defend institutional independence (see no. 28274/08; no. 16915/21). In those circumstances, particularly convincing reasons were required before a State could impose measures as grave as suspension from office, a major salary reduction, and public exposure to corruption allegations. On the facts summarised, those reasons were not convincingly established.\"\n    },\n    {\n      \"Overall assessment\": \"Taken together, the applicant’s prominent criticism of the authorities’ judicial reforms, her conflict with the Minister of Justice, the timing of the prosecutorial action, the hostile public narrative promoted by State actors, and the later finding that the evidential basis for lifting immunity was insufficient all point to a disproportionate interference with her freedom of expression (see paragraphs 8-11, 15, 17-21). The measures were liable to silence not only the applicant but also other judges participating in debate on judicial independence. In line with the Court’s approach to retaliatory or chilling measures against judges speaking on rule-of-law issues (see no. 16915/21; no. 28274/08), a finding of a violation of Article 10 is the most likely outcome.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 2214,
+    "prompt_tokens": 5583,
+    "total_tokens": 7797,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1034,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0471675,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0471675,
+      "upstream_inference_prompt_cost": 0.0139575,
+      "upstream_inference_completions_cost": 0.03321
+    }
+  },
+  "citations": [
+    "28274/08",
+    "16915/21",
+    "28396/95"
+  ],
+  "ref_paragraphs": [
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ]
+}

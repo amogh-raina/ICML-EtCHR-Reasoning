@@ -1,0 +1,60 @@
+{
+  "item_id": "001-243188",
+  "case_name": "CASE OF GEVORGYAN v. ARMENIA",
+  "case_number": "(Application no. 231/16)",
+  "date": "22 May 2025",
+  "prompt_type": "non_curated",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Interference with Article 10 rights": "The applicant, a journalist, was engaged in gathering information at a political demonstration on Mashtots Avenue, an event of clear public interest (see paragraphs 5-6). Police officers physically interfered with her work by attempting to seize her camera while she was filming, shouting that she was a journalist (see paragraph 8). She was subsequently arrested, detained for three hours, and her camera and memory cards were seized (see paragraphs 8-9). These acts constitute a direct interference with her right to receive and impart information under Article 10."
+    },
+    {
+      "Legitimacy of the applicant’s journalistic activity": "The applicant’s presence at the demonstration and her attempt to film the events, including police actions, fell squarely within the scope of journalistic activity protected by Article 10. The ECtHR has consistently emphasized that the press plays a vital role as a ‘public watchdog’ in imparting information on matters of public interest, such as political gatherings (see no. 11882/10). The applicant’s actions were thus a legitimate exercise of her freedom of expression."
+    },
+    {
+      "Justification for the interference under domestic law": "The domestic authorities justified the interference on the grounds of maintaining public order, citing the applicant’s alleged obstruction of traffic and resistance to police orders (see paragraphs 21, 27, 29). However, the criminal proceedings for hooliganism against the applicant were ultimately discontinued for lack of corpus delicti, with the investigator noting that the incident was interpersonal and short-lived, and lacked intent to grossly disrupt public order (see paragraph 31). This undermines the Government’s claim that the applicant’s conduct necessitated such a severe interference with her journalistic work."
+    },
+    {
+      "Proportionality and necessity of the interference": "The measures taken against the applicant – the attempted seizure of her camera, her arrest, and the confiscation of her equipment – were severe and disproportionate. The ECtHR has held that the seizure of a journalist’s equipment or obstruction of their work requires particularly convincing justification, as it directly hampers the press’s ability to inform the public (see no. 11882/10, no. 2594/07). Here, the domestic investigation dismissed the applicant’s complaints without addressing key evidence, such as the video footage showing police officers pulling at her camera (see paragraph 8) and testimonies from fellow journalists confirming the obstruction (see paragraph 26). The authorities also failed to explain why less intrusive measures, such as requesting the applicant to move to a safer location, were not pursued."
+    },
+    {
+      "Adequacy of the domestic investigation": "The investigation into the applicant’s complaint of obstruction of her journalistic activities was flawed. Despite video evidence and consistent testimonies from other journalists, the investigator relied heavily on police statements and dismissed the applicant’s version of events (see paragraphs 27-29). The domestic courts similarly accepted the police narrative without adequately scrutinizing the contradictory evidence (see paragraph 32). The ECtHR has stressed that a failure to conduct an effective investigation into interference with journalistic freedom can itself constitute a violation of Article 10 (see no. 1172/12). The lack of a thorough, impartial examination in this case further supports the conclusion that the interference was not justified."
+    },
+    {
+      "Relevant case law comparison": "In Pentikäinen v. Finland (see no. 11882/10), the ECtHR found a violation of Article 10 where a journalist was arrested and his camera seized while covering a demonstration, emphasizing that such interferences require compelling justification. Similarly, in cases involving the obstruction of journalists’ work at public events, the Court has prioritized the protection of freedom of expression over broad public order considerations unless the journalist’s conduct posed a clear and immediate threat (see no. 2594/07). The present case mirrors these scenarios, with the interference lacking proportionality and the domestic response failing to meet the required standards."
+    }
+  ],
+  "raw_content": "```json\n{\n  \"assessment\": [\n    {\n      \"Interference with Article 10 rights\": \"The applicant, a journalist, was engaged in gathering information at a political demonstration on Mashtots Avenue, an event of clear public interest (see paragraphs 5-6). Police officers physically interfered with her work by attempting to seize her camera while she was filming, shouting that she was a journalist (see paragraph 8). She was subsequently arrested, detained for three hours, and her camera and memory cards were seized (see paragraphs 8-9). These acts constitute a direct interference with her right to receive and impart information under Article 10.\"\n    },\n    {\n      \"Legitimacy of the applicant’s journalistic activity\": \"The applicant’s presence at the demonstration and her attempt to film the events, including police actions, fell squarely within the scope of journalistic activity protected by Article 10. The ECtHR has consistently emphasized that the press plays a vital role as a ‘public watchdog’ in imparting information on matters of public interest, such as political gatherings (see no. 11882/10). The applicant’s actions were thus a legitimate exercise of her freedom of expression.\"\n    },\n    {\n      \"Justification for the interference under domestic law\": \"The domestic authorities justified the interference on the grounds of maintaining public order, citing the applicant’s alleged obstruction of traffic and resistance to police orders (see paragraphs 21, 27, 29). However, the criminal proceedings for hooliganism against the applicant were ultimately discontinued for lack of corpus delicti, with the investigator noting that the incident was interpersonal and short-lived, and lacked intent to grossly disrupt public order (see paragraph 31). This undermines the Government’s claim that the applicant’s conduct necessitated such a severe interference with her journalistic work.\"\n    },\n    {\n      \"Proportionality and necessity of the interference\": \"The measures taken against the applicant – the attempted seizure of her camera, her arrest, and the confiscation of her equipment – were severe and disproportionate. The ECtHR has held that the seizure of a journalist’s equipment or obstruction of their work requires particularly convincing justification, as it directly hampers the press’s ability to inform the public (see no. 11882/10, no. 2594/07). Here, the domestic investigation dismissed the applicant’s complaints without addressing key evidence, such as the video footage showing police officers pulling at her camera (see paragraph 8) and testimonies from fellow journalists confirming the obstruction (see paragraph 26). The authorities also failed to explain why less intrusive measures, such as requesting the applicant to move to a safer location, were not pursued.\"\n    },\n    {\n      \"Adequacy of the domestic investigation\": \"The investigation into the applicant’s complaint of obstruction of her journalistic activities was flawed. Despite video evidence and consistent testimonies from other journalists, the investigator relied heavily on police statements and dismissed the applicant’s version of events (see paragraphs 27-29). The domestic courts similarly accepted the police narrative without adequately scrutinizing the contradictory evidence (see paragraph 32). The ECtHR has stressed that a failure to conduct an effective investigation into interference with journalistic freedom can itself constitute a violation of Article 10 (see no. 1172/12). The lack of a thorough, impartial examination in this case further supports the conclusion that the interference was not justified.\"\n    },\n    {\n      \"Relevant case law comparison\": \"In Pentikäinen v. Finland (see no. 11882/10), the ECtHR found a violation of Article 10 where a journalist was arrested and his camera seized while covering a demonstration, emphasizing that such interferences require compelling justification. Similarly, in cases involving the obstruction of journalists’ work at public events, the Court has prioritized the protection of freedom of expression over broad public order considerations unless the journalist’s conduct posed a clear and immediate threat (see no. 2594/07). The present case mirrors these scenarios, with the interference lacking proportionality and the domestic response failing to meet the required standards.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 3517,
+    "prompt_tokens": 5641,
+    "total_tokens": 9158,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 3193,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.034839,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.034839,
+      "upstream_inference_prompt_cost": 0.0084615,
+      "upstream_inference_completions_cost": 0.0263775
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "item_id": "001-247645",
+  "case_name": "CASE OF PEŠIĆ v. SERBIA",
+  "case_number": "(Application no. 4545/21)",
+  "date": "13 January 2026",
+  "prompt_type": "gpt_assisted",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "high",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "1. Interference with freedom of expression": "There was a clear interference with the applicant’s Article 10 rights. She published a political commentary on a public-affairs website and was then found civilly liable for injury to the Minister’s honour and reputation, ordered jointly with the other defendants to pay damages and costs (see paragraphs 7, 8, 10 and 12). Such a judicial award, even without criminal penalties, is capable of discouraging the applicant and others from taking part in public debate and therefore engages Article 10."
+    },
+    {
+      "2. Lawfulness and legitimate aim": "The interference appears to have been prescribed by law, namely Article 200 of the Obligations Act, which allowed compensation for mental anguish caused by an injury to reputation and other personal rights (see paragraph 23). It also pursued a legitimate aim, namely the protection of the reputation or rights of others, here the Minister N.S. (see paragraphs 8, 10 and 12). The decisive issue is therefore whether the interference was necessary in a democratic society."
+    },
+    {
+      "3. Level of protection: political speech on a matter of the highest public interest": "The speech enjoyed very strong Article 10 protection. The article concerned the unlawful night-time demolitions in central Belgrade, the detention of persons present, and the police’s failure to intervene, all plainly matters of serious public concern involving the conduct of State authorities (see paragraphs 5, 6 and 7). The impugned text was a direct reaction to the Minister of the Interior’s own public statement about those events (see paragraphs 6 and 7). Under the Court’s case-law, there is little scope for restrictions on political speech or debate on matters of public interest, and public officials must display a higher degree of tolerance to criticism than private persons (see no. 29369/10; no. 39954/08). This is reinforced by domestic law itself, which required public officeholders to tolerate critical views concerning the performance of their functions, regardless of personal offence (see paragraph 20)."
+    },
+    {
+      "4. Nature of the remarks: harsh value judgments, but with a sufficient factual basis": "The expressions used by the applicant — describing the Minister’s conduct and statements as “stupid” or “most stupid” and saying he was made to “play the fool” — were undoubtedly caustic, polemical and offensive in tone (see paragraph 7). However, they were value judgments rather than concrete statements of fact capable of proof. They were not made in a vacuum: the applicant set out the factual background, namely the Savamala demolitions, the criminal acts committed there, the police’s non-response, and the Minister’s explanation that the police could not intervene because of risks from electrical cables (see paragraphs 5, 6 and 7). Under the Court’s approach, value judgments need a sufficient factual basis, not proof of their truth, and a degree of exaggeration or provocation is tolerated in public debate (see no. 17224/11; no. 29369/10). Here, the factual basis was apparent from the article itself and from the Minister’s prior public intervention."
+    },
+    {
+      "5. Deficiencies in the domestic courts’ balancing": "The domestic courts did not provide relevant and sufficient reasons compatible with Article 10. The High Court and the Court of Appeal treated the impugned article as not contributing to any public debate and as aiming solely to insult the Minister (see paragraphs 10 and 12). That assessment is difficult to reconcile with the text of the article, which plainly commented on a major public scandal and on the Minister’s response to it (see paragraph 7). The courts focused on isolated insulting words instead of the overall context, failed to attach due weight to the Minister’s status as a senior politician, and appear to have required the applicant to justify her value judgments as if they were false facts (see paragraphs 10 and 12). In defamation cases, the Court expects a careful balancing that takes account of the contribution to a debate of general interest, the status of the person concerned, the nature of the remarks, and the surrounding context (see no. 39954/08; no. 56925/08; no. 17224/11). That balancing was not convincingly carried out here."
+    },
+    {
+      "6. Proportionality of the sanction and chilling effect": "Although the case involved civil rather than criminal liability, the sanction was still significant: after appeal, the defendants remained jointly liable for RSD 150,000 in damages and RSD 93,100 in costs, plus interest (see paragraph 12). In the context of political criticism of a minister, such liability is liable to produce a chilling effect, especially for contributors to public-interest media platforms. The later development before the Constitutional Court did not, on the facts provided, show that a fresh Convention-compliant examination of the merits had yet remedied the restriction (see paragraph 19). Given the high level of protection owed to the speech, the weak domestic reasoning, and the non-negligible sanction, the interference appears disproportionate."
+    },
+    {
+      "7. Overall prediction": "The interference was lawful and pursued a legitimate aim, but the domestic courts failed to strike a fair balance between the Minister’s reputation and the applicant’s freedom to engage in sharp political criticism on a matter of exceptional public importance. The remarks, while insulting, were closely linked to disclosed facts and to a public debate about the conduct of the authorities. In line with the Court’s principles on political expression, public-interest debate, and value judgments (see no. 29369/10; no. 17224/11; no. 39954/08), the most likely outcome is a finding of a violation of Article 10."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"1. Interference with freedom of expression\": \"There was a clear interference with the applicant’s Article 10 rights. She published a political commentary on a public-affairs website and was then found civilly liable for injury to the Minister’s honour and reputation, ordered jointly with the other defendants to pay damages and costs (see paragraphs 7, 8, 10 and 12). Such a judicial award, even without criminal penalties, is capable of discouraging the applicant and others from taking part in public debate and therefore engages Article 10.\"\n    },\n    {\n      \"2. Lawfulness and legitimate aim\": \"The interference appears to have been prescribed by law, namely Article 200 of the Obligations Act, which allowed compensation for mental anguish caused by an injury to reputation and other personal rights (see paragraph 23). It also pursued a legitimate aim, namely the protection of the reputation or rights of others, here the Minister N.S. (see paragraphs 8, 10 and 12). The decisive issue is therefore whether the interference was necessary in a democratic society.\"\n    },\n    {\n      \"3. Level of protection: political speech on a matter of the highest public interest\": \"The speech enjoyed very strong Article 10 protection. The article concerned the unlawful night-time demolitions in central Belgrade, the detention of persons present, and the police’s failure to intervene, all plainly matters of serious public concern involving the conduct of State authorities (see paragraphs 5, 6 and 7). The impugned text was a direct reaction to the Minister of the Interior’s own public statement about those events (see paragraphs 6 and 7). Under the Court’s case-law, there is little scope for restrictions on political speech or debate on matters of public interest, and public officials must display a higher degree of tolerance to criticism than private persons (see no. 29369/10; no. 39954/08). This is reinforced by domestic law itself, which required public officeholders to tolerate critical views concerning the performance of their functions, regardless of personal offence (see paragraph 20).\"\n    },\n    {\n      \"4. Nature of the remarks: harsh value judgments, but with a sufficient factual basis\": \"The expressions used by the applicant — describing the Minister’s conduct and statements as “stupid” or “most stupid” and saying he was made to “play the fool” — were undoubtedly caustic, polemical and offensive in tone (see paragraph 7). However, they were value judgments rather than concrete statements of fact capable of proof. They were not made in a vacuum: the applicant set out the factual background, namely the Savamala demolitions, the criminal acts committed there, the police’s non-response, and the Minister’s explanation that the police could not intervene because of risks from electrical cables (see paragraphs 5, 6 and 7). Under the Court’s approach, value judgments need a sufficient factual basis, not proof of their truth, and a degree of exaggeration or provocation is tolerated in public debate (see no. 17224/11; no. 29369/10). Here, the factual basis was apparent from the article itself and from the Minister’s prior public intervention.\"\n    },\n    {\n      \"5. Deficiencies in the domestic courts’ balancing\": \"The domestic courts did not provide relevant and sufficient reasons compatible with Article 10. The High Court and the Court of Appeal treated the impugned article as not contributing to any public debate and as aiming solely to insult the Minister (see paragraphs 10 and 12). That assessment is difficult to reconcile with the text of the article, which plainly commented on a major public scandal and on the Minister’s response to it (see paragraph 7). The courts focused on isolated insulting words instead of the overall context, failed to attach due weight to the Minister’s status as a senior politician, and appear to have required the applicant to justify her value judgments as if they were false facts (see paragraphs 10 and 12). In defamation cases, the Court expects a careful balancing that takes account of the contribution to a debate of general interest, the status of the person concerned, the nature of the remarks, and the surrounding context (see no. 39954/08; no. 56925/08; no. 17224/11). That balancing was not convincingly carried out here.\"\n    },\n    {\n      \"6. Proportionality of the sanction and chilling effect\": \"Although the case involved civil rather than criminal liability, the sanction was still significant: after appeal, the defendants remained jointly liable for RSD 150,000 in damages and RSD 93,100 in costs, plus interest (see paragraph 12). In the context of political criticism of a minister, such liability is liable to produce a chilling effect, especially for contributors to public-interest media platforms. The later development before the Constitutional Court did not, on the facts provided, show that a fresh Convention-compliant examination of the merits had yet remedied the restriction (see paragraph 19). Given the high level of protection owed to the speech, the weak domestic reasoning, and the non-negligible sanction, the interference appears disproportionate.\"\n    },\n    {\n      \"7. Overall prediction\": \"The interference was lawful and pursued a legitimate aim, but the domestic courts failed to strike a fair balance between the Minister’s reputation and the applicant’s freedom to engage in sharp political criticism on a matter of exceptional public importance. The remarks, while insulting, were closely linked to disclosed facts and to a public debate about the conduct of the authorities. In line with the Court’s principles on political expression, public-interest debate, and value judgments (see no. 29369/10; no. 17224/11; no. 39954/08), the most likely outcome is a finding of a violation of Article 10.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 4342,
+    "prompt_tokens": 4108,
+    "total_tokens": 8450,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 3106,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.073096,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.073096,
+      "upstream_inference_prompt_cost": 0.007966,
+      "upstream_inference_completions_cost": 0.06513
+    }
+  },
+  "citations": [
+    "29369/10",
+    "39954/08",
+    "17224/11",
+    "56925/08"
+  ],
+  "ref_paragraphs": [
+    5,
+    6,
+    7,
+    8,
+    10,
+    12,
+    19,
+    20,
+    23
+  ]
+}

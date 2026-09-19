@@ -1,0 +1,102 @@
+{
+  "item_id": "001-247549",
+  "case_name": "CASE OF ANTI-CORRUPTION FOUNDATION (FBK) AND OTHERS v. RUSSIA",
+  "case_number": "(Applications nos. 13505/20 and 138 others –",
+  "date": "16 December 2025",
+  "prompt_type": "non_curated",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "11",
+    "11-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Protected political expression and applicable scrutiny": "The applicants’ activities lay at the heart of Article 10 protection. The FBK investigated alleged corruption by high-ranking officials and published those findings online, while the Navalnyy network organised political campaigning, protest activity and the “Smart Voting” project aimed at influencing electoral outcomes (see paragraphs 6-10). Expression concerning corruption, democratic reform and opposition politics is speech on matters of the highest public interest. The Court’s case-law requires very strong reasons for restricting such speech, and sanctions are especially hard to justify unless the expression can reasonably be seen as inciting violence, hatred or the destruction of democratic order (see no. 29221/95; no. 29225/95)."
+    },
+    {
+      "Existence of serious interferences with Article 10 rights": "There were multiple and cumulative interferences with the applicants’ freedom of expression. The authorities froze bank accounts belonging to the organisations, their staff and even some relatives (see paragraph 18), blocked all available funds and newly opened accounts, and thereby prevented the FBK from paying salaries or continuing ordinary operations (see paragraph 19). They also carried out around 191 searches of offices and homes, seizing phones, computers, documents and production equipment essential for communication and investigation (see paragraphs 24-28). In addition, the FBK was labelled a “foreign agent” and fined (see paragraphs 29-32), and later the FBK, the FZPG and the Navalnyy Headquarters were declared “extremist”, dissolved or banned (see paragraphs 33-36). These measures directly impeded the applicants’ ability to gather, produce and disseminate political information."
+    },
+    {
+      "Insufficient factual basis and formulaic judicial review": "Although the measures were formally linked to money-laundering and extremism, the domestic material described in the file shows a striking lack of individualised evidence. The money-laundering case was opened against “unidentified individuals” on the basis of a report about cash deposits allegedly exceeding RUB 75 million (see paragraphs 12-14), after which the police were instructed to collect personal data on “active FBK members” in general terms (see paragraph 16). The account-freezing decisions were issued from standard templates, merely repeating that the accounts had been used to launder criminal proceeds and that freezing was needed to secure a future judgment (see paragraphs 20-21). The extensions were also collective and identically reasoned, without new evidence (see paragraph 22), and appeals were dismissed in equally formulaic terms (see paragraph 23). The search warrants followed the same pattern: they relied on vague references to operational information and possible involvement because of a person’s connection to Mr Navalnyy, without concrete facts tying the particular applicant or premises to the alleged offence (see paragraphs 25-28). Such reasoning is unlikely to satisfy the requirement of “relevant and sufficient” reasons for restrictions affecting core political expression."
+    },
+    {
+      "Disproportionate operational and chilling impact": "The scope and practical effect of the measures were exceptionally severe. Because the allegedly laundered amount was said to exceed the balances of the accounts concerned, every rouble in those accounts was frozen, and newly opened accounts were blocked as well; the total frozen amount reached about RUB 57 million (see paragraph 19). The searches were nationwide, affected not only staff and volunteers but also relatives, supporters and even an independent journalist, and led to large-scale seizure of technical equipment and documents (see paragraphs 24 and 26). The investigation then remained ongoing for years (see paragraph 17), while freezing orders continued to be extended (see paragraph 22). Measures of that breadth and duration went far beyond what would normally be needed to preserve evidence or secure a potential financial penalty; they appear to have disabled the applicants’ expressive activity altogether and created a powerful chilling effect on associates and supporters."
+    },
+    {
+      "The foreign-agent label as a stigmatizing and unnecessary restriction": "The designation of the FBK as a “foreign agent” was based on a relatively small transfer from an individual in Spain, received after its accounts had already been frozen; the funds were later returned through another account (see paragraphs 29-30). The domestic courts treated that fact as sufficient to impose the label and later an administrative fine (see paragraphs 30-32), without examining whether such a stigmatizing classification was necessary in light of the organisation’s anti-corruption and public-interest work. In the Court’s case-law concerning the Russian “foreign agent” regime, such measures have been found to burden NGOs participating in public debate, stigmatise them in the eyes of the public and deter their activities (see no. 39446/16). That reasoning strongly points toward an Article 10 problem here as well."
+    },
+    {
+      "The extremism finding and dissolution were not shown to answer a pressing social need": "The extremism proceedings represent the most drastic interference. The prosecutor alleged that the organisations destabilised the political situation and called for violent actions (see paragraph 33), but the Moscow City Court’s reasons, as summarised in the facts, relied mainly on dissemination of online content, organisation of unauthorised public events, calls to participate in rallies in support of Mr Navalnyy, and involvement of minors (see paragraph 35). The judgment then leapt to the conclusion that this amounted to systematic extremist activity aimed at the violent overthrow of the constitutional order (see paragraph 35), without any specific analysis of the actual content, context or imminence of any violent incitement. The hearing was held in camera because classified material was used (see paragraph 35), further limiting meaningful scrutiny. Under the Court’s approach, only particularly weighty reasons can justify branding an opposition movement as extremist and dissolving it; peaceful or even unlawful protest activity is not enough, absent a convincingly established link to violence or hatred (see no. 32401/10; no. 29221/95; no. 29225/95)."
+    },
+    {
+      "Overall assessment": "The timing and broader context reinforce the conclusion that the restrictions were aimed less at legitimate law-enforcement objectives than at suppressing a prominent anti-corruption and opposition platform. The money-laundering investigation began against the backdrop of the 2019 protest wave (see paragraph 15); the regional network was suspended and disbanded before the extremism judgment became final (see paragraph 34); and after the “extremist” designation the authorities continued prosecuting supporters, donors and persons reposting related material (see paragraph 39). Taken together, the freezes, searches, foreign-agent designation and extremism ban destroyed the applicants’ capacity to communicate, organise and participate in public debate. Even assuming that the measures pursued aims such as prevention of disorder or crime, the authorities did not demonstrate that they were necessary in a democratic society. A finding of violation of Article 10 is therefore highly likely."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"Protected political expression and applicable scrutiny\": \"The applicants’ activities lay at the heart of Article 10 protection. The FBK investigated alleged corruption by high-ranking officials and published those findings online, while the Navalnyy network organised political campaigning, protest activity and the “Smart Voting” project aimed at influencing electoral outcomes (see paragraphs 6-10). Expression concerning corruption, democratic reform and opposition politics is speech on matters of the highest public interest. The Court’s case-law requires very strong reasons for restricting such speech, and sanctions are especially hard to justify unless the expression can reasonably be seen as inciting violence, hatred or the destruction of democratic order (see no. 29221/95; no. 29225/95).\"\n    },\n    {\n      \"Existence of serious interferences with Article 10 rights\": \"There were multiple and cumulative interferences with the applicants’ freedom of expression. The authorities froze bank accounts belonging to the organisations, their staff and even some relatives (see paragraph 18), blocked all available funds and newly opened accounts, and thereby prevented the FBK from paying salaries or continuing ordinary operations (see paragraph 19). They also carried out around 191 searches of offices and homes, seizing phones, computers, documents and production equipment essential for communication and investigation (see paragraphs 24-28). In addition, the FBK was labelled a “foreign agent” and fined (see paragraphs 29-32), and later the FBK, the FZPG and the Navalnyy Headquarters were declared “extremist”, dissolved or banned (see paragraphs 33-36). These measures directly impeded the applicants’ ability to gather, produce and disseminate political information.\"\n    },\n    {\n      \"Insufficient factual basis and formulaic judicial review\": \"Although the measures were formally linked to money-laundering and extremism, the domestic material described in the file shows a striking lack of individualised evidence. The money-laundering case was opened against “unidentified individuals” on the basis of a report about cash deposits allegedly exceeding RUB 75 million (see paragraphs 12-14), after which the police were instructed to collect personal data on “active FBK members” in general terms (see paragraph 16). The account-freezing decisions were issued from standard templates, merely repeating that the accounts had been used to launder criminal proceeds and that freezing was needed to secure a future judgment (see paragraphs 20-21). The extensions were also collective and identically reasoned, without new evidence (see paragraph 22), and appeals were dismissed in equally formulaic terms (see paragraph 23). The search warrants followed the same pattern: they relied on vague references to operational information and possible involvement because of a person’s connection to Mr Navalnyy, without concrete facts tying the particular applicant or premises to the alleged offence (see paragraphs 25-28). Such reasoning is unlikely to satisfy the requirement of “relevant and sufficient” reasons for restrictions affecting core political expression.\"\n    },\n    {\n      \"Disproportionate operational and chilling impact\": \"The scope and practical effect of the measures were exceptionally severe. Because the allegedly laundered amount was said to exceed the balances of the accounts concerned, every rouble in those accounts was frozen, and newly opened accounts were blocked as well; the total frozen amount reached about RUB 57 million (see paragraph 19). The searches were nationwide, affected not only staff and volunteers but also relatives, supporters and even an independent journalist, and led to large-scale seizure of technical equipment and documents (see paragraphs 24 and 26). The investigation then remained ongoing for years (see paragraph 17), while freezing orders continued to be extended (see paragraph 22). Measures of that breadth and duration went far beyond what would normally be needed to preserve evidence or secure a potential financial penalty; they appear to have disabled the applicants’ expressive activity altogether and created a powerful chilling effect on associates and supporters.\"\n    },\n    {\n      \"The foreign-agent label as a stigmatizing and unnecessary restriction\": \"The designation of the FBK as a “foreign agent” was based on a relatively small transfer from an individual in Spain, received after its accounts had already been frozen; the funds were later returned through another account (see paragraphs 29-30). The domestic courts treated that fact as sufficient to impose the label and later an administrative fine (see paragraphs 30-32), without examining whether such a stigmatizing classification was necessary in light of the organisation’s anti-corruption and public-interest work. In the Court’s case-law concerning the Russian “foreign agent” regime, such measures have been found to burden NGOs participating in public debate, stigmatise them in the eyes of the public and deter their activities (see no. 39446/16). That reasoning strongly points toward an Article 10 problem here as well.\"\n    },\n    {\n      \"The extremism finding and dissolution were not shown to answer a pressing social need\": \"The extremism proceedings represent the most drastic interference. The prosecutor alleged that the organisations destabilised the political situation and called for violent actions (see paragraph 33), but the Moscow City Court’s reasons, as summarised in the facts, relied mainly on dissemination of online content, organisation of unauthorised public events, calls to participate in rallies in support of Mr Navalnyy, and involvement of minors (see paragraph 35). The judgment then leapt to the conclusion that this amounted to systematic extremist activity aimed at the violent overthrow of the constitutional order (see paragraph 35), without any specific analysis of the actual content, context or imminence of any violent incitement. The hearing was held in camera because classified material was used (see paragraph 35), further limiting meaningful scrutiny. Under the Court’s approach, only particularly weighty reasons can justify branding an opposition movement as extremist and dissolving it; peaceful or even unlawful protest activity is not enough, absent a convincingly established link to violence or hatred (see no. 32401/10; no. 29221/95; no. 29225/95).\"\n    },\n    {\n      \"Overall assessment\": \"The timing and broader context reinforce the conclusion that the restrictions were aimed less at legitimate law-enforcement objectives than at suppressing a prominent anti-corruption and opposition platform. The money-laundering investigation began against the backdrop of the 2019 protest wave (see paragraph 15); the regional network was suspended and disbanded before the extremism judgment became final (see paragraph 34); and after the “extremist” designation the authorities continued prosecuting supporters, donors and persons reposting related material (see paragraph 39). Taken together, the freezes, searches, foreign-agent designation and extremism ban destroyed the applicants’ capacity to communicate, organise and participate in public debate. Even assuming that the measures pursued aims such as prevention of disorder or crime, the authorities did not demonstrate that they were necessary in a democratic society. A finding of violation of Article 10 is therefore highly likely.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 4003,
+    "prompt_tokens": 8722,
+    "total_tokens": 12725,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 2543,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.08185,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.08185,
+      "upstream_inference_prompt_cost": 0.021805,
+      "upstream_inference_completions_cost": 0.060045
+    }
+  },
+  "citations": [
+    "29221/95",
+    "29225/95",
+    "39446/16",
+    "32401/10"
+  ],
+  "ref_paragraphs": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    39
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "item_id": "001-246134",
+  "case_name": "CASE OF EUROPA WAY S.R.L. v. ITALY",
+  "case_number": "(Application no. 64356/19)",
+  "date": "27 November 2025",
+  "prompt_type": "instruction",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "1. Existence of an interference": "Yes. The applicant company operates in television broadcasting and sought access to a digital terrestrial frequency reserved to new entrants and small operators; it was admitted to the procedure and was the only bidder for frequency A1 (see paragraphs 12-13). The subsequent suspension of the call for bids by ministerial decree and its annulment by legislation, followed by replacement with a fee-based procedure, directly affected the company’s possibility of entering or expanding on the television market (see paragraphs 15-17, 19-21). In the Court’s case-law, licensing and frequency-allocation measures in the broadcasting field fall within Article 10 because they condition the ability to impart information and ideas and are closely linked to media pluralism (see no. 38433/09; see also no. 32283/04). There was therefore an interference with the applicant company’s freedom of expression."
+    },
+    {
+      "2. Lawfulness of the interference": "The interference had a formal basis in domestic law: Article 3 quinquies of Decree-Law no. 16 of 2012 expressly annulled the original call for bids and required a new fee-based allocation procedure (see paragraphs 16-17). The measure was thus not devoid of a legal basis in the domestic system. It is true that the CJEU later held that such legislative annulment of an ongoing allocation procedure conducted by the independent regulator was incompatible with EU rules on the independence of the national regulatory authority, and the Consiglio di Stato eventually declined to apply that provision for that reason (see paragraphs 28-29, 32-33). However, for Article 10 purposes, those defects are better examined under the necessity and arbitrariness of the measure than as a complete absence of legal basis. I would therefore treat the interference as formally lawful and proceed to the next step."
+    },
+    {
+      "3. Legitimate aims of the interference": "The Government and domestic authorities relied on the efficient use and economic exploitation of the radio spectrum, technological innovation, the reorganisation of frequencies, the opening of the market under objective and non-discriminatory criteria, and the freeing of spectrum for other telecommunications uses (see paragraphs 16, 25, 39-40). In the broadcasting sphere, management of scarce frequencies and the structuring of licensing conditions can in principle pursue legitimate aims compatible with Article 10, especially where linked to orderly spectrum use, competition and pluralism (see no. 38433/09). Although the fiscal motive mentioned domestically, namely securing resources for the State, is not in itself a classic Article 10 § 2 aim (see paragraph 25), the broader spectrum-management and competition objectives are sufficient to bring the measure within a legitimate aim analysis. I would therefore proceed to necessity."
+    },
+    {
+      "4. Necessary in a democratic society": "The interference was not necessary in a democratic society. In a sector so closely connected with pluralism, the State’s margin of appreciation is reduced, and especially weighty reasons are required for measures affecting access to the television market (see no. 38433/09; no. 32283/04). Here, the original procedure was interrupted after parliamentary criticism that the frequencies would be allocated free of charge, and the legislature then cancelled an ongoing tender in order to move to a payment-based model (see paragraphs 14-17). Crucially, the CJEU held that suspending and annulling the ongoing procedure jeopardised AGCOM’s independence, and the Consiglio di Stato accepted that only AGCOM should have carried out that assessment independently (see paragraphs 28-29, 32-34). That shows a serious lack of safeguards against political interference in media regulation. Less restrictive means were available: AGCOM could have reassessed the allocation model itself, without abrupt legislative cancellation of the pending tender. The practical effect of the replacement was also restrictive: the new procedure required bids of about EUR 30 million for multiplexes supposedly reserved to new entrants and small operators, and in the end there was only one bidder for one multiplex (see paragraphs 19-21), suggesting that access was narrowed rather than meaningfully broadened. The later ex post confirmation by AGCOM in 2019, after years of litigation, cannot cure the earlier politically driven interference, especially since the applicant had already been the sole bidder for A1 (see paragraphs 13, 39-42). The reasons advanced were therefore not relevant and sufficient, and no pressing social need was convincingly shown."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"1. Existence of an interference\": \"Yes. The applicant company operates in television broadcasting and sought access to a digital terrestrial frequency reserved to new entrants and small operators; it was admitted to the procedure and was the only bidder for frequency A1 (see paragraphs 12-13). The subsequent suspension of the call for bids by ministerial decree and its annulment by legislation, followed by replacement with a fee-based procedure, directly affected the company’s possibility of entering or expanding on the television market (see paragraphs 15-17, 19-21). In the Court’s case-law, licensing and frequency-allocation measures in the broadcasting field fall within Article 10 because they condition the ability to impart information and ideas and are closely linked to media pluralism (see no. 38433/09; see also no. 32283/04). There was therefore an interference with the applicant company’s freedom of expression.\"\n    },\n    {\n      \"2. Lawfulness of the interference\": \"The interference had a formal basis in domestic law: Article 3 quinquies of Decree-Law no. 16 of 2012 expressly annulled the original call for bids and required a new fee-based allocation procedure (see paragraphs 16-17). The measure was thus not devoid of a legal basis in the domestic system. It is true that the CJEU later held that such legislative annulment of an ongoing allocation procedure conducted by the independent regulator was incompatible with EU rules on the independence of the national regulatory authority, and the Consiglio di Stato eventually declined to apply that provision for that reason (see paragraphs 28-29, 32-33). However, for Article 10 purposes, those defects are better examined under the necessity and arbitrariness of the measure than as a complete absence of legal basis. I would therefore treat the interference as formally lawful and proceed to the next step.\"\n    },\n    {\n      \"3. Legitimate aims of the interference\": \"The Government and domestic authorities relied on the efficient use and economic exploitation of the radio spectrum, technological innovation, the reorganisation of frequencies, the opening of the market under objective and non-discriminatory criteria, and the freeing of spectrum for other telecommunications uses (see paragraphs 16, 25, 39-40). In the broadcasting sphere, management of scarce frequencies and the structuring of licensing conditions can in principle pursue legitimate aims compatible with Article 10, especially where linked to orderly spectrum use, competition and pluralism (see no. 38433/09). Although the fiscal motive mentioned domestically, namely securing resources for the State, is not in itself a classic Article 10 § 2 aim (see paragraph 25), the broader spectrum-management and competition objectives are sufficient to bring the measure within a legitimate aim analysis. I would therefore proceed to necessity.\"\n    },\n    {\n      \"4. Necessary in a democratic society\": \"The interference was not necessary in a democratic society. In a sector so closely connected with pluralism, the State’s margin of appreciation is reduced, and especially weighty reasons are required for measures affecting access to the television market (see no. 38433/09; no. 32283/04). Here, the original procedure was interrupted after parliamentary criticism that the frequencies would be allocated free of charge, and the legislature then cancelled an ongoing tender in order to move to a payment-based model (see paragraphs 14-17). Crucially, the CJEU held that suspending and annulling the ongoing procedure jeopardised AGCOM’s independence, and the Consiglio di Stato accepted that only AGCOM should have carried out that assessment independently (see paragraphs 28-29, 32-34). That shows a serious lack of safeguards against political interference in media regulation. Less restrictive means were available: AGCOM could have reassessed the allocation model itself, without abrupt legislative cancellation of the pending tender. The practical effect of the replacement was also restrictive: the new procedure required bids of about EUR 30 million for multiplexes supposedly reserved to new entrants and small operators, and in the end there was only one bidder for one multiplex (see paragraphs 19-21), suggesting that access was narrowed rather than meaningfully broadened. The later ex post confirmation by AGCOM in 2019, after years of litigation, cannot cure the earlier politically driven interference, especially since the applicant had already been the sole bidder for A1 (see paragraphs 13, 39-42). The reasons advanced were therefore not relevant and sufficient, and no pressing social need was convincingly shown.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 3971,
+    "prompt_tokens": 11135,
+    "total_tokens": 15106,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 3016,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0874025,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0874025,
+      "upstream_inference_prompt_cost": 0.0278375,
+      "upstream_inference_completions_cost": 0.059565
+    }
+  },
+  "citations": [
+    "38433/09",
+    "32283/04"
+  ],
+  "ref_paragraphs": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    19,
+    20,
+    21,
+    25,
+    28,
+    29,
+    32,
+    33,
+    34,
+    39,
+    40,
+    41,
+    42
+  ]
+}

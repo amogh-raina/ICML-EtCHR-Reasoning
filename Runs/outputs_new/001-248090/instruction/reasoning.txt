@@ -1,0 +1,3 @@
+**Evaluating JSON formatting**
+
+I’m considering how JSON can’t have the same keys in a list, so maybe a list of objects, each with a title key, is the way to go. The instruction suggests using a format like {"Existence of an interference": "..."}. I’m thinking of structuring this with four titled paragraphs, one for each reasoning step. I know I have to reference specific case numbers like 65286/13 and 57270/14. I also want to ensure I’m citing actual legal propositions carefully, even without precise names.

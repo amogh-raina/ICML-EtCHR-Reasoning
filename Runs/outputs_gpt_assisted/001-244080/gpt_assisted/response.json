@@ -1,0 +1,93 @@
+{
+  "item_id": "001-244080",
+  "case_name": "CASE OF MZHAVANADZE AND RUKHADZE v. GEORGIA",
+  "case_number": "(Applications nos. 29760/21 and 33931/21)",
+  "date": "15 July 2025",
+  "prompt_type": "gpt_assisted",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "high",
+  "violation_ground_truth": [
+    "11",
+    "11-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "1. Interference with protected expression": "There was a clear interference with the applicants’ freedom of expression. They were civil-society activists and founders of the Shame Movement, and the relevant events took place in the context of protests about the parliamentary elections and the newly introduced curfew, both matters of obvious public interest and political debate (see paragraphs 2, 9-10). Their arrest near the Parliament building, subsequent conviction, the fine imposed on the second applicant, and the administrative detention imposed on the first applicant were all measures capable of chilling present and future political expression (see paragraphs 11-12, 17, 27-28). In the Court’s case-law, political expression and protest-related expression enjoy particularly strong protection, and sanctions imposed in that context call for close scrutiny (see nos. 50841/99, 38676/08)."
+    },
+    {
+      "2. Lawfulness and legitimate aim": "The interference appears to have had a basis in domestic law, notably Article 173 of the Code of Administrative Offences, read together with the domestic rules on road obstruction and demonstrations (see paragraphs 32, 35-36). It also pursued legitimate aims under Article 10 § 2, namely the prevention of disorder and the protection of the rights of others, including road users and public safety, especially against the background of tension following the previous day’s violent incidents and the authorities’ warning that breaches of the law would be addressed immediately (see paragraphs 7-9). The decisive question is therefore whether the interference was necessary in a democratic society."
+    },
+    {
+      "3. Narrow margin and need for convincing reasons": "Because the applicants’ conduct formed part of political activism directed at the authorities’ handling of elections and the curfew, the State’s margin of appreciation was narrow. In such a context, the domestic courts had to show with convincing, relevant and sufficient reasons that the applicants personally engaged in conduct justifying arrest and punishment, and had to assess the impact of the measures on political expression (see paragraphs 9-10, 29-31). Yet the reasoning of the domestic courts focused almost entirely on traffic obstruction and obedience to police instructions, without a genuine balancing exercise under Article 10, despite the applicants’ express Convention arguments on appeal (see paragraphs 26, 29-31). That is a significant weakness under the Court’s approach to protest-related expression and punitive responses by the authorities (see nos. 18079/15, 74768/10)."
+    },
+    {
+      "4. Weak factual basis for finding personal disobedience": "The domestic findings also seem evidentially fragile. The arrest reports were drafted in very generic terms and did not specify the applicants’ concrete conduct (see paragraphs 11-12). There were notable discrepancies regarding the time and circumstances of arrest, including between the arrest reports, the officers’ explanations, and the media footage referred to by the defence (see paragraphs 19, 22, 29). Crucially, the body-worn camera material that might have shown the events leading to the arrests was missing. One officer stated that his camera 'should have been activated' and 'would have definitely' recorded the relevant events, while the Ministry representative gave uncertain and shifting explanations as to why only post-arrest footage was available (see paragraph 23). The video evidence before the court showed a group obstructing a car and, separately, the applicants after arrest, but it did not clearly capture either applicant refusing a police order (see paragraphs 18, 25). Even so, the trial court treated the police statements as sufficient and effectively shifted the analysis in favour of the official version (see paragraph 26). In Strasbourg terms, that makes the domestic reasons less than fully 'relevant and sufficient' for such restrictive measures (see nos. 74768/10, 18079/15)."
+    },
+    {
+      "5. Proportionality of the measures and chilling effect": "The severity of the sanctions strongly points against proportionality. The second applicant was fined GEL 1,500 and the first applicant was sentenced to three days’ administrative detention, which began immediately and was not suspended by appeal (see paragraphs 27-28, 33-34). The trial court’s reasoning on sanction was formulaic and largely identical, with no concrete explanation why detention was necessary in the first applicant’s case rather than a less severe response (see paragraphs 27, 29). The applicants had been acquitted of minor hooliganism, and the second applicant was not found to have insulted the police at all; the core remaining accusation was failure to clear the road (see paragraph 17 and paragraph 26). In a case concerning political expression, immediate detention of an activist for a short episode of alleged obstruction is a particularly weighty measure and is liable to deter not only the applicants but other civil-society actors from participating in public debate (see nos. 38676/08, 41479/10)."
+    },
+    {
+      "6. Overall conclusion under Article 10": "Although the interference had a formal legal basis and pursued legitimate aims, the domestic authorities did not demonstrate a pressing social need for arresting and punishing the applicants in the manner adopted here. The courts did not convincingly establish the applicants’ personal disobedience, did not properly engage with the political-expression context, and imposed sanctions with a clear chilling effect, especially administrative detention (see paragraphs 23, 26-31). In light of the Court’s standards on political expression and punitive measures against protest-related conduct (see nos. 50841/99, 38676/08, 18079/15), the interference was not necessary in a democratic society."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"1. Interference with protected expression\": \"There was a clear interference with the applicants’ freedom of expression. They were civil-society activists and founders of the Shame Movement, and the relevant events took place in the context of protests about the parliamentary elections and the newly introduced curfew, both matters of obvious public interest and political debate (see paragraphs 2, 9-10). Their arrest near the Parliament building, subsequent conviction, the fine imposed on the second applicant, and the administrative detention imposed on the first applicant were all measures capable of chilling present and future political expression (see paragraphs 11-12, 17, 27-28). In the Court’s case-law, political expression and protest-related expression enjoy particularly strong protection, and sanctions imposed in that context call for close scrutiny (see nos. 50841/99, 38676/08).\"\n    },\n    {\n      \"2. Lawfulness and legitimate aim\": \"The interference appears to have had a basis in domestic law, notably Article 173 of the Code of Administrative Offences, read together with the domestic rules on road obstruction and demonstrations (see paragraphs 32, 35-36). It also pursued legitimate aims under Article 10 § 2, namely the prevention of disorder and the protection of the rights of others, including road users and public safety, especially against the background of tension following the previous day’s violent incidents and the authorities’ warning that breaches of the law would be addressed immediately (see paragraphs 7-9). The decisive question is therefore whether the interference was necessary in a democratic society.\"\n    },\n    {\n      \"3. Narrow margin and need for convincing reasons\": \"Because the applicants’ conduct formed part of political activism directed at the authorities’ handling of elections and the curfew, the State’s margin of appreciation was narrow. In such a context, the domestic courts had to show with convincing, relevant and sufficient reasons that the applicants personally engaged in conduct justifying arrest and punishment, and had to assess the impact of the measures on political expression (see paragraphs 9-10, 29-31). Yet the reasoning of the domestic courts focused almost entirely on traffic obstruction and obedience to police instructions, without a genuine balancing exercise under Article 10, despite the applicants’ express Convention arguments on appeal (see paragraphs 26, 29-31). That is a significant weakness under the Court’s approach to protest-related expression and punitive responses by the authorities (see nos. 18079/15, 74768/10).\"\n    },\n    {\n      \"4. Weak factual basis for finding personal disobedience\": \"The domestic findings also seem evidentially fragile. The arrest reports were drafted in very generic terms and did not specify the applicants’ concrete conduct (see paragraphs 11-12). There were notable discrepancies regarding the time and circumstances of arrest, including between the arrest reports, the officers’ explanations, and the media footage referred to by the defence (see paragraphs 19, 22, 29). Crucially, the body-worn camera material that might have shown the events leading to the arrests was missing. One officer stated that his camera 'should have been activated' and 'would have definitely' recorded the relevant events, while the Ministry representative gave uncertain and shifting explanations as to why only post-arrest footage was available (see paragraph 23). The video evidence before the court showed a group obstructing a car and, separately, the applicants after arrest, but it did not clearly capture either applicant refusing a police order (see paragraphs 18, 25). Even so, the trial court treated the police statements as sufficient and effectively shifted the analysis in favour of the official version (see paragraph 26). In Strasbourg terms, that makes the domestic reasons less than fully 'relevant and sufficient' for such restrictive measures (see nos. 74768/10, 18079/15).\"\n    },\n    {\n      \"5. Proportionality of the measures and chilling effect\": \"The severity of the sanctions strongly points against proportionality. The second applicant was fined GEL 1,500 and the first applicant was sentenced to three days’ administrative detention, which began immediately and was not suspended by appeal (see paragraphs 27-28, 33-34). The trial court’s reasoning on sanction was formulaic and largely identical, with no concrete explanation why detention was necessary in the first applicant’s case rather than a less severe response (see paragraphs 27, 29). The applicants had been acquitted of minor hooliganism, and the second applicant was not found to have insulted the police at all; the core remaining accusation was failure to clear the road (see paragraph 17 and paragraph 26). In a case concerning political expression, immediate detention of an activist for a short episode of alleged obstruction is a particularly weighty measure and is liable to deter not only the applicants but other civil-society actors from participating in public debate (see nos. 38676/08, 41479/10).\"\n    },\n    {\n      \"6. Overall conclusion under Article 10\": \"Although the interference had a formal legal basis and pursued legitimate aims, the domestic authorities did not demonstrate a pressing social need for arresting and punishing the applicants in the manner adopted here. The courts did not convincingly establish the applicants’ personal disobedience, did not properly engage with the political-expression context, and imposed sanctions with a clear chilling effect, especially administrative detention (see paragraphs 23, 26-31). In light of the Court’s standards on political expression and punitive measures against protest-related conduct (see nos. 50841/99, 38676/08, 18079/15), the interference was not necessary in a democratic society.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 4787,
+    "prompt_tokens": 8204,
+    "total_tokens": 12991,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 3585,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.090011,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.090011,
+      "upstream_inference_prompt_cost": 0.018206,
+      "upstream_inference_completions_cost": 0.071805
+    }
+  },
+  "citations": [
+    "50841/99",
+    "38676/08",
+    "18079/15",
+    "74768/10",
+    "41479/10"
+  ],
+  "ref_paragraphs": [
+    2,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    17,
+    18,
+    19,
+    22,
+    23,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36
+  ]
+}

@@ -1,0 +1,89 @@
+Let me analyze this case step by step according to the assessment strategy provided.
+
+**Case Summary:**
+The applicant is a journalist who was covering a political demonstration. During the event, police officers tried to take her camera, used force against her (grabbing/pulling her hands), arrested her, and took her to the police station where her camera and memory cards were seized. She claims this obstructed her journalistic work.
+
+**Assessment Steps:**
+
+1. **Existence of an interference:**
+   - The applicant was a journalist covering an event (para 5-6)
+   - Police officers tried to pull her camera from her hands (para 8)
+   - She was arrested and taken to police station (para 8)
+   - Her camera and memory cards were seized (para 9)
+   - This clearly interfered with her ability to gather and disseminate information as a journalist
+   - Therefore: **Yes, there was interference with her Article 10 rights**
+
+2. **Lawfulness of the interference:**
+   - Need to check if interference had basis in domestic law
+   - She was arrested on suspicion of hooliganism (para 9)
+   - Criminal proceedings were opened for hooliganism (para 11)
+   - Police Act (section 30) allows use of force in certain circumstances (para 41)
+   - So the interference appears to have a legal basis in Armenian law
+   - Therefore: **The interference was lawful** (proceed to step 3)
+
+3. **Legitimate aims:**
+   - The interference was justified as:
+     - Maintaining public order (she was in an altercation, para 7-8)
+     - Preventing crime (hooliganism charges, para 11)
+     - These are listed legitimate aims under Article 10(2): "prevention of disorder or crime", "public safety"
+   - Therefore: **The interference pursued legitimate aims**
+
+4. **Necessary in a democratic society:**
+   - Need to assess if interference was:
+     a) Pressing social need
+     b) Least restrictive measure
+     c) Convincing and sufficient reasons
+
+   Key considerations:
+   - She was a journalist, identifiable as such (she claimed to show press card, para 15)
+   - The video shows police pulling at her camera while she shouted "I'm a journalist" (para 8)
+   - Other journalists at the same event were not obstructed (para 32)
+   - The force used (grabbing/pulling hands) caused injury (para 14)
+   - Memory cards were allegedly damaged (para 15, 26)
+
+   Case law references:
+   - Need to consider 2594/07, 1172/12, 11882/10 (though we don't have their details, these would be relevant precedents)
+   - Generally, ECtHR has been very protective of journalists' rights, especially when they're identifiable as press
+
+   Assessment:
+   - Was there a pressing social need? There was an altercation, but the applicant was a journalist covering it, not necessarily participating
+   - Was this the least restrictive measure? Arresting a journalist and seizing equipment is highly restrictive. Police could have created a perimeter rather than interfering with the journalist
+   - Convincing reasons? The domestic courts found no obstruction of journalistic activity (para 32), but this seems questionable given:
+     * She was identifiable as a journalist
+     * She was shouted at to let go of her camera
+     * The video shows her resisting removal of her camera
+     * Other journalists weren't obstructed
+
+   - The interference seems disproportionate - the fact that she was a journalist should have been a major consideration
+   - The seizure of equipment and damage to memory cards (if proven) would be particularly problematic
+
+   Therefore: **The interference cannot be considered necessary in a democratic society**
+
+**Conclusion:** There has been a violation of Article 10.
+
+Now let me structure this properly with references.
+
+For step 1 (Existence of interference):
+- Clear interference as she was prevented from exercising her journalistic duties (para 8,9,15)
+- ECtHR case law: journalists have protection when gathering information (would reference a case like 11882/10 perhaps)
+
+For step 2 (Lawfulness):
+- Arrest was under hooliganism suspicion (para 9,11)
+- Police Act section 30 provides basis (para 41)
+- So lawful
+
+For step 3 (Legitimate aims):
+- Prevention of disorder/crime (para 7,11)
+- Public safety (para 8 - halting traffic)
+
+For step 4 (Necessary in democratic society):
+- Key point: She was a journalist, and the interference was specifically with her camera (para 8)
+- Other journalists not obstructed (para 32)
+- In Pentikäinen v. Finland (no. 11882/10), ECtHR found violation when journalist was prevented from filming
+- The force used against her while she identified as journalist seems excessive
+- The domestic investigation found no obstruction, but ECtHR often looks at this more strictly
+- The measures weren't proportional - less restrictive means could have been used
+
+Final prediction: **Violation of Article 10**
+
+Now to format as JSON with the assessment and prediction.

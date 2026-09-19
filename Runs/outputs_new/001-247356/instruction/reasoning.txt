@@ -1,0 +1,3 @@
+**Creating JSON with escaped quotes**
+
+I need to generate a JSON string where the values have escaped quotes. It's a standard requirement, so I’ll make sure each assessment item has a key title and its corresponding value in complete yet concise paragraphs. I think organizing this as an array of objects will be the best approach to keep everything structured and clear. Let’s go ahead and produce that JSON!

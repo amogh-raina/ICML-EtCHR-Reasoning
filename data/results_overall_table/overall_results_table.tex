@@ -1,0 +1,16 @@
+\begin{table*}[]
+    \centering
+    \resizebox{\textwidth}{!}{
+    \begin{tabular}{l|c|c|c|c|c|c|c|c|}
+         \multirow{2}{*}{\textbf{Prompt Setting}} &  \multicolumn{2}{c|}{\textbf{Step Occurrence}} & \multicolumn{2}{c|}{\textbf{Step Comprehensiveness}} & \multicolumn{2}{c|}{\textbf{Overall Conciseness}} & \multirow{2}{*}{\textbf{Par. Coverage}} & \multirow{2}{*}{\textbf{Accuracy}} \\
+         & Human & Models  & Human & Models  & Human & Models & & \\
+         \midrule
+         A: Non-Curated & 0.96 $\pm$ 0.19 & 0.92 $\pm$ 0.28 & 3.95 $\pm$ 1.08 & 3.61 $\pm$ 1.44 & 3.87 $\pm$ 0.75 & 3.83 $\pm$ 0.94 & 0.52 $\pm$ 0.20 & \underline{0.85} \\
+         B: Curated (Expert) & \underline{1.00 $\pm$ 0.06} & \underline{1.00 $\pm$ 0.00} & \underline{4.45 $\pm$ 0.79} & \underline{4.13 $\pm$ 0.82} & \underline{4.38 $\pm$ 0.67} & \underline{4.49 $\pm$ 0.54} & 0.51 $\pm$ 0.19 & 0.81 \\
+         C: Curated (Guide) & 0.99 $\pm$ 0.11 & 0.99 $\pm$ 0.09 & 4.22 $\pm$ 0.88 & 4.00 $\pm$ 0.96 & 4.10 $\pm$ 0.71 & 3.92 $\pm$ 0.74 & \underline{0.52 $\pm$ 0.20} & 0.81 \\
+    \end{tabular}
+    }
+    \caption{Results for each examined setting (A-C) across all metrics, averaged over all steps and cases. For each setting, both Human ratings and Models (LLM-as-a-Judge) are reported.}
+    \vspace{-3mm}
+    \label{tab:overall}
+\end{table*}

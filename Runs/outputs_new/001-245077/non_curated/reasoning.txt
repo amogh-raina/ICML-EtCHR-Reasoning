@@ -1,0 +1,3 @@
+**Considering public disorder**
+
+I want to mention that there were protests on August 9, but it looks like there's no evidence that the applicant incited those protests or even knew about them. This makes the aim to prevent disorder seem weak. Also, it seems that domestic sanctions are primarily based on defamation and false allegations, not necessarily on actual disorder. My next step will be to produce a JSON format with strings that include citations.

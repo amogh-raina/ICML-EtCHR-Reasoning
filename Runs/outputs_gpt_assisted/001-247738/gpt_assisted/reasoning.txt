@@ -1,0 +1,9 @@
+**Understanding Article 10 requirements**
+
+I need to think about Article 10, which emphasizes the importance of distinguishing violent individuals from journalists and peaceful participants. It seems critical to have a clear separation in domestic law as well. The mention of paragraph 183 hints there's some complexity here, but that’s definitely something I want to keep in mind while processing this information. It’s all about ensuring fair treatment for everyone involved!**Considering Article 10 implications**
+
+Under Article 10, I think an effective investigation into attacks on journalists might be a positive obligation. The facts suggest that criminal investigations are often slow and ineffective, with a lack of accountability. There’s also no recognition of victim status, and body cameras are usually absent. I'm curious if Article 10 could also be seen as violated procedurally due to failures in investigating interferences with journalistic freedom.**Considering interference regulation**
+
+I’m assessing whether the interference was adequately managed to avoid arbitrariness. It raises doubt about the regulation's strength. I also need to think about the principles of necessity and proportionality. Even if there was a legal basis for the interference, I wonder if it was really necessary in a democratic society. This is interesting, as it brings up questions about what is justified and what might go too far.**Ensuring reference format**
+
+I need to confirm whether to use "see paragraph P" in singular or plural forms—using "paragraphs" seems fine, but they referenced one paragraph as “(see paragraph 12).” Do I need to mention paragraph 145? I'm thinking no. I also need to ensure that the case numbers are formatted correctly. Valid JSON is essential, so I'll need to use object keys as titles, which could lead me to create an array of objects.

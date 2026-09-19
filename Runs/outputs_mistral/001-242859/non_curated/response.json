@@ -1,0 +1,63 @@
+{
+  "item_id": "001-242859",
+  "case_name": "CASE OF AVAGYAN v. RUSSIA",
+  "case_number": "(Application no. 36911/20)",
+  "date": "29 April 2025",
+  "prompt_type": "non_curated",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Scope of Article 10": "The applicant’s Instagram posts expressing skepticism about official COVID-19 data in her region constitute an exercise of her right to freedom of expression under Article 10. The comments addressed a matter of public interest, namely the government’s handling of the pandemic (see paragraph 5), which falls within the core protection of Article 10."
+    },
+    {
+      "Interference with the right": "The imposition of an administrative fine of RUB 30,000 for ‘disseminating untrue information’ under Article 13.15(9) of the Code of Administrative Offences constitutes an interference with the applicant’s right to freedom of expression (see paragraphs 6, 8, 9)."
+    },
+    {
+      "Prescribed by law and legitimate aim": "The interference was based on Article 13.15(9) of the Code of Administrative Offences, a clear legal provision (see paragraph 13), thus satisfying the ‘prescribed by law’ requirement. The measure pursued the legitimate aims of protecting public health and preventing disorder, as it sought to curb the spread of allegedly harmful misinformation during a pandemic."
+    },
+    {
+      "Burden of proof and standard of review": "The domestic courts improperly shifted the burden of proof onto the applicant, requiring her to disprove the existence of COVID-19 cases rather than the authorities proving the falsity of her statements (see paragraph 8). Under Article 10, the burden of establishing the falsity of information generally rests with the authorities, not the speaker, particularly in matters of public interest (see no. 47621/13). Furthermore, the law required proof that the information was ‘known to be untrue’, which the courts failed to establish (see paragraph 13)."
+    },
+    {
+      "Nature and context of the speech": "The applicant’s comments, while critical of government policy, were part of a public debate on a pressing issue. The ECtHR accords the highest level of protection to political speech and opinions on matters of public concern (see no. 64569/09). The limited reach of her posts (2,600 followers, with only one like and one response, see paragraph 5) and their speculative nature (‘Think about why...’) suggest they did not pose a real and immediate risk of harm sufficient to justify the interference."
+    },
+    {
+      "Necessity in a democratic society": "The interference was not ‘necessary in a democratic society’. The domestic courts did not assess whether the applicant’s statements were ‘known to be untrue’ as required by law (see paragraph 13), nor did they consider the public-interest context of her speech (see no. 22385/03). The automatic imposition of a fine without a proportionality analysis or evidence of actual harm undermines the essence of Article 10."
+    },
+    {
+      "Procedural deficiencies": "The domestic proceedings were flawed, as the courts dismissed the applicant’s appeal without addressing her arguments about the context of her publication, the lack of risk, or the improper burden of proof (see paragraphs 10, 11). Such deficiencies in the domestic review process further indicate a violation of Article 10 standards (see no. 18030/11)."
+    }
+  ],
+  "raw_content": "```json\n{\n  \"assessment\": [\n    {\"Scope of Article 10\": \"The applicant’s Instagram posts expressing skepticism about official COVID-19 data in her region constitute an exercise of her right to freedom of expression under Article 10. The comments addressed a matter of public interest, namely the government’s handling of the pandemic (see paragraph 5), which falls within the core protection of Article 10.\"},\n    {\"Interference with the right\": \"The imposition of an administrative fine of RUB 30,000 for ‘disseminating untrue information’ under Article 13.15(9) of the Code of Administrative Offences constitutes an interference with the applicant’s right to freedom of expression (see paragraphs 6, 8, 9).\"},   \n    {\"Prescribed by law and legitimate aim\": \"The interference was based on Article 13.15(9) of the Code of Administrative Offences, a clear legal provision (see paragraph 13), thus satisfying the ‘prescribed by law’ requirement. The measure pursued the legitimate aims of protecting public health and preventing disorder, as it sought to curb the spread of allegedly harmful misinformation during a pandemic.\"},\n    {\"Burden of proof and standard of review\": \"The domestic courts improperly shifted the burden of proof onto the applicant, requiring her to disprove the existence of COVID-19 cases rather than the authorities proving the falsity of her statements (see paragraph 8). Under Article 10, the burden of establishing the falsity of information generally rests with the authorities, not the speaker, particularly in matters of public interest (see no. 47621/13). Furthermore, the law required proof that the information was ‘known to be untrue’, which the courts failed to establish (see paragraph 13).\"},\n    {\"Nature and context of the speech\": \"The applicant’s comments, while critical of government policy, were part of a public debate on a pressing issue. The ECtHR accords the highest level of protection to political speech and opinions on matters of public concern (see no. 64569/09). The limited reach of her posts (2,600 followers, with only one like and one response, see paragraph 5) and their speculative nature (‘Think about why...’) suggest they did not pose a real and immediate risk of harm sufficient to justify the interference.\"},\n    {\"Necessity in a democratic society\": \"The interference was not ‘necessary in a democratic society’. The domestic courts did not assess whether the applicant’s statements were ‘known to be untrue’ as required by law (see paragraph 13), nor did they consider the public-interest context of her speech (see no. 22385/03). The automatic imposition of a fine without a proportionality analysis or evidence of actual harm undermines the essence of Article 10.\"},\n    {\"Procedural deficiencies\": \"The domestic proceedings were flawed, as the courts dismissed the applicant’s appeal without addressing her arguments about the context of her publication, the lack of risk, or the improper burden of proof (see paragraphs 10, 11). Such deficiencies in the domestic review process further indicate a violation of Article 10 standards (see no. 18030/11).\"}\n  ],\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 5284,
+    "prompt_tokens": 1592,
+    "total_tokens": 6876,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 4971,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.042018,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.042018,
+      "upstream_inference_prompt_cost": 0.002388,
+      "upstream_inference_completions_cost": 0.03963
+    }
+  }
+}

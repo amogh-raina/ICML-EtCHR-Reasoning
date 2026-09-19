@@ -1,0 +1,90 @@
+{
+  "item_id": "001-245685",
+  "case_name": "CASE OF MARKO TEŠIĆ v. SERBIA",
+  "case_number": "(Application no. 61891/19)",
+  "date": "4 November 2025",
+  "prompt_type": "non_curated",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Existence of an interference": "The fine imposed on the applicant for the wording used in his written objections of 22 February 2017 constituted an interference with his freedom of expression under Article 10 (see paragraphs 10-13). The interference was based on Article 231 of the Code of Criminal Procedure, which expressly allows a fine for insulting the court or participants in proceedings (see paragraph 16). It also pursued a legitimate aim, namely protecting the authority of the judiciary and the reputation of the presiding judge."
+    },
+    {
+      "Applicable Article 10 principles concerning lawyers": "In the Court’s case-law, lawyers occupy a central position in the administration of justice and therefore enjoy a high level of protection when expressing themselves in the course of defending their clients, especially where their criticism concerns the functioning of the courts and procedural fairness (see no. 31611/96; no. 29369/10; no. 22266/22). At the same time, they are bound by duties of dignity and professionalism and may be sanctioned for gratuitous insults or seriously damaging accusations devoid of factual basis (see no. 31611/96; no. 28198/09). The key issue is whether the impugned remarks, read in context, exceeded the permissible limits of forensic criticism."
+    },
+    {
+      "Context of the applicant’s remarks": "The applicant’s statements were not made in the press or in a political campaign, but in a written procedural submission filed in pending criminal proceedings in which he was acting as defence counsel (see paragraphs 5 and 10). The remarks directly concerned the manner in which the presiding judge conducted the hearing and drafted the record, matters which the applicant considered relevant to his client’s defence (see paragraphs 6-10 and 18). This context is important: the Court generally affords broader latitude to criticism expressed in judicial pleadings aimed at safeguarding a client’s interests than to statements made publicly outside the courtroom (see no. 31611/96; no. 29369/10)."
+    },
+    {
+      "Whether there was a sufficient factual basis": "The impugned expressions were undoubtedly sharp, but they were linked to a concrete procedural dispute already reflected in the hearing record. Before filing the written objections, the applicant had repeatedly complained during the hearing that his objections were not being properly recorded; the judge warned him for disturbing order, refused to record matters verbatim, and the record itself noted his complaint that the judge’s conduct obstructed an effective defence (see paragraphs 7-9). Against that background, statements describing the judge’s conduct as rude, inappropriate or “outrageous”, and referring to her being carried away by the “heat of passion”, can be seen as value judgments with some factual underpinning rather than purely personal abuse (see paragraph 10)."
+    },
+    {
+      "Assessment of the more serious accusations": "The most problematic passages were the allegations of “procedural malice” and of unlawfully altering the record after the hearing (see paragraph 10). Even so, these accusations were not made in a vacuum: they were tied to the applicant’s detailed account of how the record had allegedly misrepresented his objections and later changed wording concerning whether inconsistencies related to ‘details’ or to ‘material circumstances’ (see paragraph 10). The domestic courts stated that nearly all of the applicant’s assertions were already included in the official record, but that observation tends to confirm that there was a genuine procedural disagreement rather than a wholly fabricated personal attack (see paragraph 11). The domestic decisions do not show a careful analysis of whether the factual allegations were entirely baseless or made in bad faith."
+    },
+    {
+      "Tone versus substance": "The national courts focused predominantly on the applicant’s tone and on expressions such as “outrageous”, “heat of passion”, and “malice” (see paragraphs 11 and 13). However, the Court’s case-law requires an overall assessment of the statements in context, including whether they contributed to a discussion on the proper administration of justice and whether they were functionally connected to the defence of a client (see no. 29369/10; no. 31611/96). Here, the statements were embedded in a procedural motion challenging the recording of evidence and the conduct of the hearing, not in an unrelated invective. While the language was intemperate and could have been more restrained, it does not appear to have amounted to a purely gratuitous insult severed from any forensic purpose."
+    },
+    {
+      "Adequacy of the domestic balancing exercise": "The reasoning of the domestic courts appears brief and formalistic. They held that the applicant had breached professional ethics and insulted the panel, but they did not meaningfully weigh his role as defence counsel, the direct connection between the remarks and his client’s case, the factual background recorded at the hearing, or the distinction between value judgments and statements of fact (see paragraphs 11, 13 and 15). This is difficult to reconcile with the standards developed in the Court’s jurisprudence requiring particularly careful scrutiny when sanctions are imposed on lawyers for submissions made in judicial proceedings (see no. 31611/96; no. 29369/10; no. 47600/17)."
+    },
+    {
+      "Severity and chilling effect of the sanction": "The applicant was fined RSD 80,000, a substantial sum and close to the statutory maximum of RSD 100,000 (see paragraphs 11 and 16). A financial penalty of that level is capable of producing a chilling effect on defence lawyers who seek to raise forceful objections about the conduct of criminal proceedings. In the absence of convincing reasons showing that such a penalty answered a pressing social need, the severity of the sanction weighs in favour of finding disproportionality (see no. 31611/96; no. 29369/10)."
+    },
+    {
+      "Overall conclusion under Article 10": "Taking the applicant’s remarks as a whole, they were harsh and arguably discourteous, but they were made in the course of representing a client, concerned alleged procedural irregularities, and had at least some factual basis in the events recorded during the hearing (see paragraphs 7-10). The domestic courts did not demonstrate that the applicant’s criticism crossed the line into a plainly gratuitous and baseless personal attack warranting such a significant fine. In light of the Court’s protective approach to lawyers’ speech in judicial proceedings, it is more likely that the interference would be found not necessary in a democratic society. Accordingly, a violation of Article 10 is likely."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"Existence of an interference\": \"The fine imposed on the applicant for the wording used in his written objections of 22 February 2017 constituted an interference with his freedom of expression under Article 10 (see paragraphs 10-13). The interference was based on Article 231 of the Code of Criminal Procedure, which expressly allows a fine for insulting the court or participants in proceedings (see paragraph 16). It also pursued a legitimate aim, namely protecting the authority of the judiciary and the reputation of the presiding judge.\"\n    },\n    {\n      \"Applicable Article 10 principles concerning lawyers\": \"In the Court’s case-law, lawyers occupy a central position in the administration of justice and therefore enjoy a high level of protection when expressing themselves in the course of defending their clients, especially where their criticism concerns the functioning of the courts and procedural fairness (see no. 31611/96; no. 29369/10; no. 22266/22). At the same time, they are bound by duties of dignity and professionalism and may be sanctioned for gratuitous insults or seriously damaging accusations devoid of factual basis (see no. 31611/96; no. 28198/09). The key issue is whether the impugned remarks, read in context, exceeded the permissible limits of forensic criticism.\"\n    },\n    {\n      \"Context of the applicant’s remarks\": \"The applicant’s statements were not made in the press or in a political campaign, but in a written procedural submission filed in pending criminal proceedings in which he was acting as defence counsel (see paragraphs 5 and 10). The remarks directly concerned the manner in which the presiding judge conducted the hearing and drafted the record, matters which the applicant considered relevant to his client’s defence (see paragraphs 6-10 and 18). This context is important: the Court generally affords broader latitude to criticism expressed in judicial pleadings aimed at safeguarding a client’s interests than to statements made publicly outside the courtroom (see no. 31611/96; no. 29369/10).\"\n    },\n    {\n      \"Whether there was a sufficient factual basis\": \"The impugned expressions were undoubtedly sharp, but they were linked to a concrete procedural dispute already reflected in the hearing record. Before filing the written objections, the applicant had repeatedly complained during the hearing that his objections were not being properly recorded; the judge warned him for disturbing order, refused to record matters verbatim, and the record itself noted his complaint that the judge’s conduct obstructed an effective defence (see paragraphs 7-9). Against that background, statements describing the judge’s conduct as rude, inappropriate or “outrageous”, and referring to her being carried away by the “heat of passion”, can be seen as value judgments with some factual underpinning rather than purely personal abuse (see paragraph 10).\"\n    },\n    {\n      \"Assessment of the more serious accusations\": \"The most problematic passages were the allegations of “procedural malice” and of unlawfully altering the record after the hearing (see paragraph 10). Even so, these accusations were not made in a vacuum: they were tied to the applicant’s detailed account of how the record had allegedly misrepresented his objections and later changed wording concerning whether inconsistencies related to ‘details’ or to ‘material circumstances’ (see paragraph 10). The domestic courts stated that nearly all of the applicant’s assertions were already included in the official record, but that observation tends to confirm that there was a genuine procedural disagreement rather than a wholly fabricated personal attack (see paragraph 11). The domestic decisions do not show a careful analysis of whether the factual allegations were entirely baseless or made in bad faith.\"\n    },\n    {\n      \"Tone versus substance\": \"The national courts focused predominantly on the applicant’s tone and on expressions such as “outrageous”, “heat of passion”, and “malice” (see paragraphs 11 and 13). However, the Court’s case-law requires an overall assessment of the statements in context, including whether they contributed to a discussion on the proper administration of justice and whether they were functionally connected to the defence of a client (see no. 29369/10; no. 31611/96). Here, the statements were embedded in a procedural motion challenging the recording of evidence and the conduct of the hearing, not in an unrelated invective. While the language was intemperate and could have been more restrained, it does not appear to have amounted to a purely gratuitous insult severed from any forensic purpose.\"\n    },\n    {\n      \"Adequacy of the domestic balancing exercise\": \"The reasoning of the domestic courts appears brief and formalistic. They held that the applicant had breached professional ethics and insulted the panel, but they did not meaningfully weigh his role as defence counsel, the direct connection between the remarks and his client’s case, the factual background recorded at the hearing, or the distinction between value judgments and statements of fact (see paragraphs 11, 13 and 15). This is difficult to reconcile with the standards developed in the Court’s jurisprudence requiring particularly careful scrutiny when sanctions are imposed on lawyers for submissions made in judicial proceedings (see no. 31611/96; no. 29369/10; no. 47600/17).\"\n    },\n    {\n      \"Severity and chilling effect of the sanction\": \"The applicant was fined RSD 80,000, a substantial sum and close to the statutory maximum of RSD 100,000 (see paragraphs 11 and 16). A financial penalty of that level is capable of producing a chilling effect on defence lawyers who seek to raise forceful objections about the conduct of criminal proceedings. In the absence of convincing reasons showing that such a penalty answered a pressing social need, the severity of the sanction weighs in favour of finding disproportionality (see no. 31611/96; no. 29369/10).\"\n    },\n    {\n      \"Overall conclusion under Article 10\": \"Taking the applicant’s remarks as a whole, they were harsh and arguably discourteous, but they were made in the course of representing a client, concerned alleged procedural irregularities, and had at least some factual basis in the events recorded during the hearing (see paragraphs 7-10). The domestic courts did not demonstrate that the applicant’s criticism crossed the line into a plainly gratuitous and baseless personal attack warranting such a significant fine. In light of the Court’s protective approach to lawyers’ speech in judicial proceedings, it is more likely that the interference would be found not necessary in a democratic society. Accordingly, a violation of Article 10 is likely.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 2756,
+    "prompt_tokens": 2600,
+    "total_tokens": 5356,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1370,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.04784,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.04784,
+      "upstream_inference_prompt_cost": 0.0065,
+      "upstream_inference_completions_cost": 0.04134
+    }
+  },
+  "citations": [
+    "31611/96",
+    "29369/10",
+    "22266/22",
+    "28198/09",
+    "47600/17"
+  ],
+  "ref_paragraphs": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    15,
+    16,
+    18
+  ]
+}

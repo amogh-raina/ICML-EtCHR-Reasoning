@@ -1,0 +1,469 @@
+item_id,folder,model,pair,side,category,step_1.occurrence,step_2.occurrence,step_3.occurrence,step_4.occurrence,step_1.comprehensiveness,step_2.comprehensiveness,step_3.comprehensiveness,step_4.comprehensiveness,overall_conciseness
+001-242528,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,5,5,4,5,4
+001-242528,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,5,4,4,5,4
+001-242529,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,5,4,5,5,4
+001-242529,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,5,3,5,5,4
+001-242634,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,5,4,4,3,3
+001-242634,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,5,4,4,3,4
+001-242859,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,5,5,4,4,5
+001-242859,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,5,4,5,5,4
+001-242860,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,5,3,4,2,3
+001-242860,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,5,5,4,2,4
+001-243184,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,2,3,3,2,4
+001-243184,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,2,3,4,4,4
+001-243188,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,5,2,2,5,4
+001-243188,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,b,non_curated,1,0,1,1,5,0,3,5,4
+001-243250,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,3,3,4,4
+001-243250,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,b,non_curated,0,0,0,0,0,0,0,0,5
+001-243257,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,5,5,4,5,4
+001-243257,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,4,4,5,4
+001-243887,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,5,5,5,5,4
+001-243887,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,5,3,4,5,5
+001-243982,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,4,3,4,3
+001-243982,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,4,2,4,3
+001-244004,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,5,5,4,5,5
+001-244004,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,5,4,5,5
+001-244080,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,4,5,4,4
+001-244080,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,5,4,5,5,4
+001-245077,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,5,4,4,5,4
+001-245077,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,5,3,4,5,5
+001-245254,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,5,2,3,4,4
+001-245254,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,b,non_curated,1,0,1,1,5,0,2,4,4
+001-245386,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,5,5,5,4,5
+001-245386,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,4,5,5,4
+001-245685,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,5,5,4,5,4
+001-245685,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,4,3,5,4
+001-246124,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,5,5,5,4,4
+001-246124,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,5,5,5,4,4
+001-246134,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,4,3,3,4
+001-246134,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,3,3,3,4
+001-247356,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,5,2,4,5,4
+001-247356,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,5,3,4,5,4
+001-247549,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,2,2,4,2
+001-247549,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,b,non_curated,1,0,1,1,4,0,2,5,2
+001-247645,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,5,4,5,5,4
+001-247645,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,5,4,5,5,4
+001-247823,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,5,5,5,3,4
+001-247823,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,5,4,5,3,4
+001-247832,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,5,4,4,3,4
+001-247832,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,5,4,5,4,4
+001-248090,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,4,2,4,4
+001-248090,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,5,4,2,4,4
+001-248208,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,2,2,4,4
+001-248208,outputs_eval_(gpt_assisted vs non-curated)_gpt5.5,gpt5.5,gpt_assisted_vs_non_curated,b,non_curated,1,0,1,1,4,0,2,4,4
+001-242528,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,5,4,3,5,3
+001-242528,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,5,3,3,5,3
+001-242529,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,5,4,4,5,3
+001-242529,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,4,4,5,3
+001-242634,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,4,4,5,3
+001-242634,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,4,4,5,3
+001-242859,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,4,3,5,4
+001-242859,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,4,3,5,4
+001-242860,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,4,3,5,3
+001-242860,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,3,3,5,4
+001-243184,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,4,3,2,4
+001-243184,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,4,4,5,4
+001-243188,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,5,3,3,5,4
+001-243188,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,b,non_curated,1,0,1,1,5,0,3,5,4
+001-243250,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,3,3,4,3
+001-243250,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,b,non_curated,0,0,0,0,0,0,0,0,0
+001-243257,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,4,3,4,4
+001-243257,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,4,3,5,3
+001-243887,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,4,4,5,4
+001-243887,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,3,3,5,4
+001-243982,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,5,4,3,5,4
+001-243982,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,5,4,2,5,4
+001-244004,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,4,4,4,4
+001-244004,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,4,4,5,4
+001-244080,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,4,4,5,4
+001-244080,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,4,4,5,4
+001-245077,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,3,3,5,4
+001-245077,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,3,3,5,4
+001-245254,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,3,3,4,3
+001-245254,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,2,2,4,3
+001-245386,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,4,3,4,4
+001-245386,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,4,3,5,3
+001-245685,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,4,4,4,4
+001-245685,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,3,3,5,3
+001-246124,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,4,4,4,4
+001-246124,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,4,4,5,4
+001-246134,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,4,2,4,3
+001-246134,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,3,3,4,4
+001-247356,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,4,3,5,4
+001-247356,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,4,3,5,4
+001-247549,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,3,2,4,3
+001-247549,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,2,2,5,3
+001-247645,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,4,4,5,4
+001-247645,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,3,3,5,4
+001-247823,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,4,4,4,3
+001-247823,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,3,3,5,3
+001-247832,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,4,3,4,3
+001-247832,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,4,4,5,4
+001-248090,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,4,2,4,4
+001-248090,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,5,3,5,3
+001-248208,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,2,2,4,3
+001-248208,outputs_eval_(gpt_assisted_vs_non_curated)_claude,claude,gpt_assisted_vs_non_curated,b,non_curated,1,0,1,1,4,0,2,4,3
+001-242528,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,5,4,3,4,2
+001-242528,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,5,3,3,4,3
+001-242529,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,5,4,4,5,5
+001-242529,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,5,3,4,5,5
+001-242634,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,5,4,4,5,4
+001-242634,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,5,4,4,5,4
+001-242859,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,5,3,5,5
+001-242859,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,2,3,5,5
+001-242860,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,5,3,4,5,4
+001-242860,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,5,4,4,5,5
+001-243184,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,0,2,3,2,0,4
+001-243184,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,2,3,3,4,5
+001-243188,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,5,3,2,5,5
+001-243188,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,b,non_curated,1,0,1,1,4,0,2,5,4
+001-243250,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,5,3,2,5,5
+001-243250,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,b,non_curated,0,0,0,0,0,0,0,0,1
+001-243257,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,4,3,5,5
+001-243257,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,2,4,2,4,3
+001-243887,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,5,5,5,5,5
+001-243887,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,3,4,5,5
+001-243982,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,5,5,4,5,5
+001-243982,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,5,3,2,4,5
+001-244004,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,4,4,4,5
+001-244004,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,4,4,5,5
+001-244080,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,4,4,5,5
+001-244080,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,4,4,5,5
+001-245077,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,3,4,5,5
+001-245077,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,2,3,5,5
+001-245254,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,2,3,4,4
+001-245254,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,b,non_curated,1,0,0,1,4,0,0,4,4
+001-245386,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,5,5,5,5,5
+001-245386,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,4,5,5,5
+001-245685,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,5,5,5,5
+001-245685,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,3,5,5,5
+001-246124,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,4,4,5,5
+001-246124,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,4,4,5,5
+001-246134,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,3,2,4,4
+001-246134,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,3,4,4,4,4
+001-247356,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,5,4,5,5,5
+001-247356,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,5,4,5,5,4
+001-247549,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,0,1,5,3,1,4,4
+001-247549,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,b,non_curated,1,0,0,1,5,1,1,4,4
+001-247645,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,4,4,5,5
+001-247645,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,3,3,4,5,5
+001-247823,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,5,5,4,5
+001-247823,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,2,4,5,5
+001-247832,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,4,4,4,4
+001-247832,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,b,non_curated,1,1,1,1,4,4,4,5,5
+001-248090,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,0,1,4,5,0,3,4
+001-248090,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,b,non_curated,1,1,0,1,4,5,0,5,5
+001-248208,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,a,gpt_assisted,1,1,1,1,4,2,2,4,4
+001-248208,outputs_eval_(gpt_assisted_vs_non_curated)_deepseek,deepseek,gpt_assisted_vs_non_curated,b,non_curated,1,0,1,1,4,0,2,3,4
+001-242528,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,a,instruction,1,1,1,1,5,4,4,5,4
+001-242528,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,b,non_curated,1,1,1,1,5,3,3,4,2
+001-242529,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,a,instruction,1,1,1,1,4,4,4,5,4
+001-242529,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,b,non_curated,1,1,1,1,4,3,3,5,3
+001-242634,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,a,instruction,1,1,1,1,4,4,4,3,4
+001-242634,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,b,non_curated,1,1,1,1,3,3,3,4,3
+001-242859,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,a,instruction,1,1,1,1,4,3,4,4,4
+001-242859,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,b,non_curated,1,1,1,1,4,3,3,5,3
+001-242860,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,a,instruction,1,1,1,1,4,4,4,4,4
+001-242860,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,b,non_curated,1,1,1,1,4,3,3,5,3
+001-243184,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,a,instruction,1,1,1,1,3,4,3,4,5
+001-243184,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,b,non_curated,1,1,1,1,4,4,3,5,4
+001-243188,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,a,instruction,1,1,1,1,4,4,3,4,4
+001-243188,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,b,non_curated,1,0,1,1,5,0,3,5,3
+001-243250,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,a,instruction,1,1,1,1,4,4,3,4,4
+001-243250,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,b,non_curated,0,0,0,0,0,0,0,0,1
+001-243257,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,a,instruction,1,1,1,1,4,5,4,5,4
+001-243257,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,b,non_curated,1,1,1,1,4,4,3,5,3
+001-243887,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,a,instruction,1,1,1,1,4,4,4,4,4
+001-243887,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,b,non_curated,1,1,1,1,4,3,3,5,3
+001-243982,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,a,instruction,1,1,1,1,4,4,3,4,4
+001-243982,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,b,non_curated,1,1,0,1,4,3,0,5,3
+001-244004,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,a,instruction,1,1,1,1,4,4,4,4,4
+001-244004,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,b,non_curated,1,1,1,1,3,4,3,5,3
+001-244080,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,a,instruction,1,1,1,1,4,4,4,4,4
+001-244080,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,b,non_curated,1,1,1,1,4,4,3,5,3
+001-245077,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,a,instruction,1,1,1,1,5,4,4,5,4
+001-245077,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,b,non_curated,1,1,1,1,4,2,3,5,3
+001-245254,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,a,instruction,1,1,1,1,4,3,3,5,4
+001-245254,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,b,non_curated,1,0,1,1,4,0,2,5,3
+001-245386,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,a,instruction,1,1,1,1,4,4,4,4,4
+001-245386,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,b,non_curated,1,1,1,1,3,3,3,5,3
+001-245685,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,a,instruction,1,1,1,1,4,4,4,4,5
+001-245685,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,b,non_curated,1,1,1,1,3,3,3,5,3
+001-246124,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,a,instruction,1,1,1,1,4,4,4,4,4
+001-246124,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,b,non_curated,1,1,1,1,3,3,3,5,3
+001-246134,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,a,instruction,1,1,1,1,4,3,3,4,4
+001-246134,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,b,non_curated,1,1,1,1,4,2,3,4,3
+001-247356,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,a,instruction,1,1,1,1,4,4,4,4,4
+001-247356,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,b,non_curated,1,1,1,1,4,3,3,5,3
+001-247549,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,a,instruction,1,1,1,1,5,4,4,5,4
+001-247549,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,b,non_curated,1,1,0,1,5,3,0,5,3
+001-247645,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,a,instruction,1,1,1,1,4,4,4,5,4
+001-247645,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,b,non_curated,1,1,1,1,3,2,2,5,3
+001-247823,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,a,instruction,1,1,1,1,4,4,4,3,4
+001-247823,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,b,non_curated,1,1,1,1,3,2,2,4,3
+001-247832,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,a,instruction,1,1,1,1,4,4,4,3,4
+001-247832,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,b,non_curated,1,1,1,1,4,4,3,5,3
+001-248090,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,a,instruction,1,1,1,1,4,4,3,4,4
+001-248090,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,b,non_curated,1,1,1,1,4,5,3,5,3
+001-248208,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,a,instruction,1,1,1,1,4,3,3,4,4
+001-248208,outputs_eval_(instruction vs non-curated)_claude,claude,instruction_vs_non_curated,b,non_curated,1,0,1,1,5,0,2,4,3
+001-242528,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,a,instruction,1,1,1,1,5,5,4,5,5
+001-242528,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,b,non_curated,1,1,1,1,5,3,4,5,3
+001-242529,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,a,instruction,1,1,1,1,5,5,5,5,5
+001-242529,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,b,non_curated,1,1,1,1,5,3,5,4,5
+001-242634,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,a,instruction,1,1,1,1,4,4,4,4,5
+001-242634,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,b,non_curated,1,1,1,1,4,4,4,5,5
+001-242859,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,a,instruction,1,1,1,1,5,3,5,4,5
+001-242859,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,b,non_curated,1,1,1,1,5,3,4,5,5
+001-242860,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,a,instruction,1,1,1,1,5,5,4,5,4
+001-242860,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,b,non_curated,1,1,1,1,5,3,3,5,5
+001-243184,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,a,instruction,1,1,1,1,2,4,4,4,5
+001-243184,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,b,non_curated,1,1,1,1,1,3,4,5,5
+001-243188,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,a,instruction,1,1,1,1,5,4,3,5,5
+001-243188,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,b,non_curated,1,0,1,1,5,0,2,5,4
+001-243250,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,a,instruction,1,1,1,1,2,4,3,4,4
+001-243250,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,b,non_curated,0,0,0,0,0,0,0,0,0
+001-243257,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,a,instruction,1,1,1,1,5,5,4,5,5
+001-243257,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,b,non_curated,1,1,1,1,4,5,3,5,5
+001-243887,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,a,instruction,1,1,1,1,5,5,5,4,5
+001-243887,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,b,non_curated,1,1,1,1,5,4,4,5,5
+001-243982,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,a,instruction,1,1,1,1,5,4,3,5,5
+001-243982,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,b,non_curated,1,1,0,1,4,4,0,5,5
+001-244004,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,a,instruction,1,1,1,1,4,4,4,4,5
+001-244004,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,b,non_curated,1,1,1,1,3,3,3,5,4
+001-244080,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,a,instruction,1,1,1,1,4,5,5,4,5
+001-244080,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,b,non_curated,1,1,1,1,3,2,4,5,4
+001-245077,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,a,instruction,1,1,1,1,5,5,5,5,5
+001-245077,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,b,non_curated,1,1,1,1,5,1,1,5,4
+001-245254,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,a,instruction,1,1,1,1,5,2,3,5,5
+001-245254,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,b,non_curated,1,0,1,1,5,0,2,5,5
+001-245386,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,a,instruction,1,1,1,1,5,5,5,5,5
+001-245386,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,b,non_curated,1,1,1,1,4,2,1,5,5
+001-245685,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,a,instruction,1,1,1,1,5,5,5,5,5
+001-245685,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,b,non_curated,1,1,1,1,3,3,4,5,5
+001-246124,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,a,instruction,1,1,1,1,5,5,5,4,5
+001-246124,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,b,non_curated,1,1,1,1,5,4,5,5,5
+001-246134,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,a,instruction,1,1,1,1,4,2,0,0,5
+001-246134,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,b,non_curated,1,0,1,1,4,0,0,0,3
+001-247356,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,a,instruction,1,1,1,1,4,4,4,5,5
+001-247356,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,b,non_curated,1,1,1,1,4,3,3,5,4
+001-247549,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,a,instruction,1,1,1,1,5,5,5,5,5
+001-247549,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,b,non_curated,1,0,1,1,4,0,2,4,4
+001-247645,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,a,instruction,1,1,1,1,5,5,5,5,5
+001-247645,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,b,non_curated,1,1,1,1,4,2,2,5,5
+001-247823,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,a,instruction,1,1,1,1,5,5,5,4,5
+001-247823,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,b,non_curated,1,1,1,1,5,3,4,4,5
+001-247832,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,a,instruction,1,1,1,1,4,4,4,3,4
+001-247832,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,b,non_curated,1,1,1,1,4,4,4,4,4
+001-248090,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,a,instruction,1,1,1,1,5,5,4,5,5
+001-248090,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,b,non_curated,1,1,1,1,4,5,2,5,5
+001-248208,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,a,instruction,1,1,1,1,4,3,2,4,5
+001-248208,outputs_eval_(instruction vs non-curated)_deepseek,deepseek,instruction_vs_non_curated,b,non_curated,1,0,1,1,4,0,2,4,4
+001-242528,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,a,instruction,1,1,1,1,5,5,5,5,4
+001-242528,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,b,non_curated,1,1,1,1,5,3,4,4,3
+001-242529,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,a,instruction,1,1,1,1,4,5,5,4,5
+001-242529,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,b,non_curated,1,1,1,1,5,3,4,5,4
+001-242634,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,a,instruction,1,1,1,1,5,4,5,2,5
+001-242634,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,b,non_curated,1,1,1,1,5,4,5,3,3
+001-242859,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,a,instruction,1,1,1,1,5,4,4,4,5
+001-242859,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,b,non_curated,1,1,1,1,5,3,5,5,4
+001-242860,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,a,instruction,1,1,1,1,4,2,4,2,4
+001-242860,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,b,non_curated,1,1,1,1,4,5,4,2,3
+001-243184,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,a,instruction,1,1,1,1,2,4,5,4,5
+001-243184,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,b,non_curated,1,1,1,1,2,3,4,4,4
+001-243188,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,a,instruction,1,1,1,1,5,2,2,5,5
+001-243188,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,b,non_curated,1,0,1,1,5,0,3,5,4
+001-243250,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,a,instruction,1,1,1,1,4,3,4,3,4
+001-243250,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,b,non_curated,0,0,0,0,0,0,0,0,5
+001-243257,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,a,instruction,1,1,1,1,5,5,4,5,5
+001-243257,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,b,non_curated,1,1,1,1,4,5,4,5,4
+001-243887,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,a,instruction,1,1,1,1,5,5,5,4,5
+001-243887,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,b,non_curated,1,1,1,1,5,2,4,5,4
+001-243982,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,a,instruction,1,1,1,1,5,3,4,4,4
+001-243982,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,b,non_curated,1,1,1,1,5,4,2,5,3
+001-244004,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,a,instruction,1,1,1,1,5,5,5,4,5
+001-244004,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,b,non_curated,1,1,1,1,4,4,4,5,4
+001-244080,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,a,instruction,1,1,1,1,4,5,5,4,5
+001-244080,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,b,non_curated,1,1,1,1,5,4,5,5,4
+001-245077,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,a,instruction,1,1,1,1,5,4,4,5,4
+001-245077,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,b,non_curated,1,1,1,1,4,2,2,5,4
+001-245254,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,a,instruction,1,1,1,1,5,2,4,4,4
+001-245254,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,b,non_curated,1,0,1,1,5,0,2,5,3
+001-245386,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,a,instruction,1,1,1,1,5,5,5,4,5
+001-245386,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,b,non_curated,1,1,1,1,5,4,5,5,4
+001-245685,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,a,instruction,1,1,1,1,5,5,4,4,5
+001-245685,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,b,non_curated,1,1,1,1,5,4,4,5,4
+001-246124,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,a,instruction,1,1,1,1,5,5,5,3,5
+001-246124,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,b,non_curated,1,1,1,1,5,4,4,4,4
+001-246134,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,a,instruction,1,1,1,1,4,2,3,4,4
+001-246134,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,b,non_curated,1,1,1,1,4,4,3,4,4
+001-247356,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,a,instruction,1,1,1,1,5,5,5,5,5
+001-247356,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,b,non_curated,1,1,1,1,5,4,5,5,4
+001-247549,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,a,instruction,1,1,1,1,4,4,3,5,3
+001-247549,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,b,non_curated,1,0,1,1,4,0,2,4,2
+001-247645,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,a,instruction,1,1,1,1,5,5,5,5,4
+001-247645,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,b,non_curated,1,1,1,1,4,3,3,5,5
+001-247823,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,a,instruction,1,1,1,1,5,5,5,3,5
+001-247823,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,b,non_curated,1,1,1,1,5,4,5,3,4
+001-247832,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,a,instruction,1,1,1,1,5,4,5,3,5
+001-247832,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,b,non_curated,1,1,1,1,4,5,5,4,4
+001-248090,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,a,instruction,1,1,1,1,4,5,3,4,5
+001-248090,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,b,non_curated,1,1,1,1,4,5,3,5,4
+001-248208,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,a,instruction,1,1,1,1,4,2,2,4,4
+001-248208,outputs_eval_(instruction vs non-curated)_gpt5.5,gpt5.5,instruction_vs_non_curated,b,non_curated,1,0,1,1,4,0,1,4,4
+001-242528,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,5,5,4,5,4
+001-242528,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,5,4,3,5,3
+001-242529,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,4,4,4,4
+001-242529,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,4,4,5,3
+001-242634,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,4,4,3,4
+001-242634,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,3,3,4,3
+001-242859,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,3,4,5,4
+001-242859,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,4,3,5,4
+001-242860,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,4,4,4,4
+001-242860,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,4,3,5,3
+001-243184,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,4,3,4,4
+001-243184,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,0,4,5,3,0,3
+001-243188,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,4,4,4,4
+001-243188,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,4,3,5,3
+001-243250,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,4,4,4,4
+001-243250,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,3,3,5,3
+001-243257,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,5,4,4,4
+001-243257,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,5,3,4,3
+001-243887,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,4,4,4,4
+001-243887,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,4,3,5,3
+001-243982,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,4,3,4,4
+001-243982,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,4,3,5,3
+001-244004,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,4,4,4,4
+001-244004,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,3,3,4,5,4
+001-244080,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,4,4,4,4
+001-244080,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,4,3,5,3
+001-245077,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,4,4,5,4
+001-245077,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,3,3,5,3
+001-245254,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,3,3,4,4
+001-245254,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,3,3,5,3
+001-245386,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,4,4,4,4
+001-245386,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,4,3,5,4
+001-245685,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,4,4,4,4
+001-245685,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,4,4,5,3
+001-246124,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,4,4,4,4
+001-246124,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,4,4,5,3
+001-246134,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,3,3,4,4
+001-246134,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,4,3,4,3
+001-247356,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,4,4,4,4
+001-247356,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,3,3,5,3
+001-247549,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,5,4,4,5,4
+001-247549,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,3,2,5,3
+001-247645,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,4,4,5,4
+001-247645,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,3,3,5,4
+001-247823,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,4,4,4,4
+001-247823,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,4,3,5,3
+001-247832,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,4,4,4,4
+001-247832,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,4,3,4,3
+001-248090,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,4,3,4,4
+001-248090,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,5,2,4,3
+001-248208,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,3,3,4,4
+001-248208,outputs_eval_(instructions vs gpt_assisted)_claude,claude,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,2,3,4,3
+001-242528,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,5,5,4,5,5
+001-242528,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,5,3,5,3
+001-242529,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,4,4,5,5
+001-242529,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,4,3,5,4
+001-242634,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,4,4,4,5
+001-242634,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,5,5,5,4,5
+001-242859,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,5,5,5,5,5
+001-242859,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,5,5,4,5,5
+001-242860,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,5,5,4,4,5
+001-242860,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,5,5,4,5,5
+001-243184,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,2,3,4,4,5
+001-243184,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,0,2,3,2,0,4
+001-243188,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,5,4,4,5,5
+001-243188,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,5,3,3,5,4
+001-243250,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,3,2,5,3,5
+001-243250,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,3,4,4,4,4
+001-243257,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,5,5,5,5,5
+001-243257,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,5,5,5,5,4
+001-243887,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,5,5,5,4,5
+001-243887,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,5,5,5,5,5
+001-243982,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,4,3,4,5
+001-243982,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,4,2,5,4
+001-244004,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,5,4,5,5
+001-244004,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,4,3,5,5
+001-244080,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,4,4,5,4
+001-244080,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,4,4,5,4
+001-245077,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,5,4,5,5,5
+001-245077,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,5,3,4,5,5
+001-245254,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,2,4,4,5
+001-245254,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,2,3,5,4
+001-245386,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,5,4,5,5,5
+001-245386,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,5,4,5,5,5
+001-245685,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,5,5,5,4,5
+001-245685,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,5,5,5,5,5
+001-246124,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,5,4,4,3,5
+001-246124,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,5,4,4,4,4
+001-246134,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,2,3,4,5
+001-246134,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,3,2,4,4
+001-247356,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,3,4,5,5
+001-247356,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,4,3,5,5
+001-247549,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,5,3,4,5,5
+001-247549,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,5,3,2,5,4
+001-247645,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,5,5,5,5,5
+001-247645,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,3,3,5,5
+001-247823,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,5,5,5,4,5
+001-247823,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,4,4,4,5
+001-247832,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,3,4,4,5
+001-247832,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,4,4,5,5
+001-248090,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,5,5,4,4,5
+001-248090,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,5,2,3,5
+001-248208,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,2,2,4,5
+001-248208,outputs_eval_(instructions vs gpt_assisted)_deepseek,deepseek,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,3,2,2,4,4
+001-242528,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,5,5,5,4,4
+001-242528,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,5,5,4,5,3
+001-242529,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,5,5,4,5
+001-242529,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,5,5,5,5,4
+001-242634,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,5,4,4,3,5
+001-242634,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,5,4,4,4,4
+001-242859,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,5,4,4,4,5
+001-242859,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,5,5,4,5,4
+001-242860,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,5,2,4,2,4
+001-242860,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,5,3,4,3,3
+001-243184,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,2,4,4,4,5
+001-243184,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,2,3,3,2,4
+001-243188,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,5,3,2,4,5
+001-243188,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,5,2,2,5,4
+001-243250,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,3,4,3,4
+001-243250,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,3,3,4,3
+001-243257,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,5,4,4,5,4
+001-243257,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,5,4,4,5,4
+001-243887,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,5,5,5,5,5
+001-243887,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,5,5,5,5,4
+001-243982,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,3,3,4,3
+001-243982,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,3,3,5,2
+001-244004,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,5,4,5,4,5
+001-244004,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,5,4,4,5,4
+001-244080,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,5,5,4,5
+001-244080,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,4,4,5,4
+001-245077,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,5,4,4,5,4
+001-245077,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,5,3,4,5,4
+001-245254,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,5,2,4,4,4
+001-245254,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,5,3,4,5,4
+001-245386,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,5,5,5,4,5
+001-245386,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,5,5,5,5,5
+001-245685,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,5,5,4,4,5
+001-245685,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,5,5,4,5,4
+001-246124,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,5,5,5,4,5
+001-246124,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,5,5,5,4,4
+001-246134,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,2,3,4,4
+001-246134,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,4,3,4,3
+001-247356,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,5,4,5,5,5
+001-247356,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,5,2,4,4,4
+001-247549,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,3,3,4,3
+001-247549,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,2,2,4,4
+001-247645,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,5,5,5,5,4
+001-247645,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,5,5,5,5,4
+001-247823,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,5,5,5,2,5
+001-247823,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,5,5,4,3,4
+001-247832,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,5,4,5,3,4
+001-247832,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,5,4,5,3,4
+001-248090,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,5,3,4,4
+001-248090,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,5,2,4,5
+001-248208,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,a,instruction,1,1,1,1,4,2,2,4,4
+001-248208,outputs_eval_(instructions vs gpt_assisted)_gpt5.5,gpt5.5,instruction_vs_gpt_assisted,b,gpt_assisted,1,1,1,1,4,2,2,4,4

@@ -1,0 +1,60 @@
+{
+  "item_id": "001-247549",
+  "case_name": "CASE OF ANTI-CORRUPTION FOUNDATION (FBK) AND OTHERS v. RUSSIA",
+  "case_number": "(Applications nos. 13505/20 and 138 others –",
+  "date": "16 December 2025",
+  "prompt_type": "non_curated",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "11",
+    "11-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Existence of interference with Article 10 rights": "The applicants, including the Anti-Corruption Foundation (FBK), its affiliated entities, and Mr Navalnyy’s associates, engaged in core expressive activities such as publishing anti-corruption investigations, producing documentaries, organising protests, and promoting political reform (see paragraphs 6-10). The Russian authorities’ measures – including the freezing of all bank accounts (see paragraphs 18-23), mass searches and seizures of equipment (see paragraphs 24-28), the ‘foreign agent’ designation of the FBK (see paragraphs 29-32), and the extremist designation leading to the dissolution of the organisations (see paragraphs 33-36) – directly and severely impeded these activities. Such actions clearly constituted an interference with the applicants’ right to freedom of expression under Article 10."
+    },
+    {
+      "Legal basis and foreseeability of the interference": "The interference was grounded in domestic law, including the Code of Criminal Procedure (for freezing orders and searches; see paragraphs 40-43), the ‘foreign agent’ legislation, and the Suppression of Extremism Act. However, the European Court has repeatedly found that these legal frameworks lack the precision and foreseeability required by Article 10. In Kobaliya and Others v. Russia, the Court held that the ‘foreign agent’ law’s vague criteria enabled arbitrary restrictions on NGOs’ expressive activities (see no. 39446/16). Similarly, in Taganrog LRO and Others v. Russia, the Court criticised the Suppression of Extremism Act for its broad and indeterminate definitions, which allowed disproportionate interference with associative and expressive rights (see no. 32401/10)."
+    },
+    {
+      "Legitimate aim pursued by the authorities": "The Russian authorities justified the measures as necessary to combat money laundering (see paragraphs 12-14), regulate foreign funding (see paragraphs 29-32), prevent extremism, and protect public order (see paragraphs 33-36). These objectives fall within the legitimate grounds for restricting freedom of expression outlined in Article 10 § 2, such as the prevention of crime and the protection of national security or public safety."
+    },
+    {
+      "Lack of necessity and proportionality in a democratic society": "The interference failed the necessity test under Article 10. Domestic courts issued freezing orders mechanically, using standardised templates without individualised assessments of necessity or proportionality (see paragraphs 20-23). Many searches were authorised based on unsupported, generic allegations, and at least 36 were conducted without prior judicial approval (see paragraphs 25-28). The ‘foreign agent’ designation was imposed for a negligible foreign donation (approximately EUR 1,944) received when the FBK’s accounts were already frozen, making compliance impossible (see paragraphs 29-30). The extremist designation relied on broad interpretations of activities like protest organisation and investigative reporting as ‘extremist’ (see paragraphs 35-36). The Court has held that restrictions on political speech require compelling justification. In Kobaliya and Others v. Russia, it found the ‘foreign agent’ law’s application disproportionate (see no. 39446/16), and in Taganrog LRO and Others v. Russia, it ruled that dissolution under the Extremism Act violated the Convention due to its sweeping nature (see no. 32401/10)."
+    },
+    {
+      "Chilling effect and systemic repression": "The cumulative impact of these measures created a severe chilling effect, extending beyond the applicants to their supporters and the public. Individuals faced criminal prosecution for mere association with the designated organisations, including for negligible donations or displaying banned symbols (see paragraph 39). This systemic repression of dissent, targeting political opposition and anti-corruption activities, is incompatible with Article 10. The Court’s case law confirms that such broad, disproportionate restrictions on political expression, lacking sufficient safeguards, cannot be justified in a democratic society (see no. 39446/16; see no. 32401/10)."
+    },
+    {
+      "Conclusion on Article 10 violation": "The interference with the applicants’ freedom of expression was neither proportionate to the legitimate aims pursued nor accompanied by adequate safeguards against abuse. The mechanical application of restrictive measures, the lack of individualised judicial assessment, and the sweeping nature of the repression of political speech and association demonstrate a clear violation of the standards set by Article 10. This conclusion aligns with the Court’s findings in similar cases involving the misuse of ‘foreign agent’ and extremism legislation to suppress dissent in Russia (see no. 39446/16; see no. 32401/10)."
+    }
+  ],
+  "raw_content": "```json\n{\n  \"assessment\": [\n    {\"Existence of interference with Article 10 rights\": \"The applicants, including the Anti-Corruption Foundation (FBK), its affiliated entities, and Mr Navalnyy’s associates, engaged in core expressive activities such as publishing anti-corruption investigations, producing documentaries, organising protests, and promoting political reform (see paragraphs 6-10). The Russian authorities’ measures – including the freezing of all bank accounts (see paragraphs 18-23), mass searches and seizures of equipment (see paragraphs 24-28), the ‘foreign agent’ designation of the FBK (see paragraphs 29-32), and the extremist designation leading to the dissolution of the organisations (see paragraphs 33-36) – directly and severely impeded these activities. Such actions clearly constituted an interference with the applicants’ right to freedom of expression under Article 10.\"},\n\n    {\"Legal basis and foreseeability of the interference\": \"The interference was grounded in domestic law, including the Code of Criminal Procedure (for freezing orders and searches; see paragraphs 40-43), the ‘foreign agent’ legislation, and the Suppression of Extremism Act. However, the European Court has repeatedly found that these legal frameworks lack the precision and foreseeability required by Article 10. In Kobaliya and Others v. Russia, the Court held that the ‘foreign agent’ law’s vague criteria enabled arbitrary restrictions on NGOs’ expressive activities (see no. 39446/16). Similarly, in Taganrog LRO and Others v. Russia, the Court criticised the Suppression of Extremism Act for its broad and indeterminate definitions, which allowed disproportionate interference with associative and expressive rights (see no. 32401/10).\"},\n\n    {\"Legitimate aim pursued by the authorities\": \"The Russian authorities justified the measures as necessary to combat money laundering (see paragraphs 12-14), regulate foreign funding (see paragraphs 29-32), prevent extremism, and protect public order (see paragraphs 33-36). These objectives fall within the legitimate grounds for restricting freedom of expression outlined in Article 10 § 2, such as the prevention of crime and the protection of national security or public safety.\"},\n\n    {\"Lack of necessity and proportionality in a democratic society\": \"The interference failed the necessity test under Article 10. Domestic courts issued freezing orders mechanically, using standardised templates without individualised assessments of necessity or proportionality (see paragraphs 20-23). Many searches were authorised based on unsupported, generic allegations, and at least 36 were conducted without prior judicial approval (see paragraphs 25-28). The ‘foreign agent’ designation was imposed for a negligible foreign donation (approximately EUR 1,944) received when the FBK’s accounts were already frozen, making compliance impossible (see paragraphs 29-30). The extremist designation relied on broad interpretations of activities like protest organisation and investigative reporting as ‘extremist’ (see paragraphs 35-36). The Court has held that restrictions on political speech require compelling justification. In Kobaliya and Others v. Russia, it found the ‘foreign agent’ law’s application disproportionate (see no. 39446/16), and in Taganrog LRO and Others v. Russia, it ruled that dissolution under the Extremism Act violated the Convention due to its sweeping nature (see no. 32401/10).\"},\n\n     {\"Chilling effect and systemic repression\": \"The cumulative impact of these measures created a severe chilling effect, extending beyond the applicants to their supporters and the public. Individuals faced criminal prosecution for mere association with the designated organisations, including for negligible donations or displaying banned symbols (see paragraph 39). This systemic repression of dissent, targeting political opposition and anti-corruption activities, is incompatible with Article 10. The Court’s case law confirms that such broad, disproportionate restrictions on political expression, lacking sufficient safeguards, cannot be justified in a democratic society (see no. 39446/16; see no. 32401/10).\"},\n\n    {\"Conclusion on Article 10 violation\": \"The interference with the applicants’ freedom of expression was neither proportionate to the legitimate aims pursued nor accompanied by adequate safeguards against abuse. The mechanical application of restrictive measures, the lack of individualised judicial assessment, and the sweeping nature of the repression of political speech and association demonstrate a clear violation of the standards set by Article 10. This conclusion aligns with the Court’s findings in similar cases involving the misuse of ‘foreign agent’ and extremism legislation to suppress dissent in Russia (see no. 39446/16; see no. 32401/10).\"}\n  ],\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 6215,
+    "prompt_tokens": 9313,
+    "total_tokens": 15528,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 5228,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.060582,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.060582,
+      "upstream_inference_prompt_cost": 0.0139695,
+      "upstream_inference_completions_cost": 0.0466125
+    }
+  }
+}

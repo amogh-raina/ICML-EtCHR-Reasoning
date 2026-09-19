@@ -1,0 +1,101 @@
+{
+  "item_id": "001-247549",
+  "case_name": "CASE OF ANTI-CORRUPTION FOUNDATION (FBK) AND OTHERS v. RUSSIA",
+  "case_number": "(Applications nos. 13505/20 and 138 others –",
+  "date": "16 December 2025",
+  "prompt_type": "instruction",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "11",
+    "11-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Existence of an interference": "There was a clear interference with the applicants’ freedom of expression. The applicants were part of Mr Navalnyy’s anti-corruption and political-advocacy network, whose core activity was to investigate alleged corruption, publish reports and documentaries online, organise political campaigning and mobilise supporters on matters of public interest (see paragraphs 5-10). Several measures directly impaired that expressive activity: the freezing of bank accounts, which prevented the FBK from paying salaries and continuing its ordinary work (see paragraphs 18-23); extensive searches and seizures of phones, computers, documents and production equipment from offices and homes, including those of supporters and journalists (see paragraphs 24-28); the designation of the FBK as a “foreign agent” and the related fine (see paragraphs 29-32); and, most significantly, the declaration of the FBK, the FZPG and the Navalnyy Headquarters as “extremist”, followed by dissolution, bans and later prosecutions of supporters, donors and persons reposting related materials (see paragraphs 33-39). Given that the impugned activity concerned political speech, anti-corruption reporting and public-interest advocacy, Article 10 is fully engaged, and the cumulative measures had an obvious chilling effect, especially in light of the Court’s approach to stigmatising labels for NGOs and restrictions on public-interest advocacy (see no. 39446/16)."
+    },
+    {
+      "Lawfulness of the interference": "The measures had a formal basis in domestic law: the account freezes and searches relied on the Code of Criminal Procedure, the “foreign agent” designation on the relevant NGO legislation, and the dissolution on the Suppression of Extremism Act (see paragraphs 40-46). However, the facts disclose serious arbitrariness in the application of those provisions. The freezing orders and extensions were issued in standardised, formulaic terms, without any individualised factual assessment, despite domestic law requiring specific factual circumstances and a defined period (see paragraphs 20-23 and 41). Likewise, search warrants repeated generic assertions that the applicants “might be involved”, and urgent searches were validated without concrete proof that evidence was at risk of destruction, notwithstanding domestic guidance requiring substantiated urgency (see paragraphs 25-28 and 44-46). The extremism proceedings relied on a broadly framed legal framework that the Court has previously viewed with concern because of its capacity for overbroad application (see no. 32401/10). Even so, because the measures were at least formally anchored in Russian legislation, the decisive issue for Article 10 is whether they pursued legitimate aims and were necessary in a democratic society."
+    },
+    {
+      "Legitimate aims of the interference": "The respondent State could plausibly invoke legitimate aims under Article 10 § 2. The money-laundering investigation, asset freezes and searches were presented as serving the prevention of crime (see paragraphs 12-28). The “foreign agent” regime was ostensibly linked to transparency in the public sphere and thus to the protection of the rights of others or public order (see paragraphs 29-32; compare no. 39446/16). The extremism proceedings were framed by the authorities as necessary for public safety, the prevention of disorder or crime, and national security, since the prosecutor alleged calls for violent action, mass disorder and extremist activity (see paragraphs 33-36). Accordingly, the interference cannot be dismissed for lack of a legitimate aim alone. The key question remains proportionality."
+    },
+    {
+      "Necessary in a democratic society": "The interference was not necessary in a democratic society. First, the applicants’ expression lay at the heart of Article 10 protection: anti-corruption investigations, criticism of government, election-related campaigning and mobilisation of opposition voters concern matters of the highest public interest (see paragraphs 6-10, 15 and 35). The Court applies strict scrutiny where restrictions affect political speech and watchdog organisations, especially where a stigmatising legal status undermines their public role (see no. 39446/16). Second, the domestic authorities gave no relevant and sufficient reasons. The alleged money-laundering case was directed against “unidentified individuals”, while the courts froze all funds in the applicants’ accounts, including those of relatives, without individualised analysis and for a prolonged period, although the balances did not even match the alleged amount (see paragraphs 14 and 18-23). The searches were equally indiscriminate: around 191 searches, many based on template reasoning, and urgent searches without concrete evidence of urgency, including against journalists and supporters with no formal ties to the FBK (see paragraphs 24-28). Third, less restrictive means were plainly available: targeted seizure of specific evidence, narrower financial restrictions, or disclosure obligations instead of paralysing the organisations’ activity. The “foreign agent” designation rested on a very small transfer from Spain that was later returned, yet it triggered a stigmatising label and a fine (see paragraphs 29-32), a pattern the Court has found to have a chilling effect on civil-society expression (see no. 39446/16). Finally, the extremism finding was a radically disproportionate response. The grounds cited included online dissemination, participation in unauthorised protests and calls to attend rallies, with the hearing held in camera on the basis of classified material (see paragraphs 35-36). Dissolving the organisations and exposing supporters, donors and persons reposting content to criminal or administrative liability went far beyond any pressing social need and is consistent with the dangers of overbroad extremism legislation identified by the Court (see no. 32401/10). Taken cumulatively, the measures appear aimed not at combating genuine crime but at silencing opposition and anti-corruption speech. A violation of Article 10 is therefore highly likely."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"Existence of an interference\": \"There was a clear interference with the applicants’ freedom of expression. The applicants were part of Mr Navalnyy’s anti-corruption and political-advocacy network, whose core activity was to investigate alleged corruption, publish reports and documentaries online, organise political campaigning and mobilise supporters on matters of public interest (see paragraphs 5-10). Several measures directly impaired that expressive activity: the freezing of bank accounts, which prevented the FBK from paying salaries and continuing its ordinary work (see paragraphs 18-23); extensive searches and seizures of phones, computers, documents and production equipment from offices and homes, including those of supporters and journalists (see paragraphs 24-28); the designation of the FBK as a “foreign agent” and the related fine (see paragraphs 29-32); and, most significantly, the declaration of the FBK, the FZPG and the Navalnyy Headquarters as “extremist”, followed by dissolution, bans and later prosecutions of supporters, donors and persons reposting related materials (see paragraphs 33-39). Given that the impugned activity concerned political speech, anti-corruption reporting and public-interest advocacy, Article 10 is fully engaged, and the cumulative measures had an obvious chilling effect, especially in light of the Court’s approach to stigmatising labels for NGOs and restrictions on public-interest advocacy (see no. 39446/16).\"\n    },\n    {\n      \"Lawfulness of the interference\": \"The measures had a formal basis in domestic law: the account freezes and searches relied on the Code of Criminal Procedure, the “foreign agent” designation on the relevant NGO legislation, and the dissolution on the Suppression of Extremism Act (see paragraphs 40-46). However, the facts disclose serious arbitrariness in the application of those provisions. The freezing orders and extensions were issued in standardised, formulaic terms, without any individualised factual assessment, despite domestic law requiring specific factual circumstances and a defined period (see paragraphs 20-23 and 41). Likewise, search warrants repeated generic assertions that the applicants “might be involved”, and urgent searches were validated without concrete proof that evidence was at risk of destruction, notwithstanding domestic guidance requiring substantiated urgency (see paragraphs 25-28 and 44-46). The extremism proceedings relied on a broadly framed legal framework that the Court has previously viewed with concern because of its capacity for overbroad application (see no. 32401/10). Even so, because the measures were at least formally anchored in Russian legislation, the decisive issue for Article 10 is whether they pursued legitimate aims and were necessary in a democratic society.\"\n    },\n    {\n      \"Legitimate aims of the interference\": \"The respondent State could plausibly invoke legitimate aims under Article 10 § 2. The money-laundering investigation, asset freezes and searches were presented as serving the prevention of crime (see paragraphs 12-28). The “foreign agent” regime was ostensibly linked to transparency in the public sphere and thus to the protection of the rights of others or public order (see paragraphs 29-32; compare no. 39446/16). The extremism proceedings were framed by the authorities as necessary for public safety, the prevention of disorder or crime, and national security, since the prosecutor alleged calls for violent action, mass disorder and extremist activity (see paragraphs 33-36). Accordingly, the interference cannot be dismissed for lack of a legitimate aim alone. The key question remains proportionality.\"\n    },\n    {\n      \"Necessary in a democratic society\": \"The interference was not necessary in a democratic society. First, the applicants’ expression lay at the heart of Article 10 protection: anti-corruption investigations, criticism of government, election-related campaigning and mobilisation of opposition voters concern matters of the highest public interest (see paragraphs 6-10, 15 and 35). The Court applies strict scrutiny where restrictions affect political speech and watchdog organisations, especially where a stigmatising legal status undermines their public role (see no. 39446/16). Second, the domestic authorities gave no relevant and sufficient reasons. The alleged money-laundering case was directed against “unidentified individuals”, while the courts froze all funds in the applicants’ accounts, including those of relatives, without individualised analysis and for a prolonged period, although the balances did not even match the alleged amount (see paragraphs 14 and 18-23). The searches were equally indiscriminate: around 191 searches, many based on template reasoning, and urgent searches without concrete evidence of urgency, including against journalists and supporters with no formal ties to the FBK (see paragraphs 24-28). Third, less restrictive means were plainly available: targeted seizure of specific evidence, narrower financial restrictions, or disclosure obligations instead of paralysing the organisations’ activity. The “foreign agent” designation rested on a very small transfer from Spain that was later returned, yet it triggered a stigmatising label and a fine (see paragraphs 29-32), a pattern the Court has found to have a chilling effect on civil-society expression (see no. 39446/16). Finally, the extremism finding was a radically disproportionate response. The grounds cited included online dissemination, participation in unauthorised protests and calls to attend rallies, with the hearing held in camera on the basis of classified material (see paragraphs 35-36). Dissolving the organisations and exposing supporters, donors and persons reposting content to criminal or administrative liability went far beyond any pressing social need and is consistent with the dangers of overbroad extremism legislation identified by the Court (see no. 32401/10). Taken cumulatively, the measures appear aimed not at combating genuine crime but at silencing opposition and anti-corruption speech. A violation of Article 10 is therefore highly likely.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 2805,
+    "prompt_tokens": 9156,
+    "total_tokens": 11961,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1578,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.064965,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.064965,
+      "upstream_inference_prompt_cost": 0.02289,
+      "upstream_inference_completions_cost": 0.042075
+    }
+  },
+  "citations": [
+    "39446/16",
+    "32401/10"
+  ],
+  "ref_paragraphs": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "item_id": "001-244292",
+  "case_name": "CASE OF UKRAINE AND THE NETHERLANDS v. RUSSIA",
+  "case_number": "(Applications nos. 8019/16, 43800/14, 28525/20 and 11055/22)",
+  "date": "9 July 2025",
+  "prompt_type": "non_curated",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "3",
+    "9",
+    "9-1",
+    "10",
+    "10-1",
+    "11",
+    "11-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Scope and Applicability of Article 10": "The present case concerns interferences with freedom of expression attributable to the Russian Federation. Although the Russian Federation ceased to be a Party to the Convention on 16 September 2022 (see paragraph 90), the interferences in question— contemplating the suppression of anti-war expression within the territory of the Russian Federation—were implemented in the aftermath of the Russian aggression against Ukraine and within the relevant timeframe covered by the Convention (see paragraph 86). Article 10 of the Convention thus remains applicable to the assessment of the measures in question."
+    },
+    {
+      "Established Facts on Freedom of Expression Restrictions": "The case facts disclose that in the Russian Federation, anti-war protests have been systematically stifled and that the authorities have adopted sweeping measures to curtail freedom of expression and freedom of assembly. These measures specifically include the closure of almost all remaining independent news organisations, an intensifying crackdown on civil society, the harsh repression of peaceful protests, and the imposition of severe restrictions on access to social media (see paragraph 86). These actions directly target expressions of dissent and the public’s access to pluralistic information regarding the conflict in Ukraine."
+    },
+    {
+      "Interference with Article 10 Rights": "The measures outlined in paragraph 86 constitute clear interferences with the rights enshrined in Article 10 of the Convention. Article 10 protects not only the freedom to impart information and ideas but also the freedom to receive them, as well as the right to engage in public debate on matters of general concern. The closure of independent media outlets and the repression of peaceful assemblies directly infringe upon these core rights."
+    },
+    {
+      "Legal Basis and Legitimate Aim": "For an interference with Article 10 rights to be compatible with the Convention, it must first be prescribed by law. While the measures may have a basis in domestic legislation, the Court has long established that the term 'law' in Article 10(2) implies qualitative requirements: the legal norm must be accessible, foreseeable and sufficiently precise (see no. 6538/74). The measures in question do not appear to be precisely defined in scope or application, particularly given their broad and indiscriminate nature. Furthermore, although the Russian authorities may claim that these measures pursue legitimate aims such as national security or the prevention of disorder, the interference must also pass the test of necessity in a democratic society."
+    },
+    {
+      "Necessity in a Democratic Society and Proportionality": "Under the Court’s jurisprudence, restrictions on freedom of expression, particularly in the sphere of political debate and public interest matters, call for the closest scrutiny. The Court has consistently held that freedom of expression constitutes one of the essential foundations of a democratic society and that any restrictions must be narrowly interpreted and strictly proportionate to the legitimate aims pursued (see no. 13585/88). The blanket closure of independent media outlets and the suppression of all anti-war expression, as described in paragraph 86, extend far beyond what could be considered necessary to address discrete threats to national security or public order. Such sweeping measures silence pluralism and stifle public debate, which are fundamental to a democratic society, and thus cannot be considered proportionate."
+    },
+    {
+      "Conclusion on the Violation of Article 10": "The measures adopted by the Russian authorities, as detailed in paragraph 86, exceed the margin of appreciation afforded to States under Article 10 of the Convention. The indiscriminate and sweeping nature of these restrictions on freedom of expression and freedom of assembly, particularly in the context of political speech and access to pluralistic information about a matter of significant public concern, cannot be justified as necessary in a democratic society. Consequently, these measures constitute a violation of Article 10 of the Convention."
+    }
+  ],
+  "raw_content": "```json\n{\n  \"assessment\": [\n    {\"Scope and Applicability of Article 10\": \"The present case concerns interferences with freedom of expression attributable to the Russian Federation. Although the Russian Federation ceased to be a Party to the Convention on 16 September 2022 (see paragraph 90), the interferences in question— contemplating the suppression of anti-war expression within the territory of the Russian Federation—were implemented in the aftermath of the Russian aggression against Ukraine and within the relevant timeframe covered by the Convention (see paragraph 86). Article 10 of the Convention thus remains applicable to the assessment of the measures in question.\"},\n\n    {\"Established Facts on Freedom of Expression Restrictions\": \"The case facts disclose that in the Russian Federation, anti-war protests have been systematically stifled and that the authorities have adopted sweeping measures to curtail freedom of expression and freedom of assembly. These measures specifically include the closure of almost all remaining independent news organisations, an intensifying crackdown on civil society, the harsh repression of peaceful protests, and the imposition of severe restrictions on access to social media (see paragraph 86). These actions directly target expressions of dissent and the public’s access to pluralistic information regarding the conflict in Ukraine.\"},\n\n    {\"Interference with Article 10 Rights\": \"The measures outlined in paragraph 86 constitute clear interferences with the rights enshrined in Article 10 of the Convention. Article 10 protects not only the freedom to impart information and ideas but also the freedom to receive them, as well as the right to engage in public debate on matters of general concern. The closure of independent media outlets and the repression of peaceful assemblies directly infringe upon these core rights.\"},\n\n    {\"Legal Basis and Legitimate Aim\": \"For an interference with Article 10 rights to be compatible with the Convention, it must first be prescribed by law. While the measures may have a basis in domestic legislation, the Court has long established that the term 'law' in Article 10(2) implies qualitative requirements: the legal norm must be accessible, foreseeable and sufficiently precise (see no. 6538/74). The measures in question do not appear to be precisely defined in scope or application, particularly given their broad and indiscriminate nature. Furthermore, although the Russian authorities may claim that these measures pursue legitimate aims such as national security or the prevention of disorder, the interference must also pass the test of necessity in a democratic society.\"},\n\n    {\"Necessity in a Democratic Society and Proportionality\": \"Under the Court’s jurisprudence, restrictions on freedom of expression, particularly in the sphere of political debate and public interest matters, call for the closest scrutiny. The Court has consistently held that freedom of expression constitutes one of the essential foundations of a democratic society and that any restrictions must be narrowly interpreted and strictly proportionate to the legitimate aims pursued (see no. 13585/88). The blanket closure of independent media outlets and the suppression of all anti-war expression, as described in paragraph 86, extend far beyond what could be considered necessary to address discrete threats to national security or public order. Such sweeping measures silence pluralism and stifle public debate, which are fundamental to a democratic society, and thus cannot be considered proportionate.\"},\n\n    {\"Conclusion on the Violation of Article 10\": \"The measures adopted by the Russian authorities, as detailed in paragraph 86, exceed the margin of appreciation afforded to States under Article 10 of the Convention. The indiscriminate and sweeping nature of these restrictions on freedom of expression and freedom of assembly, particularly in the context of political speech and access to pluralistic information about a matter of significant public concern, cannot be justified as necessary in a democratic society. Consequently, these measures constitute a violation of Article 10 of the Convention.\"}\n  ],\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 4327,
+    "prompt_tokens": 13635,
+    "total_tokens": 17962,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 4094,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.052905,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.052905,
+      "upstream_inference_prompt_cost": 0.0204525,
+      "upstream_inference_completions_cost": 0.0324525
+    }
+  }
+}

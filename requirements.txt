@@ -1,0 +1,13 @@
+# Python 3.9+ (developed on 3.13)
+
+# LLM calls via OpenRouter (Scripts/run_pipeline.py, run_eval.py, run_guideline.py)
+openai>=1.0
+python-dotenv>=1.0
+
+# Analysis and plotting (Scripts/compute_*.py, plot_*.py, build_*.py)
+numpy>=1.24
+matplotlib>=3.7
+
+# Scraping HUDOC (scraping/case_metadata.py, case_text.py)
+requests>=2.28
+tqdm>=4.60

@@ -1,0 +1,54 @@
+{
+  "item_id": "001-247645",
+  "case_name": "CASE OF PEŠIĆ v. SERBIA",
+  "case_number": "(Application no. 4545/21)",
+  "date": "13 January 2026",
+  "prompt_type": "instruction",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Existence of an interference": "The applicant published an article on the website of the citizens’ association “Peščanik” criticising the Minister of the Interior (see paragraph 7). Following this publication, domestic courts ordered the applicant to pay compensation for non-pecuniary damage to the Minister (see paragraphs 10 and 12). The imposition of a civil liability for the content of the article amounts to an interference with the applicant’s right to freedom of expression as guaranteed by Article 10 of the Convention."
+    },
+    {
+      "Lawfulness of the interference": "The interference was based on Article 200 of the Obligations Act, which provides for compensation for non-pecuniary damage in cases of infringement of personal rights (see paragraphs 10 and 23). The domestic courts explicitly relied on this legal provision in their judgments. Therefore, the interference had a basis in domestic law and was lawful."
+    },
+    {
+      "Legitimate aims of the interference": "The interference pursued the aim of protecting the reputation and rights of the Minister of the Interior, who claimed to have suffered mental distress due to the applicant’s remarks (see paragraph 8). The protection of the reputation or rights of others is a legitimate aim under Article 10(2) of the Convention."
+    },
+    {
+      "Necessary in a democratic society": "The interference does not appear to be necessary in a democratic society. The applicant’s article addressed a matter of significant public interest, namely the illegal demolitions in the Savamala neighbourhood and the police response thereto (see paragraphs 5-7). The applicant, as a former politician and long-time political activist, was contributing to public debate on an issue of public concern, while the Minister of the Interior was a public official whose statements and actions were of legitimate interest to the public. The domestic law explicitly recognises that elected or appointed public officials must tolerate the expression of views critical of their actions (see paragraph 20). Moreover, the Court of Appeal’s finding that the article did not contribute to public debate (see paragraph 12) is at odds with the subject matter of the article and the context in which it was published. In its case-law, the Court has repeatedly emphasised that there is little scope under Article 10(2) for restrictions on political speech or on debate on matters of public interest (see no. 43425/98). Additionally, the applicant’s remarks, while harsh, were value judgments rather than statements of fact, and thus attracted a higher level of protection (see no. 26682/95). The domestic courts’ focus on the offensive nature of the language, coupled with their failure to properly weigh the public interest in the debate, suggests that the interference was not proportionate to the legitimate aim pursued. Furthermore, the imposition of a substantial financial penalty may have had a chilling effect on the applicant’s exercise of her freedom of expression."
+    }
+  ],
+  "raw_content": "```json\n{\n  \"assessment\": [\n    {\n      \"Existence of an interference\": \"The applicant published an article on the website of the citizens’ association “Peščanik” criticising the Minister of the Interior (see paragraph 7). Following this publication, domestic courts ordered the applicant to pay compensation for non-pecuniary damage to the Minister (see paragraphs 10 and 12). The imposition of a civil liability for the content of the article amounts to an interference with the applicant’s right to freedom of expression as guaranteed by Article 10 of the Convention.\"\n    },\n    {\n      \"Lawfulness of the interference\": \"The interference was based on Article 200 of the Obligations Act, which provides for compensation for non-pecuniary damage in cases of infringement of personal rights (see paragraphs 10 and 23). The domestic courts explicitly relied on this legal provision in their judgments. Therefore, the interference had a basis in domestic law and was lawful.\"\n    },\n    {\n      \"Legitimate aims of the interference\": \"The interference pursued the aim of protecting the reputation and rights of the Minister of the Interior, who claimed to have suffered mental distress due to the applicant’s remarks (see paragraph 8). The protection of the reputation or rights of others is a legitimate aim under Article 10(2) of the Convention.\"\n    },\n    {\n      \"Necessary in a democratic society\": \"The interference does not appear to be necessary in a democratic society. The applicant’s article addressed a matter of significant public interest, namely the illegal demolitions in the Savamala neighbourhood and the police response thereto (see paragraphs 5-7). The applicant, as a former politician and long-time political activist, was contributing to public debate on an issue of public concern, while the Minister of the Interior was a public official whose statements and actions were of legitimate interest to the public. The domestic law explicitly recognises that elected or appointed public officials must tolerate the expression of views critical of their actions (see paragraph 20). Moreover, the Court of Appeal’s finding that the article did not contribute to public debate (see paragraph 12) is at odds with the subject matter of the article and the context in which it was published. In its case-law, the Court has repeatedly emphasised that there is little scope under Article 10(2) for restrictions on political speech or on debate on matters of public interest (see no. 43425/98). Additionally, the applicant’s remarks, while harsh, were value judgments rather than statements of fact, and thus attracted a higher level of protection (see no. 26682/95). The domestic courts’ focus on the offensive nature of the language, coupled with their failure to properly weigh the public interest in the debate, suggests that the interference was not proportionate to the legitimate aim pursued. Furthermore, the imposition of a substantial financial penalty may have had a chilling effect on the applicant’s exercise of her freedom of expression.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 3833,
+    "prompt_tokens": 3964,
+    "total_tokens": 7797,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 3623,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0346935,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0346935,
+      "upstream_inference_prompt_cost": 0.005946,
+      "upstream_inference_completions_cost": 0.0287475
+    }
+  }
+}

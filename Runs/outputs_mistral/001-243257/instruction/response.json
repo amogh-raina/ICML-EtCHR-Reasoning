@@ -1,0 +1,48 @@
+{
+  "item_id": "001-243257",
+  "case_name": "CASE OF SELISHCHEVA AND OTHERS v. RUSSIA",
+  "case_number": "(Applications nos. 39056/22 and 9 others –",
+  "date": "27 May 2025",
+  "prompt_type": "instruction",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1",
+    "11",
+    "11-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": {
+    "Existence of an interference": "There was an interference with the applicants’ freedom of expression, as their passive electoral rights were restricted based on their alleged involvement in the activities of proscribed extremist organisations. The refusal to register the applicants as candidates (see paragraphs 5–6) directly limited their ability to participate in political discourse and stand for election, which constitutes an interference with their right to freedom of expression under Article 10 of the Convention, as political speech and participation are core aspects of this right (see no. 28396/95).",
+    "Lawfulness of the interference": "The interference had a basis in domestic law, namely section 4 § 3.6 of the Electoral Rights Act (Federal Law no. 67-FZ), as amended on 4 June 2021 (see paragraph 11). This provision explicitly bars individuals involved in extremist organisations from standing in elections. The domestic courts applied this legal provision when dismissing the applicants’ challenges (see paragraph 9). Therefore, the interference was lawful.",
+    "Legitimate aims of the interference": "The interference pursued the legitimate aim of the 'prevention of disorder or crime,' as the restriction targeted individuals allegedly involved in extremist organisations, whose activities were proscribed to prevent extremism. The domestic law explicitly links the restriction to the Suppression of Extremism Act (see paragraph 11), which aligns with the need to combat activities that may threaten public order or safety. This aim is recognisable under Article 10(2) of the Convention (see no. 25501/07).",
+    "Necessary in a democratic society": "The interference was not necessary in a democratic society. While the aim of preventing extremism is legitimate, the measures taken failed the proportionality test. Firstly, the applicants’ alleged involvement was not established by a court decision but relied on police reports and broad interpretations of 'support' for extremist organisations, including protected activities such as participation in protests, social media engagement, and legal advice (see paragraphs 6–8). The ECtHR has consistently required that restrictions on political rights be based on clear, individualised judicial findings rather than general assumptions (see no. 20261/12). Secondly, the law applied retroactively to activities predating the extremism designation (see paragraph 9), which undermines legal certainty. Finally, the blanket disqualification of candidates based on association, rather than specific extremist acts, is disproportionate, as it restricts core political expression without demonstrating a pressing social need for such a sweeping measure (see no. 37949/18)."
+  },
+  "raw_content": "```json\n{\n  \"assessment\": {\n    \"Existence of an interference\": \"There was an interference with the applicants’ freedom of expression, as their passive electoral rights were restricted based on their alleged involvement in the activities of proscribed extremist organisations. The refusal to register the applicants as candidates (see paragraphs 5–6) directly limited their ability to participate in political discourse and stand for election, which constitutes an interference with their right to freedom of expression under Article 10 of the Convention, as political speech and participation are core aspects of this right (see no. 28396/95).\",\n\n    \"Lawfulness of the interference\": \"The interference had a basis in domestic law, namely section 4 § 3.6 of the Electoral Rights Act (Federal Law no. 67-FZ), as amended on 4 June 2021 (see paragraph 11). This provision explicitly bars individuals involved in extremist organisations from standing in elections. The domestic courts applied this legal provision when dismissing the applicants’ challenges (see paragraph 9). Therefore, the interference was lawful.\",\n\n     \"Legitimate aims of the interference\": \"The interference pursued the legitimate aim of the 'prevention of disorder or crime,' as the restriction targeted individuals allegedly involved in extremist organisations, whose activities were proscribed to prevent extremism. The domestic law explicitly links the restriction to the Suppression of Extremism Act (see paragraph 11), which aligns with the need to combat activities that may threaten public order or safety. This aim is recognisable under Article 10(2) of the Convention (see no. 25501/07).\",\n\n    \"Necessary in a democratic society\": \"The interference was not necessary in a democratic society. While the aim of preventing extremism is legitimate, the measures taken failed the proportionality test. Firstly, the applicants’ alleged involvement was not established by a court decision but relied on police reports and broad interpretations of 'support' for extremist organisations, including protected activities such as participation in protests, social media engagement, and legal advice (see paragraphs 6–8). The ECtHR has consistently required that restrictions on political rights be based on clear, individualised judicial findings rather than general assumptions (see no. 20261/12). Secondly, the law applied retroactively to activities predating the extremism designation (see paragraph 9), which undermines legal certainty. Finally, the blanket disqualification of candidates based on association, rather than specific extremist acts, is disproportionate, as it restricts core political expression without demonstrating a pressing social need for such a sweeping measure (see no. 37949/18).\"\n  },\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 1900,
+    "prompt_tokens": 2845,
+    "total_tokens": 4745,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1681,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0185175,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0185175,
+      "upstream_inference_prompt_cost": 0.0042675,
+      "upstream_inference_completions_cost": 0.01425
+    }
+  }
+}

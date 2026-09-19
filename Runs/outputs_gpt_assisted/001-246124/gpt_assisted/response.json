@@ -1,0 +1,89 @@
+{
+  "item_id": "001-246124",
+  "case_name": "CASE OF AZADLIQ NEWSPAPER v. AZERBAIJAN",
+  "case_number": "(Application no. 12708/13)",
+  "date": "25 November 2025",
+  "prompt_type": "gpt_assisted",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "high",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "1. Interference with freedom of expression": "There was a clear interference with the applicant newspaper’s freedom of expression. Domestic courts found the article defamatory, ordered publication of a retraction, awarded AZN 30,000 in non-pecuniary damages, and the sum was later enforced by attachment and withdrawal from the newspaper’s bank account (see paragraphs 13, 20 and 21). Such civil liability and enforcement measures are capable of producing a chilling effect on the press, especially where the applicant was a newspaper and the speech concerned criticism of a public official (see no. 33348/96)."
+    },
+    {
+      "2. Prescribed by law and legitimate aim": "The interference appears to have had a basis in domestic law, namely Article 23 of the Civil Code, which allowed retraction and compensation where harmful information was disseminated and not proven true (see paragraph 22). The measure also pursued a legitimate aim under Article 10 § 2, namely the protection of the reputation or rights of others, here the reputation of T.A. (see paragraph 11). The decisive issue is therefore whether the interference was necessary in a democratic society."
+    },
+    {
+      "3. Nature of the speech and applicable level of protection": "The impugned article concerned the operation of the Baku Metro, a fully State-owned company under government control, and the conduct of its chief executive, appointed by Presidential Decree (see paragraph 5). It followed a fare increase affecting a very large number of passengers (see paragraphs 6-8). The article therefore contributed to a debate of public interest: the management of public transport, the handling of passengers’ money, and possible lack of oversight of a State entity (see paragraphs 8-10 and 12). In such a context, the margin of appreciation is narrow, and a high level of protection is afforded to press reporting and criticism of public officials or public managers (see no. 39954/08; no. 29369/10). T.A., as head of a State company, had to display a greater degree of tolerance to scrutiny than a purely private individual."
+    },
+    {
+      "4. Failure of the domestic courts to apply Convention standards": "The domestic courts did not carry out the balancing exercise required by Article 10. They essentially treated the newspaper’s inability to prove the truth of the statements as sufficient to establish liability (see paragraphs 14, 17 and 19). They did not examine whether the article, read as a whole, contained value judgments, rhetorical exaggeration, or polemical criticism; whether those statements had a sufficient factual basis; whether the newspaper acted in good faith; or whether the article’s subject matter was one of general public concern. Nor did they address the newspaper’s argument that the journalist had tried unsuccessfully to obtain clarification from the Baku Metro and had relied on his own observations and readers’ complaints (see paragraph 12). This is not the kind of \"relevant and sufficient\" reasoning required by the Court in reputation cases involving public-interest speech (see no. 39954/08; no. 40660/08; no. 60641/08; no. 29369/10)."
+    },
+    {
+      "5. Character of the statements and factual basis": "It is true that some passages were severe, including references to \"stolen\" money and \"misappropriation\" (see paragraph 8). Allegations resembling criminal conduct require careful scrutiny and some factual basis. However, the article was framed in an openly critical and figurative style, linked to the unexplained disappearance of residual sums on metro cards, estimates of the aggregate amounts involved, and criticism of the lack of transparency in the metro’s finances (see paragraphs 8-10). The newspaper also argued that no explanation had been provided by the metro authorities despite attempts to obtain one (see paragraph 12). Even if the wording was harsh or exaggerated, that did not dispense the domestic courts from distinguishing factual allegations from value judgments and assessing the overall context of watchdog journalism on a matter of public interest (see no. 29369/10)."
+    },
+    {
+      "6. Proportionality of the sanctions": "The sanctions were heavy. In addition to the retraction order, the newspaper was ordered to pay AZN 30,000, a very substantial sum for a media outlet, and it specifically argued that the amount was exorbitant and beyond its means given its financial difficulties and lack of advertising income (see paragraphs 16, 18 and 21). The appellate and cassation courts failed to answer those arguments (see paragraphs 17-19). The severity of the award, combined with compulsory enforcement against the newspaper’s bank account, was liable to deter not only the applicant but also other media from reporting critically on public institutions. The Court has consistently regarded disproportionate financial sanctions against the press as liable to create a chilling effect incompatible with Article 10 (see no. 33348/96). Less restrictive responses, such as publication of a reply or a narrowly tailored correction, were not meaningfully considered despite the domestic legal framework allowing such measures (see paragraph 22)."
+    },
+    {
+      "7. Overall conclusion": "Although the interference was lawful and pursued the legitimate aim of protecting reputation, the domestic courts failed to justify why such a serious restriction on press freedom was necessary. They did not engage with the public-interest nature of the reporting, T.A.’s status, the distinction between fact and value judgment, the newspaper’s asserted factual basis and good faith, or the proportionality of the damages. Given those deficiencies and the chilling effect of the sanctions, the interference was not necessary in a democratic society. A violation of Article 10 is therefore likely."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"1. Interference with freedom of expression\": \"There was a clear interference with the applicant newspaper’s freedom of expression. Domestic courts found the article defamatory, ordered publication of a retraction, awarded AZN 30,000 in non-pecuniary damages, and the sum was later enforced by attachment and withdrawal from the newspaper’s bank account (see paragraphs 13, 20 and 21). Such civil liability and enforcement measures are capable of producing a chilling effect on the press, especially where the applicant was a newspaper and the speech concerned criticism of a public official (see no. 33348/96).\"\n    },\n    {\n      \"2. Prescribed by law and legitimate aim\": \"The interference appears to have had a basis in domestic law, namely Article 23 of the Civil Code, which allowed retraction and compensation where harmful information was disseminated and not proven true (see paragraph 22). The measure also pursued a legitimate aim under Article 10 § 2, namely the protection of the reputation or rights of others, here the reputation of T.A. (see paragraph 11). The decisive issue is therefore whether the interference was necessary in a democratic society.\"\n    },\n    {\n      \"3. Nature of the speech and applicable level of protection\": \"The impugned article concerned the operation of the Baku Metro, a fully State-owned company under government control, and the conduct of its chief executive, appointed by Presidential Decree (see paragraph 5). It followed a fare increase affecting a very large number of passengers (see paragraphs 6-8). The article therefore contributed to a debate of public interest: the management of public transport, the handling of passengers’ money, and possible lack of oversight of a State entity (see paragraphs 8-10 and 12). In such a context, the margin of appreciation is narrow, and a high level of protection is afforded to press reporting and criticism of public officials or public managers (see no. 39954/08; no. 29369/10). T.A., as head of a State company, had to display a greater degree of tolerance to scrutiny than a purely private individual.\"\n    },\n    {\n      \"4. Failure of the domestic courts to apply Convention standards\": \"The domestic courts did not carry out the balancing exercise required by Article 10. They essentially treated the newspaper’s inability to prove the truth of the statements as sufficient to establish liability (see paragraphs 14, 17 and 19). They did not examine whether the article, read as a whole, contained value judgments, rhetorical exaggeration, or polemical criticism; whether those statements had a sufficient factual basis; whether the newspaper acted in good faith; or whether the article’s subject matter was one of general public concern. Nor did they address the newspaper’s argument that the journalist had tried unsuccessfully to obtain clarification from the Baku Metro and had relied on his own observations and readers’ complaints (see paragraph 12). This is not the kind of \\\"relevant and sufficient\\\" reasoning required by the Court in reputation cases involving public-interest speech (see no. 39954/08; no. 40660/08; no. 60641/08; no. 29369/10).\"\n    },\n    {\n      \"5. Character of the statements and factual basis\": \"It is true that some passages were severe, including references to \\\"stolen\\\" money and \\\"misappropriation\\\" (see paragraph 8). Allegations resembling criminal conduct require careful scrutiny and some factual basis. However, the article was framed in an openly critical and figurative style, linked to the unexplained disappearance of residual sums on metro cards, estimates of the aggregate amounts involved, and criticism of the lack of transparency in the metro’s finances (see paragraphs 8-10). The newspaper also argued that no explanation had been provided by the metro authorities despite attempts to obtain one (see paragraph 12). Even if the wording was harsh or exaggerated, that did not dispense the domestic courts from distinguishing factual allegations from value judgments and assessing the overall context of watchdog journalism on a matter of public interest (see no. 29369/10).\"\n    },\n    {\n      \"6. Proportionality of the sanctions\": \"The sanctions were heavy. In addition to the retraction order, the newspaper was ordered to pay AZN 30,000, a very substantial sum for a media outlet, and it specifically argued that the amount was exorbitant and beyond its means given its financial difficulties and lack of advertising income (see paragraphs 16, 18 and 21). The appellate and cassation courts failed to answer those arguments (see paragraphs 17-19). The severity of the award, combined with compulsory enforcement against the newspaper’s bank account, was liable to deter not only the applicant but also other media from reporting critically on public institutions. The Court has consistently regarded disproportionate financial sanctions against the press as liable to create a chilling effect incompatible with Article 10 (see no. 33348/96). Less restrictive responses, such as publication of a reply or a narrowly tailored correction, were not meaningfully considered despite the domestic legal framework allowing such measures (see paragraph 22).\"\n    },\n    {\n      \"7. Overall conclusion\": \"Although the interference was lawful and pursued the legitimate aim of protecting reputation, the domestic courts failed to justify why such a serious restriction on press freedom was necessary. They did not engage with the public-interest nature of the reporting, T.A.’s status, the distinction between fact and value judgment, the newspaper’s asserted factual basis and good faith, or the proportionality of the damages. Given those deficiencies and the chilling effect of the sanctions, the interference was not necessary in a democratic society. A violation of Article 10 is therefore likely.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 4405,
+    "prompt_tokens": 3627,
+    "total_tokens": 8032,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 3196,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0728385,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0728385,
+      "upstream_inference_prompt_cost": 0.0067635,
+      "upstream_inference_completions_cost": 0.066075
+    }
+  },
+  "citations": [
+    "33348/96",
+    "39954/08",
+    "29369/10",
+    "40660/08",
+    "60641/08"
+  ],
+  "ref_paragraphs": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ]
+}

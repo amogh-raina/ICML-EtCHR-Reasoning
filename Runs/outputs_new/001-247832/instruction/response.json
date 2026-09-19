@@ -1,0 +1,73 @@
+{
+  "item_id": "001-247832",
+  "case_name": "CASE OF SIC - SOCIEDADE INDEPENDENTE DE COMUNICAÇÃO, S.A v. PORTUGAL (No. 2)",
+  "case_number": "(Application no. 2746/21)",
+  "date": "13 January 2026",
+  "prompt_type": "instruction",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Existence of an interference": "There was an interference with the applicant company’s freedom of expression. The company had broadcast a documentary series and a promotional clip on one of its television channels, and the domestic courts ultimately ordered it to pay EUR 40,000 in damages, to delete the recordings containing M.G. and M.C.’s images, and to take steps to secure removal of the material from YouTube (see paragraph 17). Such civil liability and removal orders directly restricted the dissemination of audiovisual content and therefore engaged Article 10. The fact that the programme was entertainment rather than political journalism does not remove it from the scope of protection, since Article 10 also covers artistic, humorous and commercial audiovisual expression (see no. 22953/16)."
+    },
+    {
+      "Lawfulness of the interference": "The interference appears to have been prescribed by law. The Supreme Court relied on Articles 70, 79, 483, 484, 487 and 497 of the Civil Code, interpreted in the light of Article 3 (h) of the Personal Data Protection Law (see paragraphs 17-18, 21-22). Those provisions expressly protect a person’s image and reputation and regulate consent and civil liability. Although the lower courts had reached a different conclusion as to tacit consent (see paragraphs 15-16), the interference still had a sufficiently clear basis in domestic law, namely the prohibition on reproducing or disseminating a person’s image without consent where this harms honour, reputation or social propriety (see paragraph 21, Article 79). The lawfulness requirement is therefore likely satisfied."
+    },
+    {
+      "Legitimate aims of the interference": "The interference pursued legitimate aims under Article 10 § 2, above all the protection of the reputation or rights of others. M.G. and M.C. were private individuals who complained that their images and voices had been broadcast repeatedly without consent and that this had caused humiliation and distress among family, friends and clients (see paragraph 14). The Supreme Court likewise emphasised the protection of their image, dignity and reputation, especially because the footage had been edited and used in a way that, in its view, ridiculed them (see paragraph 18). The interference was therefore directed at safeguarding the personal rights of third parties protected under domestic law and Article 10 § 2."
+    },
+    {
+      "Necessary in a democratic society": "The decisive issue is proportionality, and here a violation is more likely. Factors existed in favour of protecting M.G. and M.C.: they were not public figures, the material contributed little to a debate of general interest, and the broadcaster used the incident not only in the documentary but also in a promotional clip and online, repeatedly and in close-up form (see paragraphs 9-13). However, other factors weigh strongly the other way. The recording was not covert: a notice at the entrance announced filming, the comedian repeated that the show was being recorded, and cameras were visible throughout (see paragraph 4). The exchange itself occurred openly in a public theatre after M.G. and M.C. chose to intervene during the performance (see paragraph 7). Most importantly, the Supreme Court expressly stated that the comedian’s freedom of expression was not in issue and treated the case essentially as one of consent alone (see paragraph 18). That suggests the domestic court did not carry out the balancing exercise required where Article 10 is weighed against personality rights, including factors such as contribution to public interest, prior conduct, context of the recording, form and consequences of publication, and severity of the sanction (see nos. 39954/08, 40660/08, 25576/04). The sanction was also severe: EUR 40,000, of which EUR 25,000 was punitive, combined with deletion and takedown obligations reaching third-party platforms (see paragraph 17). Less restrictive responses, such as limiting damages to actual harm or requiring anonymisation rather than broad removal, do not appear to have been examined. In these circumstances, the reasons given were not sufficiently relevant and sufficient to justify so heavy an interference. The interference was therefore not necessary in a democratic society."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"Existence of an interference\": \"There was an interference with the applicant company’s freedom of expression. The company had broadcast a documentary series and a promotional clip on one of its television channels, and the domestic courts ultimately ordered it to pay EUR 40,000 in damages, to delete the recordings containing M.G. and M.C.’s images, and to take steps to secure removal of the material from YouTube (see paragraph 17). Such civil liability and removal orders directly restricted the dissemination of audiovisual content and therefore engaged Article 10. The fact that the programme was entertainment rather than political journalism does not remove it from the scope of protection, since Article 10 also covers artistic, humorous and commercial audiovisual expression (see no. 22953/16).\"\n    },\n    {\n      \"Lawfulness of the interference\": \"The interference appears to have been prescribed by law. The Supreme Court relied on Articles 70, 79, 483, 484, 487 and 497 of the Civil Code, interpreted in the light of Article 3 (h) of the Personal Data Protection Law (see paragraphs 17-18, 21-22). Those provisions expressly protect a person’s image and reputation and regulate consent and civil liability. Although the lower courts had reached a different conclusion as to tacit consent (see paragraphs 15-16), the interference still had a sufficiently clear basis in domestic law, namely the prohibition on reproducing or disseminating a person’s image without consent where this harms honour, reputation or social propriety (see paragraph 21, Article 79). The lawfulness requirement is therefore likely satisfied.\"\n    },\n    {\n      \"Legitimate aims of the interference\": \"The interference pursued legitimate aims under Article 10 § 2, above all the protection of the reputation or rights of others. M.G. and M.C. were private individuals who complained that their images and voices had been broadcast repeatedly without consent and that this had caused humiliation and distress among family, friends and clients (see paragraph 14). The Supreme Court likewise emphasised the protection of their image, dignity and reputation, especially because the footage had been edited and used in a way that, in its view, ridiculed them (see paragraph 18). The interference was therefore directed at safeguarding the personal rights of third parties protected under domestic law and Article 10 § 2.\"\n    },\n    {\n      \"Necessary in a democratic society\": \"The decisive issue is proportionality, and here a violation is more likely. Factors existed in favour of protecting M.G. and M.C.: they were not public figures, the material contributed little to a debate of general interest, and the broadcaster used the incident not only in the documentary but also in a promotional clip and online, repeatedly and in close-up form (see paragraphs 9-13). However, other factors weigh strongly the other way. The recording was not covert: a notice at the entrance announced filming, the comedian repeated that the show was being recorded, and cameras were visible throughout (see paragraph 4). The exchange itself occurred openly in a public theatre after M.G. and M.C. chose to intervene during the performance (see paragraph 7). Most importantly, the Supreme Court expressly stated that the comedian’s freedom of expression was not in issue and treated the case essentially as one of consent alone (see paragraph 18). That suggests the domestic court did not carry out the balancing exercise required where Article 10 is weighed against personality rights, including factors such as contribution to public interest, prior conduct, context of the recording, form and consequences of publication, and severity of the sanction (see nos. 39954/08, 40660/08, 25576/04). The sanction was also severe: EUR 40,000, of which EUR 25,000 was punitive, combined with deletion and takedown obligations reaching third-party platforms (see paragraph 17). Less restrictive responses, such as limiting damages to actual harm or requiring anonymisation rather than broad removal, do not appear to have been examined. In these circumstances, the reasons given were not sufficiently relevant and sufficient to justify so heavy an interference. The interference was therefore not necessary in a democratic society.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 3579,
+    "prompt_tokens": 4872,
+    "total_tokens": 8451,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 2696,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.065865,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.065865,
+      "upstream_inference_prompt_cost": 0.01218,
+      "upstream_inference_completions_cost": 0.053685
+    }
+  },
+  "citations": [
+    "22953/16",
+    "39954/08",
+    "40660/08",
+    "25576/04"
+  ],
+  "ref_paragraphs": [
+    4,
+    7,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    21,
+    22
+  ]
+}

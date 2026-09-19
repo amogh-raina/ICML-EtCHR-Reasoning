@@ -1,0 +1,85 @@
+{
+  "item_id": "001-242528",
+  "case_name": "CASE OF HAYK GRIGORYAN v. ARMENIA",
+  "case_number": "(Application no. 9796/17)",
+  "date": "3 April 2025",
+  "prompt_type": "gpt_assisted",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "high",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "1. Complaint structure and context": "The case concerns a direct interference with the applicant’s freedom of expression in his capacity as a freelance journalist covering a public demonstration linked to a major political and policing crisis in Yerevan (see paragraphs 5, 8). His activity was classic journalistic newsgathering on a matter of obvious public interest: protests, police conduct and clashes in the streets. In addition, the very long and still unfinished criminal investigation may engage the State’s positive obligation to secure the effective exercise of press freedom where a journalist alleges violence and obstruction by police officers (see paragraphs 13, 33)."
+    },
+    {
+      "2. Existence of an interference": "There was clearly an interference with Article 10. The video material shows that while the applicant was filming, officers turned toward him, objected to his filming, threatened deletion of the recording, grabbed him, and one officer was later identified as having struck and kicked him; another officer took hold of the camera and opened its screen, and the camera was returned only after a senior officer intervened (see paragraph 9). The applicant consistently stated that the police also took his mobile phone and interrupted his filming (see paragraphs 15, 18, 23). His injury to the lip was medically confirmed (see paragraphs 11, 17, 20). Even without a formal sanction, physical intimidation and seizure of recording equipment during coverage of a demonstration are measures capable of seriously chilling journalistic activity (see no. 2594/07; see also no. 11882/10)."
+    },
+    {
+      "3. Prescribed by law and legitimate aim": "The Government could argue that the police were responding to a violent confrontation and sought to prevent disorder or protect safety, since demonstrators were attacking officers and throwing stones and the applicant was filming very close to the police line (see paragraphs 8-9). However, nothing in the facts suggests a legal basis for hitting the applicant, threatening deletion of his footage, or taking his camera in order to verify whether he was really a journalist. On the contrary, domestic law specifically criminalised obstruction of a journalist’s lawful professional activities by a public official, including with imprisonment (see paragraph 34), and domestic practice showed prosecutions of police officers for obstructing journalists during demonstrations (see paragraph 39). That strongly suggests that the conduct complained of was not authorised by law. Accordingly, the interference appears not to have been prescribed by law. Even assuming a legitimate aim of preventing disorder, the facts point to a measure directed at stopping recording rather than neutral crowd-control."
+    },
+    {
+      "4. Necessity and proportionality": "Even if one accepted that the situation was tense and dangerous, the interference was not necessary in a democratic society. The margin of appreciation is narrow because the speech concerned political unrest, public protest and police conduct, all matters at the core of public-interest reporting. The applicant was not merely a bystander; he was documenting the conduct of officers during a confrontation. The absence of a visible press card in the footage is not decisive, especially for a freelance journalist (see paragraphs 8-9). The applicant said he had been wearing a press card earlier and told the officers that he was a journalist, while another journalist repeatedly shouted this to the police; moreover, officers A.V. and A.T. themselves later claimed that they took the camera precisely to check whether he was a journalist (see paragraphs 9, 23, 27). If the police wished to create distance for operational reasons, less restrictive means were available, such as instructing him to step back. Instead, the reaction involved force, interference with equipment, and an apparent attempt to control or erase footage. Unlike situations where the Court has tolerated narrowly tailored restrictions on journalists at violent demonstrations because of clear and compelling operational needs, the present facts disclose no relevant and sufficient reasons for targeting this applicant in this manner (see no. 11882/10). The interference was therefore disproportionate."
+    },
+    {
+      "5. Positive obligation and effectiveness of the response": "The State’s procedural response also appears incompatible with Article 10. The authorities did open criminal proceedings relatively quickly, including under the offence of obstruction of a journalist’s work (see paragraphs 13-14). But the subsequent investigation was marked by serious delay. A police officer not involved in the assault was interviewed only in 2021, and the key officers visible in the footage were questioned only in February-March 2022, more than five years after the incident (see paragraphs 21, 26). By 2023, although the investigation had established that E.M. was the officer who hit and kicked the applicant, no public prosecution had been initiated, and the investigator even explored the possibility of amnesty (see paragraphs 30-31). The investigation was still pending by July 2023 (see paragraph 33). In cases of violence or intimidation aimed at journalists, such delay and lack of accountability undermine the practical protection of press freedom and reinforce the chilling effect (see no. 2594/07)."
+    },
+    {
+      "6. Overall assessment": "The applicant was engaged in protected journalistic reporting on a matter of high public interest when police officers physically obstructed him, interfered with his camera, and sought to stop his recording (see paragraphs 8-9). The authorities have not shown that this conduct had a lawful basis or that it was a proportionate response to the disorder on the scene. The later investigation was also too slow and ineffective to secure the applicant’s Article 10 rights in practice. The Court would therefore be likely to find a violation of Article 10."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"1. Complaint structure and context\": \"The case concerns a direct interference with the applicant’s freedom of expression in his capacity as a freelance journalist covering a public demonstration linked to a major political and policing crisis in Yerevan (see paragraphs 5, 8). His activity was classic journalistic newsgathering on a matter of obvious public interest: protests, police conduct and clashes in the streets. In addition, the very long and still unfinished criminal investigation may engage the State’s positive obligation to secure the effective exercise of press freedom where a journalist alleges violence and obstruction by police officers (see paragraphs 13, 33).\"\n    },\n    {\n      \"2. Existence of an interference\": \"There was clearly an interference with Article 10. The video material shows that while the applicant was filming, officers turned toward him, objected to his filming, threatened deletion of the recording, grabbed him, and one officer was later identified as having struck and kicked him; another officer took hold of the camera and opened its screen, and the camera was returned only after a senior officer intervened (see paragraph 9). The applicant consistently stated that the police also took his mobile phone and interrupted his filming (see paragraphs 15, 18, 23). His injury to the lip was medically confirmed (see paragraphs 11, 17, 20). Even without a formal sanction, physical intimidation and seizure of recording equipment during coverage of a demonstration are measures capable of seriously chilling journalistic activity (see no. 2594/07; see also no. 11882/10).\"\n    },\n    {\n      \"3. Prescribed by law and legitimate aim\": \"The Government could argue that the police were responding to a violent confrontation and sought to prevent disorder or protect safety, since demonstrators were attacking officers and throwing stones and the applicant was filming very close to the police line (see paragraphs 8-9). However, nothing in the facts suggests a legal basis for hitting the applicant, threatening deletion of his footage, or taking his camera in order to verify whether he was really a journalist. On the contrary, domestic law specifically criminalised obstruction of a journalist’s lawful professional activities by a public official, including with imprisonment (see paragraph 34), and domestic practice showed prosecutions of police officers for obstructing journalists during demonstrations (see paragraph 39). That strongly suggests that the conduct complained of was not authorised by law. Accordingly, the interference appears not to have been prescribed by law. Even assuming a legitimate aim of preventing disorder, the facts point to a measure directed at stopping recording rather than neutral crowd-control.\"\n    },\n    {\n      \"4. Necessity and proportionality\": \"Even if one accepted that the situation was tense and dangerous, the interference was not necessary in a democratic society. The margin of appreciation is narrow because the speech concerned political unrest, public protest and police conduct, all matters at the core of public-interest reporting. The applicant was not merely a bystander; he was documenting the conduct of officers during a confrontation. The absence of a visible press card in the footage is not decisive, especially for a freelance journalist (see paragraphs 8-9). The applicant said he had been wearing a press card earlier and told the officers that he was a journalist, while another journalist repeatedly shouted this to the police; moreover, officers A.V. and A.T. themselves later claimed that they took the camera precisely to check whether he was a journalist (see paragraphs 9, 23, 27). If the police wished to create distance for operational reasons, less restrictive means were available, such as instructing him to step back. Instead, the reaction involved force, interference with equipment, and an apparent attempt to control or erase footage. Unlike situations where the Court has tolerated narrowly tailored restrictions on journalists at violent demonstrations because of clear and compelling operational needs, the present facts disclose no relevant and sufficient reasons for targeting this applicant in this manner (see no. 11882/10). The interference was therefore disproportionate.\"\n    },\n    {\n      \"5. Positive obligation and effectiveness of the response\": \"The State’s procedural response also appears incompatible with Article 10. The authorities did open criminal proceedings relatively quickly, including under the offence of obstruction of a journalist’s work (see paragraphs 13-14). But the subsequent investigation was marked by serious delay. A police officer not involved in the assault was interviewed only in 2021, and the key officers visible in the footage were questioned only in February-March 2022, more than five years after the incident (see paragraphs 21, 26). By 2023, although the investigation had established that E.M. was the officer who hit and kicked the applicant, no public prosecution had been initiated, and the investigator even explored the possibility of amnesty (see paragraphs 30-31). The investigation was still pending by July 2023 (see paragraph 33). In cases of violence or intimidation aimed at journalists, such delay and lack of accountability undermine the practical protection of press freedom and reinforce the chilling effect (see no. 2594/07).\"\n    },\n    {\n      \"6. Overall assessment\": \"The applicant was engaged in protected journalistic reporting on a matter of high public interest when police officers physically obstructed him, interfered with his camera, and sought to stop his recording (see paragraphs 8-9). The authorities have not shown that this conduct had a lawful basis or that it was a proportionate response to the disorder on the scene. The later investigation was also too slow and ineffective to secure the applicant’s Article 10 rights in practice. The Court would therefore be likely to find a violation of Article 10.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 5031,
+    "prompt_tokens": 5864,
+    "total_tokens": 10895,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 3846,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.090125,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.090125,
+      "upstream_inference_prompt_cost": 0.01466,
+      "upstream_inference_completions_cost": 0.075465
+    }
+  },
+  "citations": [
+    "2594/07",
+    "11882/10"
+  ],
+  "ref_paragraphs": [
+    5,
+    8,
+    9,
+    11,
+    13,
+    14,
+    15,
+    17,
+    18,
+    20,
+    21,
+    23,
+    26,
+    27,
+    30,
+    31,
+    33,
+    34,
+    39
+  ]
+}

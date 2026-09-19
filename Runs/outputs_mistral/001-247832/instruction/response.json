@@ -1,0 +1,51 @@
+{
+  "item_id": "001-247832",
+  "case_name": "CASE OF SIC - SOCIEDADE INDEPENDENTE DE COMUNICAÇÃO, S.A v. PORTUGAL (No. 2)",
+  "case_number": "(Application no. 2746/21)",
+  "date": "13 January 2026",
+  "prompt_type": "instruction",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [],
+  "violation_prediction": "no",
+  "assessment": [
+    {
+      "Existence of an interference": "There was an interference with the applicant company’s freedom of expression. The Supreme Court’s judgment of 16 June 2020 (see paragraph 17) ordered SIC to pay damages, delete all video recordings containing M.G. and M.C.’s images, and ensure their removal from YouTube. This order constituted a direct restriction on SIC’s ability to broadcast and disseminate content, engaging Article 10."
+    },
+    {
+      "Lawfulness of the interference": "The interference was lawful. The Supreme Court grounded its decision in domestic legal provisions, including Article 79 of the Civil Code (right to image, see paragraph 21) and Article 3(h) of the Personal Data Protection Law (consent requirements, see paragraph 22). The court explicitly relied on these provisions to justify its ruling (see paragraph 18), satisfying the requirement that the interference have a basis in national law under Article 10 § 2."
+    },
+    {
+      "Legitimate aims of the interference": "The interference pursued legitimate aims. The Supreme Court acted to protect the reputation and rights of others (M.G. and M.C.), as their images and voices were broadcast without valid consent, edited out of context, and used in a manner that risked harming their dignity (see paragraph 18). This aligns with the aim of ‘protection of the reputation or rights of others’ under Article 10 § 2 (see no. 39954/08, *Palomo Sánchez and Others v. Spain*)."
+    },
+    {
+      "Necessary in a democratic society": "The interference was necessary in a democratic society. The Supreme Court conducted a proportionality assessment, finding that tacit consent could not cover the out-of-context, edited, and promotional use of M.G. and M.C.’s images (see paragraph 18). The measures (damages, deletion, and removal) were tailored to address the harm caused by the unlawful broadcast, and the court balanced SIC’s freedom of expression against the applicants’ right to image and reputation. The ECtHR typically defers to domestic courts in such contexts where a careful balancing exercise is undertaken (see no. 39954/08, *Palomo Sánchez and Others v. Spain*), and the applicant company’s role as a broadcaster did not outweigh the need to protect the individuals’ rights in this non-public-interest context."
+    }
+  ],
+  "raw_content": "```json\n{\n  \"assessment\": [\n    {\n      \"Existence of an interference\": \"There was an interference with the applicant company’s freedom of expression. The Supreme Court’s judgment of 16 June 2020 (see paragraph 17) ordered SIC to pay damages, delete all video recordings containing M.G. and M.C.’s images, and ensure their removal from YouTube. This order constituted a direct restriction on SIC’s ability to broadcast and disseminate content, engaging Article 10.\"\n    },\n    {\n      \"Lawfulness of the interference\": \"The interference was lawful. The Supreme Court grounded its decision in domestic legal provisions, including Article 79 of the Civil Code (right to image, see paragraph 21) and Article 3(h) of the Personal Data Protection Law (consent requirements, see paragraph 22). The court explicitly relied on these provisions to justify its ruling (see paragraph 18), satisfying the requirement that the interference have a basis in national law under Article 10 § 2.\"\n    },\n    {\n      \"Legitimate aims of the interference\": \"The interference pursued legitimate aims. The Supreme Court acted to protect the reputation and rights of others (M.G. and M.C.), as their images and voices were broadcast without valid consent, edited out of context, and used in a manner that risked harming their dignity (see paragraph 18). This aligns with the aim of ‘protection of the reputation or rights of others’ under Article 10 § 2 (see no. 39954/08, *Palomo Sánchez and Others v. Spain*).\"\n    },\n    {\n      \"Necessary in a democratic society\": \"The interference was necessary in a democratic society. The Supreme Court conducted a proportionality assessment, finding that tacit consent could not cover the out-of-context, edited, and promotional use of M.G. and M.C.’s images (see paragraph 18). The measures (damages, deletion, and removal) were tailored to address the harm caused by the unlawful broadcast, and the court balanced SIC’s freedom of expression against the applicants’ right to image and reputation. The ECtHR typically defers to domestic courts in such contexts where a careful balancing exercise is undertaken (see no. 39954/08, *Palomo Sánchez and Others v. Spain*), and the applicant company’s role as a broadcaster did not outweigh the need to protect the individuals’ rights in this non-public-interest context.\"\n    }\n  ],\n  \"violation\": \"no\"\n}\n```",
+  "usage": {
+    "completion_tokens": 4175,
+    "prompt_tokens": 5211,
+    "total_tokens": 9386,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 4197,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.039129,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.039129,
+      "upstream_inference_prompt_cost": 0.0078165,
+      "upstream_inference_completions_cost": 0.0313125
+    }
+  }
+}

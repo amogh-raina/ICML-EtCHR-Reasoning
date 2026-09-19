@@ -1,0 +1,57 @@
+{
+  "item_id": "001-242634",
+  "case_name": "CASE OF BACKOVIĆ v. SERBIA (No. 2)",
+  "case_number": "(Application no. 47600/17)",
+  "date": "8 April 2025",
+  "prompt_type": "non_curated",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Interference with Article 10": "The applicant, a lawyer by profession, was fined 100,000 Serbian dinars (later reduced to 50,000 RSD) for contempt of court after submitting an objection that contained strong criticism of the judicial reasoning and the court’s approach in his case (see paragraphs 2, 11, 12, 14). This fine constitutes an interference with his right to freedom of expression under Article 10 of the Convention."
+    },
+    {
+      "Prescribed by Law and Legitimate Aim": "The interference was based on Articles 33 and 51 of the Enforcement Procedure Act, thus meeting the requirement of being prescribed by law (see paragraphs 12, 20-21). The measure pursued the legitimate aim of protecting the authority and impartiality of the judiciary, as permitted under Article 10 § 2 of the Convention and Article 46 of the Serbian Constitution (see paragraph 19)."
+    },
+    {
+      "Role of the Applicant as a Lawyer": "The applicant was acting in his professional capacity as a lawyer when he submitted the objection (see paragraph 2). The European Court of Human Rights has consistently afforded strong protection to lawyers’ freedom of expression, particularly when their statements are made in the context of judicial proceedings and concern the administration of justice (see no. 31611/96, 29369/10)."
+    },
+    {
+      "Nature of the Statements": "The applicant’s statements were directed at the quality of the judicial reasoning, the court’s interpretation of the law, and the systemic consequences of its approach (see paragraph 11). They did not target the personal characteristics, private life, or dignity of the judge but rather addressed the professional conduct and the substance of the judicial decision. Such criticism, even if phrased in strong or sarcastic terms, falls within the scope of permissible expression for a lawyer (see no. 31611/96, 29369/10)."
+    },
+    {
+      "Domestic Courts’ Overly Restrictive Interpretation": "The domestic courts interpreted the applicant’s criticism as insulting and humiliating to the court and the judge, equating it with a denial of their expertise and dignity (see paragraphs 12, 14). However, the ECtHR has held that criticism of judicial decisions, even if sharply worded, does not automatically amount to contempt of court. The domestic authorities failed to distinguish between permissible strong criticism and actual insults, applying an overly broad and restrictive standard (see no. 31611/96, 29369/10)."
+    },
+    {
+      "Lack of Necessity in a Democratic Society": "The interference was not necessary in a democratic society. The applicant’s statements were part of a legal objection and related to the fairness and lawfulness of judicial proceedings. The domestic courts did not adequately balance the applicant’s right to freedom of expression with the need to protect the authority of the judiciary. The fine was imposed by the same judge who felt insulted, which further casts doubt on the proportionality and objectivity of the measure (see paragraphs 12, 14). In similar cases, the ECtHR has found violations where lawyers were sanctioned for criticism that did not cross into personal attacks (see no. 31611/96, 29369/10)."
+    }
+  ],
+  "raw_content": "```json\n{\n  \"assessment\": [\n    {\n      \"Interference with Article 10\": \"The applicant, a lawyer by profession, was fined 100,000 Serbian dinars (later reduced to 50,000 RSD) for contempt of court after submitting an objection that contained strong criticism of the judicial reasoning and the court’s approach in his case (see paragraphs 2, 11, 12, 14). This fine constitutes an interference with his right to freedom of expression under Article 10 of the Convention.\"\n    },\n    {\n      \"Prescribed by Law and Legitimate Aim\": \"The interference was based on Articles 33 and 51 of the Enforcement Procedure Act, thus meeting the requirement of being prescribed by law (see paragraphs 12, 20-21). The measure pursued the legitimate aim of protecting the authority and impartiality of the judiciary, as permitted under Article 10 § 2 of the Convention and Article 46 of the Serbian Constitution (see paragraph 19).\"\n    },\n    {\n      \"Role of the Applicant as a Lawyer\": \"The applicant was acting in his professional capacity as a lawyer when he submitted the objection (see paragraph 2). The European Court of Human Rights has consistently afforded strong protection to lawyers’ freedom of expression, particularly when their statements are made in the context of judicial proceedings and concern the administration of justice (see no. 31611/96, 29369/10).\"\n    },\n    {\n      \"Nature of the Statements\": \"The applicant’s statements were directed at the quality of the judicial reasoning, the court’s interpretation of the law, and the systemic consequences of its approach (see paragraph 11). They did not target the personal characteristics, private life, or dignity of the judge but rather addressed the professional conduct and the substance of the judicial decision. Such criticism, even if phrased in strong or sarcastic terms, falls within the scope of permissible expression for a lawyer (see no. 31611/96, 29369/10).\"\n    },\n    {\n      \"Domestic Courts’ Overly Restrictive Interpretation\": \"The domestic courts interpreted the applicant’s criticism as insulting and humiliating to the court and the judge, equating it with a denial of their expertise and dignity (see paragraphs 12, 14). However, the ECtHR has held that criticism of judicial decisions, even if sharply worded, does not automatically amount to contempt of court. The domestic authorities failed to distinguish between permissible strong criticism and actual insults, applying an overly broad and restrictive standard (see no. 31611/96, 29369/10).\"\n    },\n    {\n      \"Lack of Necessity in a Democratic Society\": \"The interference was not necessary in a democratic society. The applicant’s statements were part of a legal objection and related to the fairness and lawfulness of judicial proceedings. The domestic courts did not adequately balance the applicant’s right to freedom of expression with the need to protect the authority of the judiciary. The fine was imposed by the same judge who felt insulted, which further casts doubt on the proportionality and objectivity of the measure (see paragraphs 12, 14). In similar cases, the ECtHR has found violations where lawyers were sanctioned for criticism that did not cross into personal attacks (see no. 31611/96, 29369/10).\"\n    }\n  ],\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 3683,
+    "prompt_tokens": 3330,
+    "total_tokens": 7013,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 3052,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0326175,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0326175,
+      "upstream_inference_prompt_cost": 0.004995,
+      "upstream_inference_completions_cost": 0.0276225
+    }
+  }
+}

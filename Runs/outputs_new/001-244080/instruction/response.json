@@ -1,0 +1,81 @@
+{
+  "item_id": "001-244080",
+  "case_name": "CASE OF MZHAVANADZE AND RUKHADZE v. GEORGIA",
+  "case_number": "(Applications nos. 29760/21 and 33931/21)",
+  "date": "15 July 2025",
+  "prompt_type": "instruction",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "11",
+    "11-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "1. Existence of an interference": "There was an interference with the applicants’ freedom of expression. They were civil-society activists participating in, and helping organise, a political protest concerning the parliamentary elections and the newly introduced curfew, both matters of clear public interest (see paragraphs 2, 9 and 10). In that context they were arrested near the Parliament building, prosecuted, convicted under Article 173 of the Code of Administrative Offences, and sanctioned with a substantial fine in the second applicant’s case and administrative detention in the first applicant’s case (see paragraphs 11-12, 17, 27 and 28). Arrest, conviction and punishment for conduct occurring during a political demonstration are classic forms of interference under Article 10, especially where the conduct was closely linked to protest activity and criticism of the authorities (see nos. 50841/99, 38676/08, 18079/15)."
+    },
+    {
+      "2. Lawfulness of the interference": "The interference appears to have had a basis in domestic law. The applicants were charged and ultimately convicted under Article 173 of the CAO, which penalised disobeying a lawful police order or insulting an officer (see paragraphs 17, 26 and 32). The domestic courts also relied on the Traffic Act, the Police Act and the Assemblies and Demonstrations Act to conclude that clearing the road and preventing obstruction of traffic were lawful police objectives (see paragraphs 35-36 and 26). On the material provided, the legal framework was accessible and sufficiently clear for protesters to foresee that refusing an order to leave the roadway could trigger liability. The case therefore does not primarily turn on unlawfulness, but on whether the use of those powers against these applicants was convincingly justified."
+    },
+    {
+      "3. Legitimate aims of the interference": "The interference pursued legitimate aims within Article 10 § 2. The authorities sought to keep a road open, allow the movement of a vehicle carrying the head of the Patrol Police Department, and respond to a tense protest situation that had followed serious unrest the previous day (see paragraphs 7, 19, 25 and 26). Those considerations fall under public safety, the prevention of disorder, and the protection of the rights of others, including road users and police officers. The Court generally accepts that regulating the location and manner of demonstrations, and requiring compliance with police instructions in a volatile setting, may pursue legitimate aims of this kind (see nos. 41479/10, 74768/10)."
+    },
+    {
+      "4. Necessary in a democratic society": "The decisive issue is proportionality, and on the facts summarised it is doubtful that the interference was necessary in a democratic society. The applicants’ expression formed part of political protest at the core of Article 10 protection (see paragraphs 9-10). Although the authorities could require demonstrators to clear a road, the domestic courts do not appear to have carried out a genuine balancing exercise between public-order concerns and the applicants’ political expression. Their reasoning focused largely on traffic obstruction and formal disobedience, without asking whether the applicants’ conduct created such a serious disruption that arrest, conviction and especially detention were required (see paragraph 26). The evidentiary basis was also fragile: the arrest reports were generic, the exact conduct was not specified in them, key body-worn-camera footage from the period before arrest was missing, and the available videos showed mainly the aftermath rather than a clear refusal by each applicant to obey police orders (see paragraphs 11-12, 18, 22-23 and 25). Even if some intervention was justified, the sanctions were severe in a political-protest context: the second applicant was fined GEL 1,500 and the first applicant was subjected to administrative detention, a measure with an obvious chilling effect (see paragraphs 27-28). The Court has repeatedly stressed that detention for protest-related expression requires particularly weighty reasons, and that punitive responses to peaceful or only minimally disruptive political protest must remain exceptional (see nos. 38676/08, 74768/10, 18079/15). In these circumstances, the reasons given by the domestic courts do not seem sufficiently relevant and sufficient to justify the penalties imposed. A violation of Article 10 is therefore more likely."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"1. Existence of an interference\": \"There was an interference with the applicants’ freedom of expression. They were civil-society activists participating in, and helping organise, a political protest concerning the parliamentary elections and the newly introduced curfew, both matters of clear public interest (see paragraphs 2, 9 and 10). In that context they were arrested near the Parliament building, prosecuted, convicted under Article 173 of the Code of Administrative Offences, and sanctioned with a substantial fine in the second applicant’s case and administrative detention in the first applicant’s case (see paragraphs 11-12, 17, 27 and 28). Arrest, conviction and punishment for conduct occurring during a political demonstration are classic forms of interference under Article 10, especially where the conduct was closely linked to protest activity and criticism of the authorities (see nos. 50841/99, 38676/08, 18079/15).\"\n    },\n    {\n      \"2. Lawfulness of the interference\": \"The interference appears to have had a basis in domestic law. The applicants were charged and ultimately convicted under Article 173 of the CAO, which penalised disobeying a lawful police order or insulting an officer (see paragraphs 17, 26 and 32). The domestic courts also relied on the Traffic Act, the Police Act and the Assemblies and Demonstrations Act to conclude that clearing the road and preventing obstruction of traffic were lawful police objectives (see paragraphs 35-36 and 26). On the material provided, the legal framework was accessible and sufficiently clear for protesters to foresee that refusing an order to leave the roadway could trigger liability. The case therefore does not primarily turn on unlawfulness, but on whether the use of those powers against these applicants was convincingly justified.\"\n    },\n    {\n      \"3. Legitimate aims of the interference\": \"The interference pursued legitimate aims within Article 10 § 2. The authorities sought to keep a road open, allow the movement of a vehicle carrying the head of the Patrol Police Department, and respond to a tense protest situation that had followed serious unrest the previous day (see paragraphs 7, 19, 25 and 26). Those considerations fall under public safety, the prevention of disorder, and the protection of the rights of others, including road users and police officers. The Court generally accepts that regulating the location and manner of demonstrations, and requiring compliance with police instructions in a volatile setting, may pursue legitimate aims of this kind (see nos. 41479/10, 74768/10).\"\n    },\n    {\n      \"4. Necessary in a democratic society\": \"The decisive issue is proportionality, and on the facts summarised it is doubtful that the interference was necessary in a democratic society. The applicants’ expression formed part of political protest at the core of Article 10 protection (see paragraphs 9-10). Although the authorities could require demonstrators to clear a road, the domestic courts do not appear to have carried out a genuine balancing exercise between public-order concerns and the applicants’ political expression. Their reasoning focused largely on traffic obstruction and formal disobedience, without asking whether the applicants’ conduct created such a serious disruption that arrest, conviction and especially detention were required (see paragraph 26). The evidentiary basis was also fragile: the arrest reports were generic, the exact conduct was not specified in them, key body-worn-camera footage from the period before arrest was missing, and the available videos showed mainly the aftermath rather than a clear refusal by each applicant to obey police orders (see paragraphs 11-12, 18, 22-23 and 25). Even if some intervention was justified, the sanctions were severe in a political-protest context: the second applicant was fined GEL 1,500 and the first applicant was subjected to administrative detention, a measure with an obvious chilling effect (see paragraphs 27-28). The Court has repeatedly stressed that detention for protest-related expression requires particularly weighty reasons, and that punitive responses to peaceful or only minimally disruptive political protest must remain exceptional (see nos. 38676/08, 74768/10, 18079/15). In these circumstances, the reasons given by the domestic courts do not seem sufficiently relevant and sufficient to justify the penalties imposed. A violation of Article 10 is therefore more likely.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 3635,
+    "prompt_tokens": 7784,
+    "total_tokens": 11419,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 2721,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.073985,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.073985,
+      "upstream_inference_prompt_cost": 0.01946,
+      "upstream_inference_completions_cost": 0.054525
+    }
+  },
+  "citations": [
+    "50841/99",
+    "38676/08",
+    "18079/15",
+    "41479/10",
+    "74768/10"
+  ],
+  "ref_paragraphs": [
+    2,
+    7,
+    9,
+    10,
+    11,
+    12,
+    17,
+    18,
+    19,
+    22,
+    23,
+    25,
+    26,
+    27,
+    28,
+    32,
+    35,
+    36
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "item_id": "001-244080",
+  "case_name": "CASE OF MZHAVANADZE AND RUKHADZE v. GEORGIA",
+  "case_number": "(Applications nos. 29760/21 and 33931/21)",
+  "date": "15 July 2025",
+  "prompt_type": "non_curated",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "11",
+    "11-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Protected political expression": "The applicants were civil-society activists and founders of the Shame Movement, and they joined or organised a protest and vigil concerning the parliamentary elections and the newly introduced curfew (see paragraphs 2, 9 and 10). Their conduct therefore concerned political expression on matters of evident public interest. Under the Court’s case-law, political expression in the context of public protest attracts a high level of protection, even where it includes elements of disruption or civil disobedience, provided that it does not amount to violence or serious disorder (see nos. 50841/99, 38676/08 and 74768/10)."
+    },
+    {
+      "Interference with Article 10 rights": "The applicants were arrested during the protest, prosecuted for administrative offences, convicted under Article 173 of the Code of Administrative Offences, and sanctioned with a substantial fine in the second applicant’s case and administrative detention in the first applicant’s case (see paragraphs 11, 12, 17 and 27-28). Those measures clearly constituted an interference with their freedom of expression."
+    },
+    {
+      "Legal basis and legitimate aim": "The interference appears to have had a basis in domestic law, notably Article 173 of the Code of Administrative Offences and the rules prohibiting unjustified obstruction of traffic (see paragraphs 32 and 35-36). It also pursued legitimate aims such as the prevention of disorder and the protection of public safety and the rights of others, given the tense context and the obstruction of a vehicle near Parliament (see paragraphs 7, 9 and 25-26). The decisive question is therefore whether the interference was necessary in a democratic society."
+    },
+    {
+      "Need for especially convincing reasons": "The domestic authorities were required to provide particularly weighty reasons because the impugned conduct occurred during a political protest and because the sanctions, especially detention, were capable of creating a chilling effect on participation in future demonstrations (see paragraphs 27-28). The Court’s case-law stresses that sanctions imposed for protest-related expression must rest on relevant and sufficient reasons and on an individualised assessment of the protesters’ conduct (see nos. 41479/10, 18079/15 and 74768/10)."
+    },
+    {
+      "Weakness of the evidential basis": "The domestic courts did not establish the applicants’ personal conduct with sufficient precision. The arrest reports were drafted in generic terms and did not specify the exact acts attributed to either applicant (see paragraphs 11 and 12). The available video material confirmed only that a group of citizens obstructed the car and were moved away; it did not clearly show the conduct leading to the applicants’ arrests (see paragraphs 18, 23 and 25). Although body-worn cameras should have been activated, only footage recorded after the arrests was produced, and the Ministry’s explanations were speculative and inconsistent (see paragraph 23). The applicants also pointed to inconsistencies concerning the timing of the arrests and the officers’ accounts (see paragraphs 19, 22 and 29). In such circumstances, reliance mainly on police testimony, without stronger objective corroboration, weakened the claim that the interference answered a pressing social need."
+    },
+    {
+      "Insufficiently individualised reasoning": "The first-instance court reasoned largely from the fact that a group obstructed a car and that police had ordered people to clear the road, then inferred the applicants’ guilt from their presence within that group (see paragraph 26). Yet Article 10 requires an assessment of each protester’s own conduct. As to the second applicant, the finding that he obstructed the car and disobeyed the police seems to have depended essentially on one officer’s account, while the video did not confirm that allegation and a defence witness stated that he was trying to understand the situation (see paragraphs 21, 24 and 26). As to the first applicant, he admitted opening the car door, but the domestic courts still had to examine whether his behaviour, in the concrete circumstances of a political demonstration, justified conviction and detention rather than a lesser response (see paragraphs 20 and 26). The appellate review was cursory and did not remedy those deficiencies (see paragraphs 29-31)."
+    },
+    {
+      "Proportionality of the sanctions": "The sanctions were severe. The second applicant was fined GEL 1,500, and the first applicant received three days’ administrative detention, which was enforced immediately (see paragraphs 27-28 and 33-34). Administrative detention for protest-related expressive conduct is a particularly serious measure and calls for very strong justification. The trial court’s reasoning on penalty was formulaic and did not explain convincingly why detention, rather than a non-custodial response, was necessary in the first applicant’s case (see paragraph 27). Even accepting some degree of obstruction, the authorities were expected to show tolerance toward non-violent political protest, and the material in the file does not show that either applicant engaged in violence (the applicants were acquitted of minor hooliganism for lack of evidence: see paragraph 17). That points to disproportionality, especially in light of the chilling effect of arrest and detention on opposition activism."
+    },
+    {
+      "Overall assessment": "Although the authorities could legitimately seek to keep the roadway clear and maintain order, the domestic courts did not provide relevant and sufficient reasons showing that these applicants’ arrest, conviction and punishment were necessary in a democratic society. The evidence was incomplete, the reasoning insufficiently individualised, and the sanctions — especially the first applicant’s detention — were disproportionate to the established conduct in the setting of a political protest (see paragraphs 17-18, 23, 26-31). In line with the Court’s approach to protest-related expression and punitive measures against demonstrators (see nos. 50841/99, 38676/08, 74768/10, 41479/10 and 18079/15), a violation of Article 10 is therefore likely."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"Protected political expression\": \"The applicants were civil-society activists and founders of the Shame Movement, and they joined or organised a protest and vigil concerning the parliamentary elections and the newly introduced curfew (see paragraphs 2, 9 and 10). Their conduct therefore concerned political expression on matters of evident public interest. Under the Court’s case-law, political expression in the context of public protest attracts a high level of protection, even where it includes elements of disruption or civil disobedience, provided that it does not amount to violence or serious disorder (see nos. 50841/99, 38676/08 and 74768/10).\"\n    },\n    {\n      \"Interference with Article 10 rights\": \"The applicants were arrested during the protest, prosecuted for administrative offences, convicted under Article 173 of the Code of Administrative Offences, and sanctioned with a substantial fine in the second applicant’s case and administrative detention in the first applicant’s case (see paragraphs 11, 12, 17 and 27-28). Those measures clearly constituted an interference with their freedom of expression.\"\n    },\n    {\n      \"Legal basis and legitimate aim\": \"The interference appears to have had a basis in domestic law, notably Article 173 of the Code of Administrative Offences and the rules prohibiting unjustified obstruction of traffic (see paragraphs 32 and 35-36). It also pursued legitimate aims such as the prevention of disorder and the protection of public safety and the rights of others, given the tense context and the obstruction of a vehicle near Parliament (see paragraphs 7, 9 and 25-26). The decisive question is therefore whether the interference was necessary in a democratic society.\"\n    },\n    {\n      \"Need for especially convincing reasons\": \"The domestic authorities were required to provide particularly weighty reasons because the impugned conduct occurred during a political protest and because the sanctions, especially detention, were capable of creating a chilling effect on participation in future demonstrations (see paragraphs 27-28). The Court’s case-law stresses that sanctions imposed for protest-related expression must rest on relevant and sufficient reasons and on an individualised assessment of the protesters’ conduct (see nos. 41479/10, 18079/15 and 74768/10).\"\n    },\n    {\n      \"Weakness of the evidential basis\": \"The domestic courts did not establish the applicants’ personal conduct with sufficient precision. The arrest reports were drafted in generic terms and did not specify the exact acts attributed to either applicant (see paragraphs 11 and 12). The available video material confirmed only that a group of citizens obstructed the car and were moved away; it did not clearly show the conduct leading to the applicants’ arrests (see paragraphs 18, 23 and 25). Although body-worn cameras should have been activated, only footage recorded after the arrests was produced, and the Ministry’s explanations were speculative and inconsistent (see paragraph 23). The applicants also pointed to inconsistencies concerning the timing of the arrests and the officers’ accounts (see paragraphs 19, 22 and 29). In such circumstances, reliance mainly on police testimony, without stronger objective corroboration, weakened the claim that the interference answered a pressing social need.\"\n    },\n    {\n      \"Insufficiently individualised reasoning\": \"The first-instance court reasoned largely from the fact that a group obstructed a car and that police had ordered people to clear the road, then inferred the applicants’ guilt from their presence within that group (see paragraph 26). Yet Article 10 requires an assessment of each protester’s own conduct. As to the second applicant, the finding that he obstructed the car and disobeyed the police seems to have depended essentially on one officer’s account, while the video did not confirm that allegation and a defence witness stated that he was trying to understand the situation (see paragraphs 21, 24 and 26). As to the first applicant, he admitted opening the car door, but the domestic courts still had to examine whether his behaviour, in the concrete circumstances of a political demonstration, justified conviction and detention rather than a lesser response (see paragraphs 20 and 26). The appellate review was cursory and did not remedy those deficiencies (see paragraphs 29-31).\"\n    },\n    {\n      \"Proportionality of the sanctions\": \"The sanctions were severe. The second applicant was fined GEL 1,500, and the first applicant received three days’ administrative detention, which was enforced immediately (see paragraphs 27-28 and 33-34). Administrative detention for protest-related expressive conduct is a particularly serious measure and calls for very strong justification. The trial court’s reasoning on penalty was formulaic and did not explain convincingly why detention, rather than a non-custodial response, was necessary in the first applicant’s case (see paragraph 27). Even accepting some degree of obstruction, the authorities were expected to show tolerance toward non-violent political protest, and the material in the file does not show that either applicant engaged in violence (the applicants were acquitted of minor hooliganism for lack of evidence: see paragraph 17). That points to disproportionality, especially in light of the chilling effect of arrest and detention on opposition activism.\"\n    },\n    {\n      \"Overall assessment\": \"Although the authorities could legitimately seek to keep the roadway clear and maintain order, the domestic courts did not provide relevant and sufficient reasons showing that these applicants’ arrest, conviction and punishment were necessary in a democratic society. The evidence was incomplete, the reasoning insufficiently individualised, and the sanctions — especially the first applicant’s detention — were disproportionate to the established conduct in the setting of a political protest (see paragraphs 17-18, 23, 26-31). In line with the Court’s approach to protest-related expression and punitive measures against demonstrators (see nos. 50841/99, 38676/08, 74768/10, 41479/10 and 18079/15), a violation of Article 10 is therefore likely.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 2899,
+    "prompt_tokens": 7350,
+    "total_tokens": 10249,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1633,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.06186,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.06186,
+      "upstream_inference_prompt_cost": 0.018375,
+      "upstream_inference_completions_cost": 0.043485
+    }
+  },
+  "citations": [
+    "50841/99",
+    "38676/08",
+    "74768/10",
+    "41479/10",
+    "18079/15"
+  ],
+  "ref_paragraphs": [
+    2,
+    7,
+    9,
+    10,
+    11,
+    12,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36
+  ]
+}

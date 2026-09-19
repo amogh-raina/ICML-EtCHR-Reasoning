@@ -1,0 +1,111 @@
+{
+  "item_id": "001-245254",
+  "case_name": "CASE OF TUĞLUK v. TÜRKİYE",
+  "case_number": "(Application no. 71757/17)",
+  "date": "14 October 2025",
+  "prompt_type": "non_curated",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Interference with the applicant’s freedom of expression": "The measures taken against the applicant plainly interfered with her Article 10 rights. Her arrest, pre-trial detention, prosecution and eventual conviction were based to a significant extent on speeches, interviews, press statements, attendance at conferences and demonstrations, and her public political activity as co-chair of the DTK and deputy chair of the HDP (see paragraphs 13, 18, 23-30 and 44). The Court has treated criminal-law measures, and especially detention, imposed in response to expression as particularly serious interferences because of their chilling effect on political debate (see no. 23199/17; no. 16483/12)."
+    },
+    {
+      "Enhanced protection for political speech": "The applicant was a prominent opposition politician engaged in debate on the Kurdish issue and women’s rights, matters of undeniable public interest (see paragraphs 6-8). Under the Court’s case-law, political speech and debate on questions of public concern enjoy the highest level of protection, and restrictions require very weighty reasons, especially where the speaker is an opposition politician (see no. 31451/03; no. 67360/11). This context is central here, because the impugned statements were made in the course of public and political debate."
+    },
+    {
+      "Content of the impugned expression": "The indictment relied on speeches delivered at 38 meetings in which the applicant presented the project of “democratic autonomy” as a proposal for resolving the Kurdish issue, stated that the model was intended for all of Türkiye, and said that protest actions and civil disobedience could be democratic means of implementation; she also expressed the view that the PKK and Abdullah Öcalan should be included in the resolution process (see paragraph 28). On the facts as summarised, these statements appear to amount to political advocacy, criticism and proposals for conflict resolution. There is no indication that she called for violence, armed resistance, hatred or insurrection. In the Court’s case-law, even sharp or disturbing statements on the Kurdish question remain protected unless they can reasonably be read as incitement to violence or terrorist methods (see no. 31451/03; no. 67360/11)."
+    },
+    {
+      "Lack of specificity in the domestic authorities’ reasoning": "A decisive factor is the lack of identification of any concrete statement that crossed the limits of protected speech. The case file did not indicate which specific statements the prosecutor asked her to explain (see paragraph 15). The indictment reproduced extracts from speeches and listed meetings and demonstrations, but expressly failed to specify which of her statements constituted a criminal offence (see paragraph 28). This absence of careful textual and contextual analysis is difficult to reconcile with Article 10 standards, which require domestic courts to distinguish protected political expression from punishable incitement and to give relevant and sufficient reasons (see no. 16483/12; no. 67360/11)."
+    },
+    {
+      "Guilt by association rather than proof of harmful expression": "The domestic case against the applicant was built largely on association-based elements: her role in the DTK, participation in peaceful demonstrations, attendance at a conference in Bern, interviews on Roj TV, attendance at funerals, alleged contacts with persons said to be linked to the PKK/KCK, and disputed emails or messages allegedly conveying “orders” (see paragraphs 18, 21, 24, 29 and 30). Article 10 does not allow the authorities to equate participation in public debate, appearances in media outlets, or involvement in a lawful political or civil platform with terrorism without showing how the applicant’s own conduct or words promoted violence. The magistrate even treated her description of the DTK as a civil platform as an implicit admission of guilt (see paragraph 24), which strongly suggests an overbroad and punitive approach to dissent."
+    },
+    {
+      "Insufficient demonstration of a pressing social need": "Even assuming that the interference pursued legitimate aims such as national security or prevention of disorder, the decisive question is whether it was necessary in a democratic society. On the available facts, the domestic authorities relied on abstract references to the seriousness of the offence, the statutory penalties and the “catalogue offence” classification, rather than on a concrete demonstration that the applicant’s expression created a real risk of violence or disorder (see paragraphs 19, 25, 32-43). Such formulaic reasoning is not enough under Article 10 where political speech is concerned (see no. 23199/17; no. 16483/12)."
+    },
+    {
+      "The later conviction does not cure the Article 10 problem": "The trial court ultimately reclassified the charge and convicted the applicant of membership, while expressly finding no evidence that she had exercised control, distributed roles, planned activities or directed the organisation’s operations (see paragraph 44). That finding weakens, rather than strengthens, the claim that her speeches and public activities showed leadership of or operational involvement in an armed organisation. It reinforces the impression that lawful political expression and public participation were used as substitutes for proof of criminal conduct."
+    },
+    {
+      "Severity and chilling effect of the sanctions": "The interference was exceptionally severe: the applicant spent a long period in pre-trial detention and was sentenced to ten years’ imprisonment (see paragraphs 23, 32-47). For expression falling within political debate, such sanctions are manifestly capable of deterring not only the applicant but also other politicians and civil actors from participating in discussion of the Kurdish issue. The Court’s case-law treats such heavy criminal sanctions as a strong indicator of disproportionality unless there is clear incitement to violence, which is not apparent here (see no. 23199/17; no. 31451/03)."
+    },
+    {
+      "Overall assessment": "Taking the facts as a whole, the domestic authorities appear to have criminalised the applicant’s political speech and public activity without identifying any specific statements amounting to incitement to violence or hatred, and without providing relevant and sufficient reasons capable of showing a pressing social need (see paragraphs 15, 28, 44 and 54-55). In light of the Court’s standards on political expression, especially in the context of debate on the Kurdish issue, it is likely that the interference was not necessary in a democratic society within the meaning of Article 10 (see no. 31451/03; no. 67360/11; no. 16483/12; no. 23199/17)."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"Interference with the applicant’s freedom of expression\": \"The measures taken against the applicant plainly interfered with her Article 10 rights. Her arrest, pre-trial detention, prosecution and eventual conviction were based to a significant extent on speeches, interviews, press statements, attendance at conferences and demonstrations, and her public political activity as co-chair of the DTK and deputy chair of the HDP (see paragraphs 13, 18, 23-30 and 44). The Court has treated criminal-law measures, and especially detention, imposed in response to expression as particularly serious interferences because of their chilling effect on political debate (see no. 23199/17; no. 16483/12).\"\n    },\n    {\n      \"Enhanced protection for political speech\": \"The applicant was a prominent opposition politician engaged in debate on the Kurdish issue and women’s rights, matters of undeniable public interest (see paragraphs 6-8). Under the Court’s case-law, political speech and debate on questions of public concern enjoy the highest level of protection, and restrictions require very weighty reasons, especially where the speaker is an opposition politician (see no. 31451/03; no. 67360/11). This context is central here, because the impugned statements were made in the course of public and political debate.\"\n    },\n    {\n      \"Content of the impugned expression\": \"The indictment relied on speeches delivered at 38 meetings in which the applicant presented the project of “democratic autonomy” as a proposal for resolving the Kurdish issue, stated that the model was intended for all of Türkiye, and said that protest actions and civil disobedience could be democratic means of implementation; she also expressed the view that the PKK and Abdullah Öcalan should be included in the resolution process (see paragraph 28). On the facts as summarised, these statements appear to amount to political advocacy, criticism and proposals for conflict resolution. There is no indication that she called for violence, armed resistance, hatred or insurrection. In the Court’s case-law, even sharp or disturbing statements on the Kurdish question remain protected unless they can reasonably be read as incitement to violence or terrorist methods (see no. 31451/03; no. 67360/11).\"\n    },\n    {\n      \"Lack of specificity in the domestic authorities’ reasoning\": \"A decisive factor is the lack of identification of any concrete statement that crossed the limits of protected speech. The case file did not indicate which specific statements the prosecutor asked her to explain (see paragraph 15). The indictment reproduced extracts from speeches and listed meetings and demonstrations, but expressly failed to specify which of her statements constituted a criminal offence (see paragraph 28). This absence of careful textual and contextual analysis is difficult to reconcile with Article 10 standards, which require domestic courts to distinguish protected political expression from punishable incitement and to give relevant and sufficient reasons (see no. 16483/12; no. 67360/11).\"\n    },\n    {\n      \"Guilt by association rather than proof of harmful expression\": \"The domestic case against the applicant was built largely on association-based elements: her role in the DTK, participation in peaceful demonstrations, attendance at a conference in Bern, interviews on Roj TV, attendance at funerals, alleged contacts with persons said to be linked to the PKK/KCK, and disputed emails or messages allegedly conveying “orders” (see paragraphs 18, 21, 24, 29 and 30). Article 10 does not allow the authorities to equate participation in public debate, appearances in media outlets, or involvement in a lawful political or civil platform with terrorism without showing how the applicant’s own conduct or words promoted violence. The magistrate even treated her description of the DTK as a civil platform as an implicit admission of guilt (see paragraph 24), which strongly suggests an overbroad and punitive approach to dissent.\"\n    },\n    {\n      \"Insufficient demonstration of a pressing social need\": \"Even assuming that the interference pursued legitimate aims such as national security or prevention of disorder, the decisive question is whether it was necessary in a democratic society. On the available facts, the domestic authorities relied on abstract references to the seriousness of the offence, the statutory penalties and the “catalogue offence” classification, rather than on a concrete demonstration that the applicant’s expression created a real risk of violence or disorder (see paragraphs 19, 25, 32-43). Such formulaic reasoning is not enough under Article 10 where political speech is concerned (see no. 23199/17; no. 16483/12).\"\n    },\n    {\n      \"The later conviction does not cure the Article 10 problem\": \"The trial court ultimately reclassified the charge and convicted the applicant of membership, while expressly finding no evidence that she had exercised control, distributed roles, planned activities or directed the organisation’s operations (see paragraph 44). That finding weakens, rather than strengthens, the claim that her speeches and public activities showed leadership of or operational involvement in an armed organisation. It reinforces the impression that lawful political expression and public participation were used as substitutes for proof of criminal conduct.\"\n    },\n    {\n      \"Severity and chilling effect of the sanctions\": \"The interference was exceptionally severe: the applicant spent a long period in pre-trial detention and was sentenced to ten years’ imprisonment (see paragraphs 23, 32-47). For expression falling within political debate, such sanctions are manifestly capable of deterring not only the applicant but also other politicians and civil actors from participating in discussion of the Kurdish issue. The Court’s case-law treats such heavy criminal sanctions as a strong indicator of disproportionality unless there is clear incitement to violence, which is not apparent here (see no. 23199/17; no. 31451/03).\"\n    },\n    {\n      \"Overall assessment\": \"Taking the facts as a whole, the domestic authorities appear to have criminalised the applicant’s political speech and public activity without identifying any specific statements amounting to incitement to violence or hatred, and without providing relevant and sufficient reasons capable of showing a pressing social need (see paragraphs 15, 28, 44 and 54-55). In light of the Court’s standards on political expression, especially in the context of debate on the Kurdish issue, it is likely that the interference was not necessary in a democratic society within the meaning of Article 10 (see no. 31451/03; no. 67360/11; no. 16483/12; no. 23199/17).\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 2675,
+    "prompt_tokens": 6803,
+    "total_tokens": 9478,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1290,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0571325,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0571325,
+      "upstream_inference_prompt_cost": 0.0170075,
+      "upstream_inference_completions_cost": 0.040125
+    }
+  },
+  "citations": [
+    "23199/17",
+    "16483/12",
+    "31451/03",
+    "67360/11"
+  ],
+  "ref_paragraphs": [
+    6,
+    7,
+    8,
+    13,
+    15,
+    18,
+    19,
+    21,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    54,
+    55
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "item_id": "001-247645",
+  "case_name": "CASE OF PEŠIĆ v. SERBIA",
+  "case_number": "(Application no. 4545/21)",
+  "date": "13 January 2026",
+  "prompt_type": "instruction",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "1. Existence of an interference": "There was an interference with the applicant’s freedom of expression. The applicant published a political commentary on a website to which she regularly contributed, criticising the Minister of the Interior in connection with the Savamala demolitions and the police’s failure to react (see paragraphs 5-7). The Minister then sued her in civil proceedings for damage to his honour and reputation (see paragraph 8). The domestic courts found against her, ordered the defendants jointly to pay damages and costs, and the Constitutional Court rejected her complaint (see paragraphs 10, 12 and 18). A judicial finding of liability for statements made in the press, coupled with an award of compensation and costs, plainly constituted an interference under Article 10, even though it arose in civil rather than criminal proceedings. This is in line with the Court’s case-law on civil defamation measures affecting political expression (see nos. 29369/10 and 50123/06)."
+    },
+    {
+      "2. Lawfulness of the interference": "The interference appears to have been prescribed by law. The domestic courts expressly relied on Article 200 of the Obligations Act, which allows compensation for mental anguish caused by an infringement of reputation and other personal rights (see paragraphs 10 and 23). The relevant legal framework was accessible and sufficiently clear in that Serbian law recognised civil protection of reputation, while also containing a specific rule that public officeholders must tolerate critical views concerning the exercise of their functions (see paragraph 20). Although the applicant could argue that the domestic courts applied these provisions too restrictively, the material before the Court does not suggest a complete lack of legal basis in domestic law. Accordingly, the case turns not on lawfulness but on whether the interference was justified and proportionate."
+    },
+    {
+      "3. Legitimate aims of the interference": "The interference pursued a legitimate aim, namely the protection of the reputation or rights of others. The Minister’s claim was explicitly based on the distress allegedly caused by an attack on his honour and reputation (see paragraph 8), and the domestic courts accepted that rationale (see paragraphs 10 and 12). Protection of reputation is a recognised legitimate aim under Article 10 § 2. The fact that the person concerned was a serving Minister does not deprive him of reputational protection; however, it significantly affects the scope of permissible criticism, since politicians and senior public officials are expected to display a higher degree of tolerance when comments concern matters of public interest and the exercise of official functions (see nos. 43425/98, 29369/10 and 26682/95)."
+    },
+    {
+      "4. Necessary in a democratic society": "The interference was likely not necessary in a democratic society. The impugned article was written against the background of an event of exceptional public concern: unlawful night demolitions in central Belgrade, the detention of persons at the scene, and the police’s failure to intervene (see paragraph 5). It directly responded to the Minister’s public explanation of why the police had not acted (see paragraph 6), and therefore formed part of an ongoing political debate about accountability, abuse of power and the rule of law. In that context, the applicant’s language was plainly harsh, mocking and exaggerated, but it was used in a polemical opinion piece and largely took the form of value judgments based on an undisputed factual basis, namely the Minister’s own statement and the surrounding events (see paragraphs 6-7). The Court generally affords very strong protection to political speech and accepts a degree of provocation, irony or insult in that sphere (see nos. 29369/10, 50123/06 and 39954/08). \n\nThe domestic courts’ reasons do not appear relevant and sufficient. They treated the article as if it had no contribution to public debate and was aimed solely at offending the Minister (see paragraphs 10 and 12). That conclusion is difficult to reconcile with the text itself, which repeatedly discussed the demolitions, police inaction, citizens’ rights and the need for an investigation (see paragraph 7). The courts also failed to give meaningful weight to the Minister’s status as a leading public official, or to the domestic statutory rule that political officeholders must tolerate stronger criticism regarding the exercise of their office (see paragraph 20). Nor did they convincingly engage with the distinction between factual allegations and value judgments, which is central to the Court’s Article 10 analysis (see no. 26682/95). \n\nAs to proportionality, the sanction was not negligible for an individual author: even after reduction on appeal, damages and costs remained substantial (see paragraph 12). Moreover, domestic law offered other, less restrictive responses to an alleged reputational injury, such as publication of a judgment, rectification or retraction (see paragraph 22), yet the courts moved directly to financial compensation without showing why that level of interference was required. In these circumstances, there was no demonstrated pressing social need strong enough to outweigh the applicant’s freedom to use vigorous language in political debate. The likely conclusion is that the national authorities overstepped their margin of appreciation and that the interference was disproportionate."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"1. Existence of an interference\": \"There was an interference with the applicant’s freedom of expression. The applicant published a political commentary on a website to which she regularly contributed, criticising the Minister of the Interior in connection with the Savamala demolitions and the police’s failure to react (see paragraphs 5-7). The Minister then sued her in civil proceedings for damage to his honour and reputation (see paragraph 8). The domestic courts found against her, ordered the defendants jointly to pay damages and costs, and the Constitutional Court rejected her complaint (see paragraphs 10, 12 and 18). A judicial finding of liability for statements made in the press, coupled with an award of compensation and costs, plainly constituted an interference under Article 10, even though it arose in civil rather than criminal proceedings. This is in line with the Court’s case-law on civil defamation measures affecting political expression (see nos. 29369/10 and 50123/06).\"\n    },\n    {\n      \"2. Lawfulness of the interference\": \"The interference appears to have been prescribed by law. The domestic courts expressly relied on Article 200 of the Obligations Act, which allows compensation for mental anguish caused by an infringement of reputation and other personal rights (see paragraphs 10 and 23). The relevant legal framework was accessible and sufficiently clear in that Serbian law recognised civil protection of reputation, while also containing a specific rule that public officeholders must tolerate critical views concerning the exercise of their functions (see paragraph 20). Although the applicant could argue that the domestic courts applied these provisions too restrictively, the material before the Court does not suggest a complete lack of legal basis in domestic law. Accordingly, the case turns not on lawfulness but on whether the interference was justified and proportionate.\"\n    },\n    {\n      \"3. Legitimate aims of the interference\": \"The interference pursued a legitimate aim, namely the protection of the reputation or rights of others. The Minister’s claim was explicitly based on the distress allegedly caused by an attack on his honour and reputation (see paragraph 8), and the domestic courts accepted that rationale (see paragraphs 10 and 12). Protection of reputation is a recognised legitimate aim under Article 10 § 2. The fact that the person concerned was a serving Minister does not deprive him of reputational protection; however, it significantly affects the scope of permissible criticism, since politicians and senior public officials are expected to display a higher degree of tolerance when comments concern matters of public interest and the exercise of official functions (see nos. 43425/98, 29369/10 and 26682/95).\"\n    },\n    {\n      \"4. Necessary in a democratic society\": \"The interference was likely not necessary in a democratic society. The impugned article was written against the background of an event of exceptional public concern: unlawful night demolitions in central Belgrade, the detention of persons at the scene, and the police’s failure to intervene (see paragraph 5). It directly responded to the Minister’s public explanation of why the police had not acted (see paragraph 6), and therefore formed part of an ongoing political debate about accountability, abuse of power and the rule of law. In that context, the applicant’s language was plainly harsh, mocking and exaggerated, but it was used in a polemical opinion piece and largely took the form of value judgments based on an undisputed factual basis, namely the Minister’s own statement and the surrounding events (see paragraphs 6-7). The Court generally affords very strong protection to political speech and accepts a degree of provocation, irony or insult in that sphere (see nos. 29369/10, 50123/06 and 39954/08). \\n\\nThe domestic courts’ reasons do not appear relevant and sufficient. They treated the article as if it had no contribution to public debate and was aimed solely at offending the Minister (see paragraphs 10 and 12). That conclusion is difficult to reconcile with the text itself, which repeatedly discussed the demolitions, police inaction, citizens’ rights and the need for an investigation (see paragraph 7). The courts also failed to give meaningful weight to the Minister’s status as a leading public official, or to the domestic statutory rule that political officeholders must tolerate stronger criticism regarding the exercise of their office (see paragraph 20). Nor did they convincingly engage with the distinction between factual allegations and value judgments, which is central to the Court’s Article 10 analysis (see no. 26682/95). \\n\\nAs to proportionality, the sanction was not negligible for an individual author: even after reduction on appeal, damages and costs remained substantial (see paragraph 12). Moreover, domestic law offered other, less restrictive responses to an alleged reputational injury, such as publication of a judgment, rectification or retraction (see paragraph 22), yet the courts moved directly to financial compensation without showing why that level of interference was required. In these circumstances, there was no demonstrated pressing social need strong enough to outweigh the applicant’s freedom to use vigorous language in political debate. The likely conclusion is that the national authorities overstepped their margin of appreciation and that the interference was disproportionate.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 2667,
+    "prompt_tokens": 3688,
+    "total_tokens": 6355,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1574,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.049225,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.049225,
+      "upstream_inference_prompt_cost": 0.00922,
+      "upstream_inference_completions_cost": 0.040005
+    }
+  },
+  "citations": [
+    "29369/10",
+    "50123/06",
+    "43425/98",
+    "26682/95",
+    "39954/08"
+  ],
+  "ref_paragraphs": [
+    5,
+    6,
+    7,
+    8,
+    10,
+    12,
+    18,
+    20,
+    22,
+    23
+  ]
+}

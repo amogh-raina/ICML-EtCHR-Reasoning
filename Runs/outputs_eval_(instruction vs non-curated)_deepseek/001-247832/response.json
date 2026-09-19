@@ -1,0 +1,98 @@
+{
+  "item_id": "001-247832",
+  "case_name": "CASE OF SIC - SOCIEDADE INDEPENDENTE DE COMUNICAÇÃO, S.A v. PORTUGAL (No. 2)",
+  "model": "deepseek/deepseek-v4-pro",
+  "reasoning_effort": "high",
+  "raw_content": "{\n  \"evaluation\": [\n    {\n      \"student_a\": [\n        {\n          \"step_1\": {\n            \"occurrence\": 1,\n            \"comprehensiveness\": 4\n          }\n        },\n        {\n          \"step_2\": {\n            \"occurrence\": 1,\n            \"comprehensiveness\": 4\n          }\n        },\n        {\n          \"step_3\": {\n            \"occurrence\": 1,\n            \"comprehensiveness\": 4\n          }\n        },\n        {\n          \"step_4\": {\n            \"occurrence\": 1,\n            \"comprehensiveness\": 3\n          }\n        },\n        {\n          \"overall_conciseness\": 4\n        }\n      ]\n    },\n    {\n      \"student_b\": [\n        {\n          \"step_1\": {\n            \"occurrence\": 1,\n            \"comprehensiveness\": 4\n          }\n        },\n        {\n          \"step_2\": {\n            \"occurrence\": 1,\n            \"comprehensiveness\": 4\n          }\n        },\n        {\n          \"step_3\": {\n            \"occurrence\": 1,\n            \"comprehensiveness\": 4\n          }\n        },\n        {\n          \"step_4\": {\n            \"occurrence\": 1,\n            \"comprehensiveness\": 4\n          }\n        },\n        {\n          \"overall_conciseness\": 4\n        }\n      ]\n    }\n  ]\n}",
+  "parsed": {
+    "evaluation": [
+      {
+        "student_a": [
+          {
+            "step_1": {
+              "occurrence": 1,
+              "comprehensiveness": 4
+            }
+          },
+          {
+            "step_2": {
+              "occurrence": 1,
+              "comprehensiveness": 4
+            }
+          },
+          {
+            "step_3": {
+              "occurrence": 1,
+              "comprehensiveness": 4
+            }
+          },
+          {
+            "step_4": {
+              "occurrence": 1,
+              "comprehensiveness": 3
+            }
+          },
+          {
+            "overall_conciseness": 4
+          }
+        ]
+      },
+      {
+        "student_b": [
+          {
+            "step_1": {
+              "occurrence": 1,
+              "comprehensiveness": 4
+            }
+          },
+          {
+            "step_2": {
+              "occurrence": 1,
+              "comprehensiveness": 4
+            }
+          },
+          {
+            "step_3": {
+              "occurrence": 1,
+              "comprehensiveness": 4
+            }
+          },
+          {
+            "step_4": {
+              "occurrence": 1,
+              "comprehensiveness": 4
+            }
+          },
+          {
+            "overall_conciseness": 4
+          }
+        ]
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 3535,
+    "prompt_tokens": 11659,
+    "total_tokens": 15194,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 3230,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.024764144,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.024764144,
+      "upstream_inference_prompt_cost": 0.014922704,
+      "upstream_inference_completions_cost": 0.00984144
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "item_id": "001-242529",
+  "case_name": "CASE OF BOGAY AND OTHERS v. UKRAINE",
+  "case_number": "(Application no. 38283/18)",
+  "date": "3 April 2025",
+  "prompt_type": "instruction",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "11",
+    "11-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": {
+    "Existence of an interference": "The applicants engaged in a peaceful demonstration to protest the use of animals in circus acts, an activity protected under Article 10 of the Convention as a form of freedom of expression (see paragraph 6). The police surrounded the demonstrators, conducted searches on all participants, confiscated items, handcuffed several individuals, and detained all applicants at a police station for two to three hours (see paragraphs 8, 10, 12–14). These actions directly hindered the applicants’ ability to continue their expressive activity, thus constituting an interference with their rights under Article 10.",
+    "Lawfulness of the interference": "The interference had a basis in domestic law. The police conducted “surface inspections” under sections 31 and 34 of the National Police Act, which authorize preventive measures, including pat-downs, when there are grounds to believe a person possesses an object posing a threat to life or health (see paragraphs 29–30). The searches and detentions were therefore prescribed by law, as the police acted in accordance with these statutory provisions (see paragraph 20).",
+    "Legitimate aims of the interference": "The interference pursued legitimate aims under Article 10 § 2 of the Convention. The police acted to prevent a confrontation between the demonstrators and the opposing group (see paragraph 11) and to address the presence of dangerous items, such as knives and metal rods, which posed a threat to public safety and the prevention of disorder or crime (see paragraphs 8, 12, and 20). These aims align with the protection of public safety and the prevention of disorder, as recognized in Article 10 § 2.",
+    "Necessary in a democratic society": "The interference cannot be considered necessary in a democratic society. While there was a pressing social need to prevent violence, the measures taken were not sufficiently targeted. The police conducted blanket searches of all demonstrators and detained them collectively at the police station, rather than focusing on individuals exhibiting suspicious behavior (see paragraphs 10, 12–14). According to international standards, such as the OSCE Guidelines, restrictions on assemblies must be based on individualized suspicion to avoid a chilling effect on peaceful protesters (see paragraph 32). The ECtHR has similarly emphasized the need for differentiated assessments in cases involving freedom of assembly (see no. 4048/09, see no. 29580/12). By treating all demonstrators as suspects and employing collective measures, the authorities failed to use the least restrictive means possible. Furthermore, the detention of all applicants for several hours without individualized administrative reports for most (see paragraph 14) exceeded what was proportionate to the legitimate aims pursued."
+  },
+  "raw_content": "```json\n{\n  \"assessment\": {\n    \"Existence of an interference\": \"The applicants engaged in a peaceful demonstration to protest the use of animals in circus acts, an activity protected under Article 10 of the Convention as a form of freedom of expression (see paragraph 6). The police surrounded the demonstrators, conducted searches on all participants, confiscated items, handcuffed several individuals, and detained all applicants at a police station for two to three hours (see paragraphs 8, 10, 12–14). These actions directly hindered the applicants’ ability to continue their expressive activity, thus constituting an interference with their rights under Article 10.\",\n\n    \"Lawfulness of the interference\": \"The interference had a basis in domestic law. The police conducted “surface inspections” under sections 31 and 34 of the National Police Act, which authorize preventive measures, including pat-downs, when there are grounds to believe a person possesses an object posing a threat to life or health (see paragraphs 29–30). The searches and detentions were therefore prescribed by law, as the police acted in accordance with these statutory provisions (see paragraph 20).\",\n\n    \n    \"Legitimate aims of the interference\": \"The interference pursued legitimate aims under Article 10 § 2 of the Convention. The police acted to prevent a confrontation between the demonstrators and the opposing group (see paragraph 11) and to address the presence of dangerous items, such as knives and metal rods, which posed a threat to public safety and the prevention of disorder or crime (see paragraphs 8, 12, and 20). These aims align with the protection of public safety and the prevention of disorder, as recognized in Article 10 § 2.\",\n\n    \"Necessary in a democratic society\": \"The interference cannot be considered necessary in a democratic society. While there was a pressing social need to prevent violence, the measures taken were not sufficiently targeted. The police conducted blanket searches of all demonstrators and detained them collectively at the police station, rather than focusing on individuals exhibiting suspicious behavior (see paragraphs 10, 12–14). According to international standards, such as the OSCE Guidelines, restrictions on assemblies must be based on individualized suspicion to avoid a chilling effect on peaceful protesters (see paragraph 32). The ECtHR has similarly emphasized the need for differentiated assessments in cases involving freedom of assembly (see no. 4048/09, see no. 29580/12). By treating all demonstrators as suspects and employing collective measures, the authorities failed to use the least restrictive means possible. Furthermore, the detention of all applicants for several hours without individualized administrative reports for most (see paragraph 14) exceeded what was proportionate to the legitimate aims pursued.\"\n  },\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 2367,
+    "prompt_tokens": 4192,
+    "total_tokens": 6559,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 2138,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0240405,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0240405,
+      "upstream_inference_prompt_cost": 0.006288,
+      "upstream_inference_completions_cost": 0.0177525
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "model": "~google/gemini-pro-latest",
+  "raw_content": "```json\n{\n  \"assessment_strategy\": [\n    {\n      \"1. Assess the existence of an interference with the exercise of the right to freedom of expression\": \"Assess the facts of the case to determine whether there has been an interference with the applicant's right to freedom of expression. Identify if the actions of the State constitute a 'formality, condition, restriction or penalty' such as a criminal conviction, an order to pay damages, a publication ban, a confiscation, a dismissal or suspension from professional duties (especially for public servants, journalists, or judges), or any other measure having a chilling effect on the exercise of this right. If you find that no such interference exists, predict that there has been no violation of Article 10, and skip the next steps; otherwise, proceed to the next step.\"\n    },\n    {\n      \"2. Assess whether the interference was prescribed by law\": \"Assess the facts of the case to determine whether the interference was 'prescribed by law' as required by Article 10 § 2. Evaluate whether the impugned measure had a basis in domestic law and whether that law was both accessible and foreseeable. Ensure that the legal provision was formulated with sufficient precision to enable the individual—if need be, with appropriate advice—to regulate their conduct and foresee the consequences of their actions. If you find that the interference lacked a sufficient and foreseeable legal basis or was arbitrary, predict that there has been a violation of Article 10, and skip the next steps; otherwise, proceed to the next step.\"\n    },\n    {\n      \"3. Assess the legitimacy of the aim pursued by the interference\": \"Assess the facts of the case to determine whether the restrictive measure pursued one of the exhaustive legitimate aims listed in Article 10 § 2 of the Convention. Examine whether the interference aimed to protect national security, territorial integrity, or public safety; to prevent disorder or crime; to protect health or morals; to protect the reputation or rights of others; to prevent the disclosure of information received in confidence; or to maintain the authority and impartiality of the judiciary. If you find that the interference did not actually serve any of these legitimate aims, predict that there has been a violation of Article 10, and skip the next step; otherwise, proceed to the next step.\"\n    },\n    {\n      \"4. Assess the necessity of the interference in a democratic society\": \"Assess the facts of the case to determine whether the interference was 'necessary in a democratic society' and proportionate to the legitimate aim pursued. Evaluate whether there was a 'pressing social need' for the restriction and whether the national authorities provided 'relevant and sufficient reasons' to justify it. Analyze the nature and severity of the sanctions imposed, checking for any chilling effect on free speech and whether the least restrictive measure was used. If the case involves a conflict with other Convention rights (such as the right to a fair trial under Article 6 or the right to privacy and reputation under Article 8), assess whether the domestic authorities struck a fair balance between these competing rights by considering criteria like the statement's contribution to a matter of public interest, the target's public profile, the method of obtaining the information, and the distinction between facts and value judgments. If you find that a fair balance was not struck, or the interference was not proportionate and necessary, predict that there has been a violation of Article 10; otherwise, predict that there has been no violation.\"\n    }\n  ]\n}\n```",
+  "parsed": {
+    "assessment_strategy": [
+      {
+        "1. Assess the existence of an interference with the exercise of the right to freedom of expression": "Assess the facts of the case to determine whether there has been an interference with the applicant's right to freedom of expression. Identify if the actions of the State constitute a 'formality, condition, restriction or penalty' such as a criminal conviction, an order to pay damages, a publication ban, a confiscation, a dismissal or suspension from professional duties (especially for public servants, journalists, or judges), or any other measure having a chilling effect on the exercise of this right. If you find that no such interference exists, predict that there has been no violation of Article 10, and skip the next steps; otherwise, proceed to the next step."
+      },
+      {
+        "2. Assess whether the interference was prescribed by law": "Assess the facts of the case to determine whether the interference was 'prescribed by law' as required by Article 10 § 2. Evaluate whether the impugned measure had a basis in domestic law and whether that law was both accessible and foreseeable. Ensure that the legal provision was formulated with sufficient precision to enable the individual—if need be, with appropriate advice—to regulate their conduct and foresee the consequences of their actions. If you find that the interference lacked a sufficient and foreseeable legal basis or was arbitrary, predict that there has been a violation of Article 10, and skip the next steps; otherwise, proceed to the next step."
+      },
+      {
+        "3. Assess the legitimacy of the aim pursued by the interference": "Assess the facts of the case to determine whether the restrictive measure pursued one of the exhaustive legitimate aims listed in Article 10 § 2 of the Convention. Examine whether the interference aimed to protect national security, territorial integrity, or public safety; to prevent disorder or crime; to protect health or morals; to protect the reputation or rights of others; to prevent the disclosure of information received in confidence; or to maintain the authority and impartiality of the judiciary. If you find that the interference did not actually serve any of these legitimate aims, predict that there has been a violation of Article 10, and skip the next step; otherwise, proceed to the next step."
+      },
+      {
+        "4. Assess the necessity of the interference in a democratic society": "Assess the facts of the case to determine whether the interference was 'necessary in a democratic society' and proportionate to the legitimate aim pursued. Evaluate whether there was a 'pressing social need' for the restriction and whether the national authorities provided 'relevant and sufficient reasons' to justify it. Analyze the nature and severity of the sanctions imposed, checking for any chilling effect on free speech and whether the least restrictive measure was used. If the case involves a conflict with other Convention rights (such as the right to a fair trial under Article 6 or the right to privacy and reputation under Article 8), assess whether the domestic authorities struck a fair balance between these competing rights by considering criteria like the statement's contribution to a matter of public interest, the target's public profile, the method of obtaining the information, and the distinction between facts and value judgments. If you find that a fair balance was not struck, or the interference was not proportionate and necessary, predict that there has been a violation of Article 10; otherwise, predict that there has been no violation."
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 2518,
+    "prompt_tokens": 173398,
+    "total_tokens": 175916,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1793,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.377012,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.377012,
+      "upstream_inference_prompt_cost": 0.346796,
+      "upstream_inference_completions_cost": 0.030216
+    }
+  }
+}

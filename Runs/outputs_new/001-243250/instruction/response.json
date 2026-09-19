@@ -1,0 +1,128 @@
+{
+  "item_id": "001-243250",
+  "case_name": "CASE OF NEMYTOV AND OTHERS v. RUSSIA",
+  "case_number": "(Applications nos. 1257/21 and 2 others – see appended list)",
+  "date": "27 May 2025",
+  "prompt_type": "instruction",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1",
+    "11",
+    "11-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "1. Existence of an interference": "There was clearly an interference with the applicants’ freedom of expression. Their conduct consisted of political protest through placards and participation in a rally on matters of obvious public interest: support for a prosecuted activist and criticism of constitutional amendments or of Mr Navalnyy’s detention (see paragraphs 13, 18-19, 27, 38 and 44). The police immediately stopped the actions, escorted the applicants to police stations, detained them, and they were later convicted and punished by administrative detention or heavy fines (see paragraphs 14-17, 19-24, 29-37 and 38-44). Political expression in a public place enjoys especially strong protection, even where it takes the form of assembly-related conduct (see nos. 29356/19 and 31119/19). Article 10 is therefore engaged."
+    },
+    {
+      "2. Lawfulness of the interference": "The public-health restrictions had, in general, some basis in domestic law: the Sanitary Welfare Act, the Emergency Protection Act, Government Decree no. 417, and the regional decrees adopted in Moscow and St Petersburg (see paragraphs 48-54, 56-66). However, the concrete sanctions imposed in this case raise serious foreseeability and arbitrariness issues. In Mr Nemytov’s first case, the domestic courts initially used Article 20.2 of the CAO although the police record itself accepted that it was a solo picket not requiring notification; only on appeal was the offence reclassified under Article 20.6.1, in line with the Supreme Court’s COVID guidance (see paragraphs 14-17 and 81). In Mr Azar’s case, despite the same guidance, the courts retained liability under Article 20.2 § 8 by retrospectively treating his solo picket as a group event on limited and partly undisclosed evidence (see paragraphs 20-24, 73-74 and 81). In Ms Burma’s case, the courts used Article 20.2.2 § 1, although that provision requires a mass gathering 'not constituting a public event' and harmful consequences such as disorder, obstruction or breach of health standards; yet the judgments did not identify any concrete individual conduct or consequences attributable to her (see paragraphs 30-33, 76 and 80). Thus, while there was a formal legal framework, the application of the offences to political protest was not sufficiently predictable or free from arbitrariness, especially for Mr Azar and Ms Burma. This points strongly toward a violation."
+    },
+    {
+      "3. Legitimate aims of the interference": "The measures pursued legitimate aims under Article 10 § 2, principally the protection of health, and to some extent public safety and the prevention of disorder, in the context of the COVID-19 pandemic (see paragraphs 5-12, 25, 56-66 and 69-72). In late May 2020 Moscow was the main epicentre of the outbreak in Russia, with very high infection and death figures (see paragraph 12). St Petersburg also remained seriously affected in January 2021 (see paragraph 25). The Court has accepted that, at least in principle, States enjoyed a wider margin of appreciation in responding to the unprecedented health emergency (see no. 21881/20). Accordingly, the interferences were capable of serving legitimate aims."
+    },
+    {
+      "4. Necessary in a democratic society": "The decisive issue is proportionality. Even accepting the seriousness of the pandemic, the domestic courts did not give relevant and sufficient reasons showing that these arrests, detention measures and sanctions were necessary for political expression of this kind. First, the authorities relied on blanket bans and immediate suppression without considering less restrictive alternatives, such as distancing, masks, relocation, dispersal without arrest, or non-custodial sanctions. Mr Azar expressly called for distancing and a 'picket line' with at least two metres between participants, and the photo in the file showed him standing alone (see paragraphs 18-19). Mr Nemytov’s first protest was also a static solo demonstration (see paragraph 13). Second, the use of administrative detention for peaceful, short-lived expression was exceptionally severe and capable of producing a strong chilling effect (see paragraphs 15, 21, 23, 32 and 44). Third, the reasoning was often formulaic and evidentially weak: in Ms Burma’s case the courts relied on pre-printed police reports, unidentified video content and no concrete proof that she personally caused any of the consequences required by Article 20.2.2 § 1 (see paragraphs 32-37); in Mr Azar’s case the appellate court recharacterised the event as a group picket despite the original police record and without demonstrating, to the required degree, a single organised collective event (see paragraphs 20-24 and 74; see also nos. 29356/19 and 31119/19). Fourth, by January 2021 many comparable or riskier activities in St Petersburg were already allowed subject to sanitary conditions, while political street protest remained effectively prohibited, which weakens the claim of strict necessity (see paragraph 64). In these circumstances, even allowing for a health emergency and the State’s margin of appreciation, the impugned interferences were not shown to answer a pressing social need in a proportionate manner. The likely outcome is therefore a finding of a violation of Article 10."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"1. Existence of an interference\": \"There was clearly an interference with the applicants’ freedom of expression. Their conduct consisted of political protest through placards and participation in a rally on matters of obvious public interest: support for a prosecuted activist and criticism of constitutional amendments or of Mr Navalnyy’s detention (see paragraphs 13, 18-19, 27, 38 and 44). The police immediately stopped the actions, escorted the applicants to police stations, detained them, and they were later convicted and punished by administrative detention or heavy fines (see paragraphs 14-17, 19-24, 29-37 and 38-44). Political expression in a public place enjoys especially strong protection, even where it takes the form of assembly-related conduct (see nos. 29356/19 and 31119/19). Article 10 is therefore engaged.\"\n    },\n    {\n      \"2. Lawfulness of the interference\": \"The public-health restrictions had, in general, some basis in domestic law: the Sanitary Welfare Act, the Emergency Protection Act, Government Decree no. 417, and the regional decrees adopted in Moscow and St Petersburg (see paragraphs 48-54, 56-66). However, the concrete sanctions imposed in this case raise serious foreseeability and arbitrariness issues. In Mr Nemytov’s first case, the domestic courts initially used Article 20.2 of the CAO although the police record itself accepted that it was a solo picket not requiring notification; only on appeal was the offence reclassified under Article 20.6.1, in line with the Supreme Court’s COVID guidance (see paragraphs 14-17 and 81). In Mr Azar’s case, despite the same guidance, the courts retained liability under Article 20.2 § 8 by retrospectively treating his solo picket as a group event on limited and partly undisclosed evidence (see paragraphs 20-24, 73-74 and 81). In Ms Burma’s case, the courts used Article 20.2.2 § 1, although that provision requires a mass gathering 'not constituting a public event' and harmful consequences such as disorder, obstruction or breach of health standards; yet the judgments did not identify any concrete individual conduct or consequences attributable to her (see paragraphs 30-33, 76 and 80). Thus, while there was a formal legal framework, the application of the offences to political protest was not sufficiently predictable or free from arbitrariness, especially for Mr Azar and Ms Burma. This points strongly toward a violation.\"\n    },\n    {\n      \"3. Legitimate aims of the interference\": \"The measures pursued legitimate aims under Article 10 § 2, principally the protection of health, and to some extent public safety and the prevention of disorder, in the context of the COVID-19 pandemic (see paragraphs 5-12, 25, 56-66 and 69-72). In late May 2020 Moscow was the main epicentre of the outbreak in Russia, with very high infection and death figures (see paragraph 12). St Petersburg also remained seriously affected in January 2021 (see paragraph 25). The Court has accepted that, at least in principle, States enjoyed a wider margin of appreciation in responding to the unprecedented health emergency (see no. 21881/20). Accordingly, the interferences were capable of serving legitimate aims.\"\n    },\n    {\n      \"4. Necessary in a democratic society\": \"The decisive issue is proportionality. Even accepting the seriousness of the pandemic, the domestic courts did not give relevant and sufficient reasons showing that these arrests, detention measures and sanctions were necessary for political expression of this kind. First, the authorities relied on blanket bans and immediate suppression without considering less restrictive alternatives, such as distancing, masks, relocation, dispersal without arrest, or non-custodial sanctions. Mr Azar expressly called for distancing and a 'picket line' with at least two metres between participants, and the photo in the file showed him standing alone (see paragraphs 18-19). Mr Nemytov’s first protest was also a static solo demonstration (see paragraph 13). Second, the use of administrative detention for peaceful, short-lived expression was exceptionally severe and capable of producing a strong chilling effect (see paragraphs 15, 21, 23, 32 and 44). Third, the reasoning was often formulaic and evidentially weak: in Ms Burma’s case the courts relied on pre-printed police reports, unidentified video content and no concrete proof that she personally caused any of the consequences required by Article 20.2.2 § 1 (see paragraphs 32-37); in Mr Azar’s case the appellate court recharacterised the event as a group picket despite the original police record and without demonstrating, to the required degree, a single organised collective event (see paragraphs 20-24 and 74; see also nos. 29356/19 and 31119/19). Fourth, by January 2021 many comparable or riskier activities in St Petersburg were already allowed subject to sanitary conditions, while political street protest remained effectively prohibited, which weakens the claim of strict necessity (see paragraph 64). In these circumstances, even allowing for a health emergency and the State’s margin of appreciation, the impugned interferences were not shown to answer a pressing social need in a proportionate manner. The likely outcome is therefore a finding of a violation of Article 10.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 3951,
+    "prompt_tokens": 14502,
+    "total_tokens": 18453,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 2794,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.09552,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.09552,
+      "upstream_inference_prompt_cost": 0.036255,
+      "upstream_inference_completions_cost": 0.059265
+    }
+  },
+  "citations": [
+    "29356/19",
+    "31119/19",
+    "21881/20"
+  ],
+  "ref_paragraphs": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    27,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    76,
+    80,
+    81
+  ]
+}

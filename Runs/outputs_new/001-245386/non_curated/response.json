@@ -1,0 +1,86 @@
+{
+  "item_id": "001-245386",
+  "case_name": "CASE OF MORTENSEN v. DENMARK",
+  "case_number": "(Application no. 16756/24)",
+  "date": "21 October 2025",
+  "prompt_type": "non_curated",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Interference and applicable test": "The applicant’s conviction for defamation, the criminal fine, the order to delete the post, and the award of compensation plainly amounted to an interference with his freedom of expression under Article 10 (see paragraphs 9 and 11). The interference was based on domestic law, namely Articles 267, 269 and 271 of the Penal Code (see paragraph 13), and pursued the legitimate aim of protecting the reputation of another person. The central issue is therefore whether the interference was “necessary in a democratic society”, having regard to the Court’s established approach to political expression, value judgments and defamation sanctions (see no. 26958/95; no. 49017/99)."
+    },
+    {
+      "Political nature of the expression": "The impugned post concerned R.P., a well-known leader of an anti-Islam political party who had attracted sustained national attention through protests, Koran burnings and public statements on immigration and Islam (see paragraph 6). The applicant’s tweet contrasted the tolerance allegedly shown towards R.P.’s conduct with the arrest of another person for insulting a police officer, thus touching on the limits of tolerated speech and public authorities’ reactions to provocative expression (see paragraph 5). Even though the post appeared in a reply thread and was written by the applicant as a private individual, it still formed part of a debate on matters of clear public interest. The High Court’s conclusion that the post did not contribute to a debate of societal importance appears unduly narrow and formalistic (see paragraph 11). Political speech and speech on issues of public concern attract a high level of protection under Article 10 (see no. 26958/95; no. 29369/10; no. 19657/12)."
+    },
+    {
+      "Status of the person concerned": "R.P. was not an ordinary private person. He was the founder and leader of Stram Kurs and later other similarly oriented parties, and his views had been widely discussed in the media and political arena (see paragraph 6). Although his parties were not represented in Parliament in May 2021, he remained a prominent political actor who had deliberately placed himself at the centre of public controversy. The acceptable limits of criticism are wider with regard to politicians and public figures than for private individuals, especially where the criticism relates to their public positions and conduct (see no. 26958/95; no. 40660/08). This reduces the weight of the reputational interest relied on by the domestic courts."
+    },
+    {
+      "Value judgment rather than statement of fact": "The High Court itself classified the word “Nazi” as a value judgment rather than a statement of fact (see paragraph 11). That is important. Under the Court’s case-law, value judgments are not susceptible of strict proof; the relevant question is whether they had a sufficient factual basis in the circumstances (see no. 26958/95). In heated political debate, strong language, exaggeration and polemical shorthand are tolerated to a significant degree. The term used here was undoubtedly offensive, but it was employed as a political label in criticism of R.P.’s public ideology and conduct, not as a precise historical or biographical assertion."
+    },
+    {
+      "Whether there was a sufficient factual basis": "There was considerable material capable of supporting the applicant’s harsh value judgment. R.P. led parties described as ethnonationalist; he had become notorious for anti-Islam protests and Koran burnings; the media and public debate had explicitly questioned whether he should be regarded as fascist or Nazi; and he had been convicted in 2019 and 2021 of racist speech (see paragraphs 6 and 7). It is also notable that R.P. himself had previously called another political leader a “Nazi pig”, while that leader was convicted for calling him a “manifest Nazi” (see paragraph 7), which illustrates that this label was already part of the public political discourse surrounding him. In these circumstances, the domestic courts seem to have required an excessively strict degree of substantiation for a value judgment. The Court has accepted that descriptions such as “fascist” or similar ideological labels may have an adequate factual basis when rooted in a politician’s publicly known positions and conduct (see no. 26958/95)."
+    },
+    {
+      "Context and tone": "The applicant’s wording was provocative, but it was not detached from context or purely gratuitous. The post criticised what he perceived as inconsistency in the treatment of speech: R.P. was said to be “allowed” to engage in extremist and hateful conduct, whereas another person was arrested for a lesser insult (see paragraph 5). The impugned expression was therefore tied to a broader argumentative point about public tolerance of extremist speech. Article 10 protects not only neutral or carefully measured statements but also those that offend, shock or disturb, particularly in political exchanges (see no. 29369/10; no. 56925/08)."
+    },
+    {
+      "Severity and proportionality of the sanctions": "The sanctions were significant. The applicant received a criminal conviction, 10 day-fines of DKK 1,000 each, with an alternative prison sentence, an order to delete the post, a judicial declaration that the statement was unfounded, and an order to pay DKK 30,000 in compensation after reduction on appeal (see paragraphs 9 and 11). The domestic framework had also recently increased both fines and compensation in defamation cases, generally tripling the previous level (see paragraphs 15 and 18). For a private individual engaging in political comment on social media, that combination of criminal and financial penalties was capable of producing a serious chilling effect. In the sphere of political speech, the use of criminal sanctions calls for particularly strong reasons, which are not evident here (see no. 49017/99; no. 73087/17; no. 40899/22)."
+    },
+    {
+      "Overall conclusion": "Taking the factors together, the domestic courts did not give sufficient weight to the political and public-interest context, to R.P.’s role as a prominent political agitator, and to the factual basis available for the applicant’s value judgment. They instead approached the expression as though it required near-verification, and they imposed a set of sanctions liable to deter robust political debate. On balance, the interference was not proportionate to the legitimate aim pursued and was therefore not necessary in a democratic society under Article 10."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"Interference and applicable test\": \"The applicant’s conviction for defamation, the criminal fine, the order to delete the post, and the award of compensation plainly amounted to an interference with his freedom of expression under Article 10 (see paragraphs 9 and 11). The interference was based on domestic law, namely Articles 267, 269 and 271 of the Penal Code (see paragraph 13), and pursued the legitimate aim of protecting the reputation of another person. The central issue is therefore whether the interference was “necessary in a democratic society”, having regard to the Court’s established approach to political expression, value judgments and defamation sanctions (see no. 26958/95; no. 49017/99).\"\n    },\n    {\n      \"Political nature of the expression\": \"The impugned post concerned R.P., a well-known leader of an anti-Islam political party who had attracted sustained national attention through protests, Koran burnings and public statements on immigration and Islam (see paragraph 6). The applicant’s tweet contrasted the tolerance allegedly shown towards R.P.’s conduct with the arrest of another person for insulting a police officer, thus touching on the limits of tolerated speech and public authorities’ reactions to provocative expression (see paragraph 5). Even though the post appeared in a reply thread and was written by the applicant as a private individual, it still formed part of a debate on matters of clear public interest. The High Court’s conclusion that the post did not contribute to a debate of societal importance appears unduly narrow and formalistic (see paragraph 11). Political speech and speech on issues of public concern attract a high level of protection under Article 10 (see no. 26958/95; no. 29369/10; no. 19657/12).\"\n    },\n    {\n      \"Status of the person concerned\": \"R.P. was not an ordinary private person. He was the founder and leader of Stram Kurs and later other similarly oriented parties, and his views had been widely discussed in the media and political arena (see paragraph 6). Although his parties were not represented in Parliament in May 2021, he remained a prominent political actor who had deliberately placed himself at the centre of public controversy. The acceptable limits of criticism are wider with regard to politicians and public figures than for private individuals, especially where the criticism relates to their public positions and conduct (see no. 26958/95; no. 40660/08). This reduces the weight of the reputational interest relied on by the domestic courts.\"\n    },\n    {\n      \"Value judgment rather than statement of fact\": \"The High Court itself classified the word “Nazi” as a value judgment rather than a statement of fact (see paragraph 11). That is important. Under the Court’s case-law, value judgments are not susceptible of strict proof; the relevant question is whether they had a sufficient factual basis in the circumstances (see no. 26958/95). In heated political debate, strong language, exaggeration and polemical shorthand are tolerated to a significant degree. The term used here was undoubtedly offensive, but it was employed as a political label in criticism of R.P.’s public ideology and conduct, not as a precise historical or biographical assertion.\"\n    },\n    {\n      \"Whether there was a sufficient factual basis\": \"There was considerable material capable of supporting the applicant’s harsh value judgment. R.P. led parties described as ethnonationalist; he had become notorious for anti-Islam protests and Koran burnings; the media and public debate had explicitly questioned whether he should be regarded as fascist or Nazi; and he had been convicted in 2019 and 2021 of racist speech (see paragraphs 6 and 7). It is also notable that R.P. himself had previously called another political leader a “Nazi pig”, while that leader was convicted for calling him a “manifest Nazi” (see paragraph 7), which illustrates that this label was already part of the public political discourse surrounding him. In these circumstances, the domestic courts seem to have required an excessively strict degree of substantiation for a value judgment. The Court has accepted that descriptions such as “fascist” or similar ideological labels may have an adequate factual basis when rooted in a politician’s publicly known positions and conduct (see no. 26958/95).\"\n    },\n    {\n      \"Context and tone\": \"The applicant’s wording was provocative, but it was not detached from context or purely gratuitous. The post criticised what he perceived as inconsistency in the treatment of speech: R.P. was said to be “allowed” to engage in extremist and hateful conduct, whereas another person was arrested for a lesser insult (see paragraph 5). The impugned expression was therefore tied to a broader argumentative point about public tolerance of extremist speech. Article 10 protects not only neutral or carefully measured statements but also those that offend, shock or disturb, particularly in political exchanges (see no. 29369/10; no. 56925/08).\"\n    },\n    {\n      \"Severity and proportionality of the sanctions\": \"The sanctions were significant. The applicant received a criminal conviction, 10 day-fines of DKK 1,000 each, with an alternative prison sentence, an order to delete the post, a judicial declaration that the statement was unfounded, and an order to pay DKK 30,000 in compensation after reduction on appeal (see paragraphs 9 and 11). The domestic framework had also recently increased both fines and compensation in defamation cases, generally tripling the previous level (see paragraphs 15 and 18). For a private individual engaging in political comment on social media, that combination of criminal and financial penalties was capable of producing a serious chilling effect. In the sphere of political speech, the use of criminal sanctions calls for particularly strong reasons, which are not evident here (see no. 49017/99; no. 73087/17; no. 40899/22).\"\n    },\n    {\n      \"Overall conclusion\": \"Taking the factors together, the domestic courts did not give sufficient weight to the political and public-interest context, to R.P.’s role as a prominent political agitator, and to the factual basis available for the applicant’s value judgment. They instead approached the expression as though it required near-verification, and they imposed a set of sanctions liable to deter robust political debate. On balance, the interference was not proportionate to the legitimate aim pursued and was therefore not necessary in a democratic society under Article 10.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 3879,
+    "prompt_tokens": 3141,
+    "total_tokens": 7020,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 2506,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0660375,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0660375,
+      "upstream_inference_prompt_cost": 0.0078525,
+      "upstream_inference_completions_cost": 0.058185
+    }
+  },
+  "citations": [
+    "26958/95",
+    "49017/99",
+    "29369/10",
+    "19657/12",
+    "40660/08",
+    "56925/08",
+    "73087/17",
+    "40899/22"
+  ],
+  "ref_paragraphs": [
+    5,
+    6,
+    7,
+    9,
+    11,
+    13,
+    15,
+    18
+  ]
+}

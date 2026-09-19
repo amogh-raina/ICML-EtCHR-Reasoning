@@ -1,0 +1,94 @@
+{
+  "item_id": "001-247356",
+  "case_name": "CASE OF KHAGHAGHUTYAN YERKKHOSUTYUN v. ARMENIA",
+  "case_number": "(Application no. 5497/17)",
+  "date": "4 December 2025",
+  "prompt_type": "gpt_assisted",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "high",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "1. Applicability of Article 10 and existence of an interference": "The complaint concerns a refusal to give an NGO access to State-held information that it sought in order to verify, complete and publish a public online database on peacetime deaths and crimes in the armed forces (see paragraphs 6-8, 13-16). The applicant was not pursuing private curiosity: it was acting as a civil-society watchdog on a matter of obvious public interest, namely human rights protection in the army and the causes of soldiers’ deaths (see paragraphs 5-7, 13, 16). The information was held by the Ministry of Defence and was needed to impart reliable information to the public. In line with the Court’s access-to-information case-law concerning watchdog actors and information instrumental to expression (see no. 10090/16), Article 10 is engaged. The Ministry’s non-response and subsequent refusal, upheld by the administrative courts, therefore constituted an interference with the applicant NGO’s freedom to receive and impart information (see paragraphs 14-22)."
+    },
+    {
+      "2. Prescribed by law and legitimate aim": "The interference pursued legitimate aims, principally national security and, to some extent, the protection of private life and confidentiality of investigative material, as relied on by the Ministry and the domestic courts (see paragraphs 11, 15, 17-18, 20, 23, 25, 29, 35, 39). However, the lawfulness of the interference is doubtful. When the applicant made its request of 7 November 2014 and then brought proceedings on 17 January 2015, the specific departmental Order classifying the requested information had not yet been adopted; it was issued only on 9 July 2015, during the pending case (see paragraphs 13-15, 38-39). The courts then relied on that later instrument because domestic procedure required application of the law as it stood on the date of judgment (see paragraphs 15, 22, 24). Such retroactive use of a new secrecy measure, adopted while litigation was pending, weakens foreseeability and legal certainty. The breadth of paragraph 42 of Annex I, which classified summary data on incidents and accidents and their causes by reference to an undefined military-political situation, also gave very wide discretion (see paragraph 39). These features point toward a deficiency in the “prescribed by law” requirement."
+    },
+    {
+      "3. Weight of the expression at stake and margin of appreciation": "Even assuming a sufficient legal basis, the interference concerned speech attracting strong Article 10 protection. The applicant’s project addressed the functioning of the armed forces, peacetime fatalities, possible abuses, corruption, non-statutory relations and impunity, all of which lie at the core of public-interest debate and democratic accountability (see paragraphs 6-8, 13, 16). The applicant NGO’s role was comparable to that of a public watchdog (see no. 10090/16), so the State’s margin of appreciation was reduced. The fact that the subject touched national security does not eliminate the need for strict scrutiny; the Court requires careful contextual balancing when secrecy is invoked (see no. 69698/01). The authorities therefore had to provide especially relevant and sufficient reasons for denying access to all of the requested data."
+    },
+    {
+      "4. Insufficiency of the domestic courts’ reasons": "The domestic courts did not carry out that balancing exercise. The Administrative Court merely stated that disclosure of the information might, in the existing military-political context, threaten national security (see paragraph 18). The Court of Appeal added that the information was included in criteria used to assess combat capability (see paragraph 20). Those were abstract assertions. There was no concrete explanation of how information such as names of deceased servicemen, dates, places, causes of death, or brief descriptions of incidents over a long historical period from 1994 onward would, as such, harm national security (see paragraphs 8, 10, 13). Nor did the courts engage with the applicant’s argument that similar information for 2010-2011 had already been disclosed by the Ministry itself (see paragraphs 9, 14). The reasoning thus appears formalistic rather than based on a demonstrated pressing social need."
+    },
+    {
+      "5. Proportionality and less restrictive alternatives": "The refusal was also disproportionate because it was blanket in nature. The applicant expressly indicated that, if the Ministry lacked complete data, it could provide whatever information it did have (see paragraph 13). Domestic law itself required partial disclosure where only part of the requested material was protected (see paragraph 30). Yet neither the Ministry nor the courts examined whether sensitive elements could be redacted, anonymised or withheld while the remainder was disclosed. The request was treated as entirely covered by secrecy, although it did not necessarily seek operational plans or troop deployment data of the kind specifically mentioned in the State Secrets Act (see paragraph 35). The later Order also conflated broad “summary data” and internal-investigation material (see paragraph 39), without a tailored assessment of the concrete categories actually sought. This all-or-nothing approach was liable to stifle the NGO’s watchdog activity and had a chilling effect, which the Court treats seriously in public-interest expression cases (see no. 20261/12)."
+    },
+    {
+      "6. Overall conclusion": "The applicant NGO sought ready or obtainable official information in order to inform the public on serious matters concerning army fatalities and human rights (see paragraphs 6-8, 13, 16). The refusal rested on an expansive and partly retroactive secrecy regime, and the domestic courts gave only general national-security reasons without demonstrating necessity in respect of the specific data requested or considering partial disclosure (see paragraphs 15, 18, 20, 22, 30, 39-40). In these circumstances, the interference was not shown to be prescribed by law with sufficient foreseeability, and in any event it was not necessary in a democratic society. A violation of Article 10 is therefore likely."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"1. Applicability of Article 10 and existence of an interference\": \"The complaint concerns a refusal to give an NGO access to State-held information that it sought in order to verify, complete and publish a public online database on peacetime deaths and crimes in the armed forces (see paragraphs 6-8, 13-16). The applicant was not pursuing private curiosity: it was acting as a civil-society watchdog on a matter of obvious public interest, namely human rights protection in the army and the causes of soldiers’ deaths (see paragraphs 5-7, 13, 16). The information was held by the Ministry of Defence and was needed to impart reliable information to the public. In line with the Court’s access-to-information case-law concerning watchdog actors and information instrumental to expression (see no. 10090/16), Article 10 is engaged. The Ministry’s non-response and subsequent refusal, upheld by the administrative courts, therefore constituted an interference with the applicant NGO’s freedom to receive and impart information (see paragraphs 14-22).\"\n    },\n    {\n      \"2. Prescribed by law and legitimate aim\": \"The interference pursued legitimate aims, principally national security and, to some extent, the protection of private life and confidentiality of investigative material, as relied on by the Ministry and the domestic courts (see paragraphs 11, 15, 17-18, 20, 23, 25, 29, 35, 39). However, the lawfulness of the interference is doubtful. When the applicant made its request of 7 November 2014 and then brought proceedings on 17 January 2015, the specific departmental Order classifying the requested information had not yet been adopted; it was issued only on 9 July 2015, during the pending case (see paragraphs 13-15, 38-39). The courts then relied on that later instrument because domestic procedure required application of the law as it stood on the date of judgment (see paragraphs 15, 22, 24). Such retroactive use of a new secrecy measure, adopted while litigation was pending, weakens foreseeability and legal certainty. The breadth of paragraph 42 of Annex I, which classified summary data on incidents and accidents and their causes by reference to an undefined military-political situation, also gave very wide discretion (see paragraph 39). These features point toward a deficiency in the “prescribed by law” requirement.\"\n    },\n    {\n      \"3. Weight of the expression at stake and margin of appreciation\": \"Even assuming a sufficient legal basis, the interference concerned speech attracting strong Article 10 protection. The applicant’s project addressed the functioning of the armed forces, peacetime fatalities, possible abuses, corruption, non-statutory relations and impunity, all of which lie at the core of public-interest debate and democratic accountability (see paragraphs 6-8, 13, 16). The applicant NGO’s role was comparable to that of a public watchdog (see no. 10090/16), so the State’s margin of appreciation was reduced. The fact that the subject touched national security does not eliminate the need for strict scrutiny; the Court requires careful contextual balancing when secrecy is invoked (see no. 69698/01). The authorities therefore had to provide especially relevant and sufficient reasons for denying access to all of the requested data.\"\n    },\n    {\n      \"4. Insufficiency of the domestic courts’ reasons\": \"The domestic courts did not carry out that balancing exercise. The Administrative Court merely stated that disclosure of the information might, in the existing military-political context, threaten national security (see paragraph 18). The Court of Appeal added that the information was included in criteria used to assess combat capability (see paragraph 20). Those were abstract assertions. There was no concrete explanation of how information such as names of deceased servicemen, dates, places, causes of death, or brief descriptions of incidents over a long historical period from 1994 onward would, as such, harm national security (see paragraphs 8, 10, 13). Nor did the courts engage with the applicant’s argument that similar information for 2010-2011 had already been disclosed by the Ministry itself (see paragraphs 9, 14). The reasoning thus appears formalistic rather than based on a demonstrated pressing social need.\"\n    },\n    {\n      \"5. Proportionality and less restrictive alternatives\": \"The refusal was also disproportionate because it was blanket in nature. The applicant expressly indicated that, if the Ministry lacked complete data, it could provide whatever information it did have (see paragraph 13). Domestic law itself required partial disclosure where only part of the requested material was protected (see paragraph 30). Yet neither the Ministry nor the courts examined whether sensitive elements could be redacted, anonymised or withheld while the remainder was disclosed. The request was treated as entirely covered by secrecy, although it did not necessarily seek operational plans or troop deployment data of the kind specifically mentioned in the State Secrets Act (see paragraph 35). The later Order also conflated broad “summary data” and internal-investigation material (see paragraph 39), without a tailored assessment of the concrete categories actually sought. This all-or-nothing approach was liable to stifle the NGO’s watchdog activity and had a chilling effect, which the Court treats seriously in public-interest expression cases (see no. 20261/12).\"\n    },\n    {\n      \"6. Overall conclusion\": \"The applicant NGO sought ready or obtainable official information in order to inform the public on serious matters concerning army fatalities and human rights (see paragraphs 6-8, 13, 16). The refusal rested on an expansive and partly retroactive secrecy regime, and the domestic courts gave only general national-security reasons without demonstrating necessity in respect of the specific data requested or considering partial disclosure (see paragraphs 15, 18, 20, 22, 30, 39-40). In these circumstances, the interference was not shown to be prescribed by law with sufficient foreseeability, and in any event it was not necessary in a democratic society. A violation of Article 10 is therefore likely.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 7425,
+    "prompt_tokens": 6166,
+    "total_tokens": 13591,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 6139,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.124486,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.124486,
+      "upstream_inference_prompt_cost": 0.013111,
+      "upstream_inference_completions_cost": 0.111375
+    }
+  },
+  "citations": [
+    "10090/16",
+    "69698/01",
+    "20261/12"
+  ],
+  "ref_paragraphs": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    29,
+    30,
+    35,
+    38,
+    39,
+    40,
+    42
+  ]
+}

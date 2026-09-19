@@ -1,0 +1,66 @@
+{
+  "item_id": "001-246134",
+  "case_name": "CASE OF EUROPA WAY S.R.L. v. ITALY",
+  "case_number": "(Application no. 64356/19)",
+  "date": "27 November 2025",
+  "prompt_type": "non_curated",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "no",
+  "assessment": [
+    {
+      "Interference with Article 10 rights": "The applicant company’s exercise of its right to impart information via digital terrestrial television was interfered with when the original free-of-charge ‘beauty contest’ bidding process, in which it was the sole bidder for the A1 frequency, was annulled by legislative decree and replaced with a fee-based procedure (see paragraphs 10-18)."
+    },
+    {
+      "Legal basis for the interference": "The annulment of the original bidding process and the introduction of the fee-based selection procedure were prescribed by Article 3 quinquies of Decree-Law no. 16 of 2 March 2012, converted into Law no. 44 of 26 April 2012, offering a clear and accessible legal foundation for the interference (see paragraphs 16-17)."
+    },
+    {
+      "Legitimate aim of the interference": "The interference pursued legitimate aims under Article 10 § 2, including the efficient use and economic exploitation of the radio spectrum, as well as securing financial resources for the State, as explicitly set out in the legislative text (see paragraph 16) and reiterated in domestic judicial decisions (see paragraph 25)."
+    },
+    {
+      "Necessity and proportionality of the interference": "The fee-based procedure introduced was based on objective, transparent, non-discriminatory and proportionate criteria, as required by EU law and confirmed by AGCOM’s independent assessment (see paragraphs 19-21, 39-40). The procedure remained open to new entrants and small operators, including the applicant, ensuring that the regulatory change did not exclude such entities from accessing the market (see paragraphs 10, 19)."
+    },
+    {
+      "Applicant’s failure to use the alternative procedure": "The applicant company deliberately refused to participate in the fee-based selection procedure despite its eligibility, and the procedure was successfully concluded with one other operator securing the use rights (see paragraphs 21, 33). This demonstrates that the interference did not prevent access to broadcasting frequencies entirely, but merely altered the economic conditions under which they could be obtained."
+    },
+    {
+      "Compatibility with EU law framework": "The CJEU’s preliminary ruling confirmed that while legislative interference with an ongoing selection procedure may breach EU law regarding the independence of the national regulatory authority, fee-based allocation procedures are permissible under EU law if they respect objective, transparent, non-discriminatory and proportionate criteria (see paragraphs 28-30). AGCOM’s independent reassessment ultimately validated the fee-based system under these principles (see paragraphs 39-40)."
+    },
+    {
+      "Distinction from established Article 10 violations": "The present case is distinguishable from Centro Europa 7 S.r.l. and Di Stefano v. Italy (no. 38433/09), where the Court found a violation of Article 10 due to prolonged regulatory inaction preventing the applicants from commencing broadcast operations. Here, the authorities actively restructured the allocation process rather than neglecting to establish a framework (see paragraph 50)."
+    },
+    {
+      "Margin of appreciation in economic regulation": "The ECtHR accords Contracting States a margin of appreciation in regulating complex economic sectors like broadcasting, provided the measures serve a legitimate public interest and maintain procedural fairness (see no. 38433/09). The fee-based system, though altering the economic terms, preserved access for new entrants and did not inherently restrict the applicant’s ability to impart information."
+    }
+  ],
+  "raw_content": "```json\n{\n  \"assessment\": [\n    {\"Interference with Article 10 rights\": \"The applicant company’s exercise of its right to impart information via digital terrestrial television was interfered with when the original free-of-charge ‘beauty contest’ bidding process, in which it was the sole bidder for the A1 frequency, was annulled by legislative decree and replaced with a fee-based procedure (see paragraphs 10-18).\"},\n\n    {\"Legal basis for the interference\": \"The annulment of the original bidding process and the introduction of the fee-based selection procedure were prescribed by Article 3 quinquies of Decree-Law no. 16 of 2 March 2012, converted into Law no. 44 of 26 April 2012, offering a clear and accessible legal foundation for the interference (see paragraphs 16-17).\"},\n\n    {\"Legitimate aim of the interference\": \"The interference pursued legitimate aims under Article 10 § 2, including the efficient use and economic exploitation of the radio spectrum, as well as securing financial resources for the State, as explicitly set out in the legislative text (see paragraph 16) and reiterated in domestic judicial decisions (see paragraph 25).\"},\n\n    \n    {\"Necessity and proportionality of the interference\": \"The fee-based procedure introduced was based on objective, transparent, non-discriminatory and proportionate criteria, as required by EU law and confirmed by AGCOM’s independent assessment (see paragraphs 19-21, 39-40). The procedure remained open to new entrants and small operators, including the applicant, ensuring that the regulatory change did not exclude such entities from accessing the market (see paragraphs 10, 19).\"},\n\n    {\"Applicant’s failure to use the alternative procedure\": \"The applicant company deliberately refused to participate in the fee-based selection procedure despite its eligibility, and the procedure was successfully concluded with one other operator securing the use rights (see paragraphs 21, 33). This demonstrates that the interference did not prevent access to broadcasting frequencies entirely, but merely altered the economic conditions under which they could be obtained.\"},\n\n    {\"Compatibility with EU law framework\": \"The CJEU’s preliminary ruling confirmed that while legislative interference with an ongoing selection procedure may breach EU law regarding the independence of the national regulatory authority, fee-based allocation procedures are permissible under EU law if they respect objective, transparent, non-discriminatory and proportionate criteria (see paragraphs 28-30). AGCOM’s independent reassessment ultimately validated the fee-based system under these principles (see paragraphs 39-40).\"},\n\n    {\"Distinction from established Article 10 violations\": \"The present case is distinguishable from Centro Europa 7 S.r.l. and Di Stefano v. Italy (no. 38433/09), where the Court found a violation of Article 10 due to prolonged regulatory inaction preventing the applicants from commencing broadcast operations. Here, the authorities actively restructured the allocation process rather than neglecting to establish a framework (see paragraph 50).\"},\n\n    {\"Margin of appreciation in economic regulation\": \"The ECtHR accords Contracting States a margin of appreciation in regulating complex economic sectors like broadcasting, provided the measures serve a legitimate public interest and maintain procedural fairness (see no. 38433/09). The fee-based system, though altering the economic terms, preserved access for new entrants and did not inherently restrict the applicant’s ability to impart information.\"}\n  ],\n  \"violation\": \"no\"\n}\n```",
+  "usage": {
+    "completion_tokens": 6241,
+    "prompt_tokens": 11489,
+    "total_tokens": 17730,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 6487,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.064041,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.064041,
+      "upstream_inference_prompt_cost": 0.0172335,
+      "upstream_inference_completions_cost": 0.0468075
+    }
+  }
+}

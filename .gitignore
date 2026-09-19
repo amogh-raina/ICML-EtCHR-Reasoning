@@ -1,0 +1,36 @@
+# Secrets
+.env
+
+# OS / Python noise
+.DS_Store
+__pycache__/
+*.pyc
+
+# Paper and writing (not part of the shared repo)
+Paper/
+appendix*.tex
+chat_notes.txt
+
+# Annotation sources already converted to human_*_annotations.json
+*.xlsx
+data/annotation/archive_annotations/
+
+# Parsed-case datasets: distributed via the Google Drive link in the README.
+# Place parsed_cases_all(3,9,10,11).json in data/ to run the scripts.
+data/parsed_cases*.json
+data/art3/parsed_cases*.json
+
+# Raw HUDOC downloads (only needed to re-run scraping/parse_cases.py)
+data/html/
+data/json/
+data/art3/html/
+data/art3/json/
+
+# Unused / superseded files
+data/old_cases.json
+scraping/ollama_violation_predict.py
+Scripts/generate_appendix_case.py
+Runs/outputs_new_gpt-5.4/
+data/annotation/annotation_workbook_issues_report.csv
+data/annotation/combined_30_seed42.csv
+data/annotation/combined_30_seed42_og_for_annotation.csv

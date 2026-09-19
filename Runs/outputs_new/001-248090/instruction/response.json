@@ -1,0 +1,79 @@
+{
+  "item_id": "001-248090",
+  "case_name": "CASE OF KHADIJA ISMAYILOVA v. AZERBAIJAN (No. 4)",
+  "case_number": "(Applications nos. 71556/16 and 74112/17)",
+  "date": "27 January 2026",
+  "prompt_type": "instruction",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Existence of an interference": "There was an interference with the applicant’s freedom of expression. She was a well-known investigative journalist whose work focused on alleged corruption by public officials (see paragraph 5). The impugned criminal case directly targeted the way she carried out that journalistic activity: first, by treating her work for the Baku bureau of Azadliq Radio and later as a freelance journalist without accreditation as “illegal entrepreneurship”; and second, by criminally prosecuting the financial operation of that media activity as “tax evasion” (see paragraphs 10-16). The consequences were severe: conviction, imprisonment, later a suspended sentence, and probation conditions effectively preventing international travel (see paragraphs 11 and 16). Such criminal sanctions were capable of chilling not only her own reporting but also investigative journalism more broadly. In the wider context, the Court had already noted that this applicant had been subjected to earlier harassment linked to her anti-corruption reporting (see paragraph 5; see nos. 65286/13 and 57270/14). Accordingly, Article 10 is engaged and there was a serious interference."
+    },
+    {
+      "Lawfulness of the interference": "The interference does not appear to have been “prescribed by law”. As to the illegal-entrepreneurship count, the domestic courts equated lack of accreditation under the Law on Media with absence of “State registration” under Article 192 of the Criminal Code (see paragraphs 14, 16, 20-22). Yet the relevant media law did not make accreditation a precondition for journalistic activity. Article 50 framed accreditation as a mechanism for access to information, while Article 53 stated that foreign correspondents who were not accredited were subject to the same rights and obligations as representatives of foreign legal entities, not to criminal liability as such (see paragraph 29). The applicant expressly argued that domestic law provided no criminal or other liability for failure to obtain accreditation and that, after 2010, she had been a freelancer rather than an employee or “representative” requiring accreditation (see paragraph 12). The domestic courts did not answer those points in any meaningful way (see paragraphs 14, 16, 20). The 2016 amendment clarifying “State registration” by adding “tax registration” further undermines foreseeability, even if the courts later rejected that interpretation (see paragraphs 17-22). As to tax evasion, the conviction rested on an “interim audit report” not expressly provided for by the Tax Code, on an opaque reclassification of all transfers from Prague to a non-commercial bureau as “profit”, and on proceedings that apparently bypassed the ordinary tax-law safeguards and decisions required by the Tax Code (see paragraphs 11, 13, 25-27). The courts again ignored the applicant’s specific legality objections (see paragraphs 14 and 16). The combination of expansive interpretation and failure to address core defence arguments points to arbitrariness and lack of foreseeability."
+    },
+    {
+      "Legitimate aims of the interference": "The Government could plausibly argue that the measures pursued the prevention of crime or disorder and the protection of the economic order through enforcement of licensing, registration and tax rules. However, once the legal basis itself is doubtful, the legitimacy of the aims cannot rescue the interference. In any event, the structure of the case suggests that the measures were not neutral regulatory enforcement. The charges focused on the applicant’s professional media activity and on the financing of the bureau through which that activity was carried out (see paragraphs 10-11). The applicant also relied on the broader pattern of retaliation for her investigations exposing high-level corruption (see paragraph 12), a context already recognised in the Court’s earlier case-law concerning her (see nos. 65286/13 and 57270/14). That background weakens the claim that the impugned interference genuinely pursued ordinary regulatory aims in a Convention-compatible manner."
+    },
+    {
+      "Necessary in a democratic society": "Even assuming a legitimate aim, the interference was not necessary in a democratic society. The domestic courts gave no relevant and sufficient reasons showing a pressing social need to criminally punish this journalist. They did not convincingly explain why lack of accreditation transformed freelance journalistic work into criminal entrepreneurship, or why operating funds of a non-commercial media bureau should be treated as taxable profit attributable personally to the applicant (see paragraphs 11-16). They also failed to address central defence submissions, including the text of the Law on Media, the applicant’s status after 2010, the non-commercial nature of Azadliq Radio, prior clean tax audits, and the procedural defects in the tax reports (see paragraphs 12-14, 25-29). The choice of criminal prosecution, imprisonment, probation and a travel ban was especially harsh in the case of a prominent investigative journalist and could not be regarded as the least restrictive means. Against the background of earlier harassment linked to her reporting (see paragraph 5; see nos. 65286/13 and 57270/14), the measures were liable to deter public-interest journalism. The interference therefore fails the necessity and proportionality test."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"Existence of an interference\": \"There was an interference with the applicant’s freedom of expression. She was a well-known investigative journalist whose work focused on alleged corruption by public officials (see paragraph 5). The impugned criminal case directly targeted the way she carried out that journalistic activity: first, by treating her work for the Baku bureau of Azadliq Radio and later as a freelance journalist without accreditation as “illegal entrepreneurship”; and second, by criminally prosecuting the financial operation of that media activity as “tax evasion” (see paragraphs 10-16). The consequences were severe: conviction, imprisonment, later a suspended sentence, and probation conditions effectively preventing international travel (see paragraphs 11 and 16). Such criminal sanctions were capable of chilling not only her own reporting but also investigative journalism more broadly. In the wider context, the Court had already noted that this applicant had been subjected to earlier harassment linked to her anti-corruption reporting (see paragraph 5; see nos. 65286/13 and 57270/14). Accordingly, Article 10 is engaged and there was a serious interference.\"\n    },\n    {\n      \"Lawfulness of the interference\": \"The interference does not appear to have been “prescribed by law”. As to the illegal-entrepreneurship count, the domestic courts equated lack of accreditation under the Law on Media with absence of “State registration” under Article 192 of the Criminal Code (see paragraphs 14, 16, 20-22). Yet the relevant media law did not make accreditation a precondition for journalistic activity. Article 50 framed accreditation as a mechanism for access to information, while Article 53 stated that foreign correspondents who were not accredited were subject to the same rights and obligations as representatives of foreign legal entities, not to criminal liability as such (see paragraph 29). The applicant expressly argued that domestic law provided no criminal or other liability for failure to obtain accreditation and that, after 2010, she had been a freelancer rather than an employee or “representative” requiring accreditation (see paragraph 12). The domestic courts did not answer those points in any meaningful way (see paragraphs 14, 16, 20). The 2016 amendment clarifying “State registration” by adding “tax registration” further undermines foreseeability, even if the courts later rejected that interpretation (see paragraphs 17-22). As to tax evasion, the conviction rested on an “interim audit report” not expressly provided for by the Tax Code, on an opaque reclassification of all transfers from Prague to a non-commercial bureau as “profit”, and on proceedings that apparently bypassed the ordinary tax-law safeguards and decisions required by the Tax Code (see paragraphs 11, 13, 25-27). The courts again ignored the applicant’s specific legality objections (see paragraphs 14 and 16). The combination of expansive interpretation and failure to address core defence arguments points to arbitrariness and lack of foreseeability.\"\n    },\n    {\n      \"Legitimate aims of the interference\": \"The Government could plausibly argue that the measures pursued the prevention of crime or disorder and the protection of the economic order through enforcement of licensing, registration and tax rules. However, once the legal basis itself is doubtful, the legitimacy of the aims cannot rescue the interference. In any event, the structure of the case suggests that the measures were not neutral regulatory enforcement. The charges focused on the applicant’s professional media activity and on the financing of the bureau through which that activity was carried out (see paragraphs 10-11). The applicant also relied on the broader pattern of retaliation for her investigations exposing high-level corruption (see paragraph 12), a context already recognised in the Court’s earlier case-law concerning her (see nos. 65286/13 and 57270/14). That background weakens the claim that the impugned interference genuinely pursued ordinary regulatory aims in a Convention-compatible manner.\"\n    },\n    {\n      \"Necessary in a democratic society\": \"Even assuming a legitimate aim, the interference was not necessary in a democratic society. The domestic courts gave no relevant and sufficient reasons showing a pressing social need to criminally punish this journalist. They did not convincingly explain why lack of accreditation transformed freelance journalistic work into criminal entrepreneurship, or why operating funds of a non-commercial media bureau should be treated as taxable profit attributable personally to the applicant (see paragraphs 11-16). They also failed to address central defence submissions, including the text of the Law on Media, the applicant’s status after 2010, the non-commercial nature of Azadliq Radio, prior clean tax audits, and the procedural defects in the tax reports (see paragraphs 12-14, 25-29). The choice of criminal prosecution, imprisonment, probation and a travel ban was especially harsh in the case of a prominent investigative journalist and could not be regarded as the least restrictive means. Against the background of earlier harassment linked to her reporting (see paragraph 5; see nos. 65286/13 and 57270/14), the measures were liable to deter public-interest journalism. The interference therefore fails the necessity and proportionality test.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 2780,
+    "prompt_tokens": 6735,
+    "total_tokens": 9515,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1703,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0585375,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0585375,
+      "upstream_inference_prompt_cost": 0.0168375,
+      "upstream_inference_completions_cost": 0.0417
+    }
+  },
+  "citations": [
+    "65286/13",
+    "57270/14"
+  ],
+  "ref_paragraphs": [
+    5,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    25,
+    26,
+    27,
+    28,
+    29
+  ]
+}

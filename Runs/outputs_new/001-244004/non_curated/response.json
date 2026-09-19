@@ -1,0 +1,114 @@
+{
+  "item_id": "001-244004",
+  "case_name": "CASE OF RODINA AND BORISOVA v. LATVIA",
+  "case_number": "(Applications nos. 2623/16 and 2299/16)",
+  "date": "10 July 2025",
+  "prompt_type": "non_curated",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [],
+  "violation_prediction": "no",
+  "assessment": [
+    {
+      "1. Interference with expressive activity": "The bans on the applicants’ planned demonstrations and march clearly interfered with expression protected by Article 10, since the events were intended to convey political and historical messages in public space (see paragraphs 16, 35). Even though the domestic proceedings were framed mainly through freedom of assembly, the Court would also assess the expressive content of the planned events under Article 10."
+    },
+    {
+      "2. Prescribed by law and legitimate aims": "The interferences appear to have been prescribed by law, notably sections 10, 15 and 15(1) of the Law on Demonstrations, Marches and Pickets, which allowed restrictions or bans where events endangered the democratic order, public safety or involved war propaganda, hatred or other prohibited conduct (see paragraphs 56-59). The authorities relied on public safety, public order, national security and the protection of the democratic order (see paragraphs 20-24 and 38-41). In the Latvian and wider regional context after Crimea and the outbreak of armed conflict in eastern Ukraine, those aims were plainly legitimate (see paragraphs 11, 34, 62-63; see nos. 20958/14, 38334/18, 8019/16)."
+    },
+    {
+      "3. General Article 10 standard": "Article 10 protects not only agreeable ideas but also those that offend, shock or disturb. At the same time, the protection is narrower where expression promotes hatred, glorifies violence, or seeks to undermine democratic order. The Court has accepted that democracy may defend itself against movements or messages directed against the Convention’s basic values (see nos. 58278/00, 41340/98). The decisive issue is therefore whether the domestic authorities relied on relevant and sufficient reasons and whether they assessed the real content and context of the proposed expression, not merely its formal description."
+    },
+    {
+      "4. First applicant: content and context of the planned expression": "For the first applicant, the authorities did not rely only on abstract fears. They examined the videos posted on its website calling for participation in the 9 May 2014 events, which featured war scenes, rifle shots, Cossack uniforms and slogans such as Glory to the Baltic Russian land, Russians are the oldest nation of Latvia, Riga is our city, Latvia is our country, and the Russian language is the language of Latvia (see paragraph 29). The courts found that those messages did not correspond to the stated aim of supporting Russian-language schools, but rather expressed aggressive ethnically charged claims and a categorical assertion of Russian superiority in Latvia (see paragraphs 21-23, 30). In the tense atmosphere following events in Ukraine, and against the background of the symbolic sensitivity of 9 May and the Soviet Victory Monument in Latvia, the authorities could reasonably regard those messages as likely to inflame ethnic tensions and disorder (see paragraphs 8-11, 18-19, 30)."
+    },
+    {
+      "5. First applicant: proportionality of the restriction": "The domestic authorities also considered whether less severe measures would suffice, including changes of time, place and form, and concluded that they would not remove the risk (see paragraphs 24, 31, 33). Importantly, the assessment was based on specific material: the videos, the expected overlap with very large 9 May events near the monument, the bomb threat, the possible participation of radicalised persons, and the links of the Cossack group to Russian interests and the conflict in Ukraine (see paragraph 18). The applicant relied on the fact that previous events had been peaceful (see paragraphs 12-15, 25), but the domestic courts gave a reasoned explanation why 2014 was materially different because of the changed geopolitical context (see paragraphs 19, 26, 30, 33). Given the provocative and militarised content of the expression, the Court would likely find the reasons relevant and sufficient and the ban proportionate. That conclusion is consistent with the margin of appreciation accorded in politically sensitive contexts affecting democratic stability and inter-ethnic relations (see nos. 58278/00, 44230/06)."
+    },
+    {
+      "6. Second applicant: the stated anti-war aim versus the real message": "The second applicant’s planned demonstration was formally presented as a call to end the war in south-east Ukraine (see paragraph 35). However, the authorities had concrete material showing that B.A., who in reality was helping organise the event, publicly framed it very differently: as support for Donbass, opposition to the Ukrainian authorities, and a demand to recognise the so-called DPR and LPR (see paragraphs 36-39). Additional information linked him to separatist and armed activities in Ukraine and to criminal proceedings in Latvia concerning violent overthrow and attacks on national independence (see paragraph 47). The domestic courts were therefore entitled to conclude that the stated pacifist aim was a facade and that the real expressive content supported unlawful separatist entities and amounted to war propaganda or anti-democratic messaging (see paragraphs 48-50)."
+    },
+    {
+      "7. Second applicant: confirmation by subsequent events and necessity": "The later picket of 23 September 2014 strongly confirmed the authorities’ assessment. Despite the refusal, the second applicant and B.A. participated in a smaller gathering in front of the Ukrainian embassy carrying separatist flags and signs calling for recognition of the DPR and LPR and referring to genocide in Novorossiya (see paragraph 42). That subsequent conduct is highly persuasive evidence that the authorities’ prediction about the intended message was not speculative. As with the first applicant, the municipality considered milder measures but found them inadequate (see paragraph 41). In these circumstances, the interference answered a pressing social need and was not based on mere disagreement with a political opinion, but on the perceived promotion of violent separatism and war-related propaganda during an ongoing international conflict (see paragraphs 39-40, 47-50; see nos. 20958/14, 38334/18, 8019/16)."
+    },
+    {
+      "8. Overall conclusion under Article 10": "Although Article 10 normally affords strong protection to political expression, the present facts point to speech at the outer limits of that protection. The domestic authorities examined the concrete content, the surrounding context, and the availability of less restrictive measures; they did not act solely on abstract hostility to unpopular views. In both applications, the intended messages were reasonably interpreted as aggravating ethnic antagonism or supporting anti-democratic and war-related causes at a moment of acute regional instability (see paragraphs 18-24, 29-31, 36-42, 47-50). The Court would therefore be likely to hold that the restrictions were justified under Article 10 and that there has been no violation."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"1. Interference with expressive activity\": \"The bans on the applicants’ planned demonstrations and march clearly interfered with expression protected by Article 10, since the events were intended to convey political and historical messages in public space (see paragraphs 16, 35). Even though the domestic proceedings were framed mainly through freedom of assembly, the Court would also assess the expressive content of the planned events under Article 10.\"\n    },\n    {\n      \"2. Prescribed by law and legitimate aims\": \"The interferences appear to have been prescribed by law, notably sections 10, 15 and 15(1) of the Law on Demonstrations, Marches and Pickets, which allowed restrictions or bans where events endangered the democratic order, public safety or involved war propaganda, hatred or other prohibited conduct (see paragraphs 56-59). The authorities relied on public safety, public order, national security and the protection of the democratic order (see paragraphs 20-24 and 38-41). In the Latvian and wider regional context after Crimea and the outbreak of armed conflict in eastern Ukraine, those aims were plainly legitimate (see paragraphs 11, 34, 62-63; see nos. 20958/14, 38334/18, 8019/16).\"\n    },\n    {\n      \"3. General Article 10 standard\": \"Article 10 protects not only agreeable ideas but also those that offend, shock or disturb. At the same time, the protection is narrower where expression promotes hatred, glorifies violence, or seeks to undermine democratic order. The Court has accepted that democracy may defend itself against movements or messages directed against the Convention’s basic values (see nos. 58278/00, 41340/98). The decisive issue is therefore whether the domestic authorities relied on relevant and sufficient reasons and whether they assessed the real content and context of the proposed expression, not merely its formal description.\"\n    },\n    {\n      \"4. First applicant: content and context of the planned expression\": \"For the first applicant, the authorities did not rely only on abstract fears. They examined the videos posted on its website calling for participation in the 9 May 2014 events, which featured war scenes, rifle shots, Cossack uniforms and slogans such as Glory to the Baltic Russian land, Russians are the oldest nation of Latvia, Riga is our city, Latvia is our country, and the Russian language is the language of Latvia (see paragraph 29). The courts found that those messages did not correspond to the stated aim of supporting Russian-language schools, but rather expressed aggressive ethnically charged claims and a categorical assertion of Russian superiority in Latvia (see paragraphs 21-23, 30). In the tense atmosphere following events in Ukraine, and against the background of the symbolic sensitivity of 9 May and the Soviet Victory Monument in Latvia, the authorities could reasonably regard those messages as likely to inflame ethnic tensions and disorder (see paragraphs 8-11, 18-19, 30).\"\n    },\n    {\n      \"5. First applicant: proportionality of the restriction\": \"The domestic authorities also considered whether less severe measures would suffice, including changes of time, place and form, and concluded that they would not remove the risk (see paragraphs 24, 31, 33). Importantly, the assessment was based on specific material: the videos, the expected overlap with very large 9 May events near the monument, the bomb threat, the possible participation of radicalised persons, and the links of the Cossack group to Russian interests and the conflict in Ukraine (see paragraph 18). The applicant relied on the fact that previous events had been peaceful (see paragraphs 12-15, 25), but the domestic courts gave a reasoned explanation why 2014 was materially different because of the changed geopolitical context (see paragraphs 19, 26, 30, 33). Given the provocative and militarised content of the expression, the Court would likely find the reasons relevant and sufficient and the ban proportionate. That conclusion is consistent with the margin of appreciation accorded in politically sensitive contexts affecting democratic stability and inter-ethnic relations (see nos. 58278/00, 44230/06).\"\n    },\n    {\n      \"6. Second applicant: the stated anti-war aim versus the real message\": \"The second applicant’s planned demonstration was formally presented as a call to end the war in south-east Ukraine (see paragraph 35). However, the authorities had concrete material showing that B.A., who in reality was helping organise the event, publicly framed it very differently: as support for Donbass, opposition to the Ukrainian authorities, and a demand to recognise the so-called DPR and LPR (see paragraphs 36-39). Additional information linked him to separatist and armed activities in Ukraine and to criminal proceedings in Latvia concerning violent overthrow and attacks on national independence (see paragraph 47). The domestic courts were therefore entitled to conclude that the stated pacifist aim was a facade and that the real expressive content supported unlawful separatist entities and amounted to war propaganda or anti-democratic messaging (see paragraphs 48-50).\"\n    },\n    {\n      \"7. Second applicant: confirmation by subsequent events and necessity\": \"The later picket of 23 September 2014 strongly confirmed the authorities’ assessment. Despite the refusal, the second applicant and B.A. participated in a smaller gathering in front of the Ukrainian embassy carrying separatist flags and signs calling for recognition of the DPR and LPR and referring to genocide in Novorossiya (see paragraph 42). That subsequent conduct is highly persuasive evidence that the authorities’ prediction about the intended message was not speculative. As with the first applicant, the municipality considered milder measures but found them inadequate (see paragraph 41). In these circumstances, the interference answered a pressing social need and was not based on mere disagreement with a political opinion, but on the perceived promotion of violent separatism and war-related propaganda during an ongoing international conflict (see paragraphs 39-40, 47-50; see nos. 20958/14, 38334/18, 8019/16).\"\n    },\n    {\n      \"8. Overall conclusion under Article 10\": \"Although Article 10 normally affords strong protection to political expression, the present facts point to speech at the outer limits of that protection. The domestic authorities examined the concrete content, the surrounding context, and the availability of less restrictive measures; they did not act solely on abstract hostility to unpopular views. In both applications, the intended messages were reasonably interpreted as aggravating ethnic antagonism or supporting anti-democratic and war-related causes at a moment of acute regional instability (see paragraphs 18-24, 29-31, 36-42, 47-50). The Court would therefore be likely to hold that the restrictions were justified under Article 10 and that there has been no violation.\"\n    }\n  ],\n  \"violation\": \"no\"\n}",
+  "usage": {
+    "completion_tokens": 2992,
+    "prompt_tokens": 15682,
+    "total_tokens": 18674,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1552,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.084085,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.084085,
+      "upstream_inference_prompt_cost": 0.039205,
+      "upstream_inference_completions_cost": 0.04488
+    }
+  },
+  "citations": [
+    "20958/14",
+    "38334/18",
+    "8019/16",
+    "58278/00",
+    "41340/98",
+    "44230/06"
+  ],
+  "ref_paragraphs": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    29,
+    30,
+    31,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    47,
+    48,
+    49,
+    50,
+    56,
+    57,
+    58,
+    59,
+    62,
+    63
+  ]
+}

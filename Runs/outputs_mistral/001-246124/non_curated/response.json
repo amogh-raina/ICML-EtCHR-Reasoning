@@ -1,0 +1,63 @@
+{
+  "item_id": "001-246124",
+  "case_name": "CASE OF AZADLIQ NEWSPAPER v. AZERBAIJAN",
+  "case_number": "(Application no. 12708/13)",
+  "date": "25 November 2025",
+  "prompt_type": "non_curated",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Nature of the impugned statements": "The article published by the applicant newspaper contained a mix of factual allegations and value judgments. Specifically, it accused T.A., the chief executive of the Baku Metro, of misappropriating small remaining balances on metro cards (see paragraph 8) and included value-laden statements such as “This is a new type of fraud” and “T.A.’s Metro is an impregnable castle” (see paragraphs 8 and 10). Under the Court’sisprudence, while factual allegations must be capable of proof, value judgments are not susceptible of proof and enjoy protection under Article 10 if made in good faith and based on sufficient facts (see no. 36448/02)."
+    },
+    {
+      "Public interest nature of the statements": "The subject matter of the article concerned the handling of public funds by a fully State-owned company, the Baku Metro, whose chief executive was appointed by presidential decree (see paragraphs 5 and 6). The article addressed an issue of clear public interest, namely the disposal of unused small balances on metro cards following a fare increase, which affected a large number of citizens. The Court has consistently held that matters of public interest warrant a high level of protection under Article 10, particularly when they involve the use of public resources or the conduct of public officials (see no. 44322/13, 64569/09)."
+    },
+    {
+      "Status of the claimant as a public figure": "T.A., as the chief executive of a State-owned company appointed by presidential decree, must be considered a public figure (see paragraph 5). The Court has repeatedly emphasized that public figures, especially those holding public office or performing public functions, are subject to closer scrutiny of their actions by the press and the public and must tolerate a higher degree of criticism (see no. 28470/12, 44322/13). The domestic courts failed to accord appropriate weight to this factor."
+    },
+    {
+      "Diligence of the applicant newspaper": "The applicant newspaper submitted that it had attempted to obtain information from the Baku Metro regarding the disposal of the remaining card balances but had received no response (see paragraph 12). The article was based on the journalist’s own research and passenger complaints. The Court has recognized that the media’s role in a democratic society includes imparting information on matters of public interest, and that journalists are not required to prove the truth of every factual assertion if they have acted in good faith and with responsible journalistic diligence (see no. 56925/08, 28470/12). The domestic courts disregarded the newspaper’s efforts to verify the information."
+    },
+    {
+      "Insufficiency of domestic courts' reasoning": "The domestic courts at all levels confined their assessment to the applicant newspaper’s failure to prove the truth of the factual allegations, without considering the public interest nature of the issue, the status of T.A. as a public figure, or the newspaper’s journalistic diligence (see paragraphs 13, 14, 17, and 19). The Court has repeatedly held that in defamation cases involving the media, domestic courts must strike a fair balance between the right to freedom of expression and the right to reputation, taking into account all relevant factors, including the public interest and the conduct of the parties (see no. 20755/08, 67369/16). The failure to do so renders the interference with Article 10 rights disproportionate."
+    },
+    {
+      "Disproportionate nature of the sanction": "The domestic courts ordered the applicant newspaper to pay AZN 30,000 (approximately EUR 30,600) in non-pecuniary damages without providing a detailed justification for the amount (see paragraphs 13, 14, and 19). The applicant newspaper, as an opposition media outlet, was experiencing financial difficulties and had no advertising income (see paragraph 18). The Court has found violations of Article 10 where damages awarded in defamation cases were disproportionate and where domestic courts failed to consider the financial situation of the media outlet or the potential chilling effect of such sanctions (see no. 20755/08, 67369/16). The high award, combined with the lack of reasoned justification, underscores the disproportionate nature of the interference."
+    },
+    {
+      "Conclusion on the necessity of the interference": "The interference with the applicant newspaper’s right to freedom of expression, through the civil defamation proceedings and the resulting sanctions, was prescribed by law and pursued the legitimate aim of protecting the reputation of T.A. However, the domestic courts failed to apply standards compatible with the principles of Article 10, notably by neglecting to consider the public interest nature of the statements, the status of T.A. as a public figure, the journalistic diligence of the applicant newspaper, and the proportionality of the sanction. As a result, the interference cannot be considered 'necessary in a democratic society.'"
+    }
+  ],
+  "raw_content": "```json\n{\n  \"assessment\": [\n    {\n      \"Nature of the impugned statements\": \"The article published by the applicant newspaper contained a mix of factual allegations and value judgments. Specifically, it accused T.A., the chief executive of the Baku Metro, of misappropriating small remaining balances on metro cards (see paragraph 8) and included value-laden statements such as “This is a new type of fraud” and “T.A.’s Metro is an impregnable castle” (see paragraphs 8 and 10). Under the Court’sisprudence, while factual allegations must be capable of proof, value judgments are not susceptible of proof and enjoy protection under Article 10 if made in good faith and based on sufficient facts (see no. 36448/02).\"\n    },\n    {\n      \"Public interest nature of the statements\": \"The subject matter of the article concerned the handling of public funds by a fully State-owned company, the Baku Metro, whose chief executive was appointed by presidential decree (see paragraphs 5 and 6). The article addressed an issue of clear public interest, namely the disposal of unused small balances on metro cards following a fare increase, which affected a large number of citizens. The Court has consistently held that matters of public interest warrant a high level of protection under Article 10, particularly when they involve the use of public resources or the conduct of public officials (see no. 44322/13, 64569/09).\"\n    },\n     {\n      \"Status of the claimant as a public figure\": \"T.A., as the chief executive of a State-owned company appointed by presidential decree, must be considered a public figure (see paragraph 5). The Court has repeatedly emphasized that public figures, especially those holding public office or performing public functions, are subject to closer scrutiny of their actions by the press and the public and must tolerate a higher degree of criticism (see no. 28470/12, 44322/13). The domestic courts failed to accord appropriate weight to this factor.\"\n    },\n    {\n      \"Diligence of the applicant newspaper\": \"The applicant newspaper submitted that it had attempted to obtain information from the Baku Metro regarding the disposal of the remaining card balances but had received no response (see paragraph 12). The article was based on the journalist’s own research and passenger complaints. The Court has recognized that the media’s role in a democratic society includes imparting information on matters of public interest, and that journalists are not required to prove the truth of every factual assertion if they have acted in good faith and with responsible journalistic diligence (see no. 56925/08, 28470/12). The domestic courts disregarded the newspaper’s efforts to verify the information.\"\n    },\n    {\n      \"Insufficiency of domestic courts' reasoning\": \"The domestic courts at all levels confined their assessment to the applicant newspaper’s failure to prove the truth of the factual allegations, without considering the public interest nature of the issue, the status of T.A. as a public figure, or the newspaper’s journalistic diligence (see paragraphs 13, 14, 17, and 19). The Court has repeatedly held that in defamation cases involving the media, domestic courts must strike a fair balance between the right to freedom of expression and the right to reputation, taking into account all relevant factors, including the public interest and the conduct of the parties (see no. 20755/08, 67369/16). The failure to do so renders the interference with Article 10 rights disproportionate.\"\n    },\n    {\n      \"Disproportionate nature of the sanction\": \"The domestic courts ordered the applicant newspaper to pay AZN 30,000 (approximately EUR 30,600) in non-pecuniary damages without providing a detailed justification for the amount (see paragraphs 13, 14, and 19). The applicant newspaper, as an opposition media outlet, was experiencing financial difficulties and had no advertising income (see paragraph 18). The Court has found violations of Article 10 where damages awarded in defamation cases were disproportionate and where domestic courts failed to consider the financial situation of the media outlet or the potential chilling effect of such sanctions (see no. 20755/08, 67369/16). The high award, combined with the lack of reasoned justification, underscores the disproportionate nature of the interference.\"\n    },\n    {\n      \"Conclusion on the necessity of the interference\": \"The interference with the applicant newspaper’s right to freedom of expression, through the civil defamation proceedings and the resulting sanctions, was prescribed by law and pursued the legitimate aim of protecting the reputation of T.A. However, the domestic courts failed to apply standards compatible with the principles of Article 10, notably by neglecting to consider the public interest nature of the statements, the status of T.A. as a public figure, the journalistic diligence of the applicant newspaper, and the proportionality of the sanction. As a result, the interference cannot be considered 'necessary in a democratic society.'\"\n    }\n  ],\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 3697,
+    "prompt_tokens": 3038,
+    "total_tokens": 6735,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 2621,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0322845,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0322845,
+      "upstream_inference_prompt_cost": 0.004557,
+      "upstream_inference_completions_cost": 0.0277275
+    }
+  }
+}

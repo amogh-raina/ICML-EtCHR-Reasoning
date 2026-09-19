@@ -1,0 +1,107 @@
+Let me analyze this case step by step to determine whether there has been a violation of Article 10 of the ECHR regarding freedom of expression.
+
+First, I need to understand the case:
+- The applicant is an NGO called "Khaghaghutyan YerkkhAnutyun" (I think this might be a typo in the case name, but it's not important for the analysis)
+- The NGO has been working on projects related to human rights in the armed forces, specifically tracking fatalities and crimes
+- They created an online database called "Safe Soldier for a Safe Armenia"
+- They requested information from the Ministry of Defence about fatalities in the armed forces for various periods (2010-2011, 2007-2009, and 1994-2014)
+- The Ministry provided some information for 2010-2011 but refused for other periods
+- The refusals were based on various legal provisions including privacy rights, secrecy of investigative information, and state secrets
+- The NGO challenged these refusals in court but lost at all levels
+- The Ministry later issued an order classifying the requested information as state secrets
+
+Now, to assess Article 10 violation, I need to consider:
+1. Was there an interference with the right to freedom of expression?
+2. If yes, was it prescribed by law?
+3. Did it pursue a legitimate aim?
+4. Was it necessary in a democratic society?
+
+1. Interference with freedom of expression:
+Article 10 protects the right to receive and impart information. The NGO's work clearly falls under this protection as they were trying to gather and disseminate information about fatalities in the armed forces. The refusal to provide information and the subsequent classification of that information as state secrets constitutes an interference with their right to receive information (see no. 25390/94 - Leander v. Sweden, which established that the right to receive information includes access to state-held information).
+
+2. Prescribed by law:
+The interference was based on several domestic legal provisions:
+- Article 23 of the Constitution (right to privacy)
+- Article 201 of the Code of Criminal Procedure (secrecy of investigative information)
+- Section 8(1) of the Freedom of Information Act
+- Section 9 of the State and Official Secrets Act
+- Government Decree no. 173
+- Order no. 9-N of the Minister of Defence
+
+These are all legal provisions, so the interference appears to be prescribed by law. However, Article 10 requires that the legal basis be accessible and foreseeable. The later classification through Order no. 9-N might raise issues about predictability (see no. 44158/98 - Hashman and Harrup v. the United Kingdom, which emphasized the need for legal certainty).
+
+3. Legitimate aim:
+The Government argued that the interference pursued the legitimate aim of protecting national security. This is one of the aims listed in Article 10(2) (see paragraph 23 of the Constitution which mirrors Article 10(2) aims: national security, public order, prevention of crime, etc.).
+
+4. Necessary in a democratic society:
+This is the most crucial test. For an interference to be necessary, it must be proportionate to the legitimate aim pursued.
+
+Key points to consider:
+- The NGO had a legitimate public interest purpose: monitoring human rights in the armed forces, assisting victims' families, and promoting transparency.
+- They had already received similar information for 2010-2011 without issues (see paragraph 9).
+- The information concerned fatalities and crimes in the armed forces during peacetime (see paragraphs 6, 7, 13).
+- The classification was done after the NGO had requested the information and even after they had filed their first administrative claim (see paragraphs 14, 15, 38).
+- The domestic courts accepted the Government's national security arguments without much scrutiny (see paragraphs 18, 20).
+
+Relevant case law:
+- Leander v. Sweden (no. 25390/94): The Court has recognized that national security can justify restrictions on access to information, but the restrictions must be necessary and proportionate.
+- Társaság a Szabadságjogokért v. Hungary (no. 37374/05): This case involved an NGO seeking information about a politician's educational background. The Court found that the refusal violated Article 10. This suggests that governments cannot easily refuse information requests from NGOs working in the public interest.
+- Magyar Helsinki Bizottság v. Hungary (no. 18030/11): This case is particularly relevant as it involved an NGO (Hungarian Helsinki Committee) seeking information about legal assistance to police officers. The Court found a violation of Article 10 when the authorities refused to provide the information. The Court emphasized the role of NGOs in promoting transparency and accountability.
+- Youth Initiative for Human Rights v. Serbia (no. 48876/08): This case involved the refusal to provide information to an NGO about war crimes. The Court found a violation of Article 10, emphasizing that the public interest in the information outweighed the state's interest in keeping it secret.
+- Kenedi v. Hungary (no. 31475/05): This case concerned access to information about a secret service agent. The Court found that the refusal was justified by national security concerns. However, in this case, the information was truly sensitive intelligence information.
+
+Comparing to our case:
+- The information requested is about fatalities and crimes in the armed forces during peacetime. This is different from current military operations or strategic plans.
+- The NGO had a clear public interest purpose.
+- The fact that similar information was provided for 2010-2011 suggests that the classification of the earlier periods might not have been necessary.
+- The timing of the classification (after the requests and legal proceedings had started) is suspicious and suggests it might have been done to obstruct the NGO's work.
+
+The Ministry's argument that the information relates to combat capability (see paragraph 20) seems stretched. The Court of Appeal accepted that information about incidents and accidents was included in the criteria for assessing combat capability. However, in Magyar Helsinki Bizottság v. Hungary (no. 18030/11), the Court found that the government's argument that the information could reveal details about police operations was not sufficient to justify the refusal, especially when the NGO had a legitimate interest in the information.
+
+In Youth Initiative for Human Rights v. Serbia (no. 48876/08), the Court held that the public interest in information about war crimes and human rights violations outweighed the state's interest in confidentiality.
+
+In the present case, the information relates to human rights in the armed forces (fatalities, crimes), which is clearly of public interest. The NGO's work is directly related to promoting human rights and transparency in a sensitive area.
+
+The classification of the information seems to have been done after the fact to prevent its disclosure. This is problematic because it suggests that the restriction was not genuinely based on national security but rather to avoid scrutiny.
+
+Moreover, the domestic courts' reasoning was rather superficial. They accepted the Government's national security arguments without balancing them against the public interest in the information (see paragraphs 18, 20).
+
+In the case of Társaság a Szabadságjogokért v. Hungary (no. 37374/05), the Court emphasized that when a restriction on freedom of expression is imposed, the national authorities must adduce relevant and sufficient reasons to justify it. In the present case, the reasons given by the domestic authorities seem rather generic and not sufficiently tailored to the specific information requested.
+
+In Kenedi v. Hungary (no. 31475/05), the Court accepted national security justifications for withholding information about a secret service agent. However, in that case, the information was directly related to intelligence operations. In the present case, the information is about past fatalities in the armed forces, which is less directly related to current national security concerns.
+
+Another relevant case is Stoll v. Switzerland (no. 69698/01), where the Court found that the refusal to provide information about a scientific expert's report in asylum proceedings violated Article 10. The Court noted that the public interest in the information outweighed the privacy interests.
+
+In the present case, the private interests (privacy of deceased soldiers' families) might be involved, but the NGO was willing to receive the information and presumably would have handled it responsibly. Moreover, the Ministry had already provided similar information for 2010-2011 (see paragraph 9), suggesting that the privacy concerns could be addressed.
+
+The Constitutional Court's decision in 2012 (see paragraph 40) is also relevant. It found that the classification of the extended lists themselves was unconstitutional. This suggests that there are constitutional issues with how the classification system works in Armenia, which might support the argument that the interference was not properly prescribed by law or was disproportionate.
+
+Given all this, it seems that the interference was not necessary in a democratic society. The public interest in the information (transparency in the armed forces, accountability for fatalities and crimes, assistance to victims' families) outweighs the Government's rather general national security concerns, especially since:
+1. Similar information had been disclosed before
+2. The classification was done after the requests were made
+3. The information concerned past peacetime incidents, not current operations
+
+Therefore, there was likely a violation of Article 10.
+
+Let me structure my assessment according to the requirements:
+
+1. Applicability of Article 10
+- The applicant NGO's activities fall within the scope of Article 10 as they involve receiving and imparting information on a matter of public interest (see paragraph 6-7). The refusal to provide information and subsequent classification constitute an interference with its rights under Article 10 (see no. 25390/94).
+
+2. Lawfulness of the interference
+- The interference was based on domestic legal provisions (see paragraphs 11, 15, 23, 29, 35). However, the legal framework's clarity and foreseeability may be questioned, particularly regarding the Order no. 9-N issued after the NGO's requests (see paragraph 38-39). The Constitutional Court had previously found issues with the classification system (see paragraph 40).
+
+3. Legitimate aim
+- The Government relied on national security as the legitimate aim (see paragraphs 15, 17-18, 20). National security is a recognized legitimate aim under Article 10(2) (see no. 25390/94).
+
+4. Necessity in a democratic society
+- The key issue is proportionality. The information sought concerned peacetime fatalities and crimes in the armed forces (see paragraphs 6-7, 13), a matter of significant public interest. The NGO had a legitimate role in promoting transparency and assisting victims (see paragraphs 5-6, 16). The Ministry had previously provided similar information for 2010-2011 (see paragraph 9), undermining claims that disclosure would harm national security. The classification was imposed after the requests were made (see paragraphs 14-15, 38), suggesting it was targeted at the applicant. Domestic courts accepted the Government's arguments without sufficient scrutiny of public interest (see paragraphs 18, 20-21).
+
+Case law comparison:
+- Similar to Magyar Helsinki Bizottság v. Hungary (no. 18030/11), where refusal to provide information to an NGO violated Article 10 despite national security claims.
+- Similar to Youth Initiative for Human Rights v. Serbia (no. 48876/08), where public interest in human rights information outweighed secrecy concerns.
+- Distinguished from Kenedi v. Hungary (no. 31475/05), as this case does not involve current intelligence operations.
+
+Conclusion: The interference was not necessary in a democratic society, thus violating Article 10.
+
+Now, let me format this properly in JSON with the required structure.

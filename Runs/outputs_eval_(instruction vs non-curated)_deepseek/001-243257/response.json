@@ -1,0 +1,98 @@
+{
+  "item_id": "001-243257",
+  "case_name": "CASE OF SELISHCHEVA AND OTHERS v. RUSSIA",
+  "model": "deepseek/deepseek-v4-pro",
+  "reasoning_effort": "high",
+  "raw_content": "{\n  \"evaluation\": [\n    {\n      \"student_a\": [\n        { \"step_1\": { \"occurrence\": 1, \"comprehensiveness\": 5 } },\n        { \"step_2\": { \"occurrence\": 1, \"comprehensiveness\": 5 } },\n        { \"step_3\": { \"occurrence\": 1, \"comprehensiveness\": 4 } },\n        { \"step_4\": { \"occurrence\": 1, \"comprehensiveness\": 5 } },\n        { \"overall_conciseness\": 5 }\n      ]\n    },\n    {\n      \"student_b\": [\n        { \"step_1\": { \"occurrence\": 1, \"comprehensiveness\": 4 } },\n        { \"step_2\": { \"occurrence\": 1, \"comprehensiveness\": 5 } },\n        { \"step_3\": { \"occurrence\": 1, \"comprehensiveness\": 3 } },\n        { \"step_4\": { \"occurrence\": 1, \"comprehensiveness\": 5 } },\n        { \"overall_conciseness\": 5 }\n      ]\n    }\n  ]\n}",
+  "parsed": {
+    "evaluation": [
+      {
+        "student_a": [
+          {
+            "step_1": {
+              "occurrence": 1,
+              "comprehensiveness": 5
+            }
+          },
+          {
+            "step_2": {
+              "occurrence": 1,
+              "comprehensiveness": 5
+            }
+          },
+          {
+            "step_3": {
+              "occurrence": 1,
+              "comprehensiveness": 4
+            }
+          },
+          {
+            "step_4": {
+              "occurrence": 1,
+              "comprehensiveness": 5
+            }
+          },
+          {
+            "overall_conciseness": 5
+          }
+        ]
+      },
+      {
+        "student_b": [
+          {
+            "step_1": {
+              "occurrence": 1,
+              "comprehensiveness": 4
+            }
+          },
+          {
+            "step_2": {
+              "occurrence": 1,
+              "comprehensiveness": 5
+            }
+          },
+          {
+            "step_3": {
+              "occurrence": 1,
+              "comprehensiveness": 3
+            }
+          },
+          {
+            "step_4": {
+              "occurrence": 1,
+              "comprehensiveness": 5
+            }
+          },
+          {
+            "overall_conciseness": 5
+          }
+        ]
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 2382,
+    "prompt_tokens": 6790,
+    "total_tokens": 9172,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 2130,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0196418,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0196418,
+      "upstream_inference_prompt_cost": 0.011543,
+      "upstream_inference_completions_cost": 0.0080988
+    }
+  }
+}

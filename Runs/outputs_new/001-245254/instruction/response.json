@@ -1,0 +1,99 @@
+{
+  "item_id": "001-245254",
+  "case_name": "CASE OF TUĞLUK v. TÜRKİYE",
+  "case_number": "(Application no. 71757/17)",
+  "date": "14 October 2025",
+  "prompt_type": "instruction",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "1. Existence of an interference": "There was an interference with the applicant’s freedom of expression. The criminal case against her was based to a significant extent on her speeches, interviews, attendance at conferences, demonstrations, press statements and other public political activities carried out as a leading Kurdish opposition politician and co-chair of the DTK (see paragraphs 13, 18, 27-30). The indictment expressly reproduced excerpts from her speeches at 38 meetings and listed her participation in demonstrations and public events as incriminating material (see paragraphs 28-30). Her pre-trial detention was then ordered and repeatedly extended on the basis of that file, and she was ultimately convicted for membership of an armed organisation (see paragraphs 23-25, 32-47). Such detention, prosecution and conviction are clear restraints on political expression and are capable of producing a serious chilling effect, especially for an opposition politician speaking on matters of public interest such as the Kurdish issue and models of democratic governance (see nos. 67360/11 and 16483/12). Accordingly, Article 10 is engaged."
+    },
+    {
+      "2. Lawfulness of the interference": "The interference appears to have had a basis in domestic law. The authorities relied on Article 314 of the Criminal Code and Article 100 of the Code of Criminal Procedure when ordering the applicant’s detention and pursuing the prosecution (see paragraphs 16, 19, 23, 25, 27, 50 and 61). The Constitutional Court also accepted that the measure had a legal basis in those provisions (see paragraph 50). Although the applicant could argue that the domestic provisions were applied overly broadly to ordinary political activity, the material provided does not show a complete absence of legal basis in national law. On the limited step-2 inquiry required here, the interference must therefore be treated as lawful. The decisive issue is not the existence of a statutory basis, but whether its use against the applicant’s political expression was compatible with Article 10 standards."
+    },
+    {
+      "3. Legitimate aims of the interference": "The interference pursued aims that are, in principle, legitimate under Article 10 § 2. The authorities presented the case as part of combating the PKK/KCK, an illegal armed organisation, and preventing terrorism-related activity (see paragraphs 9, 16-19, 23-25, 27 and 30). That is capable of falling within national security, territorial integrity, public safety and the prevention of disorder or crime. The Court generally accepts that States may take measures against advocacy genuinely linked to terrorist violence, but it requires careful scrutiny where anti-terrorism is invoked in response to political speech (see nos. 23199/17 and 31451/03). Accordingly, this step is satisfied in principle. The central question remains whether the applicant’s detention and conviction, as based on her statements and public participation, were necessary in a democratic society."
+    },
+    {
+      "4. Necessary in a democratic society": "The interference was unlikely to be regarded as necessary in a democratic society. First, the speech at issue was core political expression. The applicant was a well-known opposition politician, and her statements concerned the Kurdish issue, democratic autonomy, protest methods and the inclusion of various actors in a peace or resolution process (see paragraphs 6-8 and 28). Such matters lie at the heart of public debate, where Article 10 protection is at its strongest (see nos. 16483/12 and 23199/17). Second, the domestic authorities did not identify concrete statements by the applicant that incited violence, armed resistance or hatred. The file expressly notes that it is unclear which specific statements she was asked to explain (see paragraph 15), and the indictment reproduced many speeches without specifying which passages were criminal (see paragraph 28). Third, much of the evidence consisted of lawful or facially non-violent conduct: attendance at conferences, interviews, demonstrations, funerals, and organisational work within the DTK (see paragraphs 18, 21, 28-30). The applicant maintained that the demonstrations were peaceful and that the DTK was a civil platform (see paragraphs 14 and 21). The domestic courts largely treated her senior role in the DTK itself as incriminating, even calling her explanation an implicit admission, without demonstrating how her own expression crossed the Article 10 threshold (see paragraphs 23-25). Fourth, the reasons for detention were formulaic and focused on the seriousness of the offence, catalogue-offence status, and abstract risks of absconding or tampering, rather than a pressing social need to suppress specific harmful expression (see paragraphs 25, 32-43). Given the severity of pre-trial detention and later conviction, the authorities did not employ the least restrictive response. In line with the Court’s approach in cases concerning political speech and anti-terror measures, the reasons here do not appear relevant and sufficient. The interference was therefore disproportionate (see nos. 67360/11, 31451/03, 16483/12 and 23199/17)."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"1. Existence of an interference\": \"There was an interference with the applicant’s freedom of expression. The criminal case against her was based to a significant extent on her speeches, interviews, attendance at conferences, demonstrations, press statements and other public political activities carried out as a leading Kurdish opposition politician and co-chair of the DTK (see paragraphs 13, 18, 27-30). The indictment expressly reproduced excerpts from her speeches at 38 meetings and listed her participation in demonstrations and public events as incriminating material (see paragraphs 28-30). Her pre-trial detention was then ordered and repeatedly extended on the basis of that file, and she was ultimately convicted for membership of an armed organisation (see paragraphs 23-25, 32-47). Such detention, prosecution and conviction are clear restraints on political expression and are capable of producing a serious chilling effect, especially for an opposition politician speaking on matters of public interest such as the Kurdish issue and models of democratic governance (see nos. 67360/11 and 16483/12). Accordingly, Article 10 is engaged.\"\n    },\n    {\n      \"2. Lawfulness of the interference\": \"The interference appears to have had a basis in domestic law. The authorities relied on Article 314 of the Criminal Code and Article 100 of the Code of Criminal Procedure when ordering the applicant’s detention and pursuing the prosecution (see paragraphs 16, 19, 23, 25, 27, 50 and 61). The Constitutional Court also accepted that the measure had a legal basis in those provisions (see paragraph 50). Although the applicant could argue that the domestic provisions were applied overly broadly to ordinary political activity, the material provided does not show a complete absence of legal basis in national law. On the limited step-2 inquiry required here, the interference must therefore be treated as lawful. The decisive issue is not the existence of a statutory basis, but whether its use against the applicant’s political expression was compatible with Article 10 standards.\"\n    },\n    {\n      \"3. Legitimate aims of the interference\": \"The interference pursued aims that are, in principle, legitimate under Article 10 § 2. The authorities presented the case as part of combating the PKK/KCK, an illegal armed organisation, and preventing terrorism-related activity (see paragraphs 9, 16-19, 23-25, 27 and 30). That is capable of falling within national security, territorial integrity, public safety and the prevention of disorder or crime. The Court generally accepts that States may take measures against advocacy genuinely linked to terrorist violence, but it requires careful scrutiny where anti-terrorism is invoked in response to political speech (see nos. 23199/17 and 31451/03). Accordingly, this step is satisfied in principle. The central question remains whether the applicant’s detention and conviction, as based on her statements and public participation, were necessary in a democratic society.\"\n    },\n    {\n      \"4. Necessary in a democratic society\": \"The interference was unlikely to be regarded as necessary in a democratic society. First, the speech at issue was core political expression. The applicant was a well-known opposition politician, and her statements concerned the Kurdish issue, democratic autonomy, protest methods and the inclusion of various actors in a peace or resolution process (see paragraphs 6-8 and 28). Such matters lie at the heart of public debate, where Article 10 protection is at its strongest (see nos. 16483/12 and 23199/17). Second, the domestic authorities did not identify concrete statements by the applicant that incited violence, armed resistance or hatred. The file expressly notes that it is unclear which specific statements she was asked to explain (see paragraph 15), and the indictment reproduced many speeches without specifying which passages were criminal (see paragraph 28). Third, much of the evidence consisted of lawful or facially non-violent conduct: attendance at conferences, interviews, demonstrations, funerals, and organisational work within the DTK (see paragraphs 18, 21, 28-30). The applicant maintained that the demonstrations were peaceful and that the DTK was a civil platform (see paragraphs 14 and 21). The domestic courts largely treated her senior role in the DTK itself as incriminating, even calling her explanation an implicit admission, without demonstrating how her own expression crossed the Article 10 threshold (see paragraphs 23-25). Fourth, the reasons for detention were formulaic and focused on the seriousness of the offence, catalogue-offence status, and abstract risks of absconding or tampering, rather than a pressing social need to suppress specific harmful expression (see paragraphs 25, 32-43). Given the severity of pre-trial detention and later conviction, the authorities did not employ the least restrictive response. In line with the Court’s approach in cases concerning political speech and anti-terror measures, the reasons here do not appear relevant and sufficient. The interference was therefore disproportionate (see nos. 67360/11, 31451/03, 16483/12 and 23199/17).\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 2268,
+    "prompt_tokens": 7237,
+    "total_tokens": 9505,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1194,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0521125,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0521125,
+      "upstream_inference_prompt_cost": 0.0180925,
+      "upstream_inference_completions_cost": 0.03402
+    }
+  },
+  "citations": [
+    "67360/11",
+    "16483/12",
+    "23199/17",
+    "31451/03"
+  ],
+  "ref_paragraphs": [
+    6,
+    7,
+    8,
+    9,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    21,
+    23,
+    24,
+    25,
+    27,
+    28,
+    29,
+    30,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    50,
+    61
+  ]
+}

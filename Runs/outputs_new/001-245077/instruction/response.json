@@ -1,0 +1,80 @@
+{
+  "item_id": "001-245077",
+  "case_name": "CASE OF IMANOV v. AZERBAIJAN",
+  "case_number": "(Application no. 62/20)",
+  "date": "7 October 2025",
+  "prompt_type": "instruction",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Existence of an interference": "There was clearly an interference with the applicant’s freedom of expression. The impugned expression consisted of statements made by the applicant, a lawyer, to journalists after visiting his client A.H. in prison, in which he relayed A.H.’s allegations of torture and described injuries he had personally observed (see paragraphs 12-14). Those statements led directly to disciplinary proceedings (see paragraphs 17-19), his suspension from practice (see paragraph 19), and ultimately his disbarment by the domestic courts (see paragraphs 21, 23 and 25). Disbarment is a particularly serious sanction for a lawyer because it affects both professional activity and participation in public debate on the administration of justice and possible ill-treatment by State agents. In the Court’s case-law, sanctions imposed on lawyers for statements made in connection with the defence of clients constitute interferences under Article 10 (see nos. 31611/96, 29369/10, 81024/12 and 28198/15)."
+    },
+    {
+      "Lawfulness of the interference": "The interference appears to have had a basis in domestic law. The domestic courts expressly relied on the Law on Advocates and Advocacy Activity and the rules of conduct for lawyers, concluding that the applicant had breached professional ethics by disseminating unverified accusations against prison staff (see paragraphs 21 and 28). The Presidium’s application for disbarment and the ensuing court decisions were thus formally anchored in the domestic disciplinary framework governing the legal profession (see paragraphs 19-21). Although the breadth of disciplinary rules in sensitive cases may raise concerns, the available facts do not show a complete absence of legal basis. On balance, it is likely that the Court would accept that the interference was “prescribed by law” and proceed to examine its aim and necessity."
+    },
+    {
+      "Legitimate aims of the interference": "The interference pursued at least one legitimate aim under Article 10 § 2, namely the protection of the reputation or rights of others. The domestic authorities repeatedly stated that the applicant had damaged the honour and reputation of prison staff and undermined their presumption of innocence by publicly accusing them of torture before any official determination had been made (see paragraphs 18 and 21). The authorities also referred to unrest and protest gatherings following the media reports (see paragraphs 16-18), which may additionally be framed as the prevention of disorder. Accordingly, it is likely that the Court would accept that the interference pursued legitimate aims within the meaning of Article 10 § 2."
+    },
+    {
+      "Necessary in a democratic society": "The decisive issue is whether disbarring the applicant for his statements was necessary in a democratic society. The balance strongly points to no. First, the speech concerned an issue of the highest public interest: alleged torture of a prisoner by prison staff, that is, possible serious abuse by State agents (see paragraphs 12-15). Expression on ill-treatment in detention attracts very strong protection, particularly where a lawyer speaks in the course of representing a client and in connection with safeguarding that client’s fundamental rights (see nos. 31611/96, 29369/10, 81024/12 and 28198/15). Second, the applicant had a sufficient factual basis for speaking out. He had personally met A.H. in prison, observed visible injuries, and relayed A.H.’s account as such; he also promptly lodged formal complaints with the Prosecutor General, the Prison Service and the Ombudsman the very next day (see paragraphs 12-15). This was not a gratuitous personal attack detached from professional duties. Third, the domestic authorities’ reasoning was not relevant and sufficient. They essentially reproached the applicant for speaking to the press before the authorities had verified the allegations (see paragraphs 18, 21 and 23). But requiring a lawyer to remain silent about plausible allegations of torture until an official investigation is completed is difficult to reconcile with Article 10, especially where urgent disclosure may serve to protect a detained client. Moreover, subsequent developments reinforce the plausibility of the allegations: the Government later acknowledged a violation of A.H.’s Convention rights in relation to the same prison ill-treatment complaint (see paragraph 27). Fourth, the sanction was manifestly disproportionate. The applicant was first suspended and then permanently disbarred, the harshest disciplinary consequence, producing a serious chilling effect not only on him but on other lawyers working on sensitive human-rights cases (see paragraphs 19-25, 29-30). In such circumstances, and consistently with the Court’s approach to severe professional sanctions imposed on lawyers for speech connected with the defence of clients (see nos. 81024/12, 28198/15, 31611/96 and 29369/10), the interference cannot be regarded as answering a pressing social need or as proportionate to the legitimate aim pursued. There has therefore been a violation of Article 10."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"Existence of an interference\": \"There was clearly an interference with the applicant’s freedom of expression. The impugned expression consisted of statements made by the applicant, a lawyer, to journalists after visiting his client A.H. in prison, in which he relayed A.H.’s allegations of torture and described injuries he had personally observed (see paragraphs 12-14). Those statements led directly to disciplinary proceedings (see paragraphs 17-19), his suspension from practice (see paragraph 19), and ultimately his disbarment by the domestic courts (see paragraphs 21, 23 and 25). Disbarment is a particularly serious sanction for a lawyer because it affects both professional activity and participation in public debate on the administration of justice and possible ill-treatment by State agents. In the Court’s case-law, sanctions imposed on lawyers for statements made in connection with the defence of clients constitute interferences under Article 10 (see nos. 31611/96, 29369/10, 81024/12 and 28198/15).\"\n    },\n    {\n      \"Lawfulness of the interference\": \"The interference appears to have had a basis in domestic law. The domestic courts expressly relied on the Law on Advocates and Advocacy Activity and the rules of conduct for lawyers, concluding that the applicant had breached professional ethics by disseminating unverified accusations against prison staff (see paragraphs 21 and 28). The Presidium’s application for disbarment and the ensuing court decisions were thus formally anchored in the domestic disciplinary framework governing the legal profession (see paragraphs 19-21). Although the breadth of disciplinary rules in sensitive cases may raise concerns, the available facts do not show a complete absence of legal basis. On balance, it is likely that the Court would accept that the interference was “prescribed by law” and proceed to examine its aim and necessity.\"\n    },\n    {\n      \"Legitimate aims of the interference\": \"The interference pursued at least one legitimate aim under Article 10 § 2, namely the protection of the reputation or rights of others. The domestic authorities repeatedly stated that the applicant had damaged the honour and reputation of prison staff and undermined their presumption of innocence by publicly accusing them of torture before any official determination had been made (see paragraphs 18 and 21). The authorities also referred to unrest and protest gatherings following the media reports (see paragraphs 16-18), which may additionally be framed as the prevention of disorder. Accordingly, it is likely that the Court would accept that the interference pursued legitimate aims within the meaning of Article 10 § 2.\"\n    },\n    {\n      \"Necessary in a democratic society\": \"The decisive issue is whether disbarring the applicant for his statements was necessary in a democratic society. The balance strongly points to no. First, the speech concerned an issue of the highest public interest: alleged torture of a prisoner by prison staff, that is, possible serious abuse by State agents (see paragraphs 12-15). Expression on ill-treatment in detention attracts very strong protection, particularly where a lawyer speaks in the course of representing a client and in connection with safeguarding that client’s fundamental rights (see nos. 31611/96, 29369/10, 81024/12 and 28198/15). Second, the applicant had a sufficient factual basis for speaking out. He had personally met A.H. in prison, observed visible injuries, and relayed A.H.’s account as such; he also promptly lodged formal complaints with the Prosecutor General, the Prison Service and the Ombudsman the very next day (see paragraphs 12-15). This was not a gratuitous personal attack detached from professional duties. Third, the domestic authorities’ reasoning was not relevant and sufficient. They essentially reproached the applicant for speaking to the press before the authorities had verified the allegations (see paragraphs 18, 21 and 23). But requiring a lawyer to remain silent about plausible allegations of torture until an official investigation is completed is difficult to reconcile with Article 10, especially where urgent disclosure may serve to protect a detained client. Moreover, subsequent developments reinforce the plausibility of the allegations: the Government later acknowledged a violation of A.H.’s Convention rights in relation to the same prison ill-treatment complaint (see paragraph 27). Fourth, the sanction was manifestly disproportionate. The applicant was first suspended and then permanently disbarred, the harshest disciplinary consequence, producing a serious chilling effect not only on him but on other lawyers working on sensitive human-rights cases (see paragraphs 19-25, 29-30). In such circumstances, and consistently with the Court’s approach to severe professional sanctions imposed on lawyers for speech connected with the defence of clients (see nos. 81024/12, 28198/15, 31611/96 and 29369/10), the interference cannot be regarded as answering a pressing social need or as proportionate to the legitimate aim pursued. There has therefore been a violation of Article 10.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 2079,
+    "prompt_tokens": 3621,
+    "total_tokens": 5700,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1034,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0402375,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0402375,
+      "upstream_inference_prompt_cost": 0.0090525,
+      "upstream_inference_completions_cost": 0.031185
+    }
+  },
+  "citations": [
+    "31611/96",
+    "29369/10",
+    "81024/12",
+    "28198/15"
+  ],
+  "ref_paragraphs": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    27,
+    28,
+    29,
+    30
+  ]
+}

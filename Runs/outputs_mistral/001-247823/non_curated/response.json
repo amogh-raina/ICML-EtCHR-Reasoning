@@ -1,0 +1,63 @@
+{
+  "item_id": "001-247823",
+  "case_name": "CASE OF MLADINA D.D. LJUBLJANA v. SLOVENIA (No. 2)",
+  "case_number": "(Application no. 43388/17)",
+  "date": "13 January 2026",
+  "prompt_type": "non_curated",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Interference with Article 10": "The applicant company’s freedom of expression under Article 10 was interfered with by the domestic courts’ orders to publish an apology (see paragraph 17) and pay compensation (see paragraphs 25, 30). This interference was ‘prescribed by law’ (Article 178 and 179 of the Code of Obligations, see paragraph 33) and pursued the legitimate aim of protecting the reputation and rights of B.G. (see paragraphs 13, 24). The core issue is whether this interference was ‘necessary in a democratic society’ under Article 10 § 2."
+    },
+    {
+      "Nature of the publication": "The impugned publication consisted of a satirical article in the ‘Mladinamit’ section of Mladina magazine, accompanied by side-by-side photographs of B.G.’s family and Joseph Goebbels’ family (see paragraphs 8-9). The text explicitly framed the comparison as satirical, stating that B.G. was ‘not even half as good’ as Goebbels in manipulation and required ‘much more practice’ (see paragraph 8). Theirical context of the magazine’s ‘Mladinamit’ section is known for its satirical and provocative style (see paragraph 4)."
+    },
+    {
+      "Public interest and role of B.G.": "The publication addressed a matter of public interest: the debate surrounding the comparison of B.G.’s political methods to those of Joseph Goebbels and the German Nazi Party (see paragraphs 6-7). B.G. was a prominent public figure—a member of parliament and a leading politician in an opposition party (see paragraph 5). The Court has consistently held that public figures must tolerate a higher degree of criticism, including satire, due to their role in public life (see no. 33348/96, Oberschlick v. Austria (no. 2); see no. 20981/10, Mladina d.d. Ljubljana v. Slovenia)."
+    },
+    {
+      "Satirical expression under Article 10": "Satire is a form of artistic expression and social commentary that, by its very nature, involves exaggeration and provocation. The ECtHR has affordedit broad protection under Article 10, even when it may ‘shock, offend, or disturb’ (see no. 33348/96). In the first Mladina case (see no. 20981/10), the Court found a violation of Article 10 when domestic courts failed to give sufficient weight to the satirical nature of a similar publication in the same magazine section. The present case shares strong parallels with the first Mladina case, as both involved satirical comparisons of politicians to figures associated with Nazism in the context of political debate."
+    },
+    {
+      "Context of the photographs": "The photograph of B.G.’s family was taken at a public religious event (Assumption Day mass in Brezje) where B.G. and his family were aware of and consented to media coverage (see paragraph 10). Additionally, B.G. had previously involved his family in political activities to gain advantage (see paragraph 12) and had exposed his family to public and media attention (see paragraphs 15, 24). The photographs were not taken surreptitiously but at a well-attended public event, and their publication was tied to a matter of public interest. The ECtHR has held that public figures have a reduced expectation of privacy for images taken in public settings, especially when they contribute to a debate of public interest (see no. 64569/09, Axel Springer AG v. Germany; see no. 59138/10, Von Hannover v. Germany (no. 2))."
+    },
+    {
+      "Balancing the competing rights": "The domestic courts, including the Constitutional Court, acknowledged the satirical nature of the publication and B.G.’s status as a public figure (see paragraphs 20, 22-24). However, they concluded that the visual comparison of the family photographs went beyond a critique of political methods and instead created an unjustified association between B.G. as a ‘father and family man’ and Joseph Goebbels’ family, which is inextricably linked to the atrocities of the Nazi regime (see paragraphs 23-24). While the domestic courts’ reasoning appears thorough, the ECtHR has previously emphasized that national authorities must not overstep their margin of appreciation by imposing restrictions that do not give due weight to the essential role of satire in political debate (see no. 33348/96; see no. 20981/10)."
+    },
+    {
+      "Assessment of necessity and proportionality": "The sanction imposed—a forced apology (see paragraph 17) and a moderate fine of EUR 3,000 (see paragraph 30)—was not excessively severe. However, the necessity of the interference remains questionable. The ECtHR has repeatedly stressed that the protection of Article 10 is particularly strong for press publications on matters of public interest, especially when they involve political satire (see no. 20981/10; see no. 33348/96). The domestic courts’ decision to treat the photographs in isolation from the satirical text and broader context (see paragraphs 20, 23-24) may have undermined the overall message of the publication, which was a critique of political methods rather than an attack on B.G.’s personal or family life. The inclusion of the photographs, while provocative, was integral to the satirical expression and cannot be severed from its intended meaning without distorting the message."
+    }
+  ],
+  "raw_content": "```json\n{\n  \"assessment\": [\n    {\"Interference with Article 10\": \"The applicant company’s freedom of expression under Article 10 was interfered with by the domestic courts’ orders to publish an apology (see paragraph 17) and pay compensation (see paragraphs 25, 30). This interference was ‘prescribed by law’ (Article 178 and 179 of the Code of Obligations, see paragraph 33) and pursued the legitimate aim of protecting the reputation and rights of B.G. (see paragraphs 13, 24). The core issue is whether this interference was ‘necessary in a democratic society’ under Article 10 § 2.\"},\n    \n    {\"Nature of the publication\": \"The impugned publication consisted of a satirical article in the ‘Mladinamit’ section of Mladina magazine, accompanied by side-by-side photographs of B.G.’s family and Joseph Goebbels’ family (see paragraphs 8-9). The text explicitly framed the comparison as satirical, stating that B.G. was ‘not even half as good’ as Goebbels in manipulation and required ‘much more practice’ (see paragraph 8). Theirical context of the magazine’s ‘Mladinamit’ section is known for its satirical and provocative style (see paragraph 4).\"},\n    \n    {\"Public interest and role of B.G.\": \"The publication addressed a matter of public interest: the debate surrounding the comparison of B.G.’s political methods to those of Joseph Goebbels and the German Nazi Party (see paragraphs 6-7). B.G. was a prominent public figure—a member of parliament and a leading politician in an opposition party (see paragraph 5). The Court has consistently held that public figures must tolerate a higher degree of criticism, including satire, due to their role in public life (see no. 33348/96, Oberschlick v. Austria (no. 2); see no. 20981/10, Mladina d.d. Ljubljana v. Slovenia).\"},\n    \n    {\"Satirical expression under Article 10\": \"Satire is a form of artistic expression and social commentary that, by its very nature, involves exaggeration and provocation. The ECtHR has affordedit broad protection under Article 10, even when it may ‘shock, offend, or disturb’ (see no. 33348/96). In the first Mladina case (see no. 20981/10), the Court found a violation of Article 10 when domestic courts failed to give sufficient weight to the satirical nature of a similar publication in the same magazine section. The present case shares strong parallels with the first Mladina case, as both involved satirical comparisons of politicians to figures associated with Nazism in the context of political debate.\"},\n    \n    {\"Context of the photographs\": \"The photograph of B.G.’s family was taken at a public religious event (Assumption Day mass in Brezje) where B.G. and his family were aware of and consented to media coverage (see paragraph 10). Additionally, B.G. had previously involved his family in political activities to gain advantage (see paragraph 12) and had exposed his family to public and media attention (see paragraphs 15, 24). The photographs were not taken surreptitiously but at a well-attended public event, and their publication was tied to a matter of public interest. The ECtHR has held that public figures have a reduced expectation of privacy for images taken in public settings, especially when they contribute to a debate of public interest (see no. 64569/09, Axel Springer AG v. Germany; see no. 59138/10, Von Hannover v. Germany (no. 2)).\"},\n    \n    {\"Balancing the competing rights\": \"The domestic courts, including the Constitutional Court, acknowledged the satirical nature of the publication and B.G.’s status as a public figure (see paragraphs 20, 22-24). However, they concluded that the visual comparison of the family photographs went beyond a critique of political methods and instead created an unjustified association between B.G. as a ‘father and family man’ and Joseph Goebbels’ family, which is inextricably linked to the atrocities of the Nazi regime (see paragraphs 23-24). While the domestic courts’ reasoning appears thorough, the ECtHR has previously emphasized that national authorities must not overstep their margin of appreciation by imposing restrictions that do not give due weight to the essential role of satire in political debate (see no. 33348/96; see no. 20981/10).\"},\n    \n    {\"Assessment of necessity and proportionality\": \"The sanction imposed—a forced apology (see paragraph 17) and a moderate fine of EUR 3,000 (see paragraph 30)—was not excessively severe. However, the necessity of the interference remains questionable. The ECtHR has repeatedly stressed that the protection of Article 10 is particularly strong for press publications on matters of public interest, especially when they involve political satire (see no. 20981/10; see no. 33348/96). The domestic courts’ decision to treat the photographs in isolation from the satirical text and broader context (see paragraphs 20, 23-24) may have undermined the overall message of the publication, which was a critique of political methods rather than an attack on B.G.’s personal or family life. The inclusion of the photographs, while provocative, was integral to the satirical expression and cannot be severed from its intended meaning without distorting the message.\"}\n  ],\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 10305,
+    "prompt_tokens": 5815,
+    "total_tokens": 16120,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 9771,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.08601,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.08601,
+      "upstream_inference_prompt_cost": 0.0087225,
+      "upstream_inference_completions_cost": 0.0772875
+    }
+  }
+}

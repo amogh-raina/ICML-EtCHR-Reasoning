@@ -1,0 +1,85 @@
+{
+  "item_id": "001-243188",
+  "case_name": "CASE OF GEVORGYAN v. ARMENIA",
+  "case_number": "(Application no. 231/16)",
+  "date": "22 May 2025",
+  "prompt_type": "non_curated",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Applicability of Article 10 and existence of an interference": "The applicant was a journalist present to report on the distribution of leaflets by an opposition party and the ensuing police intervention, which was plainly a matter of public interest (see paragraphs 5-8). The Court’s case-law recognises that newsgathering, including filming events in public places and police conduct during demonstrations, is an integral part of press freedom protected by Article 10 (see no. 2594/07; see also no. 11882/10). The applicant was physically prevented from continuing to film, was taken to a police station, her camera and memory cards were seized for inspection, and she was held for about three hours (see paragraphs 8-10). Those measures amounted to an interference with her freedom to receive and impart information."
+    },
+    {
+      "Connection between the police measures and the applicant’s journalistic activity": "Although the Government’s version was that the applicant was removed from the road for public-order reasons, the factual material suggests a direct link between the police action and her recording of the incident. The video footage showed police officers pulling at the object in her hand while she shouted, “Let go of my camera, I’m a journalist!” (see paragraph 8). The applicant consistently stated that Officer V.G. had shouted “Grab the cameras” and that several officers had tried to seize her camera both in the street and later in the police car and station (see paragraphs 13, 15 and 16). Three journalists, including her brother and another reporter, corroborated that the police had tried to grab her camera and even another journalist’s phone while they were filming the arrests (see paragraph 26). In these circumstances, the authorities knew, or at the very least ought to have known, that she was acting as a journalist."
+    },
+    {
+      "Legitimate aim and the issue of necessity": "The impugned measures may be said to have pursued the legitimate aims of preventing disorder and protecting public safety, since the incident occurred in a crowded street where traffic had been halted and the police asserted that they were restoring order (see paragraphs 7, 8, 21, 27 and 29). However, Article 10 requires particularly careful scrutiny where the press is prevented from documenting police conduct during a political event, because such reporting contributes to public watchdog functions (see no. 1172/12; see also no. 2594/07). Here, the applicant was not shown to have been engaging in violence; rather, the evidence indicates that she was filming near the police cars when she was forcibly removed (see paragraphs 8, 15 and 26). Importantly, the criminal proceedings against her for hooliganism were later discontinued for lack of corpus delicti, the investigator finding that the incident had been short-lived and interpersonal in nature rather than an intentional gross disturbance of public order (see paragraph 31). That seriously weakens the domestic justification for her arrest and removal."
+    },
+    {
+      "Proportionality of the arrest, force used and seizure of journalistic material": "Even accepting that the police could regulate movement on the roadway, the measures taken against the applicant appear disproportionate. The authorities acknowledged that force was used against her, namely grabbing and pulling her hands, which caused a wrist injury, albeit minor (see paragraphs 14 and 29). She was then arrested on suspicion of hooliganism, searched, and her journalistic equipment was seized for inspection (see paragraphs 9 and 11). Such measures are liable to create a chilling effect on journalistic coverage of public demonstrations, especially where the journalist is documenting police action. The fact that some other journalists were able to continue reporting does not remove the interference suffered personally by the applicant (see paragraph 32). Nor does the short duration of the detention neutralise the restrictive effect. On the facts, less intrusive measures were not convincingly shown to have been insufficient."
+    },
+    {
+      "Adequacy of the authorities’ response to the applicant’s complaint": "Where a journalist makes a credible complaint that police officers obstructed reporting and attempted to seize or damage recorded material, Article 10 also requires an effective official response capable of establishing the facts and affording practical protection to press freedom (see no. 11882/10). The authorities did open criminal proceedings (see paragraph 17), but important shortcomings remained. The applicant was not granted victim status, a defect expressly recognised by the District Court (see paragraph 32). The officers were largely questioned as witnesses rather than suspects, despite the video evidence and corroborating journalist statements (see paragraphs 26, 27 and 32). The investigation and courts accepted the public-order explanation, yet did not convincingly reconcile it with the applicant’s identifiable journalistic role, the attempt to pull at her camera shown on the video, and the eventual discontinuation of the hooliganism case against her (see paragraphs 8, 29, 31 and 32). That weakens the effectiveness of the protection afforded to her Article 10 rights."
+    },
+    {
+      "Overall assessment": "The applicant was performing a journalistic function at a politically sensitive public event; the police interfered with her filming, used force against her, arrested her, and seized her equipment, and the domestic authorities later failed to provide sufficiently convincing and relevant reasons showing that those measures were necessary in a democratic society (see paragraphs 5-10, 15, 26, 29 and 31-32). In light of the Court’s approach to the protection of newsgathering and the press watchdog role in the context of demonstrations and police operations (see no. 2594/07; no. 1172/12; no. 11882/10), the balance appears to fall in favour of the applicant. The interference was therefore likely disproportionate under Article 10."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"Applicability of Article 10 and existence of an interference\": \"The applicant was a journalist present to report on the distribution of leaflets by an opposition party and the ensuing police intervention, which was plainly a matter of public interest (see paragraphs 5-8). The Court’s case-law recognises that newsgathering, including filming events in public places and police conduct during demonstrations, is an integral part of press freedom protected by Article 10 (see no. 2594/07; see also no. 11882/10). The applicant was physically prevented from continuing to film, was taken to a police station, her camera and memory cards were seized for inspection, and she was held for about three hours (see paragraphs 8-10). Those measures amounted to an interference with her freedom to receive and impart information.\"\n    },\n    {\n      \"Connection between the police measures and the applicant’s journalistic activity\": \"Although the Government’s version was that the applicant was removed from the road for public-order reasons, the factual material suggests a direct link between the police action and her recording of the incident. The video footage showed police officers pulling at the object in her hand while she shouted, “Let go of my camera, I’m a journalist!” (see paragraph 8). The applicant consistently stated that Officer V.G. had shouted “Grab the cameras” and that several officers had tried to seize her camera both in the street and later in the police car and station (see paragraphs 13, 15 and 16). Three journalists, including her brother and another reporter, corroborated that the police had tried to grab her camera and even another journalist’s phone while they were filming the arrests (see paragraph 26). In these circumstances, the authorities knew, or at the very least ought to have known, that she was acting as a journalist.\"\n    },\n    {\n      \"Legitimate aim and the issue of necessity\": \"The impugned measures may be said to have pursued the legitimate aims of preventing disorder and protecting public safety, since the incident occurred in a crowded street where traffic had been halted and the police asserted that they were restoring order (see paragraphs 7, 8, 21, 27 and 29). However, Article 10 requires particularly careful scrutiny where the press is prevented from documenting police conduct during a political event, because such reporting contributes to public watchdog functions (see no. 1172/12; see also no. 2594/07). Here, the applicant was not shown to have been engaging in violence; rather, the evidence indicates that she was filming near the police cars when she was forcibly removed (see paragraphs 8, 15 and 26). Importantly, the criminal proceedings against her for hooliganism were later discontinued for lack of corpus delicti, the investigator finding that the incident had been short-lived and interpersonal in nature rather than an intentional gross disturbance of public order (see paragraph 31). That seriously weakens the domestic justification for her arrest and removal.\"\n    },\n    {\n      \"Proportionality of the arrest, force used and seizure of journalistic material\": \"Even accepting that the police could regulate movement on the roadway, the measures taken against the applicant appear disproportionate. The authorities acknowledged that force was used against her, namely grabbing and pulling her hands, which caused a wrist injury, albeit minor (see paragraphs 14 and 29). She was then arrested on suspicion of hooliganism, searched, and her journalistic equipment was seized for inspection (see paragraphs 9 and 11). Such measures are liable to create a chilling effect on journalistic coverage of public demonstrations, especially where the journalist is documenting police action. The fact that some other journalists were able to continue reporting does not remove the interference suffered personally by the applicant (see paragraph 32). Nor does the short duration of the detention neutralise the restrictive effect. On the facts, less intrusive measures were not convincingly shown to have been insufficient.\"\n    },\n    {\n      \"Adequacy of the authorities’ response to the applicant’s complaint\": \"Where a journalist makes a credible complaint that police officers obstructed reporting and attempted to seize or damage recorded material, Article 10 also requires an effective official response capable of establishing the facts and affording practical protection to press freedom (see no. 11882/10). The authorities did open criminal proceedings (see paragraph 17), but important shortcomings remained. The applicant was not granted victim status, a defect expressly recognised by the District Court (see paragraph 32). The officers were largely questioned as witnesses rather than suspects, despite the video evidence and corroborating journalist statements (see paragraphs 26, 27 and 32). The investigation and courts accepted the public-order explanation, yet did not convincingly reconcile it with the applicant’s identifiable journalistic role, the attempt to pull at her camera shown on the video, and the eventual discontinuation of the hooliganism case against her (see paragraphs 8, 29, 31 and 32). That weakens the effectiveness of the protection afforded to her Article 10 rights.\"\n    },\n    {\n      \"Overall assessment\": \"The applicant was performing a journalistic function at a politically sensitive public event; the police interfered with her filming, used force against her, arrested her, and seized her equipment, and the domestic authorities later failed to provide sufficiently convincing and relevant reasons showing that those measures were necessary in a democratic society (see paragraphs 5-10, 15, 26, 29 and 31-32). In light of the Court’s approach to the protection of newsgathering and the press watchdog role in the context of demonstrations and police operations (see no. 2594/07; no. 1172/12; no. 11882/10), the balance appears to fall in favour of the applicant. The interference was therefore likely disproportionate under Article 10.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 2235,
+    "prompt_tokens": 5369,
+    "total_tokens": 7604,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1002,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0469475,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0469475,
+      "upstream_inference_prompt_cost": 0.0134225,
+      "upstream_inference_completions_cost": 0.033525
+    }
+  },
+  "citations": [
+    "2594/07",
+    "11882/10",
+    "1172/12"
+  ],
+  "ref_paragraphs": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    13,
+    14,
+    15,
+    16,
+    17,
+    21,
+    26,
+    27,
+    29,
+    31,
+    32
+  ]
+}

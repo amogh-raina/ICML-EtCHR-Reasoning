@@ -1,0 +1,83 @@
+{
+  "item_id": "001-242860",
+  "case_name": "CASE OF TERGEK v. TÜRKİYE",
+  "case_number": "(Application no. 39631/20)",
+  "date": "29 April 2025",
+  "prompt_type": "non_curated",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Applicability of Article 10 and existence of an interference": "The measures complained of concern the applicant’s receipt of a letter from his sister and a letter from his wife, together with printed documents relating, according to him, to physiotherapy exercises and a distance-learning real-estate course (see paragraphs 5, 7, 10 and 12). Even in prison, a detainee retains the right to receive information and ideas, and restrictions on incoming written material fall within Article 10 (see nos. 39084/97, 20233/06 and 66400/01). The withholding of the first set of documents for about one year, and the complete refusal to hand over the second set, therefore amounted to an interference with the applicant’s Article 10 rights (see paragraphs 6, 9 and 11-14)."
+    },
+    {
+      "Prescribed by law and legitimate aim": "The interference appears to have had a basis in domestic law, namely sections 62 and 68 of Law no. 5275 and the relevant prison regulations (see paragraphs 17, 19 and 21). It also pursued at least on its face legitimate aims recognised under Article 10 § 2, notably the prevention of disorder or crime and the protection of prison security, especially since the applicant had been convicted of membership of the FETÖ/PDY (see paragraphs 4, 6 and 11). The central issue is therefore whether the authorities showed that the restrictions were necessary in a democratic society."
+    },
+    {
+      "The first letter: lack of an individualised assessment": "As regards the first letter, the Disciplinary Board relied on general assertions that the internet printouts might threaten prison security, that their source and purpose were unclear, and that they might facilitate organisational communication within FETÖ/PDY (see paragraph 6). However, the applicant gave a concrete and innocent explanation: part of the material concerned ankle rehabilitation after an injury and part concerned study materials needed for examinations (see paragraph 7). Importantly, the enforcement judge later accepted his objection and expressly held that the withholding had been unlawful because the authorities had relied only on a general inspection and had not conducted any specific assessment of the actual content of the documents (see paragraph 8). The material was ultimately delivered only on 25 October 2019, around a year after it had been withheld (see paragraph 9). In the Court’s case-law, prison restrictions based on abstract risks rather than a concrete examination of the material do not satisfy the requirement of relevant and sufficient reasons (see nos. 48876/08, 56925/08 and 14946/08)."
+    },
+    {
+      "The second letter: blanket exclusion of internet printouts": "The position is even clearer regarding the second letter. The Disciplinary Board withheld sixty-one pages of internet printouts simply by referring to section 68(3) and to a 2016 administrative decision about general risks associated with internet printouts; it did not address the content of the withheld documents at all (see paragraph 11). The applicant again explained that the material concerned physiotherapy and real-estate management and was important for his rehabilitation and education (see paragraph 12). Nevertheless, the enforcement judge dismissed the objection on purely formal grounds, stating that internet printouts were neither 'books' nor 'correspondence' because of their unknown origin and susceptibility to interference, and suggesting that the prison library was available instead (see paragraph 13). The assize court endorsed that reasoning (see paragraph 14). Such reasoning points to a near-automatic prohibition on a category of material, not a balancing exercise based on the specific content, the applicant’s personal needs, or any demonstrated security risk. Under the Court’s standards, a blanket or formalistic refusal to allow access to written material in prison is difficult to reconcile with Article 10 (see nos. 20233/06, 21830/09 and 66400/01)."
+    },
+    {
+      "Insufficient proportionality and weak procedural safeguards": "The proportionality assessment was particularly deficient because the impugned materials were said to serve rehabilitative and educational purposes, which are ordinarily compatible with the aims of detention rather than contrary to them (see paragraphs 7 and 12). The domestic authorities did not identify any concrete phrase, passage or image that endangered security, nor did they explain why less restrictive options were unavailable, such as examining the documents individually or removing only problematic pages. The Constitutional Court then dismissed the applicant’s complaints with a brief formula referring to its previous case-law, without engaging with the specific facts of the present case, including the enforcement judge’s finding that the first withholding had been unlawful and the absence of any content-based analysis for the second letter (see paragraphs 8, 11, 13 and 16). This weak review further supports the conclusion that the interference was not convincingly justified under Article 10 (see nos. 48876/08 and 56925/08)."
+    },
+    {
+      "Overall conclusion under Article 10": "Taking the two incidents together, the domestic authorities relied on vague security concerns and categorical objections to internet printouts, but failed to carry out the individualised examination required by Article 10. The first set of documents was withheld for a prolonged period despite later being found to have been blocked unlawfully, and the second set was withheld on an essentially blanket basis without any analysis of its content (see paragraphs 8, 9, 11, 13 and 14). In line with the Court’s prison-expression jurisprudence, the reasons given were not relevant and sufficient, and the interference cannot be regarded as necessary in a democratic society (see nos. 39084/97, 20233/06, 14946/08 and 66400/01)."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"Applicability of Article 10 and existence of an interference\": \"The measures complained of concern the applicant’s receipt of a letter from his sister and a letter from his wife, together with printed documents relating, according to him, to physiotherapy exercises and a distance-learning real-estate course (see paragraphs 5, 7, 10 and 12). Even in prison, a detainee retains the right to receive information and ideas, and restrictions on incoming written material fall within Article 10 (see nos. 39084/97, 20233/06 and 66400/01). The withholding of the first set of documents for about one year, and the complete refusal to hand over the second set, therefore amounted to an interference with the applicant’s Article 10 rights (see paragraphs 6, 9 and 11-14).\"\n    },\n    {\n      \"Prescribed by law and legitimate aim\": \"The interference appears to have had a basis in domestic law, namely sections 62 and 68 of Law no. 5275 and the relevant prison regulations (see paragraphs 17, 19 and 21). It also pursued at least on its face legitimate aims recognised under Article 10 § 2, notably the prevention of disorder or crime and the protection of prison security, especially since the applicant had been convicted of membership of the FETÖ/PDY (see paragraphs 4, 6 and 11). The central issue is therefore whether the authorities showed that the restrictions were necessary in a democratic society.\"\n    },\n    {\n      \"The first letter: lack of an individualised assessment\": \"As regards the first letter, the Disciplinary Board relied on general assertions that the internet printouts might threaten prison security, that their source and purpose were unclear, and that they might facilitate organisational communication within FETÖ/PDY (see paragraph 6). However, the applicant gave a concrete and innocent explanation: part of the material concerned ankle rehabilitation after an injury and part concerned study materials needed for examinations (see paragraph 7). Importantly, the enforcement judge later accepted his objection and expressly held that the withholding had been unlawful because the authorities had relied only on a general inspection and had not conducted any specific assessment of the actual content of the documents (see paragraph 8). The material was ultimately delivered only on 25 October 2019, around a year after it had been withheld (see paragraph 9). In the Court’s case-law, prison restrictions based on abstract risks rather than a concrete examination of the material do not satisfy the requirement of relevant and sufficient reasons (see nos. 48876/08, 56925/08 and 14946/08).\"\n    },\n    {\n      \"The second letter: blanket exclusion of internet printouts\": \"The position is even clearer regarding the second letter. The Disciplinary Board withheld sixty-one pages of internet printouts simply by referring to section 68(3) and to a 2016 administrative decision about general risks associated with internet printouts; it did not address the content of the withheld documents at all (see paragraph 11). The applicant again explained that the material concerned physiotherapy and real-estate management and was important for his rehabilitation and education (see paragraph 12). Nevertheless, the enforcement judge dismissed the objection on purely formal grounds, stating that internet printouts were neither 'books' nor 'correspondence' because of their unknown origin and susceptibility to interference, and suggesting that the prison library was available instead (see paragraph 13). The assize court endorsed that reasoning (see paragraph 14). Such reasoning points to a near-automatic prohibition on a category of material, not a balancing exercise based on the specific content, the applicant’s personal needs, or any demonstrated security risk. Under the Court’s standards, a blanket or formalistic refusal to allow access to written material in prison is difficult to reconcile with Article 10 (see nos. 20233/06, 21830/09 and 66400/01).\"\n    },\n    {\n      \"Insufficient proportionality and weak procedural safeguards\": \"The proportionality assessment was particularly deficient because the impugned materials were said to serve rehabilitative and educational purposes, which are ordinarily compatible with the aims of detention rather than contrary to them (see paragraphs 7 and 12). The domestic authorities did not identify any concrete phrase, passage or image that endangered security, nor did they explain why less restrictive options were unavailable, such as examining the documents individually or removing only problematic pages. The Constitutional Court then dismissed the applicant’s complaints with a brief formula referring to its previous case-law, without engaging with the specific facts of the present case, including the enforcement judge’s finding that the first withholding had been unlawful and the absence of any content-based analysis for the second letter (see paragraphs 8, 11, 13 and 16). This weak review further supports the conclusion that the interference was not convincingly justified under Article 10 (see nos. 48876/08 and 56925/08).\"\n    },\n    {\n      \"Overall conclusion under Article 10\": \"Taking the two incidents together, the domestic authorities relied on vague security concerns and categorical objections to internet printouts, but failed to carry out the individualised examination required by Article 10. The first set of documents was withheld for a prolonged period despite later being found to have been blocked unlawfully, and the second set was withheld on an essentially blanket basis without any analysis of its content (see paragraphs 8, 9, 11, 13 and 14). In line with the Court’s prison-expression jurisprudence, the reasons given were not relevant and sufficient, and the interference cannot be regarded as necessary in a democratic society (see nos. 39084/97, 20233/06, 14946/08 and 66400/01).\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 2260,
+    "prompt_tokens": 3185,
+    "total_tokens": 5445,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1034,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0418625,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0418625,
+      "upstream_inference_prompt_cost": 0.0079625,
+      "upstream_inference_completions_cost": 0.0339
+    }
+  },
+  "citations": [
+    "39084/97",
+    "20233/06",
+    "66400/01",
+    "48876/08",
+    "56925/08",
+    "14946/08",
+    "21830/09"
+  ],
+  "ref_paragraphs": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    16,
+    17,
+    19,
+    21
+  ]
+}

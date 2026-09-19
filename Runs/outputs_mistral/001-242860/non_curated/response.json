@@ -1,0 +1,57 @@
+{
+  "item_id": "001-242860",
+  "case_name": "CASE OF TERGEK v. TÜRKİYE",
+  "case_number": "(Application no. 39631/20)",
+  "date": "29 April 2025",
+  "prompt_type": "non_curated",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Establishment of interference": "The withholding of two letters and their enclosures addressed to the applicant by the prison authorities constitutes an interference with his right to receive information, which falls within the scope of Article 10 of the Convention (see paragraphs 5-14)."
+    },
+    {
+      "Prescribed by law and legitimate aim": "The interference was based on sections 68(3) and 62 of Law no. 5275 and pursued legitimate aims under Article 10(2), namely the prevention of disorder and crime in the prison context (see paragraphs 6, 11, 17-19)."
+    },
+    {
+      "Lack of specific content assessment – first letter": "The Disciplinary Board’s decision to withhold the first letter was based on general concerns about prison security and unclear publication details, without a specific assessment of the documents’ content (see paragraph 6). The enforcement judge later ruled this decision unlawful precisely for this reason, noting that withholding based solely on general inspection without content analysis violated freedom of communication and expression (see paragraph 8). The documents contained physiotherapy and educational material, which are particularly protected forms of information (see paragraph 7)."
+    },
+    {
+      "Blanket restriction – second letter": "The second letter’s enclosures were withheld based on a blanket policy against internet printouts, as evidenced by the reference to a 2016 decision, without any examination of their specific content (see paragraph 11). The enforcement judge and Assize Court upheld this on formal grounds, ignoring the substance of the materials (see paragraphs 13-14). The Constitutional Court’s dismissal relied on a formalistic distinction between document types, rather than a proportionality assessment (see paragraph 16)."
+    },
+    {
+      "Disproportionate interference under ECtHR standards": "The ECtHR has established that restrictions on freedom of expression must be necessary in a democratic society, requiring a pressing social need and proportionality (see no. 48876/08). Blanket restrictions without individual content assessment are generally incompatible with Article 10 (see no. 56925/08). Here, neither withholding decision demonstrated a concrete, content-based justification. The legitimate purposes of the materials—medical rehabilitation and education—further underscore the disproportionate nature of the restrictions (see paragraphs 7, 12)."
+    },
+    {
+      "Failure of domestic review to meet Convention standards": "While the domestic enforcement judge eventually rectified the withholding of the first letter, the initial interference lacked a lawful basis under national standards (see paragraph 8). For the second letter, all domestic instances upheld the restriction based on the formal classification of the documents as internet printouts, rather than their actual content. This approach fails to meet the ECtHR’s requirement for a specific, proportional assessment under Article 10 (see no. 21830/09)."
+    }
+  ],
+  "raw_content": "```json\n{\n  \"assessment\": [\n    {\"Establishment of interference\": \"The withholding of two letters and their enclosures addressed to the applicant by the prison authorities constitutes an interference with his right to receive information, which falls within the scope of Article 10 of the Convention (see paragraphs 5-14).\"},\n    \n    {\"Prescribed by law and legitimate aim\": \"The interference was based on sections 68(3) and 62 of Law no. 5275 and pursued legitimate aims under Article 10(2), namely the prevention of disorder and crime in the prison context (see paragraphs 6, 11, 17-19).\"},\n\n    {\"Lack of specific content assessment – first letter\": \"The Disciplinary Board’s decision to withhold the first letter was based on general concerns about prison security and unclear publication details, without a specific assessment of the documents’ content (see paragraph 6). The enforcement judge later ruled this decision unlawful precisely for this reason, noting that withholding based solely on general inspection without content analysis violated freedom of communication and expression (see paragraph 8). The documents contained physiotherapy and educational material, which are particularly protected forms of information (see paragraph 7).\"},\n\n    {\"Blanket restriction – second letter\": \"The second letter’s enclosures were withheld based on a blanket policy against internet printouts, as evidenced by the reference to a 2016 decision, without any examination of their specific content (see paragraph 11). The enforcement judge and Assize Court upheld this on formal grounds, ignoring the substance of the materials (see paragraphs 13-14). The Constitutional Court’s dismissal relied on a formalistic distinction between document types, rather than a proportionality assessment (see paragraph 16).\"},\n\n    {\"Disproportionate interference under ECtHR standards\": \"The ECtHR has established that restrictions on freedom of expression must be necessary in a democratic society, requiring a pressing social need and proportionality (see no. 48876/08). Blanket restrictions without individual content assessment are generally incompatible with Article 10 (see no. 56925/08). Here, neither withholding decision demonstrated a concrete, content-based justification. The legitimate purposes of the materials—medical rehabilitation and education—further underscore the disproportionate nature of the restrictions (see paragraphs 7, 12).\"},\n    \n    {\"Failure of domestic review to meet Convention standards\": \"While the domestic enforcement judge eventually rectified the withholding of the first letter, the initial interference lacked a lawful basis under national standards (see paragraph 8). For the second letter, all domestic instances upheld the restriction based on the formal classification of the documents as internet printouts, rather than their actual content. This approach fails to meet the ECtHR’s requirement for a specific, proportional assessment under Article 10 (see no. 21830/09).\"}\n  ],\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 6095,
+    "prompt_tokens": 3428,
+    "total_tokens": 9523,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 6153,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0508545,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0508545,
+      "upstream_inference_prompt_cost": 0.005142,
+      "upstream_inference_completions_cost": 0.0457125
+    }
+  }
+}

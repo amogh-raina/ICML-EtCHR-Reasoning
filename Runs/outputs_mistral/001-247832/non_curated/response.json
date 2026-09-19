@@ -1,0 +1,63 @@
+{
+  "item_id": "001-247832",
+  "case_name": "CASE OF SIC - SOCIEDADE INDEPENDENTE DE COMUNICAÇÃO, S.A v. PORTUGAL (No. 2)",
+  "case_number": "(Application no. 2746/21)",
+  "date": "13 January 2026",
+  "prompt_type": "non_curated",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [],
+  "violation_prediction": "no",
+  "assessment": [
+    {
+      "Engagement of Article 10": "The applicant company’s broadcasting of the documentary series featuring extracts from the comedy show falls within the scope of Article 10 of the Convention, which protects freedom of expression. The Supreme Court’s judgment ordering the removal of broadcasts containing the claimants’ images and voices, as well as the payment of damages (see paragraphs 17-19), constituted an interference with the applicant company’s rights under Article 10."
+    },
+    {
+      "Prescribed by Law": "The interference was based on Article 79 of the Civil Code and Article 3(h) of the Personal Data Protection Law, as applied by the Supreme Court (see paragraphs 21-22). These national legal provisions, interpreted to require express and unequivocal consent for the broadcast of the claimants’ images and voices (see paragraph 18), were sufficiently accessible and foreseeable to satisfy the requirement of being 'prescribed by law' under Article 10(2)."
+    },
+    {
+      "Legitimate Aim": "The interference pursued the legitimate aim of protecting the rights of others, specifically the right to one’s image and reputation of M.G. and M.C. (see paragraph 14). This aim is explicitly recognized under Article 10(2) of the Convention as a valid ground for restricting freedom of expression."
+    },
+    {
+      "Nature and Scope of the Expression": "The broadcast in question was a comedy documentary series, which constitutes a form of artistic expression protected under Article 10 (see no. 23556/94). However, the restriction did not target the comedic content itself but rather the unauthorized use of the claimants’ images and voices, which were edited and presented in promotional material and specific episodes (see paragraphs 9-11). The Supreme Court explicitly noted that the comedian’s freedom of expression was not at issue (see paragraph 18), highlighting that the interference was limited to the manner of dissemination, not the expressive content."
+    },
+    {
+      "Consent and Contextual Use of Images": "Although the recording took place at a public event where attendees were notified of filming (see paragraphs 2-4), the Supreme Court found that tacit consent could only be presumed for the recording of the show itself, not for the subsequent editing, broadcasting, and promotional use of the claimants’ images and voices (see paragraph 18). The Court’s jurisprudence recognizes that consent for one specific use does not automatically authorize all future uses, particularly when images are edited or taken out of context for promotional purposes (see no. 44647/98). The edited use—including close-ups, musical effects, and selective framing—transformed the context in a manner that risked harming the claimants’ reputation and dignity."
+    },
+    {
+      "Proportionality of the Interference": "The interference was narrowly tailored and proportionate. The Supreme Court did not prohibit the broadcast of the comedy show itself but only the unauthorized use of the claimants’ images and voices in specific contexts (see paragraphs 17-18). The damages awarded were limited to compensation for the harm suffered and punitive measures to deter future violations, rather than a blanket restriction on the applicant company’s programming (see paragraph 17). This approach aligns with the Court’s requirement that restrictions on freedom of expression be proportionate to the legitimate aim pursued (see no. 25358/12)."
+    },
+    {
+      "Balancing of Competing Rights": "The domestic courts, particularly the Supreme Court, engaged in a thorough balancing exercise. They weighed the applicant company’s right to freedom of expression against the claimants’ right to their image, explicitly acknowledging the limits of tacit consent and the potential harm caused by the edited and out-of-context use of their images (see paragraph 18). This careful assessment is consistent with the Court’s jurisprudence, which requires domestic authorities to balance competing rights in a manner that is necessary and proportionate (see no. 25358/12)."
+    },
+    {
+      "Necessity in a Democratic Society": "In light of the specific circumstances—the public nature of the event, the lack of express consent for the broadcast use, the edited and promotional context of the images, and the potential harm to the claimants’ reputation and dignity—the interference with the applicant company’s Article 10 rights was justified as necessary in a democratic society. The measure did not impose an excessive burden on freedom of expression and was designed to address a specific, well-founded concern regarding the unauthorized use of personal images (see no. 44647/98)."
+    }
+  ],
+  "raw_content": "```json\n{\n  \"assessment\": [\n    {\"Engagement of Article 10\": \"The applicant company’s broadcasting of the documentary series featuring extracts from the comedy show falls within the scope of Article 10 of the Convention, which protects freedom of expression. The Supreme Court’s judgment ordering the removal of broadcasts containing the claimants’ images and voices, as well as the payment of damages (see paragraphs 17-19), constituted an interference with the applicant company’s rights under Article 10.\"},\n\n    {\"Prescribed by Law\": \"The interference was based on Article 79 of the Civil Code and Article 3(h) of the Personal Data Protection Law, as applied by the Supreme Court (see paragraphs 21-22). These national legal provisions, interpreted to require express and unequivocal consent for the broadcast of the claimants’ images and voices (see paragraph 18), were sufficiently accessible and foreseeable to satisfy the requirement of being 'prescribed by law' under Article 10(2).\"}, \n\n    {\"Legitimate Aim\": \"The interference pursued the legitimate aim of protecting the rights of others, specifically the right to one’s image and reputation of M.G. and M.C. (see paragraph 14). This aim is explicitly recognized under Article 10(2) of the Convention as a valid ground for restricting freedom of expression.\"},\n\n    {\"Nature and Scope of the Expression\": \"The broadcast in question was a comedy documentary series, which constitutes a form of artistic expression protected under Article 10 (see no. 23556/94). However, the restriction did not target the comedic content itself but rather the unauthorized use of the claimants’ images and voices, which were edited and presented in promotional material and specific episodes (see paragraphs 9-11). The Supreme Court explicitly noted that the comedian’s freedom of expression was not at issue (see paragraph 18), highlighting that the interference was limited to the manner of dissemination, not the expressive content.\"},\n\n    {\"Consent and Contextual Use of Images\": \"Although the recording took place at a public event where attendees were notified of filming (see paragraphs 2-4), the Supreme Court found that tacit consent could only be presumed for the recording of the show itself, not for the subsequent editing, broadcasting, and promotional use of the claimants’ images and voices (see paragraph 18). The Court’s jurisprudence recognizes that consent for one specific use does not automatically authorize all future uses, particularly when images are edited or taken out of context for promotional purposes (see no. 44647/98). The edited use—including close-ups, musical effects, and selective framing—transformed the context in a manner that risked harming the claimants’ reputation and dignity.\"},\n\n    {\"Proportionality of the Interference\": \"The interference was narrowly tailored and proportionate. The Supreme Court did not prohibit the broadcast of the comedy show itself but only the unauthorized use of the claimants’ images and voices in specific contexts (see paragraphs 17-18). The damages awarded were limited to compensation for the harm suffered and punitive measures to deter future violations, rather than a blanket restriction on the applicant company’s programming (see paragraph 17). This approach aligns with the Court’s requirement that restrictions on freedom of expression be proportionate to the legitimate aim pursued (see no. 25358/12).\"},\n\n    {\"Balancing of Competing Rights\": \"The domestic courts, particularly the Supreme Court, engaged in a thorough balancing exercise. They weighed the applicant company’s right to freedom of expression against the claimants’ right to their image, explicitly acknowledging the limits of tacit consent and the potential harm caused by the edited and out-of-context use of their images (see paragraph 18). This careful assessment is consistent with the Court’s jurisprudence, which requires domestic authorities to balance competing rights in a manner that is necessary and proportionate (see no. 25358/12).\"},\n    \n    {\"Necessity in a Democratic Society\": \"In light of the specific circumstances—the public nature of the event, the lack of express consent for the broadcast use, the edited and promotional context of the images, and the potential harm to the claimants’ reputation and dignity—the interference with the applicant company’s Article 10 rights was justified as necessary in a democratic society. The measure did not impose an excessive burden on freedom of expression and was designed to address a specific, well-founded concern regarding the unauthorized use of personal images (see no. 44647/98).\"}\n  ],\n  \"violation\": \"no\"\n}\n```",
+  "usage": {
+    "completion_tokens": 9084,
+    "prompt_tokens": 4762,
+    "total_tokens": 13846,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 9443,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.075273,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.075273,
+      "upstream_inference_prompt_cost": 0.007143,
+      "upstream_inference_completions_cost": 0.06813
+    }
+  }
+}

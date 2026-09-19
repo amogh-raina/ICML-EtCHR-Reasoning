@@ -1,0 +1,46 @@
+{
+  "item_id": "001-245386",
+  "case_name": "CASE OF MORTENSEN v. DENMARK",
+  "case_number": "(Application no. 16756/24)",
+  "date": "21 October 2025",
+  "prompt_type": "instruction",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": {
+    "Existence of an interference": "The applicant’s conviction for defamation under Article 267 of the Danish Penal Code, the fine imposed, the order to delete the Twitter post, and the requirement to pay compensation to R.P. clearly constitute an interference with his right to freedom of expression under Article 10 of the Convention (see paragraph 9). The interference took the form of a criminal sanction and a compelled act (deletion and compensation), which directly restricted the applicant’s ability to express his views on a public platform. Since an interference with the right to freedom of expression is established, the assessment proceeds to the next step.",
+    "Lawfulness of the interference": "The interference was based on Articles 267, 269, 270, and 271 of the Danish Penal Code, as applied by the District Court and upheld by the High Court (see paragraphs 9, 11, and 13–15). The legal provisions were in force at the time of the applicant’s post and were applied in accordance with domestic procedural rules. The legislative framework was also reviewed in 2018 to align with Convention standards (see paragraph 14). Therefore, the interference was prescribed by law, satisfying the second requirement under Article 10 § 2 of the Convention.",
+    "Legitimate aims of the interference": "The interference pursued the aim of protecting the reputation of R.P., a political figure, as explicitly stated in the domestic courts’ judgments (see paragraphs 9 and 11). Under Article 10 § 2 of the Convention, the ‘protection of the reputation or rights of others’ is a legitimate aim. Since the interference served this recognized purpose, the assessment proceeds to the final step.",
+    "Necessary in a democratic society": "The interference does not satisfy the ‘necessary in a democratic society’ test. While the domestic courts found that the applicant’s statement lacked a sufficient factual basis and did not contribute to a public debate of societal interest (see paragraph 11), the European Court’s jurisprudence accords heightened protection to speech concerning public figures, particularly in political contexts. As a founder and leader of political parties actively engaged in public discourse (see paragraph 6), R.P. was a public figure whose actions and views were subject to scrutiny. The ECtHR has consistently held that politicians must tolerate a higher degree of criticism, including value judgments, unless such statements are wholly without foundation or made in bad faith (see no. 49017/99, *Thoma v. Luxembourg*; see no. 26958/95, *Lerma v. Spain*). Here, the applicant’s post addressed R.P.’s controversial public conduct—such as Koran burning and racist speech convictions (see paragraphs 6–7)—which were already part of an ongoing public debate. The domestic courts’ conclusion that the statement did not serve a meritorious public interest (see paragraph 11) is at odds with the ECtHR’s stance that political speech, even if provocative, is at the core of Article 10 protections (see no. 19657/12, *Gwijde Temmerman v. Belgium*). Furthermore, the criminal sanction, financial penalty, and forced deletion were not the least restrictive means available, as the statement did not incite violence or hatred and contributed to a debate on a matter of public concern. Thus, the interference cannot be deemed proportionate or convincing under the Convention’s standards."
+  },
+  "raw_content": "```json\n{\n  \"assessment\": {\n    \"Existence of an interference\": \"The applicant’s conviction for defamation under Article 267 of the Danish Penal Code, the fine imposed, the order to delete the Twitter post, and the requirement to pay compensation to R.P. clearly constitute an interference with his right to freedom of expression under Article 10 of the Convention (see paragraph 9). The interference took the form of a criminal sanction and a compelled act (deletion and compensation), which directly restricted the applicant’s ability to express his views on a public platform. Since an interference with the right to freedom of expression is established, the assessment proceeds to the next step.\",\n\n    \"Lawfulness of the interference\": \"The interference was based on Articles 267, 269, 270, and 271 of the Danish Penal Code, as applied by the District Court and upheld by the High Court (see paragraphs 9, 11, and 13–15). The legal provisions were in force at the time of the applicant’s post and were applied in accordance with domestic procedural rules. The legislative framework was also reviewed in 2018 to align with Convention standards (see paragraph 14). Therefore, the interference was prescribed by law, satisfying the second requirement under Article 10 § 2 of the Convention.\",\n\n    \"Legitimate aims of the interference\": \"The interference pursued the aim of protecting the reputation of R.P., a political figure, as explicitly stated in the domestic courts’ judgments (see paragraphs 9 and 11). Under Article 10 § 2 of the Convention, the ‘protection of the reputation or rights of others’ is a legitimate aim. Since the interference served this recognized purpose, the assessment proceeds to the final step.\",\n\n    \"Necessary in a democratic society\": \"The interference does not satisfy the ‘necessary in a democratic society’ test. While the domestic courts found that the applicant’s statement lacked a sufficient factual basis and did not contribute to a public debate of societal interest (see paragraph 11), the European Court’s jurisprudence accords heightened protection to speech concerning public figures, particularly in political contexts. As a founder and leader of political parties actively engaged in public discourse (see paragraph 6), R.P. was a public figure whose actions and views were subject to scrutiny. The ECtHR has consistently held that politicians must tolerate a higher degree of criticism, including value judgments, unless such statements are wholly without foundation or made in bad faith (see no. 49017/99, *Thoma v. Luxembourg*; see no. 26958/95, *Lerma v. Spain*). Here, the applicant’s post addressed R.P.’s controversial public conduct—such as Koran burning and racist speech convictions (see paragraphs 6–7)—which were already part of an ongoing public debate. The domestic courts’ conclusion that the statement did not serve a meritorious public interest (see paragraph 11) is at odds with the ECtHR’s stance that political speech, even if provocative, is at the core of Article 10 protections (see no. 19657/12, *Gwijde Temmerman v. Belgium*). Furthermore, the criminal sanction, financial penalty, and forced deletion were not the least restrictive means available, as the statement did not incite violence or hatred and contributed to a debate on a matter of public concern. Thus, the interference cannot be deemed proportionate or convincing under the Convention’s standards.\"\n  },\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 4312,
+    "prompt_tokens": 3837,
+    "total_tokens": 8149,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 3800,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0380955,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0380955,
+      "upstream_inference_prompt_cost": 0.0057555,
+      "upstream_inference_completions_cost": 0.03234
+    }
+  }
+}

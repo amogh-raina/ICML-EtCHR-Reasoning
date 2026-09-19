@@ -1,0 +1,89 @@
+{
+  "item_id": "001-242859",
+  "case_name": "CASE OF AVAGYAN v. RUSSIA",
+  "case_number": "(Application no. 36911/20)",
+  "date": "29 April 2025",
+  "prompt_type": "non_curated",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "1. Interference with the applicant’s freedom of expression": "The applicant was fined for comments posted on Instagram concerning the existence of COVID-19 cases in the Krasnodar Region and the authorities’ motives in reporting them (see paragraph 5). Her conviction under Article 13.15(9) of the CAO and the fine of RUB 30,000 clearly amounted to an interference with her right to impart information and ideas (see paragraphs 6, 8 and 9). The comments concerned a matter of public interest, namely the pandemic and the authorities’ response, which attracts a high level of protection under Article 10, even where the statements may be provocative, exaggerated or poorly substantiated (see nos. 22385/03, 18030/11)."
+    },
+    {
+      "2. Legal basis and legitimate aim": "The interference had a basis in domestic law, namely Article 13.15(9) of the CAO, which penalised the dissemination of socially important information known to be untrue where it created a risk to life or health (see paragraph 13). It also pursued, at least in principle, the legitimate aims of protecting health and public safety in the context of the COVID-19 pandemic. However, in a public-health emergency the Court still requires particularly careful scrutiny of whether the restriction answered a pressing social need and whether the domestic courts convincingly established all elements of the offence (see nos. 20007/22, 28232/22)."
+    },
+    {
+      "3. Nature and context of the impugned statements": "The applicant’s post combined factual assertions with opinion and speculation. The phrase that there had been no reported cases and no confirmed test results was framed as a challenge to the official narrative, followed by the rhetorical remark, “Think about why our government would need this” (see paragraph 5). Her reply that “people are afraid to speak up” and that “there is money to be had” for listing coronavirus as the cause of death was even more clearly conjectural and polemical (see paragraph 5). The domestic courts treated the publication as a simple false statement of fact without examining its online conversational context, the applicant’s use of social media for personal business purposes, or the limited reach of the account, which had 2,600 followers and generated only minimal interaction in the material extracted by the police (see paragraph 5). Such contextual factors are relevant to proportionality (see nos. 69575/10, 23158/20)."
+    },
+    {
+      "4. Failure to establish falsity and the applicant’s knowledge": "A central defect lies in the domestic courts’ handling of the burden of proof. Article 13.15(9) required that the information be 'known to be untrue' and disseminated 'under the guise of reliable reports' (see paragraph 13). The applicant argued that she relied on publicly available sources and that the local situation had not been officially confirmed or denied in a manner she could verify (see paragraph 7). Yet the first-instance court did not require the authorities to prove either the falsity of her claims at the time of posting or her awareness of that falsity. Instead, it held against her that she had failed to produce evidence disproving the existence of coronavirus in the region (see paragraph 8). That approach directly conflicted with the domestic presumption of innocence under Article 1.5 of the CAO, according to which the defendant was not required to prove her innocence (see paragraph 12). The Strasbourg Court attaches decisive weight to such reversals of the burden of proof in Article 10 cases concerning allegedly false information (see nos. 32525/20, 31365/20)."
+    },
+    {
+      "5. No adequate assessment of risk or pressing social need": "The domestic decisions also failed to establish another statutory element: that the post created a risk of harm to life or health (see paragraph 13). Neither the justice of the peace nor the appeal court explained how this applicant’s brief Instagram comments, posted to an account with a modest following, actually endangered public health or could realistically interfere with pandemic measures (see paragraphs 5, 8 and 11). The appellate court merely referred to regional anti-COVID regulations as proof that the applicant’s claims were untrue (see paragraph 11), but that did not answer whether her post created the specific risk required by the law. The Court has repeatedly found a violation where domestic courts relied on abstract references to public interests without demonstrating a concrete and sufficient connection between the speech and the alleged harm (see nos. 47621/13, 28232/22)."
+    },
+    {
+      "6. Inadequate reasoning and procedural shortcomings": "The applicant expressly complained on appeal that the first-instance court ignored the context of her publication, failed to address whether she had presented the statements as reliable facts, did not examine whether there was any real danger to health or life, and effectively assumed the role of the prosecution in the absence of a prosecutor (see paragraph 10). The appeal court dismissed those arguments summarily (see paragraph 11). This lack of adversarial scrutiny and of reasoned judicial balancing weighs heavily against the Government. In Article 10 cases, especially those arising from emergency legislation, domestic courts must provide relevant and sufficient reasons and demonstrate that they have balanced freedom of expression against the competing public-health interest (see nos. 64569/09, 23158/20). That did not occur here."
+    },
+    {
+      "7. Proportionality of the sanction": "Although the fine was not extremely large in absolute terms, it was the minimum fine under the provision and was imposed on an individual using social media partly for small-business promotion (see paragraphs 5 and 9). In the absence of a careful assessment of falsity, intent, risk and context, even a moderate financial penalty is capable of producing a chilling effect on public discussion of official measures during a pandemic. The Court has consistently treated pecuniary sanctions imposed without sufficient justification as disproportionate under Article 10 (see nos. 18030/11, 69575/10)."
+    },
+    {
+      "8. Overall conclusion": "While the State had a legitimate interest in combating harmful misinformation during the pandemic, the domestic courts did not convincingly establish the constituent elements of the offence under Article 13.15(9), reversed the burden of proof onto the applicant, failed to assess the mixed factual/opinion character and context of the comments, and gave no sufficient reasons showing a pressing social need for the sanction (see paragraphs 7, 8, 10, 11, 12 and 13). In these circumstances, the interference was not shown to be necessary in a democratic society within the meaning of Article 10."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"1. Interference with the applicant’s freedom of expression\": \"The applicant was fined for comments posted on Instagram concerning the existence of COVID-19 cases in the Krasnodar Region and the authorities’ motives in reporting them (see paragraph 5). Her conviction under Article 13.15(9) of the CAO and the fine of RUB 30,000 clearly amounted to an interference with her right to impart information and ideas (see paragraphs 6, 8 and 9). The comments concerned a matter of public interest, namely the pandemic and the authorities’ response, which attracts a high level of protection under Article 10, even where the statements may be provocative, exaggerated or poorly substantiated (see nos. 22385/03, 18030/11).\"\n    },\n    {\n      \"2. Legal basis and legitimate aim\": \"The interference had a basis in domestic law, namely Article 13.15(9) of the CAO, which penalised the dissemination of socially important information known to be untrue where it created a risk to life or health (see paragraph 13). It also pursued, at least in principle, the legitimate aims of protecting health and public safety in the context of the COVID-19 pandemic. However, in a public-health emergency the Court still requires particularly careful scrutiny of whether the restriction answered a pressing social need and whether the domestic courts convincingly established all elements of the offence (see nos. 20007/22, 28232/22).\"\n    },\n    {\n      \"3. Nature and context of the impugned statements\": \"The applicant’s post combined factual assertions with opinion and speculation. The phrase that there had been no reported cases and no confirmed test results was framed as a challenge to the official narrative, followed by the rhetorical remark, “Think about why our government would need this” (see paragraph 5). Her reply that “people are afraid to speak up” and that “there is money to be had” for listing coronavirus as the cause of death was even more clearly conjectural and polemical (see paragraph 5). The domestic courts treated the publication as a simple false statement of fact without examining its online conversational context, the applicant’s use of social media for personal business purposes, or the limited reach of the account, which had 2,600 followers and generated only minimal interaction in the material extracted by the police (see paragraph 5). Such contextual factors are relevant to proportionality (see nos. 69575/10, 23158/20).\"\n    },\n    {\n      \"4. Failure to establish falsity and the applicant’s knowledge\": \"A central defect lies in the domestic courts’ handling of the burden of proof. Article 13.15(9) required that the information be 'known to be untrue' and disseminated 'under the guise of reliable reports' (see paragraph 13). The applicant argued that she relied on publicly available sources and that the local situation had not been officially confirmed or denied in a manner she could verify (see paragraph 7). Yet the first-instance court did not require the authorities to prove either the falsity of her claims at the time of posting or her awareness of that falsity. Instead, it held against her that she had failed to produce evidence disproving the existence of coronavirus in the region (see paragraph 8). That approach directly conflicted with the domestic presumption of innocence under Article 1.5 of the CAO, according to which the defendant was not required to prove her innocence (see paragraph 12). The Strasbourg Court attaches decisive weight to such reversals of the burden of proof in Article 10 cases concerning allegedly false information (see nos. 32525/20, 31365/20).\"\n    },\n    {\n      \"5. No adequate assessment of risk or pressing social need\": \"The domestic decisions also failed to establish another statutory element: that the post created a risk of harm to life or health (see paragraph 13). Neither the justice of the peace nor the appeal court explained how this applicant’s brief Instagram comments, posted to an account with a modest following, actually endangered public health or could realistically interfere with pandemic measures (see paragraphs 5, 8 and 11). The appellate court merely referred to regional anti-COVID regulations as proof that the applicant’s claims were untrue (see paragraph 11), but that did not answer whether her post created the specific risk required by the law. The Court has repeatedly found a violation where domestic courts relied on abstract references to public interests without demonstrating a concrete and sufficient connection between the speech and the alleged harm (see nos. 47621/13, 28232/22).\"\n    },\n    {\n      \"6. Inadequate reasoning and procedural shortcomings\": \"The applicant expressly complained on appeal that the first-instance court ignored the context of her publication, failed to address whether she had presented the statements as reliable facts, did not examine whether there was any real danger to health or life, and effectively assumed the role of the prosecution in the absence of a prosecutor (see paragraph 10). The appeal court dismissed those arguments summarily (see paragraph 11). This lack of adversarial scrutiny and of reasoned judicial balancing weighs heavily against the Government. In Article 10 cases, especially those arising from emergency legislation, domestic courts must provide relevant and sufficient reasons and demonstrate that they have balanced freedom of expression against the competing public-health interest (see nos. 64569/09, 23158/20). That did not occur here.\"\n    },\n    {\n      \"7. Proportionality of the sanction\": \"Although the fine was not extremely large in absolute terms, it was the minimum fine under the provision and was imposed on an individual using social media partly for small-business promotion (see paragraphs 5 and 9). In the absence of a careful assessment of falsity, intent, risk and context, even a moderate financial penalty is capable of producing a chilling effect on public discussion of official measures during a pandemic. The Court has consistently treated pecuniary sanctions imposed without sufficient justification as disproportionate under Article 10 (see nos. 18030/11, 69575/10).\"\n    },\n    {\n      \"8. Overall conclusion\": \"While the State had a legitimate interest in combating harmful misinformation during the pandemic, the domestic courts did not convincingly establish the constituent elements of the offence under Article 13.15(9), reversed the burden of proof onto the applicant, failed to assess the mixed factual/opinion character and context of the comments, and gave no sufficient reasons showing a pressing social need for the sanction (see paragraphs 7, 8, 10, 11, 12 and 13). In these circumstances, the interference was not shown to be necessary in a democratic society within the meaning of Article 10.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 2643,
+    "prompt_tokens": 1485,
+    "total_tokens": 4128,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1216,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0433575,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0433575,
+      "upstream_inference_prompt_cost": 0.0037125,
+      "upstream_inference_completions_cost": 0.039645
+    }
+  },
+  "citations": [
+    "22385/03",
+    "18030/11",
+    "20007/22",
+    "28232/22",
+    "69575/10",
+    "23158/20",
+    "32525/20",
+    "31365/20",
+    "47621/13",
+    "64569/09"
+  ],
+  "ref_paragraphs": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ]
+}

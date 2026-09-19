@@ -1,0 +1,66 @@
+{
+  "item_id": "001-242529",
+  "case_name": "CASE OF BOGAY AND OTHERS v. UKRAINE",
+  "case_number": "(Application no. 38283/18)",
+  "date": "3 April 2025",
+  "prompt_type": "non_curated",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "11",
+    "11-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Interference with Article 10": "The applicants’ participation in a demonstration against the use of animals in circus acts constitutes an exercise of their right to freedom of expression under Article 10 of the Convention. The police measures—including searches, removal from the demonstration site, handcuffing, and detention at the police station for two to three hours—amounted to an interference with this right (see paragraphs 5-6, 10-14)."
+    },
+    {
+      "Prescribed by law": "The interference had a legal basis in domestic law, notably sections 31 and 34 of the National Police Act (authorizing surface inspections) and Articles 259-263 of the Code of Administrative Offences (regulating administrative arrest), as cited in the facts (see paragraphs 29-30, 26-28)."
+    },
+    {
+      "Legitimate aim": "The measures pursued the legitimate aims of preventing disorder and ensuring public safety, as permitted under Article 10 § 2 of the Convention."
+    },
+    {
+      "Necessity and proportionality – blanket measures": "The police conducted blanket searches of all demonstrators and detained all applicants without individualized assessment. The European Court has consistently held that blanket restrictions on peaceful assemblies are presumptively disproportionate (see General Comment No. 37, paragraph 38, see paragraph 31) and fail the requirement for differentiated treatment (see OSCE Guidelines, paragraph 87, see paragraph 32). This approach violates the principle that only individualized interference is permissible (see no. 29580/12)."
+    },
+    {
+      "Necessity and proportionality – failure to distinguish peaceful participants": "While some demonstrators possessed items that could be considered dangerous (see paragraphs 8, 12), the demonstration itself remained peaceful and unobstructive (see paragraph 6). International standards require law enforcement to target only individual wrongdoers, not all participants (see OSCE Guidelines, paragraphs 87 and 154, see paragraph 32). The indiscriminate treatment of all applicants as suspects, including those without weapons, was disproportionate (see no. 4048/09)."
+    },
+    {
+      "Necessity and proportionality – excessive duration and procedural irregularities": "The applicants were detained at the police station for two to three hours, yet no administrative detention reports were drawn up for most (see paragraph 14). The OSCE Guidelines stress that detention during assemblies must meet a high threshold of necessity and be used only to prevent serious offences (see paragraph 220, see paragraph 32). The lack of individualized justification and procedural safeguards renders the interference disproportionate (see no. 31349/20)."
+    },
+    {
+      "Chilling effect on freedom of expression": "The indiscriminate police actions—treating all demonstrators as potential offenders—created a chilling effect on the right to peaceful assembly, a form of expression protected under Article 10. The OSCE Guidelines explicitly warn that treating all assembly participants as suspects risks deterring peaceful expression (see paragraph 154, see paragraph 32), a principle reinforced by the Court’s case law (see no. 1162/22)."
+    },
+    {
+      "Conclusion on Article 10": "The blanket and indiscriminate interference with the peaceful demonstration, lacking individualized suspicion or differentiated treatment, fails the strict test of necessity under Article 10 § 2. The measures were neither targeted nor proportionate, thus violating the applicants’ right to freedom of expression."
+    }
+  ],
+  "raw_content": "```json\n{\n  \"assessment\": [\n    {\"Interference with Article 10\": \"The applicants’ participation in a demonstration against the use of animals in circus acts constitutes an exercise of their right to freedom of expression under Article 10 of the Convention. The police measures—including searches, removal from the demonstration site, handcuffing, and detention at the police station for two to three hours—amounted to an interference with this right (see paragraphs 5-6, 10-14).\"},\n\n    {\"Prescribed by law\": \"The interference had a legal basis in domestic law, notably sections 31 and 34 of the National Police Act (authorizing surface inspections) and Articles 259-263 of the Code of Administrative Offences (regulating administrative arrest), as cited in the facts (see paragraphs 29-30, 26-28).\"},\n\n    {\"Legitimate aim\": \"The measures pursued the legitimate aims of preventing disorder and ensuring public safety, as permitted under Article 10 § 2 of the Convention.\"},\n\n    {\"Necessity and proportionality – blanket measures\": \"The police conducted blanket searches of all demonstrators and detained all applicants without individualized assessment. The European Court has consistently held that blanket restrictions on peaceful assemblies are presumptively disproportionate (see General Comment No. 37, paragraph 38, see paragraph 31) and fail the requirement for differentiated treatment (see OSCE Guidelines, paragraph 87, see paragraph 32). This approach violates the principle that only individualized interference is permissible (see no. 29580/12).\"},\n\n     {\"Necessity and proportionality – failure to distinguish peaceful participants\": \"While some demonstrators possessed items that could be considered dangerous (see paragraphs 8, 12), the demonstration itself remained peaceful and unobstructive (see paragraph 6). International standards require law enforcement to target only individual wrongdoers, not all participants (see OSCE Guidelines, paragraphs 87 and 154, see paragraph 32). The indiscriminate treatment of all applicants as suspects, including those without weapons, was disproportionate (see no. 4048/09).\"},\n\n    {\"Necessity and proportionality – excessive duration and procedural irregularities\": \"The applicants were detained at the police station for two to three hours, yet no administrative detention reports were drawn up for most (see paragraph 14). The OSCE Guidelines stress that detention during assemblies must meet a high threshold of necessity and be used only to prevent serious offences (see paragraph 220, see paragraph 32). The lack of individualized justification and procedural safeguards renders the interference disproportionate (see no. 31349/20).\"},\n\n    {\"Chilling effect on freedom of expression\": \"The indiscriminate police actions—treating all demonstrators as potential offenders—created a chilling effect on the right to peaceful assembly, a form of expression protected under Article 10. The OSCE Guidelines explicitly warn that treating all assembly participants as suspects risks deterring peaceful expression (see paragraph 154, see paragraph 32), a principle reinforced by the Court’s case law (see no. 1162/22).\"},\n\n    {\"Conclusion on Article 10\": \"The blanket and indiscriminate interference with the peaceful demonstration, lacking individualized suspicion or differentiated treatment, fails the strict test of necessity under Article 10 § 2. The measures were neither targeted nor proportionate, thus violating the applicants’ right to freedom of expression.\"}\n  ],\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 5145,
+    "prompt_tokens": 3743,
+    "total_tokens": 8888,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 5021,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.044202,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.044202,
+      "upstream_inference_prompt_cost": 0.0056145,
+      "upstream_inference_completions_cost": 0.0385875
+    }
+  }
+}

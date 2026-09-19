@@ -1,0 +1,71 @@
+{
+  "item_id": "001-245386",
+  "case_name": "CASE OF MORTENSEN v. DENMARK",
+  "case_number": "(Application no. 16756/24)",
+  "date": "21 October 2025",
+  "prompt_type": "instruction",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "1. Existence of an interference": "There was clearly an interference with the applicant’s freedom of expression. He was convicted of defamation for a Twitter post, fined, ordered to pay compensation, obliged to delete the post, and the statement was declared unfounded (see paragraphs 9 and 11). Those measures directly restricted his ability to impart opinions on a public platform. The post concerned a controversial political actor and was made in a public thread on Twitter (see paragraphs 5-6). Article 10 is therefore engaged."
+    },
+    {
+      "2. Lawfulness of the interference": "The interference appears to have been prescribed by law. The conviction and ancillary measures were based on Articles 267, 269 and 271 of the Penal Code, and the compensation award on section 26 of the Liability and Compensation Act (see paragraphs 11, 13 and 17). The relevant provisions had been reformulated in 2018 specifically to reflect the Court’s case-law, which supports accessibility and foreseeability (see paragraphs 14-15). There is nothing in the facts suggesting arbitrariness or a lack of legal basis. This requirement was therefore likely satisfied."
+    },
+    {
+      "3. Legitimate aims of the interference": "The interference pursued a legitimate aim, namely the protection of the reputation or rights of others under Article 10 § 2. The domestic proceedings were brought by R.P. after the applicant had publicly referred to him as a “Nazi” (see paragraphs 5, 8 and 11). The Danish courts expressly treated the statement as one capable of damaging R.P.’s reputation (see paragraph 11). The interference can therefore be linked to the protection of reputation."
+    },
+    {
+      "4. Necessary in a democratic society": "This is the decisive issue, and the interference was unlikely to be necessary in a democratic society. First, the speech formed part of political and social debate. R.P. was not a private person: he was the founder and leader of a far-right anti-Islam party, had attracted sustained public attention through protests and Koran burnings, and his views had been widely debated in the media, including whether he should be regarded as a fascist or a Nazi (see paragraph 6). Under the Court’s case-law, speech on matters of public interest and concerning public figures enjoys strong protection, and the balancing exercise must take account of notoriety and contribution to a debate of general interest (see no. 39954/08). The High Court’s conclusion that the post lacked sufficient societal interest seems unduly narrow, since the post compared the State’s tolerance of R.P.’s conduct and speech with the arrest of another person for insulting a police officer, thus touching on public debate about extremism, policing and freedom of expression (see paragraphs 5 and 11). Second, the domestic courts themselves characterised the impugned statement as a value judgment, not a statement of fact (see paragraph 11). In political debate, ideological labels such as “Nazi” or “fascist” are often understood as polemical value judgments, for which a sufficient factual basis, not proof of truth in the strict sense, is required (see no. 26958/95). Such a factual basis arguably existed here: R.P.’s ethnonationalist political profile, anti-Islam demonstrations, Koran burnings, repeated racist-speech convictions, and the fact that commentators and historians had publicly debated whether he was a Nazi or fascist (see paragraphs 6-7 and 10). Third, the sanctions were serious: a criminal conviction, fines, compensation, a deletion order, and a formal declaration that the statement was unfounded (see paragraphs 9 and 11). In the context of political expression, especially by a private individual commenting on a public figure, such cumulative sanctions carry a clear chilling effect. Overall, the domestic courts’ reasons do not appear sufficiently relevant and sufficient to justify the interference, and the measures imposed were disproportionate to the legitimate aim pursued. The better prediction is therefore that Article 10 was violated."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"1. Existence of an interference\": \"There was clearly an interference with the applicant’s freedom of expression. He was convicted of defamation for a Twitter post, fined, ordered to pay compensation, obliged to delete the post, and the statement was declared unfounded (see paragraphs 9 and 11). Those measures directly restricted his ability to impart opinions on a public platform. The post concerned a controversial political actor and was made in a public thread on Twitter (see paragraphs 5-6). Article 10 is therefore engaged.\"\n    },\n    {\n      \"2. Lawfulness of the interference\": \"The interference appears to have been prescribed by law. The conviction and ancillary measures were based on Articles 267, 269 and 271 of the Penal Code, and the compensation award on section 26 of the Liability and Compensation Act (see paragraphs 11, 13 and 17). The relevant provisions had been reformulated in 2018 specifically to reflect the Court’s case-law, which supports accessibility and foreseeability (see paragraphs 14-15). There is nothing in the facts suggesting arbitrariness or a lack of legal basis. This requirement was therefore likely satisfied.\"\n    },\n    {\n      \"3. Legitimate aims of the interference\": \"The interference pursued a legitimate aim, namely the protection of the reputation or rights of others under Article 10 § 2. The domestic proceedings were brought by R.P. after the applicant had publicly referred to him as a “Nazi” (see paragraphs 5, 8 and 11). The Danish courts expressly treated the statement as one capable of damaging R.P.’s reputation (see paragraph 11). The interference can therefore be linked to the protection of reputation.\"\n    },\n    {\n      \"4. Necessary in a democratic society\": \"This is the decisive issue, and the interference was unlikely to be necessary in a democratic society. First, the speech formed part of political and social debate. R.P. was not a private person: he was the founder and leader of a far-right anti-Islam party, had attracted sustained public attention through protests and Koran burnings, and his views had been widely debated in the media, including whether he should be regarded as a fascist or a Nazi (see paragraph 6). Under the Court’s case-law, speech on matters of public interest and concerning public figures enjoys strong protection, and the balancing exercise must take account of notoriety and contribution to a debate of general interest (see no. 39954/08). The High Court’s conclusion that the post lacked sufficient societal interest seems unduly narrow, since the post compared the State’s tolerance of R.P.’s conduct and speech with the arrest of another person for insulting a police officer, thus touching on public debate about extremism, policing and freedom of expression (see paragraphs 5 and 11). Second, the domestic courts themselves characterised the impugned statement as a value judgment, not a statement of fact (see paragraph 11). In political debate, ideological labels such as “Nazi” or “fascist” are often understood as polemical value judgments, for which a sufficient factual basis, not proof of truth in the strict sense, is required (see no. 26958/95). Such a factual basis arguably existed here: R.P.’s ethnonationalist political profile, anti-Islam demonstrations, Koran burnings, repeated racist-speech convictions, and the fact that commentators and historians had publicly debated whether he was a Nazi or fascist (see paragraphs 6-7 and 10). Third, the sanctions were serious: a criminal conviction, fines, compensation, a deletion order, and a formal declaration that the statement was unfounded (see paragraphs 9 and 11). In the context of political expression, especially by a private individual commenting on a public figure, such cumulative sanctions carry a clear chilling effect. Overall, the domestic courts’ reasons do not appear sufficiently relevant and sufficient to justify the interference, and the measures imposed were disproportionate to the legitimate aim pursued. The better prediction is therefore that Article 10 was violated.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 3002,
+    "prompt_tokens": 3575,
+    "total_tokens": 6577,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 2137,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0539675,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0539675,
+      "upstream_inference_prompt_cost": 0.0089375,
+      "upstream_inference_completions_cost": 0.04503
+    }
+  },
+  "citations": [
+    "39954/08",
+    "26958/95"
+  ],
+  "ref_paragraphs": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    13,
+    14,
+    15,
+    17
+  ]
+}

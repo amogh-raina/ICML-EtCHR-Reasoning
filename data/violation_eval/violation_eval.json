@@ -1,0 +1,863 @@
+[
+  {
+    "item_id": "001-242528",
+    "prompt_name": "instruction",
+    "case_name": "CASE OF HAYK GRIGORYAN v. ARMENIA",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-242528",
+    "prompt_name": "non_curated",
+    "case_name": "CASE OF HAYK GRIGORYAN v. ARMENIA",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-242528",
+    "prompt_name": "gpt_assisted",
+    "case_name": "CASE OF HAYK GRIGORYAN v. ARMENIA",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-242634",
+    "prompt_name": "instruction",
+    "case_name": "CASE OF BACKOVIĆ v. SERBIA (No. 2)",
+    "violation_ground_truth": [],
+    "gt_art10": "no",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 0
+  },
+  {
+    "item_id": "001-242634",
+    "prompt_name": "non_curated",
+    "case_name": "CASE OF BACKOVIĆ v. SERBIA (No. 2)",
+    "violation_ground_truth": [],
+    "gt_art10": "no",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 0
+  },
+  {
+    "item_id": "001-242634",
+    "prompt_name": "gpt_assisted",
+    "case_name": "CASE OF BACKOVIĆ v. SERBIA (No. 2)",
+    "violation_ground_truth": [],
+    "gt_art10": "no",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 0
+  },
+  {
+    "item_id": "001-242859",
+    "prompt_name": "instruction",
+    "case_name": "CASE OF AVAGYAN v. RUSSIA",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-242859",
+    "prompt_name": "non_curated",
+    "case_name": "CASE OF AVAGYAN v. RUSSIA",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-242859",
+    "prompt_name": "gpt_assisted",
+    "case_name": "CASE OF AVAGYAN v. RUSSIA",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-242860",
+    "prompt_name": "instruction",
+    "case_name": "CASE OF TERGEK v. TÜRKİYE",
+    "violation_ground_truth": [],
+    "gt_art10": "no",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 0
+  },
+  {
+    "item_id": "001-242860",
+    "prompt_name": "non_curated",
+    "case_name": "CASE OF TERGEK v. TÜRKİYE",
+    "violation_ground_truth": [],
+    "gt_art10": "no",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 0
+  },
+  {
+    "item_id": "001-242860",
+    "prompt_name": "gpt_assisted",
+    "case_name": "CASE OF TERGEK v. TÜRKİYE",
+    "violation_ground_truth": [],
+    "gt_art10": "no",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 0
+  },
+  {
+    "item_id": "001-243184",
+    "prompt_name": "instruction",
+    "case_name": "CASE OF RUSS v. GERMANY",
+    "violation_ground_truth": [
+      "10",
+      "11",
+      "11-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-243184",
+    "prompt_name": "non_curated",
+    "case_name": "CASE OF RUSS v. GERMANY",
+    "violation_ground_truth": [
+      "10",
+      "11",
+      "11-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-243184",
+    "prompt_name": "gpt_assisted",
+    "case_name": "CASE OF RUSS v. GERMANY",
+    "violation_ground_truth": [
+      "10",
+      "11",
+      "11-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-243188",
+    "prompt_name": "instruction",
+    "case_name": "CASE OF GEVORGYAN v. ARMENIA",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-243188",
+    "prompt_name": "non_curated",
+    "case_name": "CASE OF GEVORGYAN v. ARMENIA",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-243188",
+    "prompt_name": "gpt_assisted",
+    "case_name": "CASE OF GEVORGYAN v. ARMENIA",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-243250",
+    "prompt_name": "instruction",
+    "case_name": "CASE OF NEMYTOV AND OTHERS v. RUSSIA",
+    "violation_ground_truth": [
+      "10",
+      "10-1",
+      "11",
+      "11-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-243250",
+    "prompt_name": "non_curated",
+    "case_name": "CASE OF NEMYTOV AND OTHERS v. RUSSIA",
+    "violation_ground_truth": [
+      "10",
+      "10-1",
+      "11",
+      "11-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-243250",
+    "prompt_name": "gpt_assisted",
+    "case_name": "CASE OF NEMYTOV AND OTHERS v. RUSSIA",
+    "violation_ground_truth": [
+      "10",
+      "10-1",
+      "11",
+      "11-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-243257",
+    "prompt_name": "instruction",
+    "case_name": "CASE OF SELISHCHEVA AND OTHERS v. RUSSIA",
+    "violation_ground_truth": [
+      "10",
+      "10-1",
+      "11",
+      "11-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-243257",
+    "prompt_name": "non_curated",
+    "case_name": "CASE OF SELISHCHEVA AND OTHERS v. RUSSIA",
+    "violation_ground_truth": [
+      "10",
+      "10-1",
+      "11",
+      "11-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-243257",
+    "prompt_name": "gpt_assisted",
+    "case_name": "CASE OF SELISHCHEVA AND OTHERS v. RUSSIA",
+    "violation_ground_truth": [
+      "10",
+      "10-1",
+      "11",
+      "11-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-243887",
+    "prompt_name": "instruction",
+    "case_name": "CASE OF ARVANITIS AND PHILELEFTHEROS PUBLIC COMPANY LIMITED v. CYPRUS",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-243887",
+    "prompt_name": "non_curated",
+    "case_name": "CASE OF ARVANITIS AND PHILELEFTHEROS PUBLIC COMPANY LIMITED v. CYPRUS",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-243887",
+    "prompt_name": "gpt_assisted",
+    "case_name": "CASE OF ARVANITIS AND PHILELEFTHEROS PUBLIC COMPANY LIMITED v. CYPRUS",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-243982",
+    "prompt_name": "instruction",
+    "case_name": "CASE OF GOOGLE LLC AND OTHERS v. RUSSIA",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-243982",
+    "prompt_name": "non_curated",
+    "case_name": "CASE OF GOOGLE LLC AND OTHERS v. RUSSIA",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-243982",
+    "prompt_name": "gpt_assisted",
+    "case_name": "CASE OF GOOGLE LLC AND OTHERS v. RUSSIA",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-244004",
+    "prompt_name": "instruction",
+    "case_name": "CASE OF RODINA AND BORISOVA v. LATVIA",
+    "violation_ground_truth": [],
+    "gt_art10": "no",
+    "prediction_raw": "no",
+    "prediction": "no",
+    "correct": 1
+  },
+  {
+    "item_id": "001-244004",
+    "prompt_name": "non_curated",
+    "case_name": "CASE OF RODINA AND BORISOVA v. LATVIA",
+    "violation_ground_truth": [],
+    "gt_art10": "no",
+    "prediction_raw": "no",
+    "prediction": "no",
+    "correct": 1
+  },
+  {
+    "item_id": "001-244004",
+    "prompt_name": "gpt_assisted",
+    "case_name": "CASE OF RODINA AND BORISOVA v. LATVIA",
+    "violation_ground_truth": [],
+    "gt_art10": "no",
+    "prediction_raw": "no",
+    "prediction": "no",
+    "correct": 1
+  },
+  {
+    "item_id": "001-244080",
+    "prompt_name": "instruction",
+    "case_name": "CASE OF MZHAVANADZE AND RUKHADZE v. GEORGIA",
+    "violation_ground_truth": [
+      "11",
+      "11-1"
+    ],
+    "gt_art10": "no",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 0
+  },
+  {
+    "item_id": "001-244080",
+    "prompt_name": "non_curated",
+    "case_name": "CASE OF MZHAVANADZE AND RUKHADZE v. GEORGIA",
+    "violation_ground_truth": [
+      "11",
+      "11-1"
+    ],
+    "gt_art10": "no",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 0
+  },
+  {
+    "item_id": "001-244080",
+    "prompt_name": "gpt_assisted",
+    "case_name": "CASE OF MZHAVANADZE AND RUKHADZE v. GEORGIA",
+    "violation_ground_truth": [
+      "11",
+      "11-1"
+    ],
+    "gt_art10": "no",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 0
+  },
+  {
+    "item_id": "001-244292",
+    "prompt_name": "instruction",
+    "case_name": "CASE OF UKRAINE AND THE NETHERLANDS v. RUSSIA",
+    "violation_ground_truth": [
+      "3",
+      "9",
+      "9-1",
+      "10",
+      "10-1",
+      "11",
+      "11-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-244292",
+    "prompt_name": "non_curated",
+    "case_name": "CASE OF UKRAINE AND THE NETHERLANDS v. RUSSIA",
+    "violation_ground_truth": [
+      "3",
+      "9",
+      "9-1",
+      "10",
+      "10-1",
+      "11",
+      "11-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-244292",
+    "prompt_name": "gpt_assisted",
+    "case_name": "CASE OF UKRAINE AND THE NETHERLANDS v. RUSSIA",
+    "violation_ground_truth": [
+      "3",
+      "9",
+      "9-1",
+      "10",
+      "10-1",
+      "11",
+      "11-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-245685",
+    "prompt_name": "instruction",
+    "case_name": "CASE OF MARKO TEŠIĆ v. SERBIA",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-245685",
+    "prompt_name": "non_curated",
+    "case_name": "CASE OF MARKO TEŠIĆ v. SERBIA",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-245685",
+    "prompt_name": "gpt_assisted",
+    "case_name": "CASE OF MARKO TEŠIĆ v. SERBIA",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-246124",
+    "prompt_name": "instruction",
+    "case_name": "CASE OF AZADLIQ NEWSPAPER v. AZERBAIJAN",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-246124",
+    "prompt_name": "non_curated",
+    "case_name": "CASE OF AZADLIQ NEWSPAPER v. AZERBAIJAN",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-246124",
+    "prompt_name": "gpt_assisted",
+    "case_name": "CASE OF AZADLIQ NEWSPAPER v. AZERBAIJAN",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-246134",
+    "prompt_name": "instruction",
+    "case_name": "CASE OF EUROPA WAY S.R.L. v. ITALY",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-246134",
+    "prompt_name": "non_curated",
+    "case_name": "CASE OF EUROPA WAY S.R.L. v. ITALY",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-246134",
+    "prompt_name": "gpt_assisted",
+    "case_name": "CASE OF EUROPA WAY S.R.L. v. ITALY",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-247356",
+    "prompt_name": "instruction",
+    "case_name": "CASE OF KHAGHAGHUTYAN YERKKHOSUTYUN v. ARMENIA",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-247356",
+    "prompt_name": "non_curated",
+    "case_name": "CASE OF KHAGHAGHUTYAN YERKKHOSUTYUN v. ARMENIA",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-247356",
+    "prompt_name": "gpt_assisted",
+    "case_name": "CASE OF KHAGHAGHUTYAN YERKKHOSUTYUN v. ARMENIA",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-247645",
+    "prompt_name": "instruction",
+    "case_name": "CASE OF PEŠIĆ v. SERBIA",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-247645",
+    "prompt_name": "non_curated",
+    "case_name": "CASE OF PEŠIĆ v. SERBIA",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-247645",
+    "prompt_name": "gpt_assisted",
+    "case_name": "CASE OF PEŠIĆ v. SERBIA",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-247738",
+    "prompt_name": "instruction",
+    "case_name": "CASE OF TSAAVA AND OTHERS v. GEORGIA",
+    "violation_ground_truth": [
+      "3",
+      "10",
+      "10-1",
+      "11",
+      "11-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-247738",
+    "prompt_name": "non_curated",
+    "case_name": "CASE OF TSAAVA AND OTHERS v. GEORGIA",
+    "violation_ground_truth": [
+      "3",
+      "10",
+      "10-1",
+      "11",
+      "11-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-247738",
+    "prompt_name": "gpt_assisted",
+    "case_name": "CASE OF TSAAVA AND OTHERS v. GEORGIA",
+    "violation_ground_truth": [
+      "3",
+      "10",
+      "10-1",
+      "11",
+      "11-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-247823",
+    "prompt_name": "instruction",
+    "case_name": "CASE OF MLADINA D.D. LJUBLJANA v. SLOVENIA (No. 2)",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "no",
+    "prediction": "no",
+    "correct": 0
+  },
+  {
+    "item_id": "001-247823",
+    "prompt_name": "non_curated",
+    "case_name": "CASE OF MLADINA D.D. LJUBLJANA v. SLOVENIA (No. 2)",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "no",
+    "prediction": "no",
+    "correct": 0
+  },
+  {
+    "item_id": "001-247823",
+    "prompt_name": "gpt_assisted",
+    "case_name": "CASE OF MLADINA D.D. LJUBLJANA v. SLOVENIA (No. 2)",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "no",
+    "prediction": "no",
+    "correct": 0
+  },
+  {
+    "item_id": "001-247832",
+    "prompt_name": "instruction",
+    "case_name": "CASE OF SIC - SOCIEDADE INDEPENDENTE DE COMUNICAÇÃO, S.A v. PORTUGAL (No. 2)",
+    "violation_ground_truth": [],
+    "gt_art10": "no",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 0
+  },
+  {
+    "item_id": "001-247832",
+    "prompt_name": "non_curated",
+    "case_name": "CASE OF SIC - SOCIEDADE INDEPENDENTE DE COMUNICAÇÃO, S.A v. PORTUGAL (No. 2)",
+    "violation_ground_truth": [],
+    "gt_art10": "no",
+    "prediction_raw": "no",
+    "prediction": "no",
+    "correct": 1
+  },
+  {
+    "item_id": "001-247832",
+    "prompt_name": "gpt_assisted",
+    "case_name": "CASE OF SIC - SOCIEDADE INDEPENDENTE DE COMUNICAÇÃO, S.A v. PORTUGAL (No. 2)",
+    "violation_ground_truth": [],
+    "gt_art10": "no",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 0
+  },
+  {
+    "item_id": "001-248090",
+    "prompt_name": "instruction",
+    "case_name": "CASE OF KHADIJA ISMAYILOVA v. AZERBAIJAN (No. 4)",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-248090",
+    "prompt_name": "non_curated",
+    "case_name": "CASE OF KHADIJA ISMAYILOVA v. AZERBAIJAN (No. 4)",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  },
+  {
+    "item_id": "001-248090",
+    "prompt_name": "gpt_assisted",
+    "case_name": "CASE OF KHADIJA ISMAYILOVA v. AZERBAIJAN (No. 4)",
+    "violation_ground_truth": [
+      "10",
+      "10-1"
+    ],
+    "gt_art10": "yes",
+    "prediction_raw": "yes",
+    "prediction": "yes",
+    "correct": 1
+  }
+]

@@ -1,0 +1,71 @@
+{
+  "item_id": "001-243250",
+  "case_name": "CASE OF NEMYTOV AND OTHERS v. RUSSIA",
+  "case_number": "(Applications nos. 1257/21 and 2 others – see appended list)",
+  "date": "27 May 2025",
+  "prompt_type": "non_curated",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1",
+    "11",
+    "11-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Applicability of Article 10": "The applicants’ solo demonstrations and participation in assemblies were expressions of opinion on matters of public interest, such as protesting against criminal prosecutions or supporting political figures, which fall squarely within the scope of Article 10 of the Convention (see paragraphs 13, 18, and 27). Article 10 protects not only the substance of the ideas and information expressed, but also the form in which they are conveyed, including peacefulStatic demonstrations as a means of imparting information and ideas."
+    },
+    {
+      "Interference with Article 10": "The applicants’ arrests, the drawing up of administrative-offence records under Articles 20.2 § 8, 20.2.2 § 1, and 20.6.1 § 1 of the Code of Administrative Offences, and the imposition of penalties such as administrative fines and detention constituted an interference with their right to freedom of expression (see paragraphs 14-15, 19-21, 28-30, and 38-40). Such measures clearly restricted the applicants’ ability to express their views in public."
+    },
+    {
+      "Prescribed by law": "The interference was based on domestic legal provisions, including Decree no. 12‑UM in Moscow, which banned public events during the state of high alert (see paragraphs 57 and 59), and Decree no. 121 in St Petersburg imposing similar restrictions (see paragraph 62). These measures were enforced through Articles 20.2, 20.2.2, and 20.6.1 of the CAO (see paragraphs 75-78). The provisions were accessible, foreseeable in their application, and formed part of a coherent legal framework addressing the COVID-19 pandemic."
+    },
+    {
+      "Legitimate aim": "The interference pursued the legitimate aim of protecting public health during the COVID-19 pandemic. The pandemic posed a serious and immediate threat to public health in Moscow and St Petersburg at the time of the applicants’ actions (see paragraphs 12 and 25), and the protection of health is a recognized ground for restriction under Article 10 § 2 of the Convention."
+    },
+    {
+      "Necessity in a democratic society – context of the pandemic": "The European Court has recognized that States enjoy a margin of appreciation in addressing public health crises such as the COVID-19 pandemic, as the situation required urgent and coordinated measures. In Communauté genevoise d’action syndicale (CGAS) v. Switzerland [GC] (no. 21881/20, §§ 64-74), the Grand Chamber acknowledged the seriousness of the health crisis and the need for restrictive measures to contain the spread of the virus (see paragraph 5). However, this margin is not unlimited and must be exercised in a manner that is proportionate to the legitimate aim pursued."
+    },
+    {
+      "Necessity in a democratic society – blanket nature of the ban on solo demonstrations": "The domestic authorities imposed a blanket ban on all public events, explicitly including solo demonstrations in Moscow (see paragraphs 57, 59, and 72). Solo demonstrations, or solo pickets, are a mild and inherently low-risk form of expression. The European Court has consistently held that such individual actions require strict scrutiny when restricted, as they pose minimal risk to public order or health. In Pleshkov and Others v. Russia (nos. 29356/19 and 31119/19, § 41), the Court emphasized that restrictions on assemblies must be proportionate and tailored to the specific circumstances. A blanket prohibition on solo demonstrations, without consideration of their minimal risk, fails to meet the proportionality requirement under Article 10 § 2 (see paragraph 83)."
+    },
+    {
+      "Necessity in a democratic society – severity of penalties": "The penalties imposed on the applicants included administrative detention of up to fifteen days for solo demonstrations (see paragraphs 15 and 21) and substantial fines of up to RUB 150,000 (see paragraph 40). The Court has repeatedly stressed that administrative detention is a severe measure that should only be imposed in exceptional circumstances, particularly for offences related to the exercise of Convention rights. In Pleshkov and Others v. Russia (nos. 29356/19 and 31119/19), the Court found that such penalties for peaceful assemblies were disproportionate in the context of public health restrictions (see paragraph 83). The use of detention for non-violent, solo expressions of opinion cannot be considered necessary in a democratic society."
+    },
+    {
+      "Necessity in a democratic society – availability of less restrictive alternatives": "The authorities could have implemented less restrictive measures, such as allowing solo demonstrations with mandatory social distancing and mask-wearing requirements, rather than imposing a blanket ban. The domestic legal framework already included health-specific provisions under Article 6.3 of the CAO, which carried lighter penalties for breaches of health regulations (see paragraph 77). However, the authorities chose to rely on harsher provisions related to public events (Articles 20.2 and 20.6.1), suggesting an overbroad response. Furthermore, the domestic courts’ practice of treating sequential solo demonstrations as a group event (see paragraph 23) effectively criminalized a form of expression that should be protected under Article 10, as such actions do not inherently pose the same risks as organized group assemblies."
+    },
+    {
+      "Conclusion on necessity and proportionality": "The blanket ban on public events, including solo demonstrations, and the severe penalties imposed on the applicants were not proportionate to the legitimate aim of protecting public health. The authorities failed to demonstrate that less restrictive measures could not have achieved the same objective or that the severe penalties, particularly administrative detention, were necessary. The interference therefore exceeded the margin of appreciation and was not justified as ‘necessary in a democratic society’ under Article 10 § 2 of the Convention."
+    }
+  ],
+  "raw_content": "```json\n{\n  \"assessment\": [\n    {\"Applicability of Article 10\": \"The applicants’ solo demonstrations and participation in assemblies were expressions of opinion on matters of public interest, such as protesting against criminal prosecutions or supporting political figures, which fall squarely within the scope of Article 10 of the Convention (see paragraphs 13, 18, and 27). Article 10 protects not only the substance of the ideas and information expressed, but also the form in which they are conveyed, including peacefulStatic demonstrations as a means of imparting information and ideas.\"},\n\n    {\"Interference with Article 10\": \"The applicants’ arrests, the drawing up of administrative-offence records under Articles 20.2 § 8, 20.2.2 § 1, and 20.6.1 § 1 of the Code of Administrative Offences, and the imposition of penalties such as administrative fines and detention constituted an interference with their right to freedom of expression (see paragraphs 14-15, 19-21, 28-30, and 38-40). Such measures clearly restricted the applicants’ ability to express their views in public.\"},\n\n    {\"Prescribed by law\": \"The interference was based on domestic legal provisions, including Decree no. 12‑UM in Moscow, which banned public events during the state of high alert (see paragraphs 57 and 59), and Decree no. 121 in St Petersburg imposing similar restrictions (see paragraph 62). These measures were enforced through Articles 20.2, 20.2.2, and 20.6.1 of the CAO (see paragraphs 75-78). The provisions were accessible, foreseeable in their application, and formed part of a coherent legal framework addressing the COVID-19 pandemic.\"},\n\n   {\"Legitimate aim\": \"The interference pursued the legitimate aim of protecting public health during the COVID-19 pandemic. The pandemic posed a serious and immediate threat to public health in Moscow and St Petersburg at the time of the applicants’ actions (see paragraphs 12 and 25), and the protection of health is a recognized ground for restriction under Article 10 § 2 of the Convention.\"},\n\n    {\"Necessity in a democratic society – context of the pandemic\": \"The European Court has recognized that States enjoy a margin of appreciation in addressing public health crises such as the COVID-19 pandemic, as the situation required urgent and coordinated measures. In Communauté genevoise d’action syndicale (CGAS) v. Switzerland [GC] (no. 21881/20, §§ 64-74), the Grand Chamber acknowledged the seriousness of the health crisis and the need for restrictive measures to contain the spread of the virus (see paragraph 5). However, this margin is not unlimited and must be exercised in a manner that is proportionate to the legitimate aim pursued.\"},\n\n    {\"Necessity in a democratic society – blanket nature of the ban on solo demonstrations\": \"The domestic authorities imposed a blanket ban on all public events, explicitly including solo demonstrations in Moscow (see paragraphs 57, 59, and 72). Solo demonstrations, or solo pickets, are a mild and inherently low-risk form of expression. The European Court has consistently held that such individual actions require strict scrutiny when restricted, as they pose minimal risk to public order or health. In Pleshkov and Others v. Russia (nos. 29356/19 and 31119/19, § 41), the Court emphasized that restrictions on assemblies must be proportionate and tailored to the specific circumstances. A blanket prohibition on solo demonstrations, without consideration of their minimal risk, fails to meet the proportionality requirement under Article 10 § 2 (see paragraph 83).\"},\n\n    {\"Necessity in a democratic society – severity of penalties\": \"The penalties imposed on the applicants included administrative detention of up to fifteen days for solo demonstrations (see paragraphs 15 and 21) and substantial fines of up to RUB 150,000 (see paragraph 40). The Court has repeatedly stressed that administrative detention is a severe measure that should only be imposed in exceptional circumstances, particularly for offences related to the exercise of Convention rights. In Pleshkov and Others v. Russia (nos. 29356/19 and 31119/19), the Court found that such penalties for peaceful assemblies were disproportionate in the context of public health restrictions (see paragraph 83). The use of detention for non-violent, solo expressions of opinion cannot be considered necessary in a democratic society.\"},\n\n    {\"Necessity in a democratic society – availability of less restrictive alternatives\": \"The authorities could have implemented less restrictive measures, such as allowing solo demonstrations with mandatory social distancing and mask-wearing requirements, rather than imposing a blanket ban. The domestic legal framework already included health-specific provisions under Article 6.3 of the CAO, which carried lighter penalties for breaches of health regulations (see paragraph 77). However, the authorities chose to rely on harsher provisions related to public events (Articles 20.2 and 20.6.1), suggesting an overbroad response. Furthermore, the domestic courts’ practice of treating sequential solo demonstrations as a group event (see paragraph 23) effectively criminalized a form of expression that should be protected under Article 10, as such actions do not inherently pose the same risks as organized group assemblies.\"},\n\n    {\"Conclusion on necessity and proportionality\": \"The blanket ban on public events, including solo demonstrations, and the severe penalties imposed on the applicants were not proportionate to the legitimate aim of protecting public health. The authorities failed to demonstrate that less restrictive measures could not have achieved the same objective or that the severe penalties, particularly administrative detention, were necessary. The interference therefore exceeded the margin of appreciation and was not justified as ‘necessary in a democratic society’ under Article 10 § 2 of the Convention.\"}\n  ],\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 10647,
+    "prompt_tokens": 15233,
+    "total_tokens": 25880,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 8899,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.102702,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.102702,
+      "upstream_inference_prompt_cost": 0.0228495,
+      "upstream_inference_completions_cost": 0.0798525
+    }
+  }
+}

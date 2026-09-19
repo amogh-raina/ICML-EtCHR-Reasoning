@@ -1,0 +1,63 @@
+{
+  "item_id": "001-248208",
+  "case_name": "CASE OF MORAWIEC v. POLAND",
+  "case_number": "(Application no. 46238/20)",
+  "date": "5 February 2026",
+  "prompt_type": "non_curated",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "The applicant’s expressive activity protected by Article 10": "The applicant, as President of the Judges’ Association Themis, engaged in public debate by issuing statements and resolutions critical of the Polish judicial reforms, the National Council of the Judiciary, and the Minister of Justice (see paragraphs 8-9). Such public expressions by a judge on matters of judicial independence and rule of law fall squarely within the protection of Article 10 of the Convention. The European Court of Human Rights has consistently recognised that judges enjoy the right to freedom of expression, particularly when addressing issues of public interest, albeit subject to the duties and responsibilities inherent in their office (see no. 28274/08)."
+    },
+    {
+      "Interference with the applicant’s right to freedom of expression": "Multiple State actions constituted interference with the applicant’s Article 10 rights. Firstly, the state-controlled television channel TVP broadcasted a programme on 10 October 2020 that accused the applicant of criminal activity, framing her professional conduct as akin to an organised crime ‘arrangement’ (see paragraph 19). Secondly, the Disciplinary Chamber of the Supreme Court (DCSC) initiated proceedings to lift her judicial immunity on 14 September 2020, leading to her suspension and a 50% salary reduction for 238 days (see paragraphs 12-13, 16). Thirdly, she was transferred without consent to a different division, a move widely perceived as a demotion linked to her declared intention to adjudicate in accordance with European law (see paragraph 22). These measures were taken in the immediate aftermath of her public criticism of the judicial reforms."
+    },
+    {
+      "Lawfulness of the interference under Article 10": "The interference with the applicant’s rights was not ‘prescribed by law’ within the meaning of Article 10 § 2. The DCSC, which ordered the suspension and salary reduction, was an entity whose legitimacy was fundamentally questioned: the Court of Justice of the European Union (CJEU) had issued an interim order on 8 April 2020 suspending its powers in disciplinary matters concerning judges, on the ground that it lacked independence and impartiality (see paragraphs 19-20). Domestic and international judicial associations uniformly condemned the DCSC’s actions in the applicant’s case as a violation of the CJEU order (see paragraphs 20). Consequently, the proceedings against her were conducted by a body that did not meet the ‘tribunal established by law’ standard, undermining the lawfulness of the interference."
+    },
+    {
+      "Legitimate aim of the interference": "Assuming, *arguendo*, that the interference pursued a legitimate aim such as ‘maintaining the authority and impartiality of the judiciary’ – a recognised ground under Article 10 § 2 – the actual context strongly suggests a retaliatory motive. The application to lift the applicant’s immunity was initiated shortly after her persistent public criticism of the government’s judicial policies (see paragraphs 9, 12). Moreover, the allegations – including claims of bribery and abuse of power – were later dismissed by the DCSC itself as unsupported by credible evidence, with the second-instance resolution explicitly stating that the evidence was ‘insufficient’ and the prosecutor’s initiative ‘premature’ (see paragraph 15). This undermines any claim that the aim was genuinely to uphold judicial integrity."
+    },
+    {
+      "Necessity and proportionality of the interference": "The interference was neither necessary nor proportionate. The State’s response to the applicant’s protected speech was severe and multifaceted: public defamation via state media, professional suspension, financial penalties, and a punitive transfer. The European Court of Human Rights has held that disciplinary measures against judges for their public statements must be strictly proportionate to the legitimate aim pursued (see no. 28274/08). Here, the measures were excessive. The suspension and salary reduction were based on unsubstantiated allegations that were ultimately rejected (see paragraph 15), while the state media’s defamatory broadcast lacked any factual foundation and was designed to damage her reputation (see paragraph 19). Such disproportionate responses cannot be considered ‘necessary in a democratic society’."
+    },
+    {
+      "Chilling effect on freedom of expression": "The cumulative effect of the State’s actions had a clear chilling effect, both on the applicant and on the broader judicial community. As noted by Judge Safjan in his public statements, the proceedings against the applicant were part of a pattern intended to ‘paralyse the work of independent judges’ through fear of reprisals (see paragraph 18). The 2024 report by the Polish Judges’ Association Iustitia further described the criminal proceedings against the applicant as a ‘textbook example of the instrumental use of criminal law to discredit a judge who had publicly and fearlessly defended core democratic values’ (see paragraph 22). This chilling effect is a critical factor in assessing the necessity of interferences under Article 10."
+    },
+    {
+      "Conclusion on the violation": "In light of the above, the interferences with the applicant’s freedom of expression were not prescribed by law, did not pursue a legitimate aim, and were not necessary in a democratic society. The State’s actions were disproportionate, retaliatory in nature, and had a clear chilling effect on the applicant’s protected speech. Therefore, the respondent State failed to comply with its obligations under Article 10 of the Convention."
+    }
+  ],
+  "raw_content": "```json\n{\n  \"assessment\": [\n    {\"The applicant’s expressive activity protected by Article 10\": \"The applicant, as President of the Judges’ Association Themis, engaged in public debate by issuing statements and resolutions critical of the Polish judicial reforms, the National Council of the Judiciary, and the Minister of Justice (see paragraphs 8-9). Such public expressions by a judge on matters of judicial independence and rule of law fall squarely within the protection of Article 10 of the Convention. The European Court of Human Rights has consistently recognised that judges enjoy the right to freedom of expression, particularly when addressing issues of public interest, albeit subject to the duties and responsibilities inherent in their office (see no. 28274/08).\"},\n\n    {\"Interference with the applicant’s right to freedom of expression\": \"Multiple State actions constituted interference with the applicant’s Article 10 rights. Firstly, the state-controlled television channel TVP broadcasted a programme on 10 October 2020 that accused the applicant of criminal activity, framing her professional conduct as akin to an organised crime ‘arrangement’ (see paragraph 19). Secondly, the Disciplinary Chamber of the Supreme Court (DCSC) initiated proceedings to lift her judicial immunity on 14 September 2020, leading to her suspension and a 50% salary reduction for 238 days (see paragraphs 12-13, 16). Thirdly, she was transferred without consent to a different division, a move widely perceived as a demotion linked to her declared intention to adjudicate in accordance with European law (see paragraph 22). These measures were taken in the immediate aftermath of her public criticism of the judicial reforms.\"},\n\n    {\"Lawfulness of the interference under Article 10\": \"The interference with the applicant’s rights was not ‘prescribed by law’ within the meaning of Article 10 § 2. The DCSC, which ordered the suspension and salary reduction, was an entity whose legitimacy was fundamentally questioned: the Court of Justice of the European Union (CJEU) had issued an interim order on 8 April 2020 suspending its powers in disciplinary matters concerning judges, on the ground that it lacked independence and impartiality (see paragraphs 19-20). Domestic and international judicial associations uniformly condemned the DCSC’s actions in the applicant’s case as a violation of the CJEU order (see paragraphs 20). Consequently, the proceedings against her were conducted by a body that did not meet the ‘tribunal established by law’ standard, undermining the lawfulness of the interference.\"},\n\n    {\"Legitimate aim of the interference\": \"Assuming, *arguendo*, that the interference pursued a legitimate aim such as ‘maintaining the authority and impartiality of the judiciary’ – a recognised ground under Article 10 § 2 – the actual context strongly suggests a retaliatory motive. The application to lift the applicant’s immunity was initiated shortly after her persistent public criticism of the government’s judicial policies (see paragraphs 9, 12). Moreover, the allegations – including claims of bribery and abuse of power – were later dismissed by the DCSC itself as unsupported by credible evidence, with the second-instance resolution explicitly stating that the evidence was ‘insufficient’ and the prosecutor’s initiative ‘premature’ (see paragraph 15). This undermines any claim that the aim was genuinely to uphold judicial integrity.\"},\n\n    {\"Necessity and proportionality of the interference\": \"The interference was neither necessary nor proportionate. The State’s response to the applicant’s protected speech was severe and multifaceted: public defamation via state media, professional suspension, financial penalties, and a punitive transfer. The European Court of Human Rights has held that disciplinary measures against judges for their public statements must be strictly proportionate to the legitimate aim pursued (see no. 28274/08). Here, the measures were excessive. The suspension and salary reduction were based on unsubstantiated allegations that were ultimately rejected (see paragraph 15), while the state media’s defamatory broadcast lacked any factual foundation and was designed to damage her reputation (see paragraph 19). Such disproportionate responses cannot be considered ‘necessary in a democratic society’.\"},\n\n    {\"Chilling effect on freedom of expression\": \"The cumulative effect of the State’s actions had a clear chilling effect, both on the applicant and on the broader judicial community. As noted by Judge Safjan in his public statements, the proceedings against the applicant were part of a pattern intended to ‘paralyse the work of independent judges’ through fear of reprisals (see paragraph 18). The 2024 report by the Polish Judges’ Association Iustitia further described the criminal proceedings against the applicant as a ‘textbook example of the instrumental use of criminal law to discredit a judge who had publicly and fearlessly defended core democratic values’ (see paragraph 22). This chilling effect is a critical factor in assessing the necessity of interferences under Article 10.\"},\n\n    {\"Conclusion on the violation\": \"In light of the above, the interferences with the applicant’s freedom of expression were not prescribed by law, did not pursue a legitimate aim, and were not necessary in a democratic society. The State’s actions were disproportionate, retaliatory in nature, and had a clear chilling effect on the applicant’s protected speech. Therefore, the respondent State failed to comply with its obligations under Article 10 of the Convention.\"}\n  ],\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 4661,
+    "prompt_tokens": 5969,
+    "total_tokens": 10630,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 4083,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.043911,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.043911,
+      "upstream_inference_prompt_cost": 0.0089535,
+      "upstream_inference_completions_cost": 0.0349575
+    }
+  }
+}

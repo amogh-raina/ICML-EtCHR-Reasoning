@@ -1,0 +1,84 @@
+{
+  "item_id": "001-243257",
+  "case_name": "CASE OF SELISHCHEVA AND OTHERS v. RUSSIA",
+  "case_number": "(Applications nos. 39056/22 and 9 others –",
+  "date": "27 May 2025",
+  "prompt_type": "gpt_assisted",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "high",
+  "violation_ground_truth": [
+    "10",
+    "10-1",
+    "11",
+    "11-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "1. Interference with freedom of expression": "There was a clear interference with the applicants’ Article 10 rights. They were refused registration as candidates because of acts expressing political support or opposition activity: participation in protests, legal assistance to protesters, campaigning for opposition candidates, use of the “Smart Voting” strategy, social-media reposts and subscriptions, publication of protest-related information, anti-corruption work, and support for persons linked to Mr Navalnyy’s movement (see paragraphs 4-8). In substance, the authorities penalised political expression and political advocacy. Excluding opposition figures from an election on that basis is capable of producing a strong chilling effect on future expression, especially in an electoral context (see nos. 28396/95, 25501/07)."
+    },
+    {
+      "2. Context of the speech and the level of protection": "The impugned expression lay at the core of Article 10 protection. It concerned opposition politics, anti-corruption campaigning, public protests, and debate about the imprisonment of a prominent political leader, all of which are matters of the highest public interest (see paragraphs 3, 6-8). The Court affords very little margin of appreciation where restrictions target political speech, especially during elections and where opposition voices are affected (see nos. 28881/07, 20261/12, 37920/07). The fact that many applicants were ordinary activists rather than major office-holders does not reduce the level of protection; Article 10 strongly protects participation in democratic debate by civil society and opposition supporters."
+    },
+    {
+      "3. Lawfulness of the interference": "The interference appears not to have been sufficiently \"prescribed by law\". Section 4 § 3.6 of the Electoral Rights Act states that the ban applies to persons whose involvement in an extremist organisation “has been established by a court decision which has entered into legal force” (see paragraph 11). Yet the electoral commissions relied on letters from the Ministry of Justice based on police information, and the domestic courts accepted that material as sufficient without any prior judicial finding of the applicants’ own involvement (see paragraphs 5 and 9). That reading seems to contradict the statutory wording and gave the executive a very broad discretion. Foreseeability was weakened further because the applicants’ conduct had largely taken place before the organisations were declared extremist on 9 June 2021 and before the new ban entered into force on 4 June 2021 (see paragraphs 2, 3, 6 and 9). In addition, the material used against them consisted largely of data revealing political opinions and affiliations, gathered by the police in circumstances raising concerns about safeguards against arbitrariness (see paragraphs 12-13). These features point strongly to a lack of legal certainty and adequate safeguards (see nos. 14305/17, 37949/18)."
+    },
+    {
+      "4. Legitimate aim": "The Government could argue that the measures pursued the protection of national security, public safety, or the prevention of disorder or crime by excluding persons involved in extremist activity from elections. That is, in the abstract, a legitimate aim under Article 10 § 2. However, the mere invocation of \"extremism\" cannot by itself justify severe restrictions on political expression; the authorities still had to show a concrete connection between the applicants’ own conduct and the alleged threat."
+    },
+    {
+      "5. Necessity and proportionality": "Even assuming a legitimate aim, the interference was not necessary in a democratic society. The activities attributed to the applicants were overwhelmingly peaceful and political: attending protests, providing legal advice, collecting signatures, volunteering in campaigns, publishing political content, following or sharing FBK materials, or conducting anti-corruption advocacy (see paragraph 6). For Mr Markelov and Mr Levchenko, the additional allegations likewise concerned opposition campaigning, anti-corruption investigations, prior employment, and administrative penalties, not incitement to violence or hatred (see paragraphs 7-8). The domestic courts did not carry out an individualised assessment of whether the applicants had advocated violent or extremist methods; they merely accepted police reports and treated prior political support as enough (see paragraph 9). That was not a relevant and sufficient basis for excluding them from the electoral process. The sanction was also extremely severe: a blanket deprivation of the right to stand in elections for three years from the date of the extremism judgment, imposed in practice because of past political expression and association (see paragraph 11). Such a measure inevitably chills opposition speech and electoral debate. Less restrictive responses were not considered. On the Court’s approach to political expression, opposition speech, and disproportionate sanctions, this points strongly to a breach of Article 10 (see nos. 28396/95, 25501/07, 28881/07, 20261/12)."
+    },
+    {
+      "6. Overall conclusion": "The refusals to register the applicants as candidates were based on peaceful political expression and support activities, interpreted through an unforeseeable and weakly safeguarded application of domestic law, and justified by reasons that were not relevant and sufficient. In an electoral setting, where Article 10 protection is at its strongest, such a blanket exclusion was disproportionate. The most likely outcome is therefore a finding of a violation of Article 10."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"1. Interference with freedom of expression\": \"There was a clear interference with the applicants’ Article 10 rights. They were refused registration as candidates because of acts expressing political support or opposition activity: participation in protests, legal assistance to protesters, campaigning for opposition candidates, use of the “Smart Voting” strategy, social-media reposts and subscriptions, publication of protest-related information, anti-corruption work, and support for persons linked to Mr Navalnyy’s movement (see paragraphs 4-8). In substance, the authorities penalised political expression and political advocacy. Excluding opposition figures from an election on that basis is capable of producing a strong chilling effect on future expression, especially in an electoral context (see nos. 28396/95, 25501/07).\"\n    },\n    {\n      \"2. Context of the speech and the level of protection\": \"The impugned expression lay at the core of Article 10 protection. It concerned opposition politics, anti-corruption campaigning, public protests, and debate about the imprisonment of a prominent political leader, all of which are matters of the highest public interest (see paragraphs 3, 6-8). The Court affords very little margin of appreciation where restrictions target political speech, especially during elections and where opposition voices are affected (see nos. 28881/07, 20261/12, 37920/07). The fact that many applicants were ordinary activists rather than major office-holders does not reduce the level of protection; Article 10 strongly protects participation in democratic debate by civil society and opposition supporters.\"\n    },\n    {\n      \"3. Lawfulness of the interference\": \"The interference appears not to have been sufficiently \\\"prescribed by law\\\". Section 4 § 3.6 of the Electoral Rights Act states that the ban applies to persons whose involvement in an extremist organisation “has been established by a court decision which has entered into legal force” (see paragraph 11). Yet the electoral commissions relied on letters from the Ministry of Justice based on police information, and the domestic courts accepted that material as sufficient without any prior judicial finding of the applicants’ own involvement (see paragraphs 5 and 9). That reading seems to contradict the statutory wording and gave the executive a very broad discretion. Foreseeability was weakened further because the applicants’ conduct had largely taken place before the organisations were declared extremist on 9 June 2021 and before the new ban entered into force on 4 June 2021 (see paragraphs 2, 3, 6 and 9). In addition, the material used against them consisted largely of data revealing political opinions and affiliations, gathered by the police in circumstances raising concerns about safeguards against arbitrariness (see paragraphs 12-13). These features point strongly to a lack of legal certainty and adequate safeguards (see nos. 14305/17, 37949/18).\"\n    },\n    {\n      \"4. Legitimate aim\": \"The Government could argue that the measures pursued the protection of national security, public safety, or the prevention of disorder or crime by excluding persons involved in extremist activity from elections. That is, in the abstract, a legitimate aim under Article 10 § 2. However, the mere invocation of \\\"extremism\\\" cannot by itself justify severe restrictions on political expression; the authorities still had to show a concrete connection between the applicants’ own conduct and the alleged threat.\"\n    },\n    {\n      \"5. Necessity and proportionality\": \"Even assuming a legitimate aim, the interference was not necessary in a democratic society. The activities attributed to the applicants were overwhelmingly peaceful and political: attending protests, providing legal advice, collecting signatures, volunteering in campaigns, publishing political content, following or sharing FBK materials, or conducting anti-corruption advocacy (see paragraph 6). For Mr Markelov and Mr Levchenko, the additional allegations likewise concerned opposition campaigning, anti-corruption investigations, prior employment, and administrative penalties, not incitement to violence or hatred (see paragraphs 7-8). The domestic courts did not carry out an individualised assessment of whether the applicants had advocated violent or extremist methods; they merely accepted police reports and treated prior political support as enough (see paragraph 9). That was not a relevant and sufficient basis for excluding them from the electoral process. The sanction was also extremely severe: a blanket deprivation of the right to stand in elections for three years from the date of the extremism judgment, imposed in practice because of past political expression and association (see paragraph 11). Such a measure inevitably chills opposition speech and electoral debate. Less restrictive responses were not considered. On the Court’s approach to political expression, opposition speech, and disproportionate sanctions, this points strongly to a breach of Article 10 (see nos. 28396/95, 25501/07, 28881/07, 20261/12).\"\n    },\n    {\n      \"6. Overall conclusion\": \"The refusals to register the applicants as candidates were based on peaceful political expression and support activities, interpreted through an unforeseeable and weakly safeguarded application of domestic law, and justified by reasons that were not relevant and sufficient. In an electoral setting, where Article 10 protection is at its strongest, such a blanket exclusion was disproportionate. The most likely outcome is therefore a finding of a violation of Article 10.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 3603,
+    "prompt_tokens": 3079,
+    "total_tokens": 6682,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 2481,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0594385,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0594385,
+      "upstream_inference_prompt_cost": 0.0053935,
+      "upstream_inference_completions_cost": 0.054045
+    }
+  },
+  "citations": [
+    "28396/95",
+    "25501/07",
+    "28881/07",
+    "20261/12",
+    "37920/07",
+    "14305/17",
+    "37949/18"
+  ],
+  "ref_paragraphs": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    11,
+    12,
+    13
+  ]
+}

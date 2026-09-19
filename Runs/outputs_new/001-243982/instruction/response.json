@@ -1,0 +1,100 @@
+{
+  "item_id": "001-243982",
+  "case_name": "CASE OF GOOGLE LLC AND OTHERS v. RUSSIA",
+  "case_number": "(Application no. 37027/22)",
+  "date": "8 July 2025",
+  "prompt_type": "instruction",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "1. Existence of an interference": "There was a clear interference with the applicants’ freedom of expression. Google LLC was fined for refusing to remove videos and channels on YouTube containing criticism of the authorities, support for opposition figures, and reporting on Russia’s invasion of Ukraine (see paragraphs 6-12). Those measures directly targeted the applicants’ role as an internet intermediary enabling the dissemination of information and ideas online, which falls within Article 10 protection, especially where the content concerns political debate and matters of public interest (see nos. 16354/06, 69575/10, 64569/09). The interference was intensified by the turnover fines of about EUR 87 million and EUR 360 million, the recovery measures against Google Russia’s assets, and the coercive astreinte system in the Tsargrad and “copycat” cases, all of which were capable of forcing compliance and chilling future hosting decisions (see paragraphs 8, 12, 22, 25, 30, 33-40)."
+    },
+    {
+      "2. Lawfulness of the interference": "Although the takedown regime had a formal basis in domestic law in section 15.3 of the Information Act and Article 13.41 of the CAO (see paragraphs 42-46), the decisive interferences were not sufficiently foreseeable or accompanied by adequate safeguards. The domestic courts calculated turnover fines by including the revenue of non-party “affiliates”, without identifying any clear legal rule allowing such attribution of liability, and relied instead on YouTube terms and privacy policies rather than company-law provisions (see paragraphs 8, 12-14). Likewise, the enforcement of Google LLC’s fines against Google Russia’s seized assets was justified through the notion of a “de facto representative office”, despite Google Russia being a separate legal entity and despite the absence of a clear statutory basis for piercing the corporate veil in this manner (see paragraphs 29-32). Further, Google LLC complained that it had no real opportunity to contest the takedown requests before being sanctioned, and in the enforcement phase the expert report was obtained without notice and without any opportunity to comment (see paragraphs 9, 23-27). In line with the Court’s approach requiring clarity, foreseeability and protection against arbitrary interference in online-expression cases (see nos. 16354/06, 69575/10, 39446/16), these defects point to a failure of the “prescribed by law” requirement."
+    },
+    {
+      "3. Legitimate aims of the interference": "The Government could argue that the takedown orders pursued legitimate aims such as the prevention of disorder or crime, public safety, or the protection of health, because the impugned material was labelled “extremist” or “socially significant disinformation” and, later, “disinformation” about the armed forces (see paragraphs 10, 43). The civil judgments in favour of Tsargrad and other channels could also be presented as pursuing the protection of the rights of others, namely contractual rights (see paragraphs 18-21). However, the factual context strongly suggests that the measures were in substance directed against criticism of the authorities and independent reporting, including opposition speech and war coverage (see paragraphs 5, 7, 10). That casts doubt on whether the interferences genuinely served Convention-compliant aims. In any event, given the lack of sufficient legal basis and safeguards, this step cannot justify the restrictions."
+    },
+    {
+      "4. Necessary in a democratic society": "Even assuming legitimate aims, the interferences were not necessary in a democratic society. The affected material lay at the core of Article 10 protection: criticism of the authorities’ pandemic response, constitutional reform, support for Mr Navalnyy, and reporting by independent media on the war in Ukraine (see paragraphs 7, 10). Yet the Justice of the Peace imposed the first turnover fine without analysing freedom-of-expression implications at all, and the appeal courts dismissed the challenges summarily (see paragraphs 8-9, 14). The sanctions were extraordinarily severe: massive turnover-based fines, seizure of another company’s assets, uncapped astreinte penalties doubling weekly, and a chain of “copycat” claims culminating in Google Russia’s bankruptcy (see paragraphs 12, 22, 25, 30, 33-41). Such measures were plainly not the least restrictive means; they created overwhelming pressure to remove lawful or at least debatably lawful political content. Unlike the narrowly reasoned intermediary-liability model accepted in some circumstances (see no. 64569/09), the present regime incentivised overblocking and suppressed pluralist debate. The domestic courts did not provide relevant and sufficient reasons demonstrating a pressing social need. Accordingly, the interference was disproportionate (see nos. 16354/06, 69575/10, 39446/16)."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"1. Existence of an interference\": \"There was a clear interference with the applicants’ freedom of expression. Google LLC was fined for refusing to remove videos and channels on YouTube containing criticism of the authorities, support for opposition figures, and reporting on Russia’s invasion of Ukraine (see paragraphs 6-12). Those measures directly targeted the applicants’ role as an internet intermediary enabling the dissemination of information and ideas online, which falls within Article 10 protection, especially where the content concerns political debate and matters of public interest (see nos. 16354/06, 69575/10, 64569/09). The interference was intensified by the turnover fines of about EUR 87 million and EUR 360 million, the recovery measures against Google Russia’s assets, and the coercive astreinte system in the Tsargrad and “copycat” cases, all of which were capable of forcing compliance and chilling future hosting decisions (see paragraphs 8, 12, 22, 25, 30, 33-40).\"\n    },\n    {\n      \"2. Lawfulness of the interference\": \"Although the takedown regime had a formal basis in domestic law in section 15.3 of the Information Act and Article 13.41 of the CAO (see paragraphs 42-46), the decisive interferences were not sufficiently foreseeable or accompanied by adequate safeguards. The domestic courts calculated turnover fines by including the revenue of non-party “affiliates”, without identifying any clear legal rule allowing such attribution of liability, and relied instead on YouTube terms and privacy policies rather than company-law provisions (see paragraphs 8, 12-14). Likewise, the enforcement of Google LLC’s fines against Google Russia’s seized assets was justified through the notion of a “de facto representative office”, despite Google Russia being a separate legal entity and despite the absence of a clear statutory basis for piercing the corporate veil in this manner (see paragraphs 29-32). Further, Google LLC complained that it had no real opportunity to contest the takedown requests before being sanctioned, and in the enforcement phase the expert report was obtained without notice and without any opportunity to comment (see paragraphs 9, 23-27). In line with the Court’s approach requiring clarity, foreseeability and protection against arbitrary interference in online-expression cases (see nos. 16354/06, 69575/10, 39446/16), these defects point to a failure of the “prescribed by law” requirement.\"\n    },\n    {\n      \"3. Legitimate aims of the interference\": \"The Government could argue that the takedown orders pursued legitimate aims such as the prevention of disorder or crime, public safety, or the protection of health, because the impugned material was labelled “extremist” or “socially significant disinformation” and, later, “disinformation” about the armed forces (see paragraphs 10, 43). The civil judgments in favour of Tsargrad and other channels could also be presented as pursuing the protection of the rights of others, namely contractual rights (see paragraphs 18-21). However, the factual context strongly suggests that the measures were in substance directed against criticism of the authorities and independent reporting, including opposition speech and war coverage (see paragraphs 5, 7, 10). That casts doubt on whether the interferences genuinely served Convention-compliant aims. In any event, given the lack of sufficient legal basis and safeguards, this step cannot justify the restrictions.\"\n    },\n    {\n      \"4. Necessary in a democratic society\": \"Even assuming legitimate aims, the interferences were not necessary in a democratic society. The affected material lay at the core of Article 10 protection: criticism of the authorities’ pandemic response, constitutional reform, support for Mr Navalnyy, and reporting by independent media on the war in Ukraine (see paragraphs 7, 10). Yet the Justice of the Peace imposed the first turnover fine without analysing freedom-of-expression implications at all, and the appeal courts dismissed the challenges summarily (see paragraphs 8-9, 14). The sanctions were extraordinarily severe: massive turnover-based fines, seizure of another company’s assets, uncapped astreinte penalties doubling weekly, and a chain of “copycat” claims culminating in Google Russia’s bankruptcy (see paragraphs 12, 22, 25, 30, 33-41). Such measures were plainly not the least restrictive means; they created overwhelming pressure to remove lawful or at least debatably lawful political content. Unlike the narrowly reasoned intermediary-liability model accepted in some circumstances (see no. 64569/09), the present regime incentivised overblocking and suppressed pluralist debate. The domestic courts did not provide relevant and sufficient reasons demonstrating a pressing social need. Accordingly, the interference was disproportionate (see nos. 16354/06, 69575/10, 39446/16).\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 3794,
+    "prompt_tokens": 7037,
+    "total_tokens": 10831,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 2762,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0745025,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0745025,
+      "upstream_inference_prompt_cost": 0.0175925,
+      "upstream_inference_completions_cost": 0.05691
+    }
+  },
+  "citations": [
+    "16354/06",
+    "69575/10",
+    "64569/09",
+    "39446/16"
+  ],
+  "ref_paragraphs": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46
+  ]
+}

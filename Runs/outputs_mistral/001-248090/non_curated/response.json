@@ -1,0 +1,63 @@
+{
+  "item_id": "001-248090",
+  "case_name": "CASE OF KHADIJA ISMAYILOVA v. AZERBAIJAN (No. 4)",
+  "case_number": "(Applications nos. 71556/16 and 74112/17)",
+  "date": "27 January 2026",
+  "prompt_type": "non_curated",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Scope of Article 10": "The applicant’s professional activities as an investigative journalist exposing alleged corruption clearly fall within the scope of Article 10 of the Convention. Her work involved reporting on matters of significant public interest, including cases of alleged corruption and the business activities of public officials (see paragraph 5). The European Court has consistently held that investigative journalism on such matters enjoys strong protection under Article 10 (see no. 28396/95)."
+    },
+    {
+      "Existence of Interference": "The criminal proceedings initiated against the applicant constitute a clear interference with her right to freedom of expression. These included her detention on remand (see paragraph 9), her conviction on multiple charges including illegal entrepreneurship and tax evasion (see paragraph 11), and the subsequent appeals process that ultimately upheld parts of her conviction (see paragraphs 14-16, 20). The European Court has established that criminal proceedings and convictions can amount to an interference with Article 10, as they inherently produce a chilling effect on journalists’ ability to perform their professional duties (see no. 28396/95)."
+    },
+    {
+      "Prescribed by Law": "The interference had a basis in domestic law, as the applicant was charged and convicted under Articles 192 (illegal entrepreneurship) and 213 (tax evasion) of the Criminal Code (see paragraphs 10-11, 16-20, 21-23). This satisfies the requirement that any interference with Article 10 rights must be prescribed by law. However, the mere existence of a legal basis is insufficient; the restriction must also pursue a legitimate aim and be necessary in a democratic society."
+    },
+    {
+      "Legitimate Aim": "The domestic authorities pursued what could be considered legitimate aims under Article 10 § 2, namely the prevention of crime and the protection of the economic well-being of the country (see paragraphs 10-11). These aims are recognized as potentially justifying restrictions on freedom of expression. However, the European Court must look beyond the stated justification to determine whether this was the genuine purpose of the proceedings or merely a pretext for suppressing the applicant’s journalistic activities."
+    },
+    {
+      "Necessity in a Democratic Society": "The applicant consistently argued that the criminal proceedings were part of a broader pattern of harassment designed to silence her for her investigative journalism (see paragraph 12). The domestic courts failed to properly address this contention, dismissing her detailed arguments in general terms without substantive engagement (see paragraphs 14-16, 20). The charges were based on questionable legal foundations: the allegation of illegal entrepreneurship for working without accreditation was legally dubious, as accreditation is not a precondition for journalistic activity but merely grants additional access to information (see paragraph 12); the tax evasion charge rested on vague audit reports that improperly classified all transferred funds as profit without adequate justification (see paragraphs 11, 13). The severity of the initial seven-and-a-half-year prison sentence (see paragraph 11) and the continuing restrictions even after its reduction, including a travel ban (see paragraph 16), were grossly disproportionate to the alleged offences. The European Court has previously found violations of Article 10 in comparable cases where journalists were subjected to criminal proceedings that were politically motivated or lacked a genuine legal basis (see no. 65286/13, Khadija Ismayilova v. Azerbaijan, and no. 57270/14, Khadija Ismayilova v. Azerbaijan (no. 2)). The use of criminal law to punish investigative journalists for their reporting on matters of public interest is incompatible with Article 10 standards (see no. 28396/95)."
+    },
+    {
+      "Chilling Effect on Journalism": "The prolonged criminal proceedings and conviction had a clear chilling effect on the applicant’s journalistic work and, by extension, on investigative journalism in Azerbaijan more broadly. As an investigative journalist specializing in exposing corruption, the applicant required the ability to operate without fear of criminal prosecution. The European Court has repeatedly held that even the threat of criminal sanctions can deter journalists from pursuing important stories, thereby undermining the public’s right to receive information (see no. 28396/95)."
+    },
+    {
+      "Conclusion on Violation": "The cumulative impact of the criminal proceedings, conviction, and ongoing restrictions constitutes a disproportionate interference with the applicant’s Article 10 rights. The domestic courts failed to provide adequate safeguards against the arbitrary use of criminal law to suppress freedom of expression, particularly in light of the applicant’s prima facie credible claims that the proceedings were politically motivated (see paragraph 12). The measures taken were not supported by relevant and sufficient reasons corresponding to a pressing social need, nor were they proportionate to the alleged aims. Therefore, the interference with the applicant’s right to freedom of expression was not necessary in a democratic society and constitutes a violation of Article 10 of the Convention (see no. 65286/13, no. 57270/14, and no. 28396/95)."
+    }
+  ],
+  "raw_content": "```json\n{\n  \"assessment\": [\n    {\"Scope of Article 10\": \"The applicant’s professional activities as an investigative journalist exposing alleged corruption clearly fall within the scope of Article 10 of the Convention. Her work involved reporting on matters of significant public interest, including cases of alleged corruption and the business activities of public officials (see paragraph 5). The European Court has consistently held that investigative journalism on such matters enjoys strong protection under Article 10 (see no. 28396/95).\"},\n\n    {\"Existence of Interference\": \"The criminal proceedings initiated against the applicant constitute a clear interference with her right to freedom of expression. These included her detention on remand (see paragraph 9), her conviction on multiple charges including illegal entrepreneurship and tax evasion (see paragraph 11), and the subsequent appeals process that ultimately upheld parts of her conviction (see paragraphs 14-16, 20). The European Court has established that criminal proceedings and convictions can amount to an interference with Article 10, as they inherently produce a chilling effect on journalists’ ability to perform their professional duties (see no. 28396/95).\"},\n\n    \n    {\"Prescribed by Law\": \"The interference had a basis in domestic law, as the applicant was charged and convicted under Articles 192 (illegal entrepreneurship) and 213 (tax evasion) of the Criminal Code (see paragraphs 10-11, 16-20, 21-23). This satisfies the requirement that any interference with Article 10 rights must be prescribed by law. However, the mere existence of a legal basis is insufficient; the restriction must also pursue a legitimate aim and be necessary in a democratic society.\"},\n\n    {\"Legitimate Aim\": \"The domestic authorities pursued what could be considered legitimate aims under Article 10 § 2, namely the prevention of crime and the protection of the economic well-being of the country (see paragraphs 10-11). These aims are recognized as potentially justifying restrictions on freedom of expression. However, the European Court must look beyond the stated justification to determine whether this was the genuine purpose of the proceedings or merely a pretext for suppressing the applicant’s journalistic activities.\"},\n\n    {\"Necessity in a Democratic Society\": \"The applicant consistently argued that the criminal proceedings were part of a broader pattern of harassment designed to silence her for her investigative journalism (see paragraph 12). The domestic courts failed to properly address this contention, dismissing her detailed arguments in general terms without substantive engagement (see paragraphs 14-16, 20). The charges were based on questionable legal foundations: the allegation of illegal entrepreneurship for working without accreditation was legally dubious, as accreditation is not a precondition for journalistic activity but merely grants additional access to information (see paragraph 12); the tax evasion charge rested on vague audit reports that improperly classified all transferred funds as profit without adequate justification (see paragraphs 11, 13). The severity of the initial seven-and-a-half-year prison sentence (see paragraph 11) and the continuing restrictions even after its reduction, including a travel ban (see paragraph 16), were grossly disproportionate to the alleged offences. The European Court has previously found violations of Article 10 in comparable cases where journalists were subjected to criminal proceedings that were politically motivated or lacked a genuine legal basis (see no. 65286/13, Khadija Ismayilova v. Azerbaijan, and no. 57270/14, Khadija Ismayilova v. Azerbaijan (no. 2)). The use of criminal law to punish investigative journalists for their reporting on matters of public interest is incompatible with Article 10 standards (see no. 28396/95).\"},\n\n    {\"Chilling Effect on Journalism\": \"The prolonged criminal proceedings and conviction had a clear chilling effect on the applicant’s journalistic work and, by extension, on investigative journalism in Azerbaijan more broadly. As an investigative journalist specializing in exposing corruption, the applicant required the ability to operate without fear of criminal prosecution. The European Court has repeatedly held that even the threat of criminal sanctions can deter journalists from pursuing important stories, thereby undermining the public’s right to receive information (see no. 28396/95).\"},\n\n    {\"Conclusion on Violation\": \"The cumulative impact of the criminal proceedings, conviction, and ongoing restrictions constitutes a disproportionate interference with the applicant’s Article 10 rights. The domestic courts failed to provide adequate safeguards against the arbitrary use of criminal law to suppress freedom of expression, particularly in light of the applicant’s prima facie credible claims that the proceedings were politically motivated (see paragraph 12). The measures taken were not supported by relevant and sufficient reasons corresponding to a pressing social need, nor were they proportionate to the alleged aims. Therefore, the interference with the applicant’s right to freedom of expression was not necessary in a democratic society and constitutes a violation of Article 10 of the Convention (see no. 65286/13, no. 57270/14, and no. 28396/95).\"}\n  ],\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 8596,
+    "prompt_tokens": 6795,
+    "total_tokens": 15391,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 8475,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0746625,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0746625,
+      "upstream_inference_prompt_cost": 0.0101925,
+      "upstream_inference_completions_cost": 0.06447
+    }
+  }
+}

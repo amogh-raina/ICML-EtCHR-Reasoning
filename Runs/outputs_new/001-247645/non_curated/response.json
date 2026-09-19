@@ -1,0 +1,89 @@
+{
+  "item_id": "001-247645",
+  "case_name": "CASE OF PEŠIĆ v. SERBIA",
+  "case_number": "(Application no. 4545/21)",
+  "date": "13 January 2026",
+  "prompt_type": "non_curated",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Interference with freedom of expression": "The civil judgments against the applicant, ordering her jointly to pay damages and costs for the article she published, clearly amounted to an interference with her right to freedom of expression under Article 10 (see paragraphs 7, 10 and 12). The interference was based on domestic civil-law provisions protecting reputation and honour (see paragraphs 21-23), so it was likely \"prescribed by law\" and pursued the legitimate aim of protecting the reputation or rights of others."
+    },
+    {
+      "Speech on a matter of the highest public interest": "The impugned article concerned the demolition in Savamala, the alleged unlawful detention of persons present there, and the police’s failure to intervene, all of which were matters of evident public concern and political controversy (see paragraphs 5-7). The article was published immediately after the Minister of the Interior publicly commented on those events and justified the police’s non-intervention by referring to danger from electrical cables (see paragraphs 6-7). In the Court’s case-law, there is little scope for restrictions on political speech or on debate concerning issues of general interest, especially where the functioning of law-enforcement authorities is in question (see nos. 26682/95, 39954/08 and 29856/13)."
+    },
+    {
+      "Status of the person criticised": "The person targeted by the criticism was not a private individual but the serving Minister of the Interior, speaking publicly on a major political scandal (see paragraphs 6 and 8). Public officials, particularly senior politicians, must display a wider degree of tolerance to harsh criticism when acting in their official capacity. That principle was also expressly recognised in domestic law, which required public or political officeholders to tolerate critical views about their conduct in office, regardless of personal offence (see paragraph 20). This strongly weighs in favour of heightened protection for the applicant’s expression (see no. 26682/95)."
+    },
+    {
+      "Nature of the impugned remarks: value judgments with a sufficient factual basis": "The applicant used caustic and offensive language, repeatedly calling the Minister’s remarks \"stupid\" and suggesting he was made to \"play the fool\" (see paragraph 7). However, those expressions were plainly evaluative and polemical value judgments, not concrete factual allegations susceptible of strict proof. They were directly linked to the Minister’s own statement and to the wider context of the Savamala events (see paragraphs 5-7). Under the Court’s case-law, even sharp, satirical or insulting formulations may be protected where they form part of political commentary and rest on a sufficient factual basis (see nos. 26682/95, 17224/11 and 22287/08). Here, the factual basis existed: the Minister had indeed publicly offered the explanation criticised by the applicant (see paragraph 6)."
+    },
+    {
+      "Whether the remarks were gratuitous insult": "The decisive issue is whether the expressions were a gratuitous personal attack detached from any public debate, or whether they remained connected to criticism of official conduct. The text, read as a whole, shows that the applicant was reacting to the Minister’s handling of a serious public affair, criticising his minimisation of the demolitions and his justification of police passivity (see paragraph 7). Although the wording was abrasive, it was not an isolated name-calling exercise; it was embedded in a broader political commentary on legality, police duties and citizens’ rights. This makes it closer to protected political invective than to an unprotected purely personal insult (see nos. 43425/98 and 50123/06)."
+    },
+    {
+      "Deficiencies in the domestic courts’ balancing exercise": "The domestic courts’ reasoning appears insufficient under Article 10. They held that the article did not contribute to public debate and was aimed solely at denigrating the Minister (see paragraphs 10 and 12). That assessment is difficult to reconcile with the actual content and context of the article, which directly addressed a major public controversy and the Minister’s official explanation of police conduct (see paragraphs 5-7). The courts also dismissed the applicant’s argument that the expressions were value judgments based on the factual background, but they did not convincingly explain why the criticism lacked factual basis or why the public-interest context should carry no weight (see paragraph 10). By focusing narrowly on the offensive wording and not on the article as a whole, the domestic courts failed to apply the standards required in cases involving political criticism of public officials (see nos. 26682/95, 29369/10 and 56925/08)."
+    },
+    {
+      "Proportionality of the sanction": "The applicant was ordered, jointly with the other defendants, to pay damages and costs, with the award still remaining significant after appeal (see paragraphs 10 and 12). Even if the sums were not exceptionally high, civil liability for strongly worded criticism of a minister on a matter of public concern is capable of producing a chilling effect, especially for regular contributors to public-interest media platforms (see paragraph 7). Where domestic courts have not demonstrated a pressing social need for the interference, such sanctions are unlikely to be regarded as proportionate (see nos. 56925/08 and 22287/08)."
+    },
+    {
+      "Overall conclusion under Article 10": "In sum, the applicant’s article concerned a matter of exceptional public importance, targeted a high-ranking politician acting in his official capacity, and used offensive but essentially evaluative language grounded in an existing factual context (see paragraphs 5-7). The domestic courts treated the text as devoid of public-interest value and as a mere insult, without carrying out a convincing balancing exercise consistent with Article 10 standards (see paragraphs 10, 12 and 20). On that basis, the interference was unlikely to have been \"necessary in a democratic society\". A finding of a violation of Article 10 is therefore the more likely outcome."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"Interference with freedom of expression\": \"The civil judgments against the applicant, ordering her jointly to pay damages and costs for the article she published, clearly amounted to an interference with her right to freedom of expression under Article 10 (see paragraphs 7, 10 and 12). The interference was based on domestic civil-law provisions protecting reputation and honour (see paragraphs 21-23), so it was likely \\\"prescribed by law\\\" and pursued the legitimate aim of protecting the reputation or rights of others.\"\n    },\n    {\n      \"Speech on a matter of the highest public interest\": \"The impugned article concerned the demolition in Savamala, the alleged unlawful detention of persons present there, and the police’s failure to intervene, all of which were matters of evident public concern and political controversy (see paragraphs 5-7). The article was published immediately after the Minister of the Interior publicly commented on those events and justified the police’s non-intervention by referring to danger from electrical cables (see paragraphs 6-7). In the Court’s case-law, there is little scope for restrictions on political speech or on debate concerning issues of general interest, especially where the functioning of law-enforcement authorities is in question (see nos. 26682/95, 39954/08 and 29856/13).\"\n    },\n    {\n      \"Status of the person criticised\": \"The person targeted by the criticism was not a private individual but the serving Minister of the Interior, speaking publicly on a major political scandal (see paragraphs 6 and 8). Public officials, particularly senior politicians, must display a wider degree of tolerance to harsh criticism when acting in their official capacity. That principle was also expressly recognised in domestic law, which required public or political officeholders to tolerate critical views about their conduct in office, regardless of personal offence (see paragraph 20). This strongly weighs in favour of heightened protection for the applicant’s expression (see no. 26682/95).\"\n    },\n    {\n      \"Nature of the impugned remarks: value judgments with a sufficient factual basis\": \"The applicant used caustic and offensive language, repeatedly calling the Minister’s remarks \\\"stupid\\\" and suggesting he was made to \\\"play the fool\\\" (see paragraph 7). However, those expressions were plainly evaluative and polemical value judgments, not concrete factual allegations susceptible of strict proof. They were directly linked to the Minister’s own statement and to the wider context of the Savamala events (see paragraphs 5-7). Under the Court’s case-law, even sharp, satirical or insulting formulations may be protected where they form part of political commentary and rest on a sufficient factual basis (see nos. 26682/95, 17224/11 and 22287/08). Here, the factual basis existed: the Minister had indeed publicly offered the explanation criticised by the applicant (see paragraph 6).\"\n    },\n    {\n      \"Whether the remarks were gratuitous insult\": \"The decisive issue is whether the expressions were a gratuitous personal attack detached from any public debate, or whether they remained connected to criticism of official conduct. The text, read as a whole, shows that the applicant was reacting to the Minister’s handling of a serious public affair, criticising his minimisation of the demolitions and his justification of police passivity (see paragraph 7). Although the wording was abrasive, it was not an isolated name-calling exercise; it was embedded in a broader political commentary on legality, police duties and citizens’ rights. This makes it closer to protected political invective than to an unprotected purely personal insult (see nos. 43425/98 and 50123/06).\"\n    },\n    {\n      \"Deficiencies in the domestic courts’ balancing exercise\": \"The domestic courts’ reasoning appears insufficient under Article 10. They held that the article did not contribute to public debate and was aimed solely at denigrating the Minister (see paragraphs 10 and 12). That assessment is difficult to reconcile with the actual content and context of the article, which directly addressed a major public controversy and the Minister’s official explanation of police conduct (see paragraphs 5-7). The courts also dismissed the applicant’s argument that the expressions were value judgments based on the factual background, but they did not convincingly explain why the criticism lacked factual basis or why the public-interest context should carry no weight (see paragraph 10). By focusing narrowly on the offensive wording and not on the article as a whole, the domestic courts failed to apply the standards required in cases involving political criticism of public officials (see nos. 26682/95, 29369/10 and 56925/08).\"\n    },\n    {\n      \"Proportionality of the sanction\": \"The applicant was ordered, jointly with the other defendants, to pay damages and costs, with the award still remaining significant after appeal (see paragraphs 10 and 12). Even if the sums were not exceptionally high, civil liability for strongly worded criticism of a minister on a matter of public concern is capable of producing a chilling effect, especially for regular contributors to public-interest media platforms (see paragraph 7). Where domestic courts have not demonstrated a pressing social need for the interference, such sanctions are unlikely to be regarded as proportionate (see nos. 56925/08 and 22287/08).\"\n    },\n    {\n      \"Overall conclusion under Article 10\": \"In sum, the applicant’s article concerned a matter of exceptional public importance, targeted a high-ranking politician acting in his official capacity, and used offensive but essentially evaluative language grounded in an existing factual context (see paragraphs 5-7). The domestic courts treated the text as devoid of public-interest value and as a mere insult, without carrying out a convincing balancing exercise consistent with Article 10 standards (see paragraphs 10, 12 and 20). On that basis, the interference was unlikely to have been \\\"necessary in a democratic society\\\". A finding of a violation of Article 10 is therefore the more likely outcome.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 2657,
+    "prompt_tokens": 3254,
+    "total_tokens": 5911,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1392,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.04799,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.04799,
+      "upstream_inference_prompt_cost": 0.008135,
+      "upstream_inference_completions_cost": 0.039855
+    }
+  },
+  "citations": [
+    "26682/95",
+    "39954/08",
+    "29856/13",
+    "17224/11",
+    "22287/08",
+    "43425/98",
+    "50123/06",
+    "29369/10",
+    "56925/08"
+  ],
+  "ref_paragraphs": [
+    5,
+    6,
+    7,
+    8,
+    10,
+    12,
+    20,
+    21,
+    22,
+    23
+  ]
+}

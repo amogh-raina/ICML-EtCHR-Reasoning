@@ -1,0 +1,67 @@
+{
+  "item_id": "001-242634",
+  "case_name": "CASE OF BACKOVIĆ v. SERBIA (No. 2)",
+  "case_number": "(Application no. 47600/17)",
+  "date": "8 April 2025",
+  "prompt_type": "instruction",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "1. Existence of an interference": "There was clearly an interference with the applicant’s freedom of expression. He was fined for statements made in a written objection lodged in judicial proceedings, because the domestic courts considered that those statements had insulted the court and the judge dealing with the case (see paragraphs 10-14). The fine was first set at RSD 100,000 and then reduced to RSD 50,000, which the applicant eventually paid (see paragraphs 12, 14 and 16). A pecuniary sanction imposed on a lawyer for submissions made in the course of litigation constitutes an interference under Article 10, even where the statements are forceful or offensive in tone."
+    },
+    {
+      "2. Lawfulness of the interference": "The interference appears to have been prescribed by law. The sanction was based on Articles 33 and 51 of the Enforcement Procedure Act, which expressly allowed courts to fine a party or other person who offended the court and fixed the applicable range of fines (see paragraphs 12, 20 and 21). There is nothing in the facts to suggest that the sanction lacked any domestic legal basis. Accordingly, the interference was lawful for the purposes of Article 10 § 2."
+    },
+    {
+      "3. Legitimate aims of the interference": "The interference also pursued legitimate aims. The domestic courts stated that the applicant’s wording humiliated the court and the judge, denied their expertise, and distorted the reputation of the courts (see paragraph 14). The Constitutional Court likewise referred to the protection of the rights and reputation of others, while the Constitution itself allows restrictions on expression in order to maintain the authority and impartiality of the judiciary (see paragraphs 17 and 19). The measure therefore sought to protect both the reputation of others and the authority of the judiciary, which are legitimate aims under Article 10 § 2."
+    },
+    {
+      "4. Necessary in a democratic society": "The decisive issue is necessity and proportionality. On balance, a violation is likely. The applicant’s remarks were made in a procedural objection aimed at challenging a judicial decision in an ongoing case, not in the media or in a public campaign (see paragraphs 10-13). That context matters: the Court affords strong protection to lawyers’ speech when they act in the defence of their clients and in the administration of justice, even if the language used is sharp, sarcastic or provocative, provided it is connected to the case and is not a purely gratuitous personal attack (see nos. 31611/96 and 29369/10). Here, the impugned expressions - such as 'pen-pushing', 'legal geniuses', and 'supreme nonsense' - were undoubtedly intemperate, but they were directed at the reasoning, competence and approach adopted in the enforcement proceedings, and formed part of criticism of the handling of the case and the functioning of enforcement courts (see paragraph 11). The applicant also expressly argued that he was criticising the quality and legality of judicial work, not the judge’s private life or personal characteristics (see paragraph 13). The domestic courts concentrated mainly on the offensive tone and on an alleged intention to belittle the court, but they did not conduct a careful balancing exercise under Article 10, distinguish sufficiently between value judgments and insults, or explain why a financial penalty was a pressing social need in the circumstances (see paragraphs 14 and 17). The fact that the statements were confined to court submissions with limited circulation also reduced any real risk to public confidence in the judiciary. In these circumstances, and bearing in mind the chilling effect of fining a lawyer for written advocacy in pending proceedings, the reasons relied on by the domestic courts were not sufficiently relevant and sufficient. The interference was therefore not necessary in a democratic society (see also no. 31611/96; no. 29369/10)."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"1. Existence of an interference\": \"There was clearly an interference with the applicant’s freedom of expression. He was fined for statements made in a written objection lodged in judicial proceedings, because the domestic courts considered that those statements had insulted the court and the judge dealing with the case (see paragraphs 10-14). The fine was first set at RSD 100,000 and then reduced to RSD 50,000, which the applicant eventually paid (see paragraphs 12, 14 and 16). A pecuniary sanction imposed on a lawyer for submissions made in the course of litigation constitutes an interference under Article 10, even where the statements are forceful or offensive in tone.\"\n    },\n    {\n      \"2. Lawfulness of the interference\": \"The interference appears to have been prescribed by law. The sanction was based on Articles 33 and 51 of the Enforcement Procedure Act, which expressly allowed courts to fine a party or other person who offended the court and fixed the applicable range of fines (see paragraphs 12, 20 and 21). There is nothing in the facts to suggest that the sanction lacked any domestic legal basis. Accordingly, the interference was lawful for the purposes of Article 10 § 2.\"\n    },\n    {\n      \"3. Legitimate aims of the interference\": \"The interference also pursued legitimate aims. The domestic courts stated that the applicant’s wording humiliated the court and the judge, denied their expertise, and distorted the reputation of the courts (see paragraph 14). The Constitutional Court likewise referred to the protection of the rights and reputation of others, while the Constitution itself allows restrictions on expression in order to maintain the authority and impartiality of the judiciary (see paragraphs 17 and 19). The measure therefore sought to protect both the reputation of others and the authority of the judiciary, which are legitimate aims under Article 10 § 2.\"\n    },\n    {\n      \"4. Necessary in a democratic society\": \"The decisive issue is necessity and proportionality. On balance, a violation is likely. The applicant’s remarks were made in a procedural objection aimed at challenging a judicial decision in an ongoing case, not in the media or in a public campaign (see paragraphs 10-13). That context matters: the Court affords strong protection to lawyers’ speech when they act in the defence of their clients and in the administration of justice, even if the language used is sharp, sarcastic or provocative, provided it is connected to the case and is not a purely gratuitous personal attack (see nos. 31611/96 and 29369/10). Here, the impugned expressions - such as 'pen-pushing', 'legal geniuses', and 'supreme nonsense' - were undoubtedly intemperate, but they were directed at the reasoning, competence and approach adopted in the enforcement proceedings, and formed part of criticism of the handling of the case and the functioning of enforcement courts (see paragraph 11). The applicant also expressly argued that he was criticising the quality and legality of judicial work, not the judge’s private life or personal characteristics (see paragraph 13). The domestic courts concentrated mainly on the offensive tone and on an alleged intention to belittle the court, but they did not conduct a careful balancing exercise under Article 10, distinguish sufficiently between value judgments and insults, or explain why a financial penalty was a pressing social need in the circumstances (see paragraphs 14 and 17). The fact that the statements were confined to court submissions with limited circulation also reduced any real risk to public confidence in the judiciary. In these circumstances, and bearing in mind the chilling effect of fining a lawyer for written advocacy in pending proceedings, the reasons relied on by the domestic courts were not sufficiently relevant and sufficient. The interference was therefore not necessary in a democratic society (see also no. 31611/96; no. 29369/10).\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 2354,
+    "prompt_tokens": 3493,
+    "total_tokens": 5847,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1533,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0440425,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0440425,
+      "upstream_inference_prompt_cost": 0.0087325,
+      "upstream_inference_completions_cost": 0.03531
+    }
+  },
+  "citations": [
+    "31611/96",
+    "29369/10"
+  ],
+  "ref_paragraphs": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    16,
+    17,
+    19,
+    20,
+    21
+  ]
+}

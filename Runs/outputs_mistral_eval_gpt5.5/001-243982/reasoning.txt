@@ -1,0 +1,3 @@
+**Considering assessment structure**
+
+I need to focus on the evaluation structure, making sure it includes just the fields I want. Valid JSON is crucial, so I should avoid curly quotes. I’m thinking of a structure with "evaluation" and then an array of student objects, like "student_a" and "student_b." That's a good start! Now I just have to decide on the exact scores. I’m wondering about the legitimacy of aiming for those scores, especially since the courts didn’t accept it.

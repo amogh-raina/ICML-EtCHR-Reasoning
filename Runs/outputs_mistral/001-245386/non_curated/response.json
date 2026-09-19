@@ -1,0 +1,63 @@
+{
+  "item_id": "001-245386",
+  "case_name": "CASE OF MORTENSEN v. DENMARK",
+  "case_number": "(Application no. 16756/24)",
+  "date": "21 October 2025",
+  "prompt_type": "non_curated",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Interference with freedom of expression": "The applicant’s criminal conviction and subsequent sanctions (fine, compensation order, and deletion order) for his Twitter post constitute a clear interference with his right to freedom of expression under Article 10 of the Convention (see paragraphs 5, 9, 11 and 12)."
+    },
+    {
+      "Lawfulness and legitimate aim": "The interference was prescribed by Danish law, specifically Articles 267 and 269 of the Penal Code (see paragraphs 13 and 15), and pursued the legitimate aim of protecting the reputation of R.P. under Article 10 § 2."
+    },
+    {
+      "Nature of the statement as a value judgment": "The High Court explicitly acknowledged that the applicant’s statement referring to R.P. as a 'Nazi'was a value judgment (see paragraph 11). The Court’s case-law confirms that value judgments are entitled to protection under Article 10, provided they have a sufficient factual basis (see no. 26958/95)."
+    },
+    {
+      "Public interest and political context": "The applicant’s post was made in the context of a public discussion about the differential treatment of free speech, referencing R.P.’s controversial public actions (see paragraph 5). R.P. was a political figure whose ethnonationalist views and conduct—including Koran burnings and public protests—had been widely debated in Danish media and society (see paragraphs 6 and 7). The Court has consistently held that speech concerning political figures and matters of public interest enjoys enhanced protection under Article 10 (see no. 26958/95, 49017/99)."
+    },
+    {
+      "Insufficient weight accorded to the factual basis for a value judgment": "While the High Court concluded that the factual basis for the applicant’s statement was insufficient (see paragraph 11), it overlooked that R.P. had been convicted of racist speech under Section 266b of the Penal Code and had engaged in highly provocative public acts (see paragraph 7). The Court’s jurisprudence establishes that value judgments do not require the same degree of factual substantiation as statements of fact (see no. 26958/95). The existence of a public debate about whether R.P. held Nazi views (see paragraph 6) further supports the argument that the applicant’s statement had a reasonable factual underpinning."
+    },
+    {
+      "Disproportionate sanctions": "The applicant faced criminal conviction, a fine of 10 day-fines (approx. EUR 1,350), an order to delete the post, and a compensation payment of DKK 30,000 (approx. EUR 4,000) (see paragraphs 9, 11 and 12). The Court has frequently found that criminal defamation sanctions for speech on matters of public interest, particularly concerning political figures, are disproportionate and thus violate Article 10 (see no. 39954/08, 60641/08)."
+    },
+    {
+      "Failure to accord sufficient protection to political speech": "The High Court’s conclusion that the applicant’s post did not contribute to a public debate of societal interest (see paragraph 11) appears inconsistent with the actual context of the statement, which engaged with issues of free speech and public figures. The Court’s case-law clearly prioritizes the protection of political expression, even when controversial or offensive (see no. 26958/95, 49017/99). By imposing criminal sanctions without affording adequate weight to the public interest and the nature of the speech as a value judgment, the national authorities failed to strike a fair balance between the applicant’s Article 10 rights and the protection of R.P.’s reputation."
+    }
+  ],
+  "raw_content": "```json\n{\n  \"assessment\": [\n    {\n      \"Interference with freedom of expression\": \"The applicant’s criminal conviction and subsequent sanctions (fine, compensation order, and deletion order) for his Twitter post constitute a clear interference with his right to freedom of expression under Article 10 of the Convention (see paragraphs 5, 9, 11 and 12).\"\n    },\n    {\n      \"Lawfulness and legitimate aim\": \"The interference was prescribed by Danish law, specifically Articles 267 and 269 of the Penal Code (see paragraphs 13 and 15), and pursued the legitimate aim of protecting the reputation of R.P. under Article 10 § 2.\"\n    },\n    {\n      \"Nature of the statement as a value judgment\": \"The High Court explicitly acknowledged that the applicant’s statement referring to R.P. as a 'Nazi'was a value judgment (see paragraph 11). The Court’s case-law confirms that value judgments are entitled to protection under Article 10, provided they have a sufficient factual basis (see no. 26958/95).\"\n    },\n    {\n      \"Public interest and political context\": \"The applicant’s post was made in the context of a public discussion about the differential treatment of free speech, referencing R.P.’s controversial public actions (see paragraph 5). R.P. was a political figure whose ethnonationalist views and conduct—including Koran burnings and public protests—had been widely debated in Danish media and society (see paragraphs 6 and 7). The Court has consistently held that speech concerning political figures and matters of public interest enjoys enhanced protection under Article 10 (see no. 26958/95, 49017/99).\"\n    },\n    {\n      \"Insufficient weight accorded to the factual basis for a value judgment\": \"While the High Court concluded that the factual basis for the applicant’s statement was insufficient (see paragraph 11), it overlooked that R.P. had been convicted of racist speech under Section 266b of the Penal Code and had engaged in highly provocative public acts (see paragraph 7). The Court’s jurisprudence establishes that value judgments do not require the same degree of factual substantiation as statements of fact (see no. 26958/95). The existence of a public debate about whether R.P. held Nazi views (see paragraph 6) further supports the argument that the applicant’s statement had a reasonable factual underpinning.\"\n    },\n    {\n      \"Disproportionate sanctions\": \"The applicant faced criminal conviction, a fine of 10 day-fines (approx. EUR 1,350), an order to delete the post, and a compensation payment of DKK 30,000 (approx. EUR 4,000) (see paragraphs 9, 11 and 12). The Court has frequently found that criminal defamation sanctions for speech on matters of public interest, particularly concerning political figures, are disproportionate and thus violate Article 10 (see no. 39954/08, 60641/08).\"\n    },\n    {\n      \"Failure to accord sufficient protection to political speech\": \"The High Court’s conclusion that the applicant’s post did not contribute to a public debate of societal interest (see paragraph 11) appears inconsistent with the actual context of the statement, which engaged with issues of free speech and public figures. The Court’s case-law clearly prioritizes the protection of political expression, even when controversial or offensive (see no. 26958/95, 49017/99). By imposing criminal sanctions without affording adequate weight to the public interest and the nature of the speech as a value judgment, the national authorities failed to strike a fair balance between the applicant’s Article 10 rights and the protection of R.P.’s reputation.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 4454,
+    "prompt_tokens": 3388,
+    "total_tokens": 7842,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 4021,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.038487,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.038487,
+      "upstream_inference_prompt_cost": 0.005082,
+      "upstream_inference_completions_cost": 0.033405
+    }
+  }
+}

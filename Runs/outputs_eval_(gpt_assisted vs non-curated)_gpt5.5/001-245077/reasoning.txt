@@ -1,0 +1,3 @@
+**Structuring JSON for records**
+
+I'm thinking about the appropriate JSON structure for the records they want. They need a list of records, each with specific fields, but I must ensure it's valid JSON with no comments. There’s a potential issue regarding scoring—if an expected step doesn’t happen, it scores a zero. However, they mention a comprehensiveness score from 1-5 if it does occur. I will include a "comprehensiveness" field set to 0 for non-occurrences, and I'll ensure the values are integers.

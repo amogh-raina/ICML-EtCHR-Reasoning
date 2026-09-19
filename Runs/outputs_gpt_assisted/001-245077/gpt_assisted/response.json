@@ -1,0 +1,86 @@
+{
+  "item_id": "001-245077",
+  "case_name": "CASE OF IMANOV v. AZERBAIJAN",
+  "case_number": "(Application no. 62/20)",
+  "date": "7 October 2025",
+  "prompt_type": "gpt_assisted",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "high",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "1. Interference and the nature of the speech": "There was a clear interference with the applicant’s freedom of expression. He was first suspended from practising as a lawyer and then disbarred because of statements made to the media after visiting his detained client A.H. in prison (see paragraphs 12-15, 19, 21, 25). The speech concerned alleged torture and ill-treatment of a prisoner by prison staff, that is, a matter of very high public interest involving the conduct of State agents and the treatment of persons deprived of liberty. The applicant was not speaking as a private individual only, but in his professional capacity as A.H.’s lawyer and as a human-rights lawyer generally (see paragraphs 9, 11, 22). In such a context, the margin of appreciation is narrow and very weighty reasons are needed to justify sanctions, especially against a lawyer participating in debate on the administration of justice and the protection of fundamental rights (see no. 31611/96; no. 29369/10; no. 81024/12; no. 28198/15)."
+    },
+    {
+      "2. Lawfulness and legitimate aim": "The interference appears to have had a basis in domestic law, namely the Law on Advocates and Advocacy Activity and lawyers’ ethical rules, as relied on by the domestic courts (see paragraphs 21, 28). The reasons invoked domestically also correspond in substance to legitimate aims under Article 10 § 2, notably the protection of the reputation or rights of others, including prison staff, and possibly prevention of disorder after the protest gatherings (see paragraphs 17, 18, 21). The decisive issue is therefore whether the sanction was necessary in a democratic society."
+    },
+    {
+      "3. Public-interest value, factual basis and good faith": "The applicant’s statements had a strong factual basis. He had personally visited A.H. in Gobustan Prison, stated that he saw signs of injuries on A.H.’s body, and repeated A.H.’s detailed account of recent ill-treatment by prison staff (see paragraph 12). The next day he filed formal complaints with the Prosecutor General, the Prison Service and the Ombudsman, again asking for an investigation and criminal proceedings (see paragraph 15). This strongly supports good faith and professional seriousness, rather than reckless accusation. The domestic authorities criticised him for not waiting for the outcome of those complaints before speaking to journalists (see paragraphs 18, 21, 23), but Article 10 does not require a lawyer to remain silent about urgent allegations of torture until an official inquiry is completed, particularly where publicity may help protect the client from further abuse. Later developments also reinforce that the allegations were not fanciful: in A.H.’s own Strasbourg case concerning ill-treatment in Gobustan Prison, the Government acknowledged a Convention violation (see paragraph 27)."
+    },
+    {
+      "4. Inadequacy of the domestic courts’ reasons": "The domestic bodies did not give relevant and sufficient reasons meeting Convention standards. They treated the absence of a prior court decision as if it automatically barred the applicant from informing the public about alleged unlawful acts by prison staff (see paragraphs 18, 21, 23). That approach gives excessive weight to formal proof and insufficient weight to the role of lawyers in defending clients and raising concerns about abuses within the justice system. The courts also relied heavily on the presumption of innocence and the honour of prison staff (see paragraphs 18, 21), yet there is nothing to show that the applicant used insulting language or presented the allegations as finally established facts rather than as what A.H. had said and what he himself had observed. Even paragraph 14 indicates only that some media outlets quoted him as mentioning names allegedly supplied by A.H. The domestic courts did not carefully examine the exact wording, the urgent context, the applicant’s duty to his client, the public interest in the subject, or whether less restrictive responses were available. That is inconsistent with the strict scrutiny required in lawyer-speech cases (see no. 31611/96; no. 29369/10)."
+    },
+    {
+      "5. Weak link to disorder and failure to balance competing interests": "The authorities also referred to protests held after the publications and to anxiety among relatives of detainees (see paragraphs 16, 17, 21). But they did not demonstrate a sufficient causal link between the applicant’s statements and any unlawful disorder, nor any intention on his part to provoke unrest. He stated that he had not been aware of the gathering in front of the Prison Service building (see paragraph 18). In a democratic society, public reaction to allegations of torture cannot by itself justify silencing the lawyer who reports them. The domestic decisions therefore failed to perform a genuine balancing exercise between the applicant’s Article 10 rights and the interests relied on by the authorities."
+    },
+    {
+      "6. Severity of the sanction and overall proportionality": "The sanction was extremely severe. The applicant was suspended pending proceedings and then permanently disbarred (see paragraphs 19, 21, 25). Disbarment strikes at the core of a lawyer’s professional life and has an obvious chilling effect, not only on the individual concerned but on other lawyers handling sensitive cases. That concern is reinforced by the broader domestic context described in international reports about disciplinary retaliation against human-rights lawyers in Azerbaijan (see paragraphs 29-30), and by the Court’s own case-law concerning disbarment of lawyers there (see no. 81024/12; no. 28198/15). Even assuming some need for caution in public statements, disbarment was manifestly disproportionate. The interference did not answer a pressing social need."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"1. Interference and the nature of the speech\": \"There was a clear interference with the applicant’s freedom of expression. He was first suspended from practising as a lawyer and then disbarred because of statements made to the media after visiting his detained client A.H. in prison (see paragraphs 12-15, 19, 21, 25). The speech concerned alleged torture and ill-treatment of a prisoner by prison staff, that is, a matter of very high public interest involving the conduct of State agents and the treatment of persons deprived of liberty. The applicant was not speaking as a private individual only, but in his professional capacity as A.H.’s lawyer and as a human-rights lawyer generally (see paragraphs 9, 11, 22). In such a context, the margin of appreciation is narrow and very weighty reasons are needed to justify sanctions, especially against a lawyer participating in debate on the administration of justice and the protection of fundamental rights (see no. 31611/96; no. 29369/10; no. 81024/12; no. 28198/15).\"\n    },\n    {\n      \"2. Lawfulness and legitimate aim\": \"The interference appears to have had a basis in domestic law, namely the Law on Advocates and Advocacy Activity and lawyers’ ethical rules, as relied on by the domestic courts (see paragraphs 21, 28). The reasons invoked domestically also correspond in substance to legitimate aims under Article 10 § 2, notably the protection of the reputation or rights of others, including prison staff, and possibly prevention of disorder after the protest gatherings (see paragraphs 17, 18, 21). The decisive issue is therefore whether the sanction was necessary in a democratic society.\"\n    },\n    {\n      \"3. Public-interest value, factual basis and good faith\": \"The applicant’s statements had a strong factual basis. He had personally visited A.H. in Gobustan Prison, stated that he saw signs of injuries on A.H.’s body, and repeated A.H.’s detailed account of recent ill-treatment by prison staff (see paragraph 12). The next day he filed formal complaints with the Prosecutor General, the Prison Service and the Ombudsman, again asking for an investigation and criminal proceedings (see paragraph 15). This strongly supports good faith and professional seriousness, rather than reckless accusation. The domestic authorities criticised him for not waiting for the outcome of those complaints before speaking to journalists (see paragraphs 18, 21, 23), but Article 10 does not require a lawyer to remain silent about urgent allegations of torture until an official inquiry is completed, particularly where publicity may help protect the client from further abuse. Later developments also reinforce that the allegations were not fanciful: in A.H.’s own Strasbourg case concerning ill-treatment in Gobustan Prison, the Government acknowledged a Convention violation (see paragraph 27).\"\n    },\n    {\n      \"4. Inadequacy of the domestic courts’ reasons\": \"The domestic bodies did not give relevant and sufficient reasons meeting Convention standards. They treated the absence of a prior court decision as if it automatically barred the applicant from informing the public about alleged unlawful acts by prison staff (see paragraphs 18, 21, 23). That approach gives excessive weight to formal proof and insufficient weight to the role of lawyers in defending clients and raising concerns about abuses within the justice system. The courts also relied heavily on the presumption of innocence and the honour of prison staff (see paragraphs 18, 21), yet there is nothing to show that the applicant used insulting language or presented the allegations as finally established facts rather than as what A.H. had said and what he himself had observed. Even paragraph 14 indicates only that some media outlets quoted him as mentioning names allegedly supplied by A.H. The domestic courts did not carefully examine the exact wording, the urgent context, the applicant’s duty to his client, the public interest in the subject, or whether less restrictive responses were available. That is inconsistent with the strict scrutiny required in lawyer-speech cases (see no. 31611/96; no. 29369/10).\"\n    },\n    {\n      \"5. Weak link to disorder and failure to balance competing interests\": \"The authorities also referred to protests held after the publications and to anxiety among relatives of detainees (see paragraphs 16, 17, 21). But they did not demonstrate a sufficient causal link between the applicant’s statements and any unlawful disorder, nor any intention on his part to provoke unrest. He stated that he had not been aware of the gathering in front of the Prison Service building (see paragraph 18). In a democratic society, public reaction to allegations of torture cannot by itself justify silencing the lawyer who reports them. The domestic decisions therefore failed to perform a genuine balancing exercise between the applicant’s Article 10 rights and the interests relied on by the authorities.\"\n    },\n    {\n      \"6. Severity of the sanction and overall proportionality\": \"The sanction was extremely severe. The applicant was suspended pending proceedings and then permanently disbarred (see paragraphs 19, 21, 25). Disbarment strikes at the core of a lawyer’s professional life and has an obvious chilling effect, not only on the individual concerned but on other lawyers handling sensitive cases. That concern is reinforced by the broader domestic context described in international reports about disciplinary retaliation against human-rights lawyers in Azerbaijan (see paragraphs 29-30), and by the Court’s own case-law concerning disbarment of lawyers there (see no. 81024/12; no. 28198/15). Even assuming some need for caution in public statements, disbarment was manifestly disproportionate. The interference did not answer a pressing social need.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 4270,
+    "prompt_tokens": 4041,
+    "total_tokens": 8311,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 3067,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0718485,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0718485,
+      "upstream_inference_prompt_cost": 0.0077985,
+      "upstream_inference_completions_cost": 0.06405
+    }
+  },
+  "citations": [
+    "31611/96",
+    "29369/10",
+    "81024/12",
+    "28198/15"
+  ],
+  "ref_paragraphs": [
+    9,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    21,
+    22,
+    23,
+    25,
+    27,
+    28,
+    29,
+    30
+  ]
+}

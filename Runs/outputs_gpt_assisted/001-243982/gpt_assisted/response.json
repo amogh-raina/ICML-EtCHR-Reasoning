@@ -1,0 +1,112 @@
+{
+  "item_id": "001-243982",
+  "case_name": "CASE OF GOOGLE LLC AND OTHERS v. RUSSIA",
+  "case_number": "(Application no. 37027/22)",
+  "date": "8 July 2025",
+  "prompt_type": "gpt_assisted",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "high",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "1. Interference with freedom of expression": "The case discloses direct interferences with Article 10. First, Google LLC was fined for refusing to remove political videos and channels from YouTube, including criticism of the authorities’ handling of COVID-19, opposition speech linked to Mr Navalnyy, and reporting on the war in Ukraine (see paragraphs 7-12). Secondly, the Google companies were compelled by court orders to restore and continue hosting Tsargrad’s YouTube and Gmail accounts, backed by escalating astreinte penalties and enforcement measures (see paragraphs 18-25, 33-39). For an online intermediary, both forced removal of third-party content and forced dissemination of content affect its freedom to impart information and its editorial discretion. Given the central role of online platforms in public debate, such measures call for strict scrutiny (see nos. 48226/10 and 14027/11; no. 64569/09)."
+    },
+    {
+      "2. Lawfulness: serious deficiencies and arbitrariness": "Although the measures formally relied on Article 13.41 of the CAO, section 15.3 of the Information Act, and the civil-enforcement provisions cited by the domestic courts (see paragraphs 42-48), their application appears insufficiently foreseeable and arbitrary. The categories triggering take-down requests—such as ‘socially significant disinformation’ and broad references to extremist content—were used against plainly political expression and war reporting (see paragraphs 7, 10, 43). More importantly, the turnover fines were calculated by aggregating the revenue of separate Alphabet entities that were not parties to the proceedings, without any clear basis in domestic law; the courts themselves did not explain why those entities counted as ‘affiliates’ or how user-facing terms of service could override separate legal personality (see paragraphs 8, 12-14). Likewise, enforcement against Google Russia on the theory that it was a ‘de facto representative office’ of Google LLC lacked a clear legal foundation (see paragraphs 30-32). These defects point strongly toward a failure of the ‘prescribed by law’ requirement."
+    },
+    {
+      "3. Legitimate aim": "The Government could invoke aims such as the prevention of disorder or crime, protection of health, or national security in relation to allegedly extremist or false information, and the protection of the rights of others in the Tsargrad litigation. However, the factual context suggests that the measures were directed at suppressing criticism of the authorities and controlling wartime narratives rather than genuinely neutral regulation of unlawful content (see paragraphs 5-7, 10, 18-19). Even assuming that some legitimate aim can be identified, that does not resolve the Article 10 issue, because the decisive question is whether the measures were necessary and proportionate."
+    },
+    {
+      "4. Necessity and proportionality: take-down fines for political and public-interest speech": "The impugned YouTube content lay at the core of Article 10 protection: criticism of governmental pandemic policy, constitutional reform, opposition activity, and reporting on the invasion of Ukraine are matters of the highest public interest, where the margin of appreciation is narrow (see paragraphs 7, 10). The domestic courts did not carry out any balancing exercise and did not analyse the impact of removal on freedom of expression; they merely recorded non-compliance with the regulator’s requests (see paragraphs 8-9, 12-14). While the Court accepts that intermediaries may bear some responsibilities once they are aware of clearly unlawful content, liability rules must include safeguards and must not incentivise the removal of lawful speech (see no. 64569/09). Here, the regime operated precisely as a coercive mechanism to induce over-removal: Google complied with requests it regarded as legitimate, but was punished heavily for declining to suppress political speech (see paragraphs 6-7, 10-12). That is incompatible with the strict protection owed to online political discourse (see nos. 48226/10 and 14027/11)."
+    },
+    {
+      "5. Severity of sanctions and chilling effect": "The sanctions were extraordinarily severe. Google LLC was fined about EUR 87 million in December 2021 and about EUR 360 million in July 2022, the latter because the previous sanction had supposedly not had the ‘desired effect’ (see paragraphs 8, 12). The first fine was said to exceed Google LLC’s Russian revenue by more than one hundred times (see paragraph 9). Those sums were then enforced using Google Russia’s seized funds, even though the fine had been imposed on another company (see paragraphs 28-32). In the civil strand, the courts ordered continuing hosting under doubling weekly penalties with no upper limit, leading to copycat claims and liabilities allegedly exceeding 16 trillion US dollars, followed by seizures and the bankruptcy of Google Russia (see paragraphs 18-19, 33-41). Such ruinous and escalating financial pressure is manifestly capable of silencing intermediaries and deterring the hosting of lawful but sensitive content; the Court treats excessive financial penalties as having a serious chilling effect (see no. 68416/01)."
+    },
+    {
+      "6. Compelled hosting of Tsargrad and copycat channels": "The orders requiring the Google companies to restore Tsargrad’s accounts, and effectively to restore monetisation too, also appear disproportionate. The domestic courts focused on Russian public policy objections to foreign sanctions and on the claimant’s interest in continued access, but they did not balance that against the applicants’ freedom to decide whether to carry and monetise content on their services (see paragraphs 18-21, 24). The exponentially increasing astreinte, later replicated in more than twenty similar cases, was not tailored to secure compliance but to compel submission through overwhelming financial coercion (see paragraphs 33-35). Article 10 protects not only the dissemination of speech but also editorial autonomy; compelling an intermediary to carry content under such conditions cannot be regarded as necessary in a democratic society."
+    },
+    {
+      "7. Overall conclusion": "The case concerns a coordinated set of measures aimed at forcing an internet intermediary to remove opposition and war-related speech while also compelling it to host and monetise favoured channels, all under vague rules, arbitrary attribution of liability across corporate entities, and crushing sanctions (see paragraphs 5-14, 18-41). The domestic courts gave neither relevant nor sufficient reasons and failed to apply Convention-type balancing. Whether analysed through the lack of foreseeability or, at the very least, through disproportionality and chilling effect, the interference with the applicants’ freedom of expression is incompatible with Article 10."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"1. Interference with freedom of expression\": \"The case discloses direct interferences with Article 10. First, Google LLC was fined for refusing to remove political videos and channels from YouTube, including criticism of the authorities’ handling of COVID-19, opposition speech linked to Mr Navalnyy, and reporting on the war in Ukraine (see paragraphs 7-12). Secondly, the Google companies were compelled by court orders to restore and continue hosting Tsargrad’s YouTube and Gmail accounts, backed by escalating astreinte penalties and enforcement measures (see paragraphs 18-25, 33-39). For an online intermediary, both forced removal of third-party content and forced dissemination of content affect its freedom to impart information and its editorial discretion. Given the central role of online platforms in public debate, such measures call for strict scrutiny (see nos. 48226/10 and 14027/11; no. 64569/09).\"\n    },\n    {\n      \"2. Lawfulness: serious deficiencies and arbitrariness\": \"Although the measures formally relied on Article 13.41 of the CAO, section 15.3 of the Information Act, and the civil-enforcement provisions cited by the domestic courts (see paragraphs 42-48), their application appears insufficiently foreseeable and arbitrary. The categories triggering take-down requests—such as ‘socially significant disinformation’ and broad references to extremist content—were used against plainly political expression and war reporting (see paragraphs 7, 10, 43). More importantly, the turnover fines were calculated by aggregating the revenue of separate Alphabet entities that were not parties to the proceedings, without any clear basis in domestic law; the courts themselves did not explain why those entities counted as ‘affiliates’ or how user-facing terms of service could override separate legal personality (see paragraphs 8, 12-14). Likewise, enforcement against Google Russia on the theory that it was a ‘de facto representative office’ of Google LLC lacked a clear legal foundation (see paragraphs 30-32). These defects point strongly toward a failure of the ‘prescribed by law’ requirement.\"\n    },\n    {\n      \"3. Legitimate aim\": \"The Government could invoke aims such as the prevention of disorder or crime, protection of health, or national security in relation to allegedly extremist or false information, and the protection of the rights of others in the Tsargrad litigation. However, the factual context suggests that the measures were directed at suppressing criticism of the authorities and controlling wartime narratives rather than genuinely neutral regulation of unlawful content (see paragraphs 5-7, 10, 18-19). Even assuming that some legitimate aim can be identified, that does not resolve the Article 10 issue, because the decisive question is whether the measures were necessary and proportionate.\"\n    },\n    {\n      \"4. Necessity and proportionality: take-down fines for political and public-interest speech\": \"The impugned YouTube content lay at the core of Article 10 protection: criticism of governmental pandemic policy, constitutional reform, opposition activity, and reporting on the invasion of Ukraine are matters of the highest public interest, where the margin of appreciation is narrow (see paragraphs 7, 10). The domestic courts did not carry out any balancing exercise and did not analyse the impact of removal on freedom of expression; they merely recorded non-compliance with the regulator’s requests (see paragraphs 8-9, 12-14). While the Court accepts that intermediaries may bear some responsibilities once they are aware of clearly unlawful content, liability rules must include safeguards and must not incentivise the removal of lawful speech (see no. 64569/09). Here, the regime operated precisely as a coercive mechanism to induce over-removal: Google complied with requests it regarded as legitimate, but was punished heavily for declining to suppress political speech (see paragraphs 6-7, 10-12). That is incompatible with the strict protection owed to online political discourse (see nos. 48226/10 and 14027/11).\"\n    },\n    {\n      \"5. Severity of sanctions and chilling effect\": \"The sanctions were extraordinarily severe. Google LLC was fined about EUR 87 million in December 2021 and about EUR 360 million in July 2022, the latter because the previous sanction had supposedly not had the ‘desired effect’ (see paragraphs 8, 12). The first fine was said to exceed Google LLC’s Russian revenue by more than one hundred times (see paragraph 9). Those sums were then enforced using Google Russia’s seized funds, even though the fine had been imposed on another company (see paragraphs 28-32). In the civil strand, the courts ordered continuing hosting under doubling weekly penalties with no upper limit, leading to copycat claims and liabilities allegedly exceeding 16 trillion US dollars, followed by seizures and the bankruptcy of Google Russia (see paragraphs 18-19, 33-41). Such ruinous and escalating financial pressure is manifestly capable of silencing intermediaries and deterring the hosting of lawful but sensitive content; the Court treats excessive financial penalties as having a serious chilling effect (see no. 68416/01).\"\n    },\n    {\n      \"6. Compelled hosting of Tsargrad and copycat channels\": \"The orders requiring the Google companies to restore Tsargrad’s accounts, and effectively to restore monetisation too, also appear disproportionate. The domestic courts focused on Russian public policy objections to foreign sanctions and on the claimant’s interest in continued access, but they did not balance that against the applicants’ freedom to decide whether to carry and monetise content on their services (see paragraphs 18-21, 24). The exponentially increasing astreinte, later replicated in more than twenty similar cases, was not tailored to secure compliance but to compel submission through overwhelming financial coercion (see paragraphs 33-35). Article 10 protects not only the dissemination of speech but also editorial autonomy; compelling an intermediary to carry content under such conditions cannot be regarded as necessary in a democratic society.\"\n    },\n    {\n      \"7. Overall conclusion\": \"The case concerns a coordinated set of measures aimed at forcing an internet intermediary to remove opposition and war-related speech while also compelling it to host and monetise favoured channels, all under vague rules, arbitrary attribution of liability across corporate entities, and crushing sanctions (see paragraphs 5-14, 18-41). The domestic courts gave neither relevant nor sufficient reasons and failed to apply Convention-type balancing. Whether analysed through the lack of foreseeability or, at the very least, through disproportionality and chilling effect, the interference with the applicants’ freedom of expression is incompatible with Article 10.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 4506,
+    "prompt_tokens": 7457,
+    "total_tokens": 11963,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 3106,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0839285,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0839285,
+      "upstream_inference_prompt_cost": 0.0163385,
+      "upstream_inference_completions_cost": 0.06759
+    }
+  },
+  "citations": [
+    "48226/10",
+    "14027/11",
+    "64569/09",
+    "68416/01"
+  ],
+  "ref_paragraphs": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48
+  ]
+}

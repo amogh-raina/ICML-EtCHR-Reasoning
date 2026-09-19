@@ -1,0 +1,90 @@
+{
+  "item_id": "001-247832",
+  "case_name": "CASE OF SIC - SOCIEDADE INDEPENDENTE DE COMUNICAÇÃO, S.A v. PORTUGAL (No. 2)",
+  "case_number": "(Application no. 2746/21)",
+  "date": "13 January 2026",
+  "prompt_type": "non_curated",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [],
+  "violation_prediction": "no",
+  "assessment": [
+    {
+      "Interference with the applicant company’s freedom of expression": "The Supreme Court’s judgment ordering the applicant company to pay EUR 40,000 in damages, delete the recordings containing the claimants’ images, and seek removal of the videos from YouTube clearly amounted to an interference with the company’s right to impart information and ideas under Article 10 (see paragraph 17). The refusal of leave to appeal to the Constitutional Court left that interference final (see paragraph 19)."
+    },
+    {
+      "Prescribed by law and pursuing a legitimate aim": "The interference appears to have been based on sufficiently accessible domestic provisions, notably Article 79 of the Civil Code on the right to one’s image, together with the general civil-liability rules and the statutory definition of consent under the Personal Data Protection Law (see paragraphs 21-22). It pursued the legitimate aim of protecting the rights of others, namely the claimants’ image, dignity, reputation and personal autonomy in relation to the use of their voices and likenesses (see paragraphs 14, 17-18). The fact that the lower courts had initially reached a different conclusion does not in itself make the Supreme Court’s interpretation unforeseeable."
+    },
+    {
+      "Relevant Convention principles": "Where freedom of expression is weighed against protection of a person’s image and reputation, the Court usually examines whether the publication contributed to a debate of general interest, how well known the persons concerned were, their prior conduct, the circumstances in which the material was obtained, its content, form and repercussions, and the severity of the sanction (see nos. 39954/08, 40660/08 and 60641/08). In the present case, those criteria point to a relatively narrow margin of protection for the broadcast material, because the impugned extracts were part of entertainment programming and promotional content rather than political or journalistic reporting on a matter of public concern (see paragraphs 2, 8-11)."
+    },
+    {
+      "Low contribution to a debate of general interest": "Although stand-up comedy generally falls within Article 10 protection, the specific use complained of was not the comedian’s routine as such but the broadcasting of identifiable audience members during a heated exchange. The extracts were inserted into a documentary series about the comedian’s career and into a promotional video for that series (see paragraphs 8-11). The Supreme Court expressly noted that the comedian’s own freedom of expression was not the point in dispute; the issue was the later reproduction and dissemination of the claimants’ images and voices, especially after editing and recontextualisation (see paragraph 18). The material therefore had predominantly entertainment and promotional value, which attracts less weight than speech contributing to a public-interest debate."
+    },
+    {
+      "Status of the persons concerned and the scope of any consent": "M.G. and M.C. were private individuals, not public figures, who had simply attended a comedy show (see paragraphs 3-4). It is true that a notice at the venue stated that video recording would take place and the comedian announced the recording at the start of the performance (see paragraph 4). That could support some degree of tacit consent to being filmed as part of the audience. However, the Supreme Court was entitled to distinguish between passive recording of a public event and the subsequent extraction, editing, close-up presentation and repeated broadcasting of an unforeseen altercation in a manner capable of exposing the persons concerned to ridicule (see paragraph 18). Under Article 10, the absence of clear consent is especially relevant where private persons are individually identified and not merely incidentally visible in a crowd scene."
+    },
+    {
+      "Content, form and repercussions of the broadcast": "The domestic courts had evidence that the claimants’ images and voices were used not just briefly once, but repeatedly: the promotional video ran for at least 45 days several times a day; episode 1 was broadcast 12 times; episode 4 was broadcast 13 times; and the material was also placed online, including on YouTube (see paragraph 13). The promotional clip showed a close-up of M.G.’s face and reproduced his criticism of the comedian (see paragraph 9). Episode 4 included nearly three minutes of the confrontation, with both claimants’ images and voices (see paragraph 11). The Supreme Court considered that the editing, including graphic and musical effects, gave the sequence a comic edge and portrayed the claimants negatively, thereby intensifying the interference with their rights (see paragraph 18). Those findings are important and appear well grounded in the facts."
+    },
+    {
+      "Adequacy of the domestic courts’ balancing exercise": "The first-instance court and Court of Appeal largely focused on the producer’s assurances and on implied consent (see paragraphs 15-16). By contrast, the Supreme Court carried out the decisive balancing exercise. Even though it stated that the comedian’s freedom of expression was not directly at issue, it did not ignore Article 10 concerns; rather, it explained why tacit consent at the venue could not extend to the later edited and decontextualised use of the claimants’ likenesses for television promotion and online dissemination (see paragraph 18). Its reasoning addressed central Convention considerations: the private status of the persons shown, the unexpected nature of the altercation, the lack of authorisation for the subsequent use, the close-up identification, the ridicule-producing montage, and the resulting harm to dignity and reputation (see paragraph 18). Those are relevant and sufficient reasons within the meaning of the Court’s case-law (see nos. 39954/08, 40660/08 and 60641/08)."
+    },
+    {
+      "Proportionality of the sanctions": "The sanction was not negligible, especially because EUR 25,000 of the total award was characterised as punitive damages (see paragraph 17). That element could raise some concern under Article 10. Nevertheless, the overall response does not appear manifestly disproportionate in the present context. The applicant company was a professional broadcaster, it repeatedly aired and hosted online material identifying private persons without securing their express permission, and it rejected responsibility when contacted by them (see paragraphs 12-13). The order to delete and remove the videos was limited to the unlawful recordings containing the claimants’ images and voices; it did not prevent the broadcaster from showing the programme generally or from airing the comedian’s work in a lawful form (see paragraph 17). The Supreme Court also preserved the applicant company’s right to seek indemnity from the producer that had contractually undertaken to obtain the necessary authorisations (see paragraph 18)."
+    },
+    {
+      "Overall conclusion": "In light of the limited public-interest value of the impugned extracts, the private status of the persons concerned, the doubtful scope of any tacit consent, the extensive and repeated dissemination of close-up images and voices in a manner liable to ridicule them, and the sufficiently reasoned balancing carried out by the Supreme Court, the national authorities appear to have remained within their margin of appreciation. Accordingly, the interference with the applicant company’s freedom of expression was likely necessary in a democratic society for the protection of the rights of others."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"Interference with the applicant company’s freedom of expression\": \"The Supreme Court’s judgment ordering the applicant company to pay EUR 40,000 in damages, delete the recordings containing the claimants’ images, and seek removal of the videos from YouTube clearly amounted to an interference with the company’s right to impart information and ideas under Article 10 (see paragraph 17). The refusal of leave to appeal to the Constitutional Court left that interference final (see paragraph 19).\"\n    },\n    {\n      \"Prescribed by law and pursuing a legitimate aim\": \"The interference appears to have been based on sufficiently accessible domestic provisions, notably Article 79 of the Civil Code on the right to one’s image, together with the general civil-liability rules and the statutory definition of consent under the Personal Data Protection Law (see paragraphs 21-22). It pursued the legitimate aim of protecting the rights of others, namely the claimants’ image, dignity, reputation and personal autonomy in relation to the use of their voices and likenesses (see paragraphs 14, 17-18). The fact that the lower courts had initially reached a different conclusion does not in itself make the Supreme Court’s interpretation unforeseeable.\"\n    },\n    {\n      \"Relevant Convention principles\": \"Where freedom of expression is weighed against protection of a person’s image and reputation, the Court usually examines whether the publication contributed to a debate of general interest, how well known the persons concerned were, their prior conduct, the circumstances in which the material was obtained, its content, form and repercussions, and the severity of the sanction (see nos. 39954/08, 40660/08 and 60641/08). In the present case, those criteria point to a relatively narrow margin of protection for the broadcast material, because the impugned extracts were part of entertainment programming and promotional content rather than political or journalistic reporting on a matter of public concern (see paragraphs 2, 8-11).\"\n    },\n    {\n      \"Low contribution to a debate of general interest\": \"Although stand-up comedy generally falls within Article 10 protection, the specific use complained of was not the comedian’s routine as such but the broadcasting of identifiable audience members during a heated exchange. The extracts were inserted into a documentary series about the comedian’s career and into a promotional video for that series (see paragraphs 8-11). The Supreme Court expressly noted that the comedian’s own freedom of expression was not the point in dispute; the issue was the later reproduction and dissemination of the claimants’ images and voices, especially after editing and recontextualisation (see paragraph 18). The material therefore had predominantly entertainment and promotional value, which attracts less weight than speech contributing to a public-interest debate.\"\n    },\n    {\n      \"Status of the persons concerned and the scope of any consent\": \"M.G. and M.C. were private individuals, not public figures, who had simply attended a comedy show (see paragraphs 3-4). It is true that a notice at the venue stated that video recording would take place and the comedian announced the recording at the start of the performance (see paragraph 4). That could support some degree of tacit consent to being filmed as part of the audience. However, the Supreme Court was entitled to distinguish between passive recording of a public event and the subsequent extraction, editing, close-up presentation and repeated broadcasting of an unforeseen altercation in a manner capable of exposing the persons concerned to ridicule (see paragraph 18). Under Article 10, the absence of clear consent is especially relevant where private persons are individually identified and not merely incidentally visible in a crowd scene.\"\n    },\n    {\n      \"Content, form and repercussions of the broadcast\": \"The domestic courts had evidence that the claimants’ images and voices were used not just briefly once, but repeatedly: the promotional video ran for at least 45 days several times a day; episode 1 was broadcast 12 times; episode 4 was broadcast 13 times; and the material was also placed online, including on YouTube (see paragraph 13). The promotional clip showed a close-up of M.G.’s face and reproduced his criticism of the comedian (see paragraph 9). Episode 4 included nearly three minutes of the confrontation, with both claimants’ images and voices (see paragraph 11). The Supreme Court considered that the editing, including graphic and musical effects, gave the sequence a comic edge and portrayed the claimants negatively, thereby intensifying the interference with their rights (see paragraph 18). Those findings are important and appear well grounded in the facts.\"\n    },\n    {\n      \"Adequacy of the domestic courts’ balancing exercise\": \"The first-instance court and Court of Appeal largely focused on the producer’s assurances and on implied consent (see paragraphs 15-16). By contrast, the Supreme Court carried out the decisive balancing exercise. Even though it stated that the comedian’s freedom of expression was not directly at issue, it did not ignore Article 10 concerns; rather, it explained why tacit consent at the venue could not extend to the later edited and decontextualised use of the claimants’ likenesses for television promotion and online dissemination (see paragraph 18). Its reasoning addressed central Convention considerations: the private status of the persons shown, the unexpected nature of the altercation, the lack of authorisation for the subsequent use, the close-up identification, the ridicule-producing montage, and the resulting harm to dignity and reputation (see paragraph 18). Those are relevant and sufficient reasons within the meaning of the Court’s case-law (see nos. 39954/08, 40660/08 and 60641/08).\"\n    },\n    {\n      \"Proportionality of the sanctions\": \"The sanction was not negligible, especially because EUR 25,000 of the total award was characterised as punitive damages (see paragraph 17). That element could raise some concern under Article 10. Nevertheless, the overall response does not appear manifestly disproportionate in the present context. The applicant company was a professional broadcaster, it repeatedly aired and hosted online material identifying private persons without securing their express permission, and it rejected responsibility when contacted by them (see paragraphs 12-13). The order to delete and remove the videos was limited to the unlawful recordings containing the claimants’ images and voices; it did not prevent the broadcaster from showing the programme generally or from airing the comedian’s work in a lawful form (see paragraph 17). The Supreme Court also preserved the applicant company’s right to seek indemnity from the producer that had contractually undertaken to obtain the necessary authorisations (see paragraph 18).\"\n    },\n    {\n      \"Overall conclusion\": \"In light of the limited public-interest value of the impugned extracts, the private status of the persons concerned, the doubtful scope of any tacit consent, the extensive and repeated dissemination of close-up images and voices in a manner liable to ridicule them, and the sufficiently reasoned balancing carried out by the Supreme Court, the national authorities appear to have remained within their margin of appreciation. Accordingly, the interference with the applicant company’s freedom of expression was likely necessary in a democratic society for the protection of the rights of others.\"\n    }\n  ],\n  \"violation\": \"no\"\n}",
+  "usage": {
+    "completion_tokens": 3351,
+    "prompt_tokens": 4438,
+    "total_tokens": 7789,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1856,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.06136,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.06136,
+      "upstream_inference_prompt_cost": 0.011095,
+      "upstream_inference_completions_cost": 0.050265
+    }
+  },
+  "citations": [
+    "39954/08",
+    "40660/08",
+    "60641/08"
+  ],
+  "ref_paragraphs": [
+    2,
+    3,
+    4,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    21,
+    22
+  ]
+}

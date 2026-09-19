@@ -1,0 +1,46 @@
+{
+  "item_id": "001-242528",
+  "case_name": "CASE OF HAYK GRIGORYAN v. ARMENIA",
+  "case_number": "(Application no. 9796/17)",
+  "date": "3 April 2025",
+  "prompt_type": "instruction",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": {
+    "Existence of an interference": "There was an interference with the applicant’s right to freedom of expression under Article 10 of the Convention. The applicant, a freelance journalist, was lawfully present at a public demonstration in the Sari Tagh neighbourhood, filming the event as part of his professional activities. During the demonstration, police officers obstructed his work by seizing his camera, deleting or attempting to delete his footage, and subjecting him to physical force, including kicks and blows, while he was clearly engaged in journalistic activity (see paragraphs 8–10). The ECtHR has consistently held that physical hindrance or coercion directed at journalists while they are gathering or disseminating information constitutes an interference with freedom of expression (see no. 1172/12).",
+    "Lawfulness of the interference": "The interference lacked a lawful basis in domestic law. Under Article 164 § 2 of the former Armenian Criminal Code, the obstruction of a journalist’s lawful professional activities by a public official through abuse of official position is explicitly criminalised (see paragraph 34). The police officers’ actions—seizing the applicant’s camera, deleting footage, and using force against him while he was performing his journalistic duties—fall squarely within the scope of this prohibition. Furthermore, there is no evidence in the case file of any domestic legal provision that authorised such interference with the applicant’s rights. The ECtHR has repeatedly emphasised that any interference with Article 10 rights must be ‘prescribed by law’, requiring that the legal basis be both accessible and foreseeable to the individual (see no. 2594/07). Here, the interference not only lacked a lawful basis but was in direct contravention of domestic law.",
+    "Legitimate aims of the interference": "Assessment discontinued as a violation was established at the previous step.",
+    "Necessary in a democratic society": "Assessment discontinued as a violation was established at the previous step."
+  },
+  "raw_content": "```json\n{\n  \"assessment\": {\n    \"Existence of an interference\": \"There was an interference with the applicant’s right to freedom of expression under Article 10 of the Convention. The applicant, a freelance journalist, was lawfully present at a public demonstration in the Sari Tagh neighbourhood, filming the event as part of his professional activities. During the demonstration, police officers obstructed his work by seizing his camera, deleting or attempting to delete his footage, and subjecting him to physical force, including kicks and blows, while he was clearly engaged in journalistic activity (see paragraphs 8–10). The ECtHR has consistently held that physical hindrance or coercion directed at journalists while they are gathering or disseminating information constitutes an interference with freedom of expression (see no. 1172/12).\",\n    \n    \"Lawfulness of the interference\": \"The interference lacked a lawful basis in domestic law. Under Article 164 § 2 of the former Armenian Criminal Code, the obstruction of a journalist’s lawful professional activities by a public official through abuse of official position is explicitly criminalised (see paragraph 34). The police officers’ actions—seizing the applicant’s camera, deleting footage, and using force against him while he was performing his journalistic duties—fall squarely within the scope of this prohibition. Furthermore, there is no evidence in the case file of any domestic legal provision that authorised such interference with the applicant’s rights. The ECtHR has repeatedly emphasised that any interference with Article 10 rights must be ‘prescribed by law’, requiring that the legal basis be both accessible and foreseeable to the individual (see no. 2594/07). Here, the interference not only lacked a lawful basis but was in direct contravention of domestic law.\",\n\n    \"Legitimate aims of the interference\": \"Assessment discontinued as a violation was established at the previous step.\",\n\n    \"Necessary in a democratic society\": \"Assessment discontinued as a violation was established at the previous step.\"\n  },\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 4473,
+    "prompt_tokens": 5780,
+    "total_tokens": 10253,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 4569,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0422175,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0422175,
+      "upstream_inference_prompt_cost": 0.00867,
+      "upstream_inference_completions_cost": 0.0335475
+    }
+  }
+}

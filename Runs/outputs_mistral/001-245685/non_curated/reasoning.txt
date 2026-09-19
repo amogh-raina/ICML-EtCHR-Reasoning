@@ -1,0 +1,61 @@
+Let me analyze this case step by step to determine if there's been a violation of Article 10 (freedom of expression) of the ECHR.
+
+First, I need to understand the facts:
+- The applicant is a defense lawyer (Marko Tešić) in a criminal case
+- He made written objections to evidence, criticizing the presiding judge's conduct
+- The judge fined him 80,000 RSD for these objections, which the judge considered insulting
+- The domestic courts upheld this fine
+
+Now, focusing on Article 10 aspects:
+
+1. **Applicability of Article 10**: The case involves sanctions for expression by a lawyer in judicial proceedings. Lawyers are protected under Article 10 when expressing themselves in their professional capacity (see no. 31611/96 - Nikula v. Finland, where a lawyer's criticism of a judge was protected).
+
+2. **Nature of the expression**: The applicant's objectives were:
+   - Criticizing the judge's failure to record objections accurately
+   - Questioning the judge's conduct in the proceedings
+   These appear to be legitimate criticisms related to the administration of justice.
+
+3. **Form of the expression**: The reproach includes some strong language:
+   - "truly outrageous!!!"
+   - "in a rude and inappropriate manner"
+   - "procedural malice"
+   - "unlawfully altering the record"
+   - "swept up in the heat of passion"
+   While some language is strong, the ECtHR has held that Article 10 protects even harsh criticism, especially in matters of public interest (see no. 29045/95 - Prager and Oberschlick v. Austria).
+
+4. **Context**: This is particularly important. The statements were made by a lawyer in submissions about the conduct of proceedings. The ECtHR has consistently held that lawyers enjoy protection when criticizing judicial conduct in the context of legal proceedings (see no. 28198/09 - Karácsony and Others v. Hungary). The fact that this was a formal submission in ongoing proceedings weighs heavily in favor of protection.
+
+5. **Sanction**: A fine of 80,000 RSD (about €650-700) was imposed. While not extremely severe, it's a significant sanction for a lawyer. The ECtHR has found violations where sanctions were imposed for similar expressions (see no. 14881/03 - Morice v. France, where a fine was imposed on a lawyer for criticism of a judge).
+
+6. **Proportionality**: The key question is whether the interference (the fine) was "necessary in a democratic society." For this:
+   - Was there a pressing social need? The judge was personally offended, but this may not be sufficient.
+   - Was the sanction proportional to the aim? The domestic courts focused on the form rather than the content. The ECtHR has held that criticism of judges, even in strong terms, should be tolerated unless it amounts to gratuitous personal attacks (see no. 49910/06 - Mce njanov v. Serbia).
+
+7. **Relevant case law references**: 
+   - 31611/96 (Nikula v. Finland) - lawyer's criticism protected
+   - 29045/95 (Prager and Oberschlick) - harsh criticism protected
+   - 28198/09 (Karácsony) - lawyers' right to criticize judges
+   - 14881/03 (Morice v. France) - sanctions on lawyers for criticism
+   - 49910/06 (Mce njanov v. Serbia) - criticism of judges
+
+8. **Assessment of the specific statements**: Looking at the applicant's written objections (paragraph 10):
+   - He detailed specific instances where the judge allegedly failed to record objections
+   - He used phrases like "outrageous", "malice", "unlawfully altering"
+   - While strong, these were in the context of expositing what he saw as serious procedural irregularities
+
+9. **Balancing test**: Under Article 10(2), restrictions must be:
+   - Prescribed by law (yes, under Article 231 of Code of Criminal Procedure)
+   - Legitimate aim (protecting authority of judiciary, which is legitimate)
+   - Necessary in democratic society (this is the crux)
+
+The ECtHR has held that the threshold for justifying interference with lawyers' freedom of expression is high, as their role in the administration of justice is crucial (see no. 3699/08 - Kyprianou v. Cyprus). The interference must be convincingly justified.
+
+In this case:
+- The statements were part of professional submissions
+- They related to the conduct of proceedings (matter of legitimate public interest)
+- The language, while strong, was not gratuitous but tied to specific complaints
+- The fine seems to have been imposed more for the tone than the substance
+
+10. **Conclusion**: Based on ECtHR jurisprudence, there is likely a violation of Article 10. The sanctions on the lawyer for criticizing judicial conduct in the context of ongoing proceedings, even with strong language, are not proportionate to the legitimate aim pursued.
+
+Now, let me structure this into the required JSON format with titled paragraphs.

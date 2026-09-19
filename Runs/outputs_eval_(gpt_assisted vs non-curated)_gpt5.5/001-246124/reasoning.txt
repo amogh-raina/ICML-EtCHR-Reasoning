@@ -1,0 +1,3 @@
+**Evaluating criteria for scoring**
+
+I'm considering that A/B might be rated alike, but I need to think this through. The evaluation criteria mention "step comprehensiveness" based on how the court assesses each step. I should score detail and whether they match expectations. They don't separately ask for correctness, but the "quality" aspect could imply that comprehensiveness should factor in. I might not need to provide reasons if the JSON schema doesn't require it.

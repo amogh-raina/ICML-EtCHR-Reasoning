@@ -1,0 +1,54 @@
+{
+  "item_id": "001-245254",
+  "case_name": "CASE OF TUĞLUK v. TÜRKİYE",
+  "case_number": "(Application no. 71757/17)",
+  "date": "14 October 2025",
+  "prompt_type": "instruction",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Existence of an interference": "The applicant’s pre-trial detention and subsequent criminal conviction were grounded, in part, on her political speeches and public statements made during meetings, conferences, and press briefings (see paragraphs 13, 15, 28, 49-55). The incorporation of her expressive activities as evidence in the criminal case against her—particularly the use of her speeches to substantiate charges of membership in an illegal armed organisation—constitutes a direct interference with her right to freedom of expression under Article 10 of the Convention."
+    },
+    {
+      "Lawfulness of the interference": "The interference was founded on a legal basis in Turkish domestic law. The applicant was charged under Article 314 § 1 of the Criminal Code for forming or leading an armed organisation and was placed in pre-trial detention pursuant to Article 100 of the Code of Criminal Procedure (see paragraphs 16, 20, 23, 27). The Constitutional Court further affirmed the lawfulness of the detention, confirming that the measures complied with the legal framework governing pre-trial detention (see paragraph 50)."
+    },
+    {
+      "Legitimate aims of the interference": "The interference pursued legitimate aims under Article 10 § 2, specifically the prevention of crime and the protection of national security. The domestic authorities initiated proceedings based on the applicant’s alleged terrorist links to the PKK/KCK, framing the charges and detention as necessary to combat illegal armed activities (see paragraphs 9, 16-18, 27)."
+    },
+    {
+      "Necessity in a democratic society": "The interference fails the test of necessity in a democratic society. The applicant’s expressions were political in nature, centering on advocacy for peaceful and democratic solutions to the Kurdish issue, such as the ‘democratic autonomy’ model (see paragraph 28). As a political figure, her speech warrants heightened protection under Article 10 (see no. 23199/17). The authorities relied on her political statements as proof of terrorist affiliation without demonstrating a direct incitement to violence or a clear link to criminal activity. The pre-trial detention was an extreme measure imposed for an extended period (from December 2016 to March 2018, see paragraph 44), with the indictment neglecting to identify which specific statements were unlawful (see paragraph 28). Furthermore, less restrictive alternatives were dismissed without sufficient justification (see paragraphs 25, 32, 36, 39, 41, 43). The Court has previously ruled that comparable restrictions on the political expression of Kurdish politicians were disproportionate (see no. 16483/12), indicating that the measures here were not justified as necessary in a democratic society."
+    }
+  ],
+  "raw_content": "```json\n{\n  \"assessment\": [\n    {\n      \"Existence of an interference\": \"The applicant’s pre-trial detention and subsequent criminal conviction were grounded, in part, on her political speeches and public statements made during meetings, conferences, and press briefings (see paragraphs 13, 15, 28, 49-55). The incorporation of her expressive activities as evidence in the criminal case against her—particularly the use of her speeches to substantiate charges of membership in an illegal armed organisation—constitutes a direct interference with her right to freedom of expression under Article 10 of the Convention.\"\n    },\n    {\n      \"Lawfulness of the interference\": \"The interference was founded on a legal basis in Turkish domestic law. The applicant was charged under Article 314 § 1 of the Criminal Code for forming or leading an armed organisation and was placed in pre-trial detention pursuant to Article 100 of the Code of Criminal Procedure (see paragraphs 16, 20, 23, 27). The Constitutional Court further affirmed the lawfulness of the detention, confirming that the measures complied with the legal framework governing pre-trial detention (see paragraph 50).\"\n    },\n    {\n      \"Legitimate aims of the interference\": \"The interference pursued legitimate aims under Article 10 § 2, specifically the prevention of crime and the protection of national security. The domestic authorities initiated proceedings based on the applicant’s alleged terrorist links to the PKK/KCK, framing the charges and detention as necessary to combat illegal armed activities (see paragraphs 9, 16-18, 27).\"\n    },\n    {\n      \"Necessity in a democratic society\": \"The interference fails the test of necessity in a democratic society. The applicant’s expressions were political in nature, centering on advocacy for peaceful and democratic solutions to the Kurdish issue, such as the ‘democratic autonomy’ model (see paragraph 28). As a political figure, her speech warrants heightened protection under Article 10 (see no. 23199/17). The authorities relied on her political statements as proof of terrorist affiliation without demonstrating a direct incitement to violence or a clear link to criminal activity. The pre-trial detention was an extreme measure imposed for an extended period (from December 2016 to March 2018, see paragraph 44), with the indictment neglecting to identify which specific statements were unlawful (see paragraph 28). Furthermore, less restrictive alternatives were dismissed without sufficient justification (see paragraphs 25, 32, 36, 39, 41, 43). The Court has previously ruled that comparable restrictions on the political expression of Kurdish politicians were disproportionate (see no. 16483/12), indicating that the measures here were not justified as necessary in a democratic society.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 4342,
+    "prompt_tokens": 7651,
+    "total_tokens": 11993,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 4055,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0440415,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0440415,
+      "upstream_inference_prompt_cost": 0.0114765,
+      "upstream_inference_completions_cost": 0.032565
+    }
+  }
+}

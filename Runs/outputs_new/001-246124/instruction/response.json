@@ -1,0 +1,77 @@
+{
+  "item_id": "001-246124",
+  "case_name": "CASE OF AZADLIQ NEWSPAPER v. AZERBAIJAN",
+  "case_number": "(Application no. 12708/13)",
+  "date": "25 November 2025",
+  "prompt_type": "instruction",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "1. Existence of an interference": "There was clearly an interference with the applicant newspaper’s freedom of expression. The newspaper published an article on the operation of the fully State-owned Baku Metro and its chief executive, T.A. (see paragraphs 5 and 8-10). As a result of civil defamation proceedings, the domestic courts ordered the newspaper to publish a retraction and to pay AZN 30,000 in non-pecuniary damages; that sum was later enforced through attachment of its bank account and withdrawal of funds (see paragraphs 13, 17, 19 and 21). Such judicial orders and financial sanctions imposed on a newspaper for published content amount to an interference under Article 10 (see no. 33348/96)."
+    },
+    {
+      "2. Lawfulness of the interference": "The interference appears to have been prescribed by law. The claim was brought and upheld under Article 23 of the Civil Code, which expressly allowed retraction of information harming honour, dignity or business reputation, and compensation where the publisher failed to prove the truth of the impugned information (see paragraph 22). On the facts provided, there is no indication that the courts acted without any legal basis in domestic law. Accordingly, the interference was lawful for the purposes of Article 10 § 2."
+    },
+    {
+      "3. Legitimate aims of the interference": "The interference pursued a legitimate aim, namely the protection of the reputation or rights of others. T.A. complained that the article accused him of having committed misappropriation and abuse of power and that this damaged his dignity, honour and professional reputation (see paragraph 11). The domestic courts likewise treated the article as tarnishing his honour, dignity and professional reputation (see paragraphs 14 and 19). Protecting an individual’s reputation falls within the legitimate aims recognised by Article 10 § 2."
+    },
+    {
+      "4. Necessary in a democratic society": "The decisive issue is proportionality, and the interference was unlikely to be regarded as necessary in a democratic society. First, the article concerned the management of a fully State-owned metro system, a fare increase affecting a large number of passengers, and the handling of residual sums left on metro cards; this was plainly a matter of public interest (see paragraphs 5-10 and 12). Second, T.A. was not an ordinary private person but the chief executive of a State-owned company appointed by presidential decree, so the limits of acceptable criticism were wider (see paragraph 5; see also no. 33348/96). Third, the applicant newspaper argued that the article aimed to draw attention to a public issue, that the journalist had tried unsuccessfully to obtain clarification from the Baku Metro, and that the impugned assertions reflected opinion and value judgments based on research and passenger complaints (see paragraph 12). The domestic courts did not seriously engage with those arguments. They simply held that the newspaper had failed to prove the truth of the information and therefore that it was defamatory (see paragraph 14), without distinguishing factual allegations from value judgments or examining whether the statements had a sufficient factual basis, contrary to the Court’s approach in defamation cases (see no. 36448/02). Fourth, the national courts gave no real balancing exercise between press freedom and reputation, and the appellate and cassation courts failed to address the applicant’s specific objections that the damages were exorbitant, arbitrary and beyond its means (see paragraphs 15-19). Finally, the sanction was severe: AZN 30,000, coupled with a retraction order and enforcement against the newspaper’s bank account, was capable of producing a chilling effect, especially given the newspaper’s stated financial difficulties and opposition profile (see paragraphs 18 and 21; see no. 33348/96). In these circumstances, the reasons given by the domestic courts were not relevant and sufficient, and the measures used were not the least restrictive means of protecting T.A.’s reputation, particularly as domestic law also provided for a right of reply (see paragraph 22). The interference was therefore disproportionate."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"1. Existence of an interference\": \"There was clearly an interference with the applicant newspaper’s freedom of expression. The newspaper published an article on the operation of the fully State-owned Baku Metro and its chief executive, T.A. (see paragraphs 5 and 8-10). As a result of civil defamation proceedings, the domestic courts ordered the newspaper to publish a retraction and to pay AZN 30,000 in non-pecuniary damages; that sum was later enforced through attachment of its bank account and withdrawal of funds (see paragraphs 13, 17, 19 and 21). Such judicial orders and financial sanctions imposed on a newspaper for published content amount to an interference under Article 10 (see no. 33348/96).\"\n    },\n    {\n      \"2. Lawfulness of the interference\": \"The interference appears to have been prescribed by law. The claim was brought and upheld under Article 23 of the Civil Code, which expressly allowed retraction of information harming honour, dignity or business reputation, and compensation where the publisher failed to prove the truth of the impugned information (see paragraph 22). On the facts provided, there is no indication that the courts acted without any legal basis in domestic law. Accordingly, the interference was lawful for the purposes of Article 10 § 2.\"\n    },\n    {\n      \"3. Legitimate aims of the interference\": \"The interference pursued a legitimate aim, namely the protection of the reputation or rights of others. T.A. complained that the article accused him of having committed misappropriation and abuse of power and that this damaged his dignity, honour and professional reputation (see paragraph 11). The domestic courts likewise treated the article as tarnishing his honour, dignity and professional reputation (see paragraphs 14 and 19). Protecting an individual’s reputation falls within the legitimate aims recognised by Article 10 § 2.\"\n    },\n    {\n      \"4. Necessary in a democratic society\": \"The decisive issue is proportionality, and the interference was unlikely to be regarded as necessary in a democratic society. First, the article concerned the management of a fully State-owned metro system, a fare increase affecting a large number of passengers, and the handling of residual sums left on metro cards; this was plainly a matter of public interest (see paragraphs 5-10 and 12). Second, T.A. was not an ordinary private person but the chief executive of a State-owned company appointed by presidential decree, so the limits of acceptable criticism were wider (see paragraph 5; see also no. 33348/96). Third, the applicant newspaper argued that the article aimed to draw attention to a public issue, that the journalist had tried unsuccessfully to obtain clarification from the Baku Metro, and that the impugned assertions reflected opinion and value judgments based on research and passenger complaints (see paragraph 12). The domestic courts did not seriously engage with those arguments. They simply held that the newspaper had failed to prove the truth of the information and therefore that it was defamatory (see paragraph 14), without distinguishing factual allegations from value judgments or examining whether the statements had a sufficient factual basis, contrary to the Court’s approach in defamation cases (see no. 36448/02). Fourth, the national courts gave no real balancing exercise between press freedom and reputation, and the appellate and cassation courts failed to address the applicant’s specific objections that the damages were exorbitant, arbitrary and beyond its means (see paragraphs 15-19). Finally, the sanction was severe: AZN 30,000, coupled with a retraction order and enforcement against the newspaper’s bank account, was capable of producing a chilling effect, especially given the newspaper’s stated financial difficulties and opposition profile (see paragraphs 18 and 21; see no. 33348/96). In these circumstances, the reasons given by the domestic courts were not relevant and sufficient, and the measures used were not the least restrictive means of protecting T.A.’s reputation, particularly as domestic law also provided for a right of reply (see paragraph 22). The interference was therefore disproportionate.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 2831,
+    "prompt_tokens": 3207,
+    "total_tokens": 6038,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1963,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0504825,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0504825,
+      "upstream_inference_prompt_cost": 0.0080175,
+      "upstream_inference_completions_cost": 0.042465
+    }
+  },
+  "citations": [
+    "33348/96",
+    "36448/02"
+  ],
+  "ref_paragraphs": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    21,
+    22
+  ]
+}

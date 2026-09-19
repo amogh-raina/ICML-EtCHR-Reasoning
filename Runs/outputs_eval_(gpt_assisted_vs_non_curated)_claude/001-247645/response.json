@@ -1,0 +1,98 @@
+{
+  "item_id": "001-247645",
+  "case_name": "CASE OF PEŠIĆ v. SERBIA",
+  "model": "anthropic/claude-opus-4.7",
+  "reasoning_effort": "high",
+  "raw_content": "{\n\"evaluation\": [\n{\"student_a\": [\n{\"step_1\": {\"occurrence\": 1, \"comprehensiveness\": 4}},\n{\"step_2\": {\"occurrence\": 1, \"comprehensiveness\": 4}},\n{\"step_3\": {\"occurrence\": 1, \"comprehensiveness\": 4}},\n{\"step_4\": {\"occurrence\": 1, \"comprehensiveness\": 5}},\n{\"overall_conciseness\": 4}\n]},\n{\"student_b\": [\n{\"step_1\": {\"occurrence\": 1, \"comprehensiveness\": 4}},\n{\"step_2\": {\"occurrence\": 1, \"comprehensiveness\": 3}},\n{\"step_3\": {\"occurrence\": 1, \"comprehensiveness\": 3}},\n{\"step_4\": {\"occurrence\": 1, \"comprehensiveness\": 5}},\n{\"overall_conciseness\": 4}\n]}\n]\n}",
+  "parsed": {
+    "evaluation": [
+      {
+        "student_a": [
+          {
+            "step_1": {
+              "occurrence": 1,
+              "comprehensiveness": 4
+            }
+          },
+          {
+            "step_2": {
+              "occurrence": 1,
+              "comprehensiveness": 4
+            }
+          },
+          {
+            "step_3": {
+              "occurrence": 1,
+              "comprehensiveness": 4
+            }
+          },
+          {
+            "step_4": {
+              "occurrence": 1,
+              "comprehensiveness": 5
+            }
+          },
+          {
+            "overall_conciseness": 4
+          }
+        ]
+      },
+      {
+        "student_b": [
+          {
+            "step_1": {
+              "occurrence": 1,
+              "comprehensiveness": 4
+            }
+          },
+          {
+            "step_2": {
+              "occurrence": 1,
+              "comprehensiveness": 3
+            }
+          },
+          {
+            "step_3": {
+              "occurrence": 1,
+              "comprehensiveness": 3
+            }
+          },
+          {
+            "step_4": {
+              "occurrence": 1,
+              "comprehensiveness": 5
+            }
+          },
+          {
+            "overall_conciseness": 4
+          }
+        ]
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 307,
+    "prompt_tokens": 13213,
+    "total_tokens": 13520,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.07374,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.07374,
+      "upstream_inference_prompt_cost": 0.066065,
+      "upstream_inference_completions_cost": 0.007675
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "item_id": "001-243188",
+  "case_name": "CASE OF GEVORGYAN v. ARMENIA",
+  "case_number": "(Application no. 231/16)",
+  "date": "22 May 2025",
+  "prompt_type": "instruction",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": {
+    "Existence of an interference": "The applicant, a journalist, was covering a political demonstration when police officers physically attempted to take her camera, shouting at her to release it, before arresting her and seizing her equipment, including memory cards (see paragraphs 8-9). This directly hindered her ability to gather and disseminate news, which falls within the scope of Article 10’s protection of freedom of expression, including the right to receive and impart information (see no. 11882/10). Therefore, there was a clear interference with her Article 10 rights.",
+    "Lawfulness of the interference": "The interference had a basis in domestic law, as the applicant’s arrest was recorded under suspicion of hooliganism (see paragraph 9), and criminal proceedings were initiated under Article 258 § 1 of the former Criminal Code (see paragraph 11). Furthermore, the use of force by police officers is permitted under Section 30 of the Police Act for restoring public order (see paragraph 41). Thus, the interference was lawful under Armenian law.",
+    "Legitimate aims of the interference": "The interference pursued legitimate aims under Article 10(2). The police acted to restore public order during an altercation on Mashtots Avenue (see paragraphs 7-8) and to prevent crime, as evidenced by the hooliganism charges (see paragraph 11). These align with the permitted aims of ‘the prevention of disorder or crime’ and ‘public safety’.",
+    "Necessary in a democratic society": "The interference fails the necessity test. While there may have been a pressing need to address the altercation, the measures against the applicant—a clearly identifiable journalist—were not the least restrictive means available. The video footage shows her resisting the seizure of her camera while identifying herself as a journalist (see paragraph 8), and other journalists at the scene reported no obstruction (see paragraph 32). The force used (grabbing her hands, causing injury, see paragraph 14) and the seizure/damage of her equipment (see paragraphs 15, 25) were disproportionate. The domestic courts’ reliance on police statements over the applicant’s consistent allegations (see paragraphs 32, 34) overlooked the chilling effect on journalistic activity. ECtHR precedent underscores that restrictions on journalists must be convincingly justified, particularly when they are identifiable and not inciting violence (see no. 11882/10). Here, the interference lacked sufficient and relevant reasons to override the strong protection accorded to press freedom."
+  },
+  "raw_content": "```json\n{\n  \"assessment\": {\n    \"Existence of an interference\": \"The applicant, a journalist, was covering a political demonstration when police officers physically attempted to take her camera, shouting at her to release it, before arresting her and seizing her equipment, including memory cards (see paragraphs 8-9). This directly hindered her ability to gather and disseminate news, which falls within the scope of Article 10’s protection of freedom of expression, including the right to receive and impart information (see no. 11882/10). Therefore, there was a clear interference with her Article 10 rights.\",\n\n    \"Lawfulness of the interference\": \"The interference had a basis in domestic law, as the applicant’s arrest was recorded under suspicion of hooliganism (see paragraph 9), and criminal proceedings were initiated under Article 258 § 1 of the former Criminal Code (see paragraph 11). Furthermore, the use of force by police officers is permitted under Section 30 of the Police Act for restoring public order (see paragraph 41). Thus, the interference was lawful under Armenian law.\",\n\n    \"Legitimate aims of the interference\": \"The interference pursued legitimate aims under Article 10(2). The police acted to restore public order during an altercation on Mashtots Avenue (see paragraphs 7-8) and to prevent crime, as evidenced by the hooliganism charges (see paragraph 11). These align with the permitted aims of ‘the prevention of disorder or crime’ and ‘public safety’.\",\n\n    \"Necessary in a democratic society\": \"The interference fails the necessity test. While there may have been a pressing need to address the altercation, the measures against the applicant—a clearly identifiable journalist—were not the least restrictive means available. The video footage shows her resisting the seizure of her camera while identifying herself as a journalist (see paragraph 8), and other journalists at the scene reported no obstruction (see paragraph 32). The force used (grabbing her hands, causing injury, see paragraph 14) and the seizure/damage of her equipment (see paragraphs 15, 25) were disproportionate. The domestic courts’ reliance on police statements over the applicant’s consistent allegations (see paragraphs 32, 34) overlooked the chilling effect on journalistic activity. ECtHR precedent underscores that restrictions on journalists must be convincingly justified, particularly when they are identifiable and not inciting violence (see no. 11882/10). Here, the interference lacked sufficient and relevant reasons to override the strong protection accorded to press freedom.\"\n  },\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 1717,
+    "prompt_tokens": 6090,
+    "total_tokens": 7807,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1287,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0220125,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0220125,
+      "upstream_inference_prompt_cost": 0.009135,
+      "upstream_inference_completions_cost": 0.0128775
+    }
+  }
+}

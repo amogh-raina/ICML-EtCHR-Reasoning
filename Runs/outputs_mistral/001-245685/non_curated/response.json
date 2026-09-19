@@ -1,0 +1,69 @@
+{
+  "item_id": "001-245685",
+  "case_name": "CASE OF MARKO TEŠIĆ v. SERBIA",
+  "case_number": "(Application no. 61891/19)",
+  "date": "4 November 2025",
+  "prompt_type": "non_curated",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Applicability of Article 10": "The applicant, a defence lawyer, made critical remarks about the presiding judge’s conduct in written submissions during criminal proceedings. Article 10 of the Convention applies because the impugned expression was made in his professional capacity as a lawyer and concerned a matter of public interest, namely the fairness of judicial proceedings (see no. 31611/96)."
+    },
+    {
+      "Nature of the impugned expression": "The applicant’s written objections primarily addressed substantive concerns about the presiding judge’s alleged failure to accurately record his objections and other procedural irregularities in the conduct of the main hearing (see paragraph 10). His remarks were directly related to the administration of justice and the defence of his client’s rights, which falls within the core protection of Article 10."
+    },
+    {
+      "Form of the expression": "While the applicant used strong and emotive language—such as describing the judge’s conduct as ‘truly outrageous!!!’, ‘procedural malice’, and accusing her of ‘unlawfully altering the record’—his statements were embedded in a broader critique of perceived judicial misconduct (see paragraph 10). The European Court has consistently held that Article 10 protects even harsh or provocative expressions, particularly when made in the context of a debate on matters of public interest (see no. 29045/95 and no. 28198/09)."
+    },
+    {
+      "Context of the expression": "The remarks were made in written submissions as part of ongoing criminal proceedings, a context in which lawyers must be allowed a degree of latitude to criticise judicial conduct to safeguard their clients’ rights (see paragraph 10). The Court has emphasised that lawyers play a crucial role in the administration of justice and must enjoy protection under Article 10 when raising concerns about judicial irregularities, unless their statements amount to gratuitous personal attacks (see no. 3699/08 and no. 49910/06)."
+    },
+    {
+      "Interference with Article 10 rights": "The applicant was sanctioned with a fine of 80,000 RSD under Article 231 § 2 of the Code of Criminal Procedure for insulting the authority of the judiciary (see paragraphs 11, 13, and 16). This constitutes an interference with his right to freedom of expression under Article 10(1)."
+    },
+    {
+      "Legitimacy of the interference": "The interference pursued the legitimate aim of protecting the authority of the judiciary, as prescribed by domestic law (see paragraph 16). However, the key issue is whether the interference was ‘necessary in a democratic society’ under Article 10(2)."
+    },
+    {
+      "Proportionality and necessity of the interference": "The domestic courts focused primarily on the tone of the applicant’s remarks rather than their substantive content, which concerned alleged procedural violations (see paragraphs 11 and 13). The European Court has repeatedly held that sanctions imposed on lawyers for criticising judges in the context of legal proceedings are compatible with Article 10 only if the remarks are devoid of any factual basis or constitute gratuitous personal attacks (see no. 14881/03 and no. 28198/09). In this case, the applicant’s criticisms were tied to specific allegations of misconduct in the recording of court proceedings, and there is no indication that his statements were entirely baseless or purely insulting. The fine imposed thus appears disproportionate to the legitimate aim pursued."
+    },
+    {
+      "Relevance of the applicant’s status as a lawyer": "As a defence lawyer, the applicant’s role in ensuring the fairness of the proceedings and the protection of his client’s rights must be taken into account. The Court has held that restrictions on lawyers’ freedom of expression require weighty justification, as their ability to criticise judicial conduct is essential to the proper functioning of the justice system (see no. 3699/08 and no. 40975/08)."
+    },
+    {
+      "Conclusion on violation": "The domestic courts failed to strike a fair balance between the applicant’s right to freedom of expression and the need to protect the authority of the judiciary. The sanctions imposed for his critical remarks, made in the context of his professional duties, were not justified by a pressing social need and were disproportionate. This suggests a violation of Article 10."
+    }
+  ],
+  "raw_content": "```json\n{\n  \"assessment\": [\n    {\n      \"Applicability of Article 10\": \"The applicant, a defence lawyer, made critical remarks about the presiding judge’s conduct in written submissions during criminal proceedings. Article 10 of the Convention applies because the impugned expression was made in his professional capacity as a lawyer and concerned a matter of public interest, namely the fairness of judicial proceedings (see no. 31611/96).\"\n    },\n    {\n      \"Nature of the impugned expression\": \"The applicant’s written objections primarily addressed substantive concerns about the presiding judge’s alleged failure to accurately record his objections and other procedural irregularities in the conduct of the main hearing (see paragraph 10). His remarks were directly related to the administration of justice and the defence of his client’s rights, which falls within the core protection of Article 10.\"\n    },\n    {\n      \"Form of the expression\": \"While the applicant used strong and emotive language—such as describing the judge’s conduct as ‘truly outrageous!!!’, ‘procedural malice’, and accusing her of ‘unlawfully altering the record’—his statements were embedded in a broader critique of perceived judicial misconduct (see paragraph 10). The European Court has consistently held that Article 10 protects even harsh or provocative expressions, particularly when made in the context of a debate on matters of public interest (see no. 29045/95 and no. 28198/09).\"\n    },\n    {\n      \"Context of the expression\": \"The remarks were made in written submissions as part of ongoing criminal proceedings, a context in which lawyers must be allowed a degree of latitude to criticise judicial conduct to safeguard their clients’ rights (see paragraph 10). The Court has emphasised that lawyers play a crucial role in the administration of justice and must enjoy protection under Article 10 when raising concerns about judicial irregularities, unless their statements amount to gratuitous personal attacks (see no. 3699/08 and no. 49910/06).\"\n    },\n    {\n      \"Interference with Article 10 rights\": \"The applicant was sanctioned with a fine of 80,000 RSD under Article 231 § 2 of the Code of Criminal Procedure for insulting the authority of the judiciary (see paragraphs 11, 13, and 16). This constitutes an interference with his right to freedom of expression under Article 10(1).\"\n    },\n    {\n      \"Legitimacy of the interference\": \"The interference pursued the legitimate aim of protecting the authority of the judiciary, as prescribed by domestic law (see paragraph 16). However, the key issue is whether the interference was ‘necessary in a democratic society’ under Article 10(2).\"\n    },\n    {\n      \"Proportionality and necessity of the interference\": \"The domestic courts focused primarily on the tone of the applicant’s remarks rather than their substantive content, which concerned alleged procedural violations (see paragraphs 11 and 13). The European Court has repeatedly held that sanctions imposed on lawyers for criticising judges in the context of legal proceedings are compatible with Article 10 only if the remarks are devoid of any factual basis or constitute gratuitous personal attacks (see no. 14881/03 and no. 28198/09). In this case, the applicant’s criticisms were tied to specific allegations of misconduct in the recording of court proceedings, and there is no indication that his statements were entirely baseless or purely insulting. The fine imposed thus appears disproportionate to the legitimate aim pursued.\"\n    },\n    {\n      \"Relevance of the applicant’s status as a lawyer\": \"As a defence lawyer, the applicant’s role in ensuring the fairness of the proceedings and the protection of his client’s rights must be taken into account. The Court has held that restrictions on lawyers’ freedom of expression require weighty justification, as their ability to criticise judicial conduct is essential to the proper functioning of the justice system (see no. 3699/08 and no. 40975/08).\"\n    },\n    {\n      \"Conclusion on violation\": \"The domestic courts failed to strike a fair balance between the applicant’s right to freedom of expression and the need to protect the authority of the judiciary. The sanctions imposed for his critical remarks, made in the context of his professional duties, were not justified by a pressing social need and were disproportionate. This suggests a violation of Article 10.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 2155,
+    "prompt_tokens": 2773,
+    "total_tokens": 4928,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1236,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.020322,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.020322,
+      "upstream_inference_prompt_cost": 0.0041595,
+      "upstream_inference_completions_cost": 0.0161625
+    }
+  }
+}

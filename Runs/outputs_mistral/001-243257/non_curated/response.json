@@ -1,0 +1,65 @@
+{
+  "item_id": "001-243257",
+  "case_name": "CASE OF SELISHCHEVA AND OTHERS v. RUSSIA",
+  "case_number": "(Applications nos. 39056/22 and 9 others –",
+  "date": "27 May 2025",
+  "prompt_type": "non_curated",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1",
+    "11",
+    "11-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Applicability of Article 10": "Article 10 of the Convention protects the right to freedom of expression, which includes the right to impart information and ideas, as well as the right to stand for election as a form of political expression (see no. 37949/18). In the present case, the applicants’ exclusion from the electoral process was directly linked to their political activities and expressions of support for opposition movements and figures, including participation in protests, social media activity, and involvement in coalition campaigns (see paragraphs 6-8). These activities fall within the ambit of Article 10."
+    },
+    {
+      "Existence of an interference": "There was an interference with the applicants’ Article 10 rights, as their exclusion from standing as candidates in the municipal elections was based on their alleged involvement in extremist organisations, derived from their political expressions and associations. The refusal to register them as candidates (see paragraph 5) and the subsequent judicial validation of this refusal (see paragraphs 9-10) constitute a direct restriction on their ability to engage in political expression through electoral participation."
+    },
+    {
+      "Prescribed by law": "The interference was based on section 4 § 3.6 of the Electoral Rights Act, as amended by Federal Law no. 157-FZ (see paragraph 11). The provision is formulated with a degree of precision, setting out the conditions under which individuals are barred from standing for election. However, the law’s application raises concerns regarding foreseeability, as it was used to disqualify the applicants based on activities that pre-dated the designation of the organisations as extremist (see paragraphs 3-4 and 6-8). While the legal basis exists, its retroactive application in effect undermines its accessibility and predictability (see no. 28396/95)."
+    },
+    {
+      "Legitimate aim": "The restriction pursued a legitimate aim under Article 10(2), namely the prevention of disorder or crime, by excluding individuals associated with organisations deemed extremist from participating in elections. The domestic law explicitly ties the restriction to the suppression of extremism (see paragraph 11)."
+    },
+    {
+      "Necessary in a democratic society": "The interference fails the test of necessity in a democratic society. The ECtHR has consistently held that restrictions on political expression must be narrowly tailored and subject to the closest scrutiny (see no. 28881/07). In this case, the domestic courts accepted police reports as sufficient evidence of the applicants’ involvement with extremist organisations without requiring a prior judicial determination of individual culpability (see paragraph 9). Furthermore, the impugned activities—such as participation in protests, social media support, and involvement in opposition coalitions—constitute core political speech (see paragraphs 6-8). The automatic and blanket application of the restriction, particularly in the absence of a judicial finding of personal involvement in extremist activities, and its retroactive effect (see paragraphs 3-4 and 11), lacks the precision and proportionality required by Article 10. The restriction also appears disproportionate in light of the applicants’ peaceful political engagement, which did not inherently incite violence or extremism (see no. 20261/12)."
+    },
+    {
+      "Proportionality and safeguards": "The ECtHR emphasises that restrictions on fundamental rights, particularly in the context of electoral rights and political expression, must be accompanied by adequate safeguards against abuse. Here, the lack of a judicial assessment of the applicants’ individual involvement (see paragraph 9) and the overbreadth of the activities considered sufficient to establish ‘involvement’—such as following social media accounts or sharing materials (see paragraph 6(d))—undermine the proportionality of the measure. The Court has previously found violations where domestic laws failed to provide sufficient safeguards against arbitrary interference with political rights (see no. 37920/07)."
+    },
+    {
+      "Conclusion on Article 10": "Given the above, the interference with the applicants’ right to freedom of expression was not justified as being necessary in a democratic society. The restriction was not sufficiently circumscribed by safeguards to prevent arbitrary application, particularly in light of the core nature of the expression at issue and the retroactive application of the law. This constitutes a violation of Article 10."
+    }
+  ],
+  "raw_content": "```json\n{\n  \"assessment\": [\n    {\n      \"Applicability of Article 10\": \"Article 10 of the Convention protects the right to freedom of expression, which includes the right to impart information and ideas, as well as the right to stand for election as a form of political expression (see no. 37949/18). In the present case, the applicants’ exclusion from the electoral process was directly linked to their political activities and expressions of support for opposition movements and figures, including participation in protests, social media activity, and involvement in coalition campaigns (see paragraphs 6-8). These activities fall within the ambit of Article 10.\"\n    },\n    {\n      \"Existence of an interference\": \"There was an interference with the applicants’ Article 10 rights, as their exclusion from standing as candidates in the municipal elections was based on their alleged involvement in extremist organisations, derived from their political expressions and associations. The refusal to register them as candidates (see paragraph 5) and the subsequent judicial validation of this refusal (see paragraphs 9-10) constitute a direct restriction on their ability to engage in political expression through electoral participation.\"\n    },\n    {\n      \"Prescribed by law\": \"The interference was based on section 4 § 3.6 of the Electoral Rights Act, as amended by Federal Law no. 157-FZ (see paragraph 11). The provision is formulated with a degree of precision, setting out the conditions under which individuals are barred from standing for election. However, the law’s application raises concerns regarding foreseeability, as it was used to disqualify the applicants based on activities that pre-dated the designation of the organisations as extremist (see paragraphs 3-4 and 6-8). While the legal basis exists, its retroactive application in effect undermines its accessibility and predictability (see no. 28396/95).\"\n    },\n    {\n      \"Legitimate aim\": \"The restriction pursued a legitimate aim under Article 10(2), namely the prevention of disorder or crime, by excluding individuals associated with organisations deemed extremist from participating in elections. The domestic law explicitly ties the restriction to the suppression of extremism (see paragraph 11).\"\n    },\n    {\n      \"Necessary in a democratic society\": \"The interference fails the test of necessity in a democratic society. The ECtHR has consistently held that restrictions on political expression must be narrowly tailored and subject to the closest scrutiny (see no. 28881/07). In this case, the domestic courts accepted police reports as sufficient evidence of the applicants’ involvement with extremist organisations without requiring a prior judicial determination of individual culpability (see paragraph 9). Furthermore, the impugned activities—such as participation in protests, social media support, and involvement in opposition coalitions—constitute core political speech (see paragraphs 6-8). The automatic and blanket application of the restriction, particularly in the absence of a judicial finding of personal involvement in extremist activities, and its retroactive effect (see paragraphs 3-4 and 11), lacks the precision and proportionality required by Article 10. The restriction also appears disproportionate in light of the applicants’ peaceful political engagement, which did not inherently incite violence or extremism (see no. 20261/12).\"\n    },\n    {\n      \"Proportionality and safeguards\": \"The ECtHR emphasises that restrictions on fundamental rights, particularly in the context of electoral rights and political expression, must be accompanied by adequate safeguards against abuse. Here, the lack of a judicial assessment of the applicants’ individual involvement (see paragraph 9) and the overbreadth of the activities considered sufficient to establish ‘involvement’—such as following social media accounts or sharing materials (see paragraph 6(d))—undermine the proportionality of the measure. The Court has previously found violations where domestic laws failed to provide sufficient safeguards against arbitrary interference with political rights (see no. 37920/07).\"\n    },\n    {\n      \"Conclusion on Article 10\": \"Given the above, the interference with the applicants’ right to freedom of expression was not justified as being necessary in a democratic society. The restriction was not sufficiently circumscribed by safeguards to prevent arbitrary application, particularly in light of the core nature of the expression at issue and the retroactive application of the law. This constitutes a violation of Article 10.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 2296,
+    "prompt_tokens": 2396,
+    "total_tokens": 4692,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1364,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.020814,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.020814,
+      "upstream_inference_prompt_cost": 0.003594,
+      "upstream_inference_completions_cost": 0.01722
+    }
+  }
+}

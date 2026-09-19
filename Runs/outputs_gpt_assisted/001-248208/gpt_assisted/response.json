@@ -1,0 +1,83 @@
+{
+  "item_id": "001-248208",
+  "case_name": "CASE OF MORAWIEC v. POLAND",
+  "case_number": "(Application no. 46238/20)",
+  "date": "5 February 2026",
+  "prompt_type": "gpt_assisted",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "high",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "1. Existence of an interference": "There was a clear interference with the applicant's freedom of expression. Although the formal measure concerned criminal accusations and judicial immunity, its practical effect was to remove a prominent judge from office, suspend her for 238 days, cut her salary by 50%, and publicly associate her with serious corruption allegations (see paragraphs 12-16). The written reasons were published on the Supreme Court's website, which further intensified the impact on her reputation and future participation in public debate (see paragraph 13). Under the Court's case-law, measures of this kind can amount to an interference where they are capable of discouraging the person concerned, and others in a similar position, from speaking out on matters of public interest (see no. 16915/21; see no. 28274/08)."
+    },
+    {
+      "2. Nature of the speech and level of protection": "The applicant's expression attracted a high level of Article 10 protection. She was not speaking as a private litigant on a personal matter, but as a senior criminal judge and President of the Judges' Association Themis, actively engaged in debate on the organisation of the judiciary, the independence of courts, and the conduct of the Minister of Justice (see paragraphs 7-9). Those are core matters of public interest in a democratic society. While judges are bound by duties of restraint, the Court affords strong protection when they speak on threats to judicial independence and the rule of law, especially where there is no indication of abusive or gratuitously offensive language (see no. 16915/21; see no. 28396/95). The margin of appreciation is therefore narrow."
+    },
+    {
+      "3. Lawfulness and legitimate aim": "The interference had a formal basis in domestic criminal law and immunity-related procedures, notably Articles 228, 231 and 284 of the Criminal Code (see paragraphs 12, 24). It could also be said to pursue legitimate aims under Article 10 § 2, namely the prevention of crime and the protection of the authority of the judiciary. However, the quality of the legal safeguards was weakened by the fact that the impugned decision was taken by the Disciplinary Chamber, whose status was seriously contested domestically and internationally, and whose continued operation had already been publicly criticised as incompatible with higher legal standards (see paragraphs 15, 20, 23). Even assuming the first two Article 10 § 2 requirements were met, the decisive issue is necessity and proportionality."
+    },
+    {
+      "4. Necessity in a democratic society: insufficient basis and retaliatory context": "The interference does not appear necessary in a democratic society. First, the evidential basis for the measures was later found to be inadequate by the Disciplinary Chamber itself sitting at second instance: the main witness had repeatedly changed his testimony, his credibility was diminished, the prosecutorial evidentiary initiative was insufficient, and the request to lift immunity was premature (see paragraph 15). That strongly weakens any claim of a pressing social need. Second, the broader context points to retaliation for the applicant's public criticism of the judicial reforms and of the Minister of Justice. She had been a visible critic of the reforms (see paragraphs 8-9), had sued the State Treasury over the Ministry's statements harming her reputation and won (see paragraph 11), and the allegations were publicly framed by officials and State-linked media in terms directly connecting her to resistance to the reforms (see paragraphs 17-19, 21). In such circumstances, the appearance of a punitive response to protected speech is strong (see no. 16915/21)."
+    },
+    {
+      "5. Proportionality and chilling effect": "The severity and cumulative effect of the measures were disproportionate. The applicant was suspended from judicial duties, deprived of half of her salary for many months, and exposed to intense public stigma before any criminal trial took place (see paragraphs 13, 16, 19). State-owned television broadcast material suggesting that she had used her position to conduct criminal activity, while officials publicly condemned even the later refusal to lift her immunity (see paragraphs 19, 21). International judicial associations explicitly perceived the case as repression capable of paralysing independent judges (see paragraphs 18-20). Even though the applicant was eventually reinstated and the withheld salary was repaid (see paragraph 16), the temporary nature of the measures does not erase their chilling effect. The domestic authorities did not demonstrate with relevant and sufficient reasons why such drastic steps were necessary against a judge engaged in protected public-interest speech."
+    },
+    {
+      "6. Overall conclusion": "Taking the applicant's prominent role in public debate on judicial independence, the weakness of the evidential basis later identified by the appellate formation, the strong indications of retaliatory motive, and the severe chilling effect of suspension, salary reduction and public stigmatisation, the interference was not proportionate to any legitimate aim pursued (see paragraphs 7-9, 11-21). The domestic response therefore fell short of the requirements of Article 10 (see no. 28274/08; see no. 28396/95; see no. 16915/21)."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"1. Existence of an interference\": \"There was a clear interference with the applicant's freedom of expression. Although the formal measure concerned criminal accusations and judicial immunity, its practical effect was to remove a prominent judge from office, suspend her for 238 days, cut her salary by 50%, and publicly associate her with serious corruption allegations (see paragraphs 12-16). The written reasons were published on the Supreme Court's website, which further intensified the impact on her reputation and future participation in public debate (see paragraph 13). Under the Court's case-law, measures of this kind can amount to an interference where they are capable of discouraging the person concerned, and others in a similar position, from speaking out on matters of public interest (see no. 16915/21; see no. 28274/08).\"\n    },\n    {\n      \"2. Nature of the speech and level of protection\": \"The applicant's expression attracted a high level of Article 10 protection. She was not speaking as a private litigant on a personal matter, but as a senior criminal judge and President of the Judges' Association Themis, actively engaged in debate on the organisation of the judiciary, the independence of courts, and the conduct of the Minister of Justice (see paragraphs 7-9). Those are core matters of public interest in a democratic society. While judges are bound by duties of restraint, the Court affords strong protection when they speak on threats to judicial independence and the rule of law, especially where there is no indication of abusive or gratuitously offensive language (see no. 16915/21; see no. 28396/95). The margin of appreciation is therefore narrow.\"\n    },\n    {\n      \"3. Lawfulness and legitimate aim\": \"The interference had a formal basis in domestic criminal law and immunity-related procedures, notably Articles 228, 231 and 284 of the Criminal Code (see paragraphs 12, 24). It could also be said to pursue legitimate aims under Article 10 § 2, namely the prevention of crime and the protection of the authority of the judiciary. However, the quality of the legal safeguards was weakened by the fact that the impugned decision was taken by the Disciplinary Chamber, whose status was seriously contested domestically and internationally, and whose continued operation had already been publicly criticised as incompatible with higher legal standards (see paragraphs 15, 20, 23). Even assuming the first two Article 10 § 2 requirements were met, the decisive issue is necessity and proportionality.\"\n    },\n    {\n      \"4. Necessity in a democratic society: insufficient basis and retaliatory context\": \"The interference does not appear necessary in a democratic society. First, the evidential basis for the measures was later found to be inadequate by the Disciplinary Chamber itself sitting at second instance: the main witness had repeatedly changed his testimony, his credibility was diminished, the prosecutorial evidentiary initiative was insufficient, and the request to lift immunity was premature (see paragraph 15). That strongly weakens any claim of a pressing social need. Second, the broader context points to retaliation for the applicant's public criticism of the judicial reforms and of the Minister of Justice. She had been a visible critic of the reforms (see paragraphs 8-9), had sued the State Treasury over the Ministry's statements harming her reputation and won (see paragraph 11), and the allegations were publicly framed by officials and State-linked media in terms directly connecting her to resistance to the reforms (see paragraphs 17-19, 21). In such circumstances, the appearance of a punitive response to protected speech is strong (see no. 16915/21).\"\n    },\n    {\n      \"5. Proportionality and chilling effect\": \"The severity and cumulative effect of the measures were disproportionate. The applicant was suspended from judicial duties, deprived of half of her salary for many months, and exposed to intense public stigma before any criminal trial took place (see paragraphs 13, 16, 19). State-owned television broadcast material suggesting that she had used her position to conduct criminal activity, while officials publicly condemned even the later refusal to lift her immunity (see paragraphs 19, 21). International judicial associations explicitly perceived the case as repression capable of paralysing independent judges (see paragraphs 18-20). Even though the applicant was eventually reinstated and the withheld salary was repaid (see paragraph 16), the temporary nature of the measures does not erase their chilling effect. The domestic authorities did not demonstrate with relevant and sufficient reasons why such drastic steps were necessary against a judge engaged in protected public-interest speech.\"\n    },\n    {\n      \"6. Overall conclusion\": \"Taking the applicant's prominent role in public debate on judicial independence, the weakness of the evidential basis later identified by the appellate formation, the strong indications of retaliatory motive, and the severe chilling effect of suspension, salary reduction and public stigmatisation, the interference was not proportionate to any legitimate aim pursued (see paragraphs 7-9, 11-21). The domestic response therefore fell short of the requirements of Article 10 (see no. 28274/08; see no. 28396/95; see no. 16915/21).\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 3963,
+    "prompt_tokens": 6437,
+    "total_tokens": 10400,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 2861,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0732335,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0732335,
+      "upstream_inference_prompt_cost": 0.0137885,
+      "upstream_inference_completions_cost": 0.059445
+    }
+  },
+  "citations": [
+    "16915/21",
+    "28274/08",
+    "28396/95"
+  ],
+  "ref_paragraphs": [
+    7,
+    8,
+    9,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    23,
+    24
+  ]
+}

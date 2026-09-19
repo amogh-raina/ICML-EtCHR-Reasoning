@@ -1,0 +1,147 @@
+{
+  "item_id": "001-247738",
+  "case_name": "CASE OF TSAAVA AND OTHERS v. GEORGIA",
+  "case_number": "(Applications nos. 13186/20 and 4 others)",
+  "date": "11 December 2025",
+  "prompt_type": "gpt_assisted",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "high",
+  "violation_ground_truth": [
+    "3",
+    "10",
+    "10-1",
+    "11",
+    "11-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Interference with expression": "There was a direct interference with the applicants’ freedom of expression. The events concerned political protest about the conduct of Parliament and senior officials, that is, expression on a matter of the highest public interest (see paragraphs 14-18). The journalist applicants were reporting as public watchdogs (see paragraphs 44-45), many of them being visibly identifiable by badges, microphones, professional cameras or “Press” clothing (see paragraphs 45, 54-63). Several were hit while standing calmly and posing no danger, according to the prosecutorial video analysis (see paragraphs 47, 51, 54, 58 and 63), and Mr Diasamidze was threatened, pushed out and prevented from livestreaming despite identifying himself as a journalist (see paragraph 66). Peaceful demonstrators were likewise injured while expressing political views (see paragraphs 83, 93 and 105). This is comparable in principle to the interferences examined in Najafli v. Azerbaijan (see no. 2594/07), Butkevich v. Russia (see no. 5865/07) and Selmani and Others v. the former Yugoslav Republic of Macedonia (see no. 67259/14)."
+    },
+    {
+      "Context and legitimate aims": "The State could rely on important countervailing interests. A section of the crowd repeatedly tried to storm Parliament, seized police gear and threw objects at officers; many officers were injured (see paragraphs 20-23, 29-31 and 43). Preventing disorder or crime and protecting the rights and safety of others were therefore legitimate aims under Article 10 § 2. However, because the case concerned political speech and press coverage of events at the seat of Parliament, the margin of appreciation was narrow and a careful distinction between violent actors, peaceful participants and journalists was required (see no. 11882/10; see no. 67259/14)."
+    },
+    {
+      "Lawfulness and safeguards": "Although domestic law authorised the use of force in principle (see paragraphs 180, 188 and 193-196), the practical operation of the safeguards appears seriously deficient. Georgian law required prior warning and time to disperse unless delay endangered life (see paragraphs 180 § 3, 187 and 194), yet shooting began at 11.55 p.m. without a warning and the clear loudspeaker warning came only at 2.59 a.m. (see paragraphs 32 and 41). The law also required an order by the unit leader, with supervisory consent, for non-lethal projectiles except in urgent cases, prohibited firing at close range or at the head/torso, prohibited simultaneous use with tear gas and water cannon, and specifically forbade impeding journalists (see paragraphs 185 and 188-190). Yet officers stated that kinetic projectiles were used on individual initiative, from elevated positions above the stairs, while tear gas was also being fired, and many victims suffered upper-body and eye injuries (see paragraphs 34-39, 70, 94-106 and 123-126). This creates strong doubt that the interference was sufficiently circumscribed and safeguarded against arbitrariness."
+    },
+    {
+      "Necessity and proportionality": "Even assuming a sufficient legal basis, the interference was not necessary in a democratic society. The material repeatedly distinguishes a violent front group from many peaceful persons in the middle, back, or on the pavements, some of whom were unaware of the clashes (see paragraphs 26, 31, 35 and 40). Prosecutorial reports found several applicants calm and posing no danger when hit, including journalists Tsaava, Kmuzov, Svanadze, Muradov and Abashidze, and demonstrators Kurdovanidze and Chankseliani (see paragraphs 47, 51, 58, 63, 83 and 93). Yet the authorities acknowledged that they did not effectively separate violent individuals from peaceful participants (see paragraph 123), despite domestic rules requiring precisely that (see paragraph 183). As regards the journalists, the case is closer to Najafli v. Azerbaijan (see no. 2594/07) and Butkevich v. Russia (see no. 5865/07) than to Pentikäinen v. Finland (see no. 11882/10): most were identifiable, were not obstructing operations, and were injured or expelled while reporting rather than sanctioned for refusing a clear lawful order."
+    },
+    {
+      "Severity and chilling effect": "The severity of the measures strongly points to disproportionality. Around 40 journalists were injured overall (see paragraph 43). Individual applicants suffered fractures, surgery, grave wounds, permanent loss of eyesight or visual impairment, and expulsion from the scene (see paragraphs 70, 94-106). The Tbilisi City Court expressly found, in the cases of journalist-claimants, that the injuries prevented them from performing their professional duties, and both the City Court and the Court of Appeal held that force used against peaceful claimants was unnecessary and disproportionate (see paragraphs 149-156). Such use of kinetic projectiles and force against reporters and peaceful political speakers is plainly capable of deterring future reporting and participation in public debate, contrary to the Court’s approach in Selmani (see no. 67259/14)."
+    },
+    {
+      "Overall prediction": "The authorities faced genuine violence from part of the crowd, but Article 10 required tailored policing, clear warning, protection of identifiable media, and force limited to those posing an imminent threat. On the facts, force appears to have been used in an insufficiently controlled and partly indiscriminate manner against journalists and peaceful political speakers, with serious injuries and an obvious chilling effect, and without relevant and sufficient reasons. I therefore predict a violation of Article 10."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"Interference with expression\": \"There was a direct interference with the applicants’ freedom of expression. The events concerned political protest about the conduct of Parliament and senior officials, that is, expression on a matter of the highest public interest (see paragraphs 14-18). The journalist applicants were reporting as public watchdogs (see paragraphs 44-45), many of them being visibly identifiable by badges, microphones, professional cameras or “Press” clothing (see paragraphs 45, 54-63). Several were hit while standing calmly and posing no danger, according to the prosecutorial video analysis (see paragraphs 47, 51, 54, 58 and 63), and Mr Diasamidze was threatened, pushed out and prevented from livestreaming despite identifying himself as a journalist (see paragraph 66). Peaceful demonstrators were likewise injured while expressing political views (see paragraphs 83, 93 and 105). This is comparable in principle to the interferences examined in Najafli v. Azerbaijan (see no. 2594/07), Butkevich v. Russia (see no. 5865/07) and Selmani and Others v. the former Yugoslav Republic of Macedonia (see no. 67259/14).\"\n    },\n    {\n      \"Context and legitimate aims\": \"The State could rely on important countervailing interests. A section of the crowd repeatedly tried to storm Parliament, seized police gear and threw objects at officers; many officers were injured (see paragraphs 20-23, 29-31 and 43). Preventing disorder or crime and protecting the rights and safety of others were therefore legitimate aims under Article 10 § 2. However, because the case concerned political speech and press coverage of events at the seat of Parliament, the margin of appreciation was narrow and a careful distinction between violent actors, peaceful participants and journalists was required (see no. 11882/10; see no. 67259/14).\"\n    },\n    {\n      \"Lawfulness and safeguards\": \"Although domestic law authorised the use of force in principle (see paragraphs 180, 188 and 193-196), the practical operation of the safeguards appears seriously deficient. Georgian law required prior warning and time to disperse unless delay endangered life (see paragraphs 180 § 3, 187 and 194), yet shooting began at 11.55 p.m. without a warning and the clear loudspeaker warning came only at 2.59 a.m. (see paragraphs 32 and 41). The law also required an order by the unit leader, with supervisory consent, for non-lethal projectiles except in urgent cases, prohibited firing at close range or at the head/torso, prohibited simultaneous use with tear gas and water cannon, and specifically forbade impeding journalists (see paragraphs 185 and 188-190). Yet officers stated that kinetic projectiles were used on individual initiative, from elevated positions above the stairs, while tear gas was also being fired, and many victims suffered upper-body and eye injuries (see paragraphs 34-39, 70, 94-106 and 123-126). This creates strong doubt that the interference was sufficiently circumscribed and safeguarded against arbitrariness.\"\n    },\n    {\n      \"Necessity and proportionality\": \"Even assuming a sufficient legal basis, the interference was not necessary in a democratic society. The material repeatedly distinguishes a violent front group from many peaceful persons in the middle, back, or on the pavements, some of whom were unaware of the clashes (see paragraphs 26, 31, 35 and 40). Prosecutorial reports found several applicants calm and posing no danger when hit, including journalists Tsaava, Kmuzov, Svanadze, Muradov and Abashidze, and demonstrators Kurdovanidze and Chankseliani (see paragraphs 47, 51, 58, 63, 83 and 93). Yet the authorities acknowledged that they did not effectively separate violent individuals from peaceful participants (see paragraph 123), despite domestic rules requiring precisely that (see paragraph 183). As regards the journalists, the case is closer to Najafli v. Azerbaijan (see no. 2594/07) and Butkevich v. Russia (see no. 5865/07) than to Pentikäinen v. Finland (see no. 11882/10): most were identifiable, were not obstructing operations, and were injured or expelled while reporting rather than sanctioned for refusing a clear lawful order.\"\n    },\n    {\n      \"Severity and chilling effect\": \"The severity of the measures strongly points to disproportionality. Around 40 journalists were injured overall (see paragraph 43). Individual applicants suffered fractures, surgery, grave wounds, permanent loss of eyesight or visual impairment, and expulsion from the scene (see paragraphs 70, 94-106). The Tbilisi City Court expressly found, in the cases of journalist-claimants, that the injuries prevented them from performing their professional duties, and both the City Court and the Court of Appeal held that force used against peaceful claimants was unnecessary and disproportionate (see paragraphs 149-156). Such use of kinetic projectiles and force against reporters and peaceful political speakers is plainly capable of deterring future reporting and participation in public debate, contrary to the Court’s approach in Selmani (see no. 67259/14).\"\n    },\n    {\n      \"Overall prediction\": \"The authorities faced genuine violence from part of the crowd, but Article 10 required tailored policing, clear warning, protection of identifiable media, and force limited to those posing an imminent threat. On the facts, force appears to have been used in an insufficiently controlled and partly indiscriminate manner against journalists and peaceful political speakers, with serious injuries and an obvious chilling effect, and without relevant and sufficient reasons. I therefore predict a violation of Article 10.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 5900,
+    "prompt_tokens": 32295,
+    "total_tokens": 38195,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 4660,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.1692375,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.1692375,
+      "upstream_inference_prompt_cost": 0.0807375,
+      "upstream_inference_completions_cost": 0.0885
+    }
+  },
+  "citations": [
+    "2594/07",
+    "5865/07",
+    "67259/14",
+    "11882/10"
+  ],
+  "ref_paragraphs": [
+    14,
+    15,
+    16,
+    17,
+    18,
+    20,
+    21,
+    22,
+    23,
+    26,
+    29,
+    30,
+    31,
+    32,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    43,
+    44,
+    45,
+    47,
+    51,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    66,
+    70,
+    83,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    123,
+    124,
+    125,
+    126,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    180,
+    183,
+    185,
+    188,
+    189,
+    190,
+    193,
+    194,
+    195,
+    196
+  ]
+}

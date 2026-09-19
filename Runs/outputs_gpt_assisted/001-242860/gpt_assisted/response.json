@@ -1,0 +1,82 @@
+{
+  "item_id": "001-242860",
+  "case_name": "CASE OF TERGEK v. TÜRKİYE",
+  "case_number": "(Application no. 39631/20)",
+  "date": "29 April 2025",
+  "prompt_type": "gpt_assisted",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "high",
+  "violation_ground_truth": [],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "1. Interference with freedom to receive information": "The impugned measures disclose a clear interference with the applicant’s Article 10 rights. The prison authorities withheld enclosures sent by the applicant’s sister and wife, consisting of internet printouts which, according to the applicant, concerned physiotherapy exercises for his injured ankle and study materials for a distance-learning real-estate course (see paragraphs 7 and 12). The first set of documents was delivered only about one year later, after successful judicial challenge (see paragraphs 8-9), and the second set was never delivered (see paragraphs 11-14). Article 10 protects not only imparting but also receiving information, and prisoners retain that protection, subject to justified prison restrictions. Measures preventing access to written material, even in the prison context, are therefore interferences requiring justification (see nos. 39084/97, 14946/08, 56925/08)."
+    },
+    {
+      "2. Legal basis and legitimate aim": "The authorities relied on sections 68 and 62 of Law no. 5275, which regulate prisoners’ correspondence and access to publications (see paragraphs 17 and 19). The aims invoked or inferable from the decisions were prison order and security, and prevention of communication within a terrorist organisation (see paragraphs 6 and 11), which are in principle legitimate under Article 10 § 2. However, the lawfulness of the interference is doubtful. In respect of the first letter, the enforcement judge expressly found the withholding unlawful because the administration had relied on a general and abstract assessment rather than the actual content of the documents (see paragraph 8). In respect of the second letter, the authorities oscillated between the regimes for correspondence and publications and ultimately treated internet printouts as neither, largely because of their form and supposed unknown origin (see paragraphs 11 and 13). Such formalistic and inconsistent classification weakens foreseeability and safeguards against arbitrariness. Still, even assuming the interference was prescribed by law, the decisive issue is necessity and proportionality."
+    },
+    {
+      "3. Necessity and proportionality: first letter": "As to the first letter, the Disciplinary Board stated that the enclosures might threaten prison security, that their publisher and purpose were unclear, and that they contained phrases that could facilitate communication within FETÖ/PDY (see paragraph 6). Yet no concrete passage or identifiable risk was cited. The domestic court later accepted that withholding the material merely because its content was unclear upon a general inspection, without a specific assessment of what the documents actually contained, was incompatible with freedom of expression and communication (see paragraph 8). That finding is highly significant. Moreover, the delayed delivery deprived the material of much of its practical value, since the applicant had said the documents were needed both for ankle rehabilitation and exam preparation (see paragraph 7). A delay of nearly a year in giving access to allegedly innocuous educational and medical material cannot be regarded as a proportionate response to vague security concerns. Strasbourg case-law requires relevant and sufficient reasons and an individualised assessment, not speculative assertions (see nos. 66400/01, 20233/06, 56925/08)."
+    },
+    {
+      "4. Necessity and proportionality: second letter": "The second withholding appears even harder to justify. The Disciplinary Board withheld sixty-one pages of internet printouts by relying on section 68(3) and on a prior general decision warning of the risks of internet printouts in prisons, while authorising the handwritten note and photographs (see paragraph 11). Crucially, it did not address the content of the withheld material at all (see paragraph 11). The enforcement judge then rejected the applicant’s objection on the basis that the documents were neither ‘books’ nor ‘correspondence’, because of their unknown origin and susceptibility to interference, and added that prisoners could use the library (see paragraph 13). That reasoning is overly formalistic and close to a blanket exclusion of internet printouts as a category. Article 10 does not permit such automatic restrictions where the authorities do not show why the specific material creates a genuine security problem. The applicant had directly explained that the documents related to physiotherapy and his studies (see paragraph 12), and there is nothing in the facts suggesting violence, propaganda, coded messages, or any concrete institutional risk. The library argument is also weak, because no court established that equivalent material was actually available there or that it would meet the applicant’s immediate medical and educational needs. Blanket or category-based restrictions on access to written material, without content analysis, are generally incompatible with the proportionality test (see nos. 14946/08, 48876/08, 21830/09)."
+    },
+    {
+      "5. Quality of domestic review": "The domestic review did not cure the interference. Although the enforcement judge remedied the first withholding, that occurred only after a lengthy period and without compensation for the delay’s effects (see paragraphs 8-9). As to the second withholding, the enforcement judge and Assize Court essentially endorsed a categorical exclusion based on form rather than substance (see paragraphs 13-14). The Constitutional Court then dismissed the complaint in a formulaic manner, stating either that there had been no interference or that any interference had not amounted to a violation, with a bare reference to its earlier case-law (see paragraph 16). That reasoning did not engage with the applicant’s concrete explanations, the actual content of the documents, or the balancing required by Article 10. Where domestic courts fail to apply Convention standards and give relevant and sufficient reasons, the Strasbourg Court is more likely to find a violation (see nos. 39084/97, 20233/06, 56925/08)."
+    },
+    {
+      "6. Overall conclusion": "Even allowing the State a relatively wider margin of appreciation in prison-security matters, especially concerning a prisoner convicted of membership of a terrorist organisation (see paragraph 4), the restrictions here appear disproportionate. The decisive features are the absence of a specific content-based assessment, the reliance on speculative or generic security concerns, the formalistic exclusion of internet printouts as a category, the substantial delay in delivery of the first material, and the insufficiency of the domestic courts’ reasoning (see paragraphs 6-16). In light of Article 10 principles requiring careful, individualised justification for restrictions on receiving information, the Court would likely conclude that the applicant’s freedom of expression was violated (see nos. 66400/01, 14946/08, 56925/08)."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"1. Interference with freedom to receive information\": \"The impugned measures disclose a clear interference with the applicant’s Article 10 rights. The prison authorities withheld enclosures sent by the applicant’s sister and wife, consisting of internet printouts which, according to the applicant, concerned physiotherapy exercises for his injured ankle and study materials for a distance-learning real-estate course (see paragraphs 7 and 12). The first set of documents was delivered only about one year later, after successful judicial challenge (see paragraphs 8-9), and the second set was never delivered (see paragraphs 11-14). Article 10 protects not only imparting but also receiving information, and prisoners retain that protection, subject to justified prison restrictions. Measures preventing access to written material, even in the prison context, are therefore interferences requiring justification (see nos. 39084/97, 14946/08, 56925/08).\"\n    },\n    {\n      \"2. Legal basis and legitimate aim\": \"The authorities relied on sections 68 and 62 of Law no. 5275, which regulate prisoners’ correspondence and access to publications (see paragraphs 17 and 19). The aims invoked or inferable from the decisions were prison order and security, and prevention of communication within a terrorist organisation (see paragraphs 6 and 11), which are in principle legitimate under Article 10 § 2. However, the lawfulness of the interference is doubtful. In respect of the first letter, the enforcement judge expressly found the withholding unlawful because the administration had relied on a general and abstract assessment rather than the actual content of the documents (see paragraph 8). In respect of the second letter, the authorities oscillated between the regimes for correspondence and publications and ultimately treated internet printouts as neither, largely because of their form and supposed unknown origin (see paragraphs 11 and 13). Such formalistic and inconsistent classification weakens foreseeability and safeguards against arbitrariness. Still, even assuming the interference was prescribed by law, the decisive issue is necessity and proportionality.\"\n    },\n    {\n      \"3. Necessity and proportionality: first letter\": \"As to the first letter, the Disciplinary Board stated that the enclosures might threaten prison security, that their publisher and purpose were unclear, and that they contained phrases that could facilitate communication within FETÖ/PDY (see paragraph 6). Yet no concrete passage or identifiable risk was cited. The domestic court later accepted that withholding the material merely because its content was unclear upon a general inspection, without a specific assessment of what the documents actually contained, was incompatible with freedom of expression and communication (see paragraph 8). That finding is highly significant. Moreover, the delayed delivery deprived the material of much of its practical value, since the applicant had said the documents were needed both for ankle rehabilitation and exam preparation (see paragraph 7). A delay of nearly a year in giving access to allegedly innocuous educational and medical material cannot be regarded as a proportionate response to vague security concerns. Strasbourg case-law requires relevant and sufficient reasons and an individualised assessment, not speculative assertions (see nos. 66400/01, 20233/06, 56925/08).\"\n    },\n    {\n      \"4. Necessity and proportionality: second letter\": \"The second withholding appears even harder to justify. The Disciplinary Board withheld sixty-one pages of internet printouts by relying on section 68(3) and on a prior general decision warning of the risks of internet printouts in prisons, while authorising the handwritten note and photographs (see paragraph 11). Crucially, it did not address the content of the withheld material at all (see paragraph 11). The enforcement judge then rejected the applicant’s objection on the basis that the documents were neither ‘books’ nor ‘correspondence’, because of their unknown origin and susceptibility to interference, and added that prisoners could use the library (see paragraph 13). That reasoning is overly formalistic and close to a blanket exclusion of internet printouts as a category. Article 10 does not permit such automatic restrictions where the authorities do not show why the specific material creates a genuine security problem. The applicant had directly explained that the documents related to physiotherapy and his studies (see paragraph 12), and there is nothing in the facts suggesting violence, propaganda, coded messages, or any concrete institutional risk. The library argument is also weak, because no court established that equivalent material was actually available there or that it would meet the applicant’s immediate medical and educational needs. Blanket or category-based restrictions on access to written material, without content analysis, are generally incompatible with the proportionality test (see nos. 14946/08, 48876/08, 21830/09).\"\n    },\n    {\n      \"5. Quality of domestic review\": \"The domestic review did not cure the interference. Although the enforcement judge remedied the first withholding, that occurred only after a lengthy period and without compensation for the delay’s effects (see paragraphs 8-9). As to the second withholding, the enforcement judge and Assize Court essentially endorsed a categorical exclusion based on form rather than substance (see paragraphs 13-14). The Constitutional Court then dismissed the complaint in a formulaic manner, stating either that there had been no interference or that any interference had not amounted to a violation, with a bare reference to its earlier case-law (see paragraph 16). That reasoning did not engage with the applicant’s concrete explanations, the actual content of the documents, or the balancing required by Article 10. Where domestic courts fail to apply Convention standards and give relevant and sufficient reasons, the Strasbourg Court is more likely to find a violation (see nos. 39084/97, 20233/06, 56925/08).\"\n    },\n    {\n      \"6. Overall conclusion\": \"Even allowing the State a relatively wider margin of appreciation in prison-security matters, especially concerning a prisoner convicted of membership of a terrorist organisation (see paragraph 4), the restrictions here appear disproportionate. The decisive features are the absence of a specific content-based assessment, the reliance on speculative or generic security concerns, the formalistic exclusion of internet printouts as a category, the substantial delay in delivery of the first material, and the insufficiency of the domestic courts’ reasoning (see paragraphs 6-16). In light of Article 10 principles requiring careful, individualised justification for restrictions on receiving information, the Court would likely conclude that the applicant’s freedom of expression was violated (see nos. 66400/01, 14946/08, 56925/08).\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 3780,
+    "prompt_tokens": 4039,
+    "total_tokens": 7819,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 2398,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0644935,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0644935,
+      "upstream_inference_prompt_cost": 0.0077935,
+      "upstream_inference_completions_cost": 0.0567
+    }
+  },
+  "citations": [
+    "39084/97",
+    "14946/08",
+    "56925/08",
+    "66400/01",
+    "20233/06",
+    "48876/08",
+    "21830/09"
+  ],
+  "ref_paragraphs": [
+    4,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    19
+  ]
+}

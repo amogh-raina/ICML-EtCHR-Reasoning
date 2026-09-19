@@ -1,0 +1,95 @@
+{
+  "item_id": "001-248090",
+  "case_name": "CASE OF KHADIJA ISMAYILOVA v. AZERBAIJAN (No. 4)",
+  "case_number": "(Applications nos. 71556/16 and 74112/17)",
+  "date": "27 January 2026",
+  "prompt_type": "non_curated",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Expression-related interference": "The impugned measures plainly engaged Article 10. The applicant was a prominent investigative journalist known for reporting on alleged corruption and the business activities of public officials (see paragraph 5). She was convicted, sentenced to imprisonment, and later kept under a suspended sentence with probation conditions effectively preventing foreign travel, on the basis of her work for Azadliq Radio and her journalistic income (see paragraphs 10-20). A criminal conviction tied to the exercise and organisation of journalistic activity constitutes a serious interference with freedom of expression."
+    },
+    {
+      "Direct link between the charges and journalistic activity": "The illegal entrepreneurship charge was linked, after partial quashing, to the applicant's journalistic work without Ministry of Foreign Affairs accreditation as a representative of foreign media, and to the income she received from that work between 2010 and 2014 (see paragraphs 10 (ii), 12, 16, 19 and 20). The tax-evasion charge was based on the way the Baku bureau of Azadliq Radio operated financially while she was its head (see paragraph 11). The case therefore concerned not an incidental private matter, but the legal conditions under which the applicant could gather and impart information through a media outlet."
+    },
+    {
+      "Lawfulness of the accreditation-based conviction": "There are strong indications that the interference was not 'prescribed by law' with the clarity required for criminal sanctions. Under the Law on Media, accreditation appears to function primarily as a mechanism granting journalists access to information and official events, not as a general precondition for carrying out journalism; Article 50 states that media outlets 'may' accredit journalists, and Article 53 does not expressly criminalise work by unaccredited foreign correspondents (see paragraph 29). The applicant expressly argued that the law did not provide for criminal or other liability for failure to obtain accreditation and that it was legally erroneous to treat freelance journalism as illegal entrepreneurship (see paragraph 12). The domestic courts did not meaningfully address that argument and instead equated lack of accreditation with 'entrepreneurial activity without State registration' (see paragraphs 14, 16 and 20). The later amendment adding the words 'tax registration' to Article 192 further underscores the ambiguity of the prior text (see paragraphs 17-22). Such an extensive interpretation of a criminal provision was hardly foreseeable."
+    },
+    {
+      "Lawfulness concerns regarding the tax-evasion conviction": "The tax-evasion limb also appears legally fragile. The applicant argued that Azadliq Radio was a non-commercial organisation, that funds transferred from Prague were operational expenses rather than taxable profit, that previous tax audits had not found breaches, that she personally had no tax-management role, and that the interim audit report used against her had no clear basis in the Tax Code and did not follow the statutory procedure (see paragraph 13). The Tax Code provisions reproduced in the file show a detailed framework for tax inspections, objections, and decisions imposing liability (see paragraphs 25-27). Yet the domestic courts essentially repeated the prosecution case and stayed silent on those detailed objections (see paragraphs 14 and 16). That lack of reasoning is difficult to reconcile with the strict scrutiny required where tax law is used to found a criminal conviction against a journalist."
+    },
+    {
+      "Legitimate aim and strict scrutiny": "The Government could plausibly invoke the prevention of crime or protection of the economic order. However, where criminal law is applied in a manner that affects investigative journalism on matters of evident public interest, the Court requires particularly convincing reasons. The applicant's journalism concerned alleged corruption and the activities of public officials, an area enjoying a high level of protection under Article 10 (see paragraph 5). The Court has already examined the broader pattern of pressure on this applicant in connection with her reporting (see no. 65286/13; no. 57270/14), which reinforces the need for especially careful scrutiny in the present case."
+    },
+    {
+      "Necessity in a democratic society": "The domestic courts did not provide 'relevant and sufficient' reasons showing a pressing social need. They failed to engage with the applicant's central submissions that accreditation was not a legal prerequisite for journalism, that she worked as a freelancer rather than as an accredited foreign-media representative after 2010, and that the tax calculations rested on an arbitrary reclassification of non-commercial funding as profit (see paragraphs 12-16). Instead, the courts largely endorsed the prosecution's account in summary form. Such reasoning is inadequate where the result is a criminal conviction restricting a journalist's ability to work."
+    },
+    {
+      "Context suggesting a punitive use of criminal law": "The overall chronology also weakens the Government's position. The applicant was first prosecuted for incitement to suicide and detained, then additional economic charges were brought; later, major parts of the conviction were quashed for lack of the constituent elements of the offences, including the accusation concerning broadcasting without a licence (see paragraphs 8-11 and 16). That sequence, combined with the applicant's prominent anti-corruption reporting and the prior findings concerning harassment against her (see no. 65286/13; no. 57270/14), supports the view that the proceedings operated, at least in effect, as a means of silencing or punishing critical journalism rather than as a narrowly tailored enforcement of neutral regulatory rules."
+    },
+    {
+      "Severity and chilling effect of the sanctions": "The sanctions were extremely severe: initially seven and a half years' imprisonment, followed by a suspended prison sentence, probation, and a restriction effectively preventing international travel, plus professional disqualifications at the first stage (see paragraphs 11, 16 and 19). Even after reductions on appeal, the criminal conviction and attached restrictions were capable of creating a strong chilling effect not only on the applicant but also on other investigative journalists and foreign-media collaborators. In the absence of speech involving violence, hatred, or other exceptional circumstances, custodial criminal sanctions for journalism-related activity are very difficult to justify under Article 10."
+    },
+    {
+      "Overall conclusion": "Taken together, the unclear legal basis for treating unaccredited journalistic work as illegal entrepreneurship, the serious doubts surrounding the tax-evasion finding, the domestic courts' failure to answer the applicant's detailed arguments, the applicant's role as an investigative journalist reporting on corruption, the wider context of pressure previously recognised by the Court, and the severity of the sanctions all point in the same direction. The interference was not shown to be convincingly lawful, necessary, or proportionate under Article 10."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"Expression-related interference\": \"The impugned measures plainly engaged Article 10. The applicant was a prominent investigative journalist known for reporting on alleged corruption and the business activities of public officials (see paragraph 5). She was convicted, sentenced to imprisonment, and later kept under a suspended sentence with probation conditions effectively preventing foreign travel, on the basis of her work for Azadliq Radio and her journalistic income (see paragraphs 10-20). A criminal conviction tied to the exercise and organisation of journalistic activity constitutes a serious interference with freedom of expression.\"\n    },\n    {\n      \"Direct link between the charges and journalistic activity\": \"The illegal entrepreneurship charge was linked, after partial quashing, to the applicant's journalistic work without Ministry of Foreign Affairs accreditation as a representative of foreign media, and to the income she received from that work between 2010 and 2014 (see paragraphs 10 (ii), 12, 16, 19 and 20). The tax-evasion charge was based on the way the Baku bureau of Azadliq Radio operated financially while she was its head (see paragraph 11). The case therefore concerned not an incidental private matter, but the legal conditions under which the applicant could gather and impart information through a media outlet.\"\n    },\n    {\n      \"Lawfulness of the accreditation-based conviction\": \"There are strong indications that the interference was not 'prescribed by law' with the clarity required for criminal sanctions. Under the Law on Media, accreditation appears to function primarily as a mechanism granting journalists access to information and official events, not as a general precondition for carrying out journalism; Article 50 states that media outlets 'may' accredit journalists, and Article 53 does not expressly criminalise work by unaccredited foreign correspondents (see paragraph 29). The applicant expressly argued that the law did not provide for criminal or other liability for failure to obtain accreditation and that it was legally erroneous to treat freelance journalism as illegal entrepreneurship (see paragraph 12). The domestic courts did not meaningfully address that argument and instead equated lack of accreditation with 'entrepreneurial activity without State registration' (see paragraphs 14, 16 and 20). The later amendment adding the words 'tax registration' to Article 192 further underscores the ambiguity of the prior text (see paragraphs 17-22). Such an extensive interpretation of a criminal provision was hardly foreseeable.\"\n    },\n    {\n      \"Lawfulness concerns regarding the tax-evasion conviction\": \"The tax-evasion limb also appears legally fragile. The applicant argued that Azadliq Radio was a non-commercial organisation, that funds transferred from Prague were operational expenses rather than taxable profit, that previous tax audits had not found breaches, that she personally had no tax-management role, and that the interim audit report used against her had no clear basis in the Tax Code and did not follow the statutory procedure (see paragraph 13). The Tax Code provisions reproduced in the file show a detailed framework for tax inspections, objections, and decisions imposing liability (see paragraphs 25-27). Yet the domestic courts essentially repeated the prosecution case and stayed silent on those detailed objections (see paragraphs 14 and 16). That lack of reasoning is difficult to reconcile with the strict scrutiny required where tax law is used to found a criminal conviction against a journalist.\"\n    },\n    {\n      \"Legitimate aim and strict scrutiny\": \"The Government could plausibly invoke the prevention of crime or protection of the economic order. However, where criminal law is applied in a manner that affects investigative journalism on matters of evident public interest, the Court requires particularly convincing reasons. The applicant's journalism concerned alleged corruption and the activities of public officials, an area enjoying a high level of protection under Article 10 (see paragraph 5). The Court has already examined the broader pattern of pressure on this applicant in connection with her reporting (see no. 65286/13; no. 57270/14), which reinforces the need for especially careful scrutiny in the present case.\"\n    },\n    {\n      \"Necessity in a democratic society\": \"The domestic courts did not provide 'relevant and sufficient' reasons showing a pressing social need. They failed to engage with the applicant's central submissions that accreditation was not a legal prerequisite for journalism, that she worked as a freelancer rather than as an accredited foreign-media representative after 2010, and that the tax calculations rested on an arbitrary reclassification of non-commercial funding as profit (see paragraphs 12-16). Instead, the courts largely endorsed the prosecution's account in summary form. Such reasoning is inadequate where the result is a criminal conviction restricting a journalist's ability to work.\"\n    },\n    {\n      \"Context suggesting a punitive use of criminal law\": \"The overall chronology also weakens the Government's position. The applicant was first prosecuted for incitement to suicide and detained, then additional economic charges were brought; later, major parts of the conviction were quashed for lack of the constituent elements of the offences, including the accusation concerning broadcasting without a licence (see paragraphs 8-11 and 16). That sequence, combined with the applicant's prominent anti-corruption reporting and the prior findings concerning harassment against her (see no. 65286/13; no. 57270/14), supports the view that the proceedings operated, at least in effect, as a means of silencing or punishing critical journalism rather than as a narrowly tailored enforcement of neutral regulatory rules.\"\n    },\n    {\n      \"Severity and chilling effect of the sanctions\": \"The sanctions were extremely severe: initially seven and a half years' imprisonment, followed by a suspended prison sentence, probation, and a restriction effectively preventing international travel, plus professional disqualifications at the first stage (see paragraphs 11, 16 and 19). Even after reductions on appeal, the criminal conviction and attached restrictions were capable of creating a strong chilling effect not only on the applicant but also on other investigative journalists and foreign-media collaborators. In the absence of speech involving violence, hatred, or other exceptional circumstances, custodial criminal sanctions for journalism-related activity are very difficult to justify under Article 10.\"\n    },\n    {\n      \"Overall conclusion\": \"Taken together, the unclear legal basis for treating unaccredited journalistic work as illegal entrepreneurship, the serious doubts surrounding the tax-evasion finding, the domestic courts' failure to answer the applicant's detailed arguments, the applicant's role as an investigative journalist reporting on corruption, the wider context of pressure previously recognised by the Court, and the severity of the sanctions all point in the same direction. The interference was not shown to be convincingly lawful, necessary, or proportionate under Article 10.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 4272,
+    "prompt_tokens": 6301,
+    "total_tokens": 10573,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 2894,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0798325,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0798325,
+      "upstream_inference_prompt_cost": 0.0157525,
+      "upstream_inference_completions_cost": 0.06408
+    }
+  },
+  "citations": [
+    "65286/13",
+    "57270/14"
+  ],
+  "ref_paragraphs": [
+    5,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    25,
+    26,
+    27,
+    29
+  ]
+}

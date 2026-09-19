@@ -1,0 +1,81 @@
+{
+  "item_id": "001-242528",
+  "case_name": "CASE OF HAYK GRIGORYAN v. ARMENIA",
+  "case_number": "(Application no. 9796/17)",
+  "date": "3 April 2025",
+  "prompt_type": "instruction",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "1. Existence of an interference": "There was clearly an interference with the applicant’s freedom of expression. Article 10 protects not only the publication of information but also journalistic newsgathering, especially where a journalist records matters of obvious public interest such as clashes between police and demonstrators (see no. 2594/07; see no. 11882/10). The applicant, a freelance journalist, was present to film a protest connected to major political unrest and a police operation (see paragraphs 5-8). The video shows police officers surrounding him while he was filming, grabbing him, taking his camera, and making remarks indicating an intention to delete the footage, including “Who are you filming?” and “I have not deleted [it] yet; I will delete [it]...” (see paragraph 9). The applicant consistently stated that his camera and phone were seized and that he was beaten while filming (see paragraphs 15, 18 and 23). Even if no press card is visible in the footage (see paragraph 9), his activity was plainly that of information-gathering in a public place, and T.Y. repeatedly shouted that he was a journalist (see paragraph 9). The temporary confiscation of his camera, the alleged deletion of footage, and the use of force against him all interfered with his ability to gather and impart information."
+    },
+    {
+      "2. Lawfulness of the interference": "The interference does not appear to have been lawful. For an interference to be “prescribed by law”, it must have a basis in domestic law and be applied in a foreseeable and non-arbitrary manner. Here, no concrete domestic legal basis was identified for police officers to seize the applicant’s camera, take his phone, or stop him filming. On the contrary, domestic law specifically criminalised obstruction of a journalist’s lawful professional activities by a public official abusing his position (see paragraph 34), and the authorities themselves opened criminal proceedings under that provision in relation to these events (see paragraph 13). The officers later claimed that they took the camera merely to verify whether the applicant was a journalist (see paragraph 27), but no provision has been cited showing that such a forcible seizure of recording equipment during a demonstration was authorised. Nor is there any legal basis suggested for deleting or attempting to delete footage. The domestic practice submitted by the Government, including convictions of police officers for obstructing journalists covering demonstrations, further suggests that such conduct was regarded domestically as unlawful rather than authorised policing (see paragraph 39). In these circumstances, the interference was not shown to be prescribed by law."
+    },
+    {
+      "3. Legitimate aims of the interference": "Since the lawfulness requirement is not met, it is not necessary to decide this issue conclusively. Nevertheless, the broader police operation in Sari Tagh was connected to violent unrest, and in principle measures taken there might have pursued the legitimate aims of public safety or the prevention of disorder or crime (see paragraphs 5, 6 and 8). However, the facts suggest that the specific acts directed at the applicant were not genuinely aimed at crowd control. The video shows the officers reacting to the fact that he was filming them at close range, and their remarks referred to the recording itself (see paragraph 9). Their own later explanation was that they were checking whether he was a journalist (see paragraph 27), not that he posed a concrete threat. That points more to suppressing documentation of police conduct than to pursuing a legitimate Article 10 § 2 aim. At minimum, the existence of a legitimate aim was not convincingly demonstrated."
+    },
+    {
+      "4. Necessary in a democratic society": "In any event, the interference was not necessary in a democratic society. The Court affords strong protection to the press acting as a public watchdog at demonstrations and other events of public concern; any restrictions on journalistic coverage require particularly weighty reasons (see no. 2594/07; see no. 1172/12; see no. 11882/10). The applicant was filming police conduct during a serious public disturbance, an area where public scrutiny is especially important (see paragraphs 8-9). Even allowing for a tense and chaotic environment, the authorities had less restrictive options than grabbing him, striking him, seizing his equipment, and apparently interfering with his footage. The video does not show him attacking officers; rather, he was recording them, and his colleague identified him as a journalist (see paragraph 9). The later medical evidence confirms that he sustained at least a lip injury consistent with blunt force on that date (see paragraphs 17 and 20). The reasons advanced by the officers were neither relevant nor sufficient: a supposed need to “verify” his status cannot justify physical force and seizure of recording equipment, particularly when the equipment was returned only after intervention by a senior officer (see paragraph 9). The prolonged and still incomplete investigation, despite identification of at least one officer who struck the applicant, reinforces the lack of justification for the original interference (see paragraphs 28-33). Accordingly, even assuming a legitimate aim, the measures were disproportionate."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"1. Existence of an interference\": \"There was clearly an interference with the applicant’s freedom of expression. Article 10 protects not only the publication of information but also journalistic newsgathering, especially where a journalist records matters of obvious public interest such as clashes between police and demonstrators (see no. 2594/07; see no. 11882/10). The applicant, a freelance journalist, was present to film a protest connected to major political unrest and a police operation (see paragraphs 5-8). The video shows police officers surrounding him while he was filming, grabbing him, taking his camera, and making remarks indicating an intention to delete the footage, including “Who are you filming?” and “I have not deleted [it] yet; I will delete [it]...” (see paragraph 9). The applicant consistently stated that his camera and phone were seized and that he was beaten while filming (see paragraphs 15, 18 and 23). Even if no press card is visible in the footage (see paragraph 9), his activity was plainly that of information-gathering in a public place, and T.Y. repeatedly shouted that he was a journalist (see paragraph 9). The temporary confiscation of his camera, the alleged deletion of footage, and the use of force against him all interfered with his ability to gather and impart information.\"\n    },\n    {\n      \"2. Lawfulness of the interference\": \"The interference does not appear to have been lawful. For an interference to be “prescribed by law”, it must have a basis in domestic law and be applied in a foreseeable and non-arbitrary manner. Here, no concrete domestic legal basis was identified for police officers to seize the applicant’s camera, take his phone, or stop him filming. On the contrary, domestic law specifically criminalised obstruction of a journalist’s lawful professional activities by a public official abusing his position (see paragraph 34), and the authorities themselves opened criminal proceedings under that provision in relation to these events (see paragraph 13). The officers later claimed that they took the camera merely to verify whether the applicant was a journalist (see paragraph 27), but no provision has been cited showing that such a forcible seizure of recording equipment during a demonstration was authorised. Nor is there any legal basis suggested for deleting or attempting to delete footage. The domestic practice submitted by the Government, including convictions of police officers for obstructing journalists covering demonstrations, further suggests that such conduct was regarded domestically as unlawful rather than authorised policing (see paragraph 39). In these circumstances, the interference was not shown to be prescribed by law.\"\n    },\n    {\n      \"3. Legitimate aims of the interference\": \"Since the lawfulness requirement is not met, it is not necessary to decide this issue conclusively. Nevertheless, the broader police operation in Sari Tagh was connected to violent unrest, and in principle measures taken there might have pursued the legitimate aims of public safety or the prevention of disorder or crime (see paragraphs 5, 6 and 8). However, the facts suggest that the specific acts directed at the applicant were not genuinely aimed at crowd control. The video shows the officers reacting to the fact that he was filming them at close range, and their remarks referred to the recording itself (see paragraph 9). Their own later explanation was that they were checking whether he was a journalist (see paragraph 27), not that he posed a concrete threat. That points more to suppressing documentation of police conduct than to pursuing a legitimate Article 10 § 2 aim. At minimum, the existence of a legitimate aim was not convincingly demonstrated.\"\n    },\n    {\n      \"4. Necessary in a democratic society\": \"In any event, the interference was not necessary in a democratic society. The Court affords strong protection to the press acting as a public watchdog at demonstrations and other events of public concern; any restrictions on journalistic coverage require particularly weighty reasons (see no. 2594/07; see no. 1172/12; see no. 11882/10). The applicant was filming police conduct during a serious public disturbance, an area where public scrutiny is especially important (see paragraphs 8-9). Even allowing for a tense and chaotic environment, the authorities had less restrictive options than grabbing him, striking him, seizing his equipment, and apparently interfering with his footage. The video does not show him attacking officers; rather, he was recording them, and his colleague identified him as a journalist (see paragraph 9). The later medical evidence confirms that he sustained at least a lip injury consistent with blunt force on that date (see paragraphs 17 and 20). The reasons advanced by the officers were neither relevant nor sufficient: a supposed need to “verify” his status cannot justify physical force and seizure of recording equipment, particularly when the equipment was returned only after intervention by a senior officer (see paragraph 9). The prolonged and still incomplete investigation, despite identification of at least one officer who struck the applicant, reinforces the lack of justification for the original interference (see paragraphs 28-33). Accordingly, even assuming a legitimate aim, the measures were disproportionate.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 2093,
+    "prompt_tokens": 5444,
+    "total_tokens": 7537,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1015,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.045005,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.045005,
+      "upstream_inference_prompt_cost": 0.01361,
+      "upstream_inference_completions_cost": 0.031395
+    }
+  },
+  "citations": [
+    "2594/07",
+    "11882/10",
+    "1172/12"
+  ],
+  "ref_paragraphs": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    13,
+    15,
+    17,
+    18,
+    20,
+    23,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    39
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "item_id": "001-244004",
+  "case_name": "CASE OF RODINA AND BORISOVA v. LATVIA",
+  "case_number": "(Applications nos. 2623/16 and 2299/16)",
+  "date": "10 July 2025",
+  "prompt_type": "instruction",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [],
+  "violation_prediction": "no",
+  "assessment": [
+    {
+      "Existence of an interference": "There was an interference with both applicants’ freedom of expression. The first applicant was prevented from holding a demonstration and march intended to convey views on Russian identity, language and schooling on 9 May 2014 (see paragraphs 16, 20, 27-33). The second applicant was refused authorisation for a demonstration in front of the Ukrainian embassy intended, at least formally, to express views on the war in eastern Ukraine (see paragraphs 35, 38, 45-51). A ban on a planned public event affects not only assembly but also the ability to impart opinions publicly, especially where the choice of date, place and form is part of the message. The fact that the second applicant later joined a smaller picket without sanctions does not remove the initial restriction on the planned demonstration with its broader expressive reach (see paragraph 42). Article 10 is therefore engaged."
+    },
+    {
+      "Lawfulness of the interference": "The interference appears to have been prescribed by law. The municipal decisions and the domestic courts relied on the Law on Demonstrations, Marches and Pickets, notably the provisions prohibiting advocacy of national hatred, war propaganda and activities endangering the democratic order, public safety or the rights of others, and allowing a ban where those risks could not be prevented by less restrictive limitations (see paragraphs 56-59). The Administrative District Court expressly referred to section 15(2) and section 15(1)(2) in the first applicant’s case and to the same legislative scheme in the second applicant’s case (see paragraphs 28 and 46). The legal basis was accessible and sufficiently clear as to the relevant grounds for restricting public expression in demonstrations. Unlike cases where restrictions rest on vague or ad hoc considerations, the present measures were rooted in specific statutory clauses."
+    },
+    {
+      "Legitimate aims of the interference": "The restrictions pursued legitimate aims under Article 10 § 2. In the first applicant’s case, the authorities relied on national security and public order/safety, in light of the post-Crimea and early Donbas context, the tensions surrounding 9 May and the Soviet Victory Monument, the possibility of radicalised participants, and the use of provocative ethnic-superiority rhetoric and militarised imagery (see paragraphs 8-11, 18, 21-24, 29-31). In the second applicant’s case, the authorities relied on national security, public safety and protection of the democratic order because the material before them suggested that the event’s real aim was not a neutral anti-war message but support for armed separatist entities hostile to Ukraine’s sovereignty and territorial integrity (see paragraphs 36-41, 47-50). In the background of the 2014 events in Crimea and eastern Ukraine, these concerns were not abstract (see nos. 20958/14 and 38334/18; 8019/16). They also related to the protection of the rights of others and democratic stability, considerations to which the Court has attached weight where expression seeks to weaken democratic values (see no. 58278/00)."
+    },
+    {
+      "Necessary in a democratic society": "On balance, the interference was likely necessary in a democratic society. Political expression normally enjoys a high level of protection, including expression on language, identity and foreign policy (see no. 44230/06). However, the domestic authorities did not act merely because the views were unpopular. As regards the first applicant, they examined the actual promotional material and found that the declared educational aim did not match the real message: the videos used war scenes, gunshot sounds and slogans such as 'Russians - the oldest nation of Latvia', 'Riga - our city; Latvia - our country', and 'Russians do not give up!' (see paragraph 29). The domestic courts considered those materials aggressive and provocative, capable of deepening ethnic tension in an already highly charged context, and they relied on security information about radicalised attendees, prohibited symbols, and the involvement of Cossack groups linked in the authorities’ assessment to the conflict in Ukraine (see paragraphs 18, 26, 30-31). They also considered less restrictive measures and explained why changing time, place or form would not remove the risk (see paragraphs 24 and 31). As regards the second applicant, the authorities had concrete material indicating that B.A. was the real organiser and that he publicly promoted recognition of the 'DPR' and 'LPR' and supported anti-Ukrainian separatist action; this was later confirmed by the slogans and separatist symbols displayed at the picket actually held (see paragraphs 39, 42, 47-50). That ex post development strongly supports the authorities’ prior assessment that the declared pacifist aim was a pretext. In these circumstances, the reasons given by the domestic authorities were relevant and sufficient, the risks identified were concrete rather than speculative, and the bans were not based solely on a hostile audience reaction. The State could therefore be regarded as having responded to a pressing social need with measures proportionate to the legitimate aims pursued."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"Existence of an interference\": \"There was an interference with both applicants’ freedom of expression. The first applicant was prevented from holding a demonstration and march intended to convey views on Russian identity, language and schooling on 9 May 2014 (see paragraphs 16, 20, 27-33). The second applicant was refused authorisation for a demonstration in front of the Ukrainian embassy intended, at least formally, to express views on the war in eastern Ukraine (see paragraphs 35, 38, 45-51). A ban on a planned public event affects not only assembly but also the ability to impart opinions publicly, especially where the choice of date, place and form is part of the message. The fact that the second applicant later joined a smaller picket without sanctions does not remove the initial restriction on the planned demonstration with its broader expressive reach (see paragraph 42). Article 10 is therefore engaged.\"\n    },\n    {\n      \"Lawfulness of the interference\": \"The interference appears to have been prescribed by law. The municipal decisions and the domestic courts relied on the Law on Demonstrations, Marches and Pickets, notably the provisions prohibiting advocacy of national hatred, war propaganda and activities endangering the democratic order, public safety or the rights of others, and allowing a ban where those risks could not be prevented by less restrictive limitations (see paragraphs 56-59). The Administrative District Court expressly referred to section 15(2) and section 15(1)(2) in the first applicant’s case and to the same legislative scheme in the second applicant’s case (see paragraphs 28 and 46). The legal basis was accessible and sufficiently clear as to the relevant grounds for restricting public expression in demonstrations. Unlike cases where restrictions rest on vague or ad hoc considerations, the present measures were rooted in specific statutory clauses.\"\n    },\n    {\n      \"Legitimate aims of the interference\": \"The restrictions pursued legitimate aims under Article 10 § 2. In the first applicant’s case, the authorities relied on national security and public order/safety, in light of the post-Crimea and early Donbas context, the tensions surrounding 9 May and the Soviet Victory Monument, the possibility of radicalised participants, and the use of provocative ethnic-superiority rhetoric and militarised imagery (see paragraphs 8-11, 18, 21-24, 29-31). In the second applicant’s case, the authorities relied on national security, public safety and protection of the democratic order because the material before them suggested that the event’s real aim was not a neutral anti-war message but support for armed separatist entities hostile to Ukraine’s sovereignty and territorial integrity (see paragraphs 36-41, 47-50). In the background of the 2014 events in Crimea and eastern Ukraine, these concerns were not abstract (see nos. 20958/14 and 38334/18; 8019/16). They also related to the protection of the rights of others and democratic stability, considerations to which the Court has attached weight where expression seeks to weaken democratic values (see no. 58278/00).\"\n    },\n    {\n      \"Necessary in a democratic society\": \"On balance, the interference was likely necessary in a democratic society. Political expression normally enjoys a high level of protection, including expression on language, identity and foreign policy (see no. 44230/06). However, the domestic authorities did not act merely because the views were unpopular. As regards the first applicant, they examined the actual promotional material and found that the declared educational aim did not match the real message: the videos used war scenes, gunshot sounds and slogans such as 'Russians - the oldest nation of Latvia', 'Riga - our city; Latvia - our country', and 'Russians do not give up!' (see paragraph 29). The domestic courts considered those materials aggressive and provocative, capable of deepening ethnic tension in an already highly charged context, and they relied on security information about radicalised attendees, prohibited symbols, and the involvement of Cossack groups linked in the authorities’ assessment to the conflict in Ukraine (see paragraphs 18, 26, 30-31). They also considered less restrictive measures and explained why changing time, place or form would not remove the risk (see paragraphs 24 and 31). As regards the second applicant, the authorities had concrete material indicating that B.A. was the real organiser and that he publicly promoted recognition of the 'DPR' and 'LPR' and supported anti-Ukrainian separatist action; this was later confirmed by the slogans and separatist symbols displayed at the picket actually held (see paragraphs 39, 42, 47-50). That ex post development strongly supports the authorities’ prior assessment that the declared pacifist aim was a pretext. In these circumstances, the reasons given by the domestic authorities were relevant and sufficient, the risks identified were concrete rather than speculative, and the bans were not based solely on a hostile audience reaction. The State could therefore be regarded as having responded to a pressing social need with measures proportionate to the legitimate aims pursued.\"\n    }\n  ],\n  \"violation\": \"no\"\n}",
+  "usage": {
+    "completion_tokens": 3148,
+    "prompt_tokens": 16116,
+    "total_tokens": 19264,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 2070,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.08751,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.08751,
+      "upstream_inference_prompt_cost": 0.04029,
+      "upstream_inference_completions_cost": 0.04722
+    }
+  },
+  "citations": [
+    "20958/14",
+    "38334/18",
+    "58278/00",
+    "44230/06"
+  ],
+  "ref_paragraphs": [
+    8,
+    9,
+    10,
+    11,
+    16,
+    18,
+    20,
+    21,
+    22,
+    23,
+    24,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    56,
+    57,
+    58,
+    59
+  ]
+}

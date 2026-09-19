@@ -1,0 +1,76 @@
+{
+  "item_id": "001-248208",
+  "case_name": "CASE OF MORAWIEC v. POLAND",
+  "case_number": "(Application no. 46238/20)",
+  "date": "5 February 2026",
+  "prompt_type": "instruction",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Existence of an interference": "There was an interference with the applicant’s freedom of expression. The applicant was not an ordinary private citizen but a senior judge and President of the Judges’ Association Themis, who had been actively participating in public debate on judicial reforms, criticising the recomposed NCJ and the Minister of Justice, and calling for the protection of judicial independence (see paragraphs 7-9). Soon afterwards, criminal allegations were pursued against her, her immunity was lifted, she was suspended from judicial duties, and her salary was reduced by 50% (see paragraphs 12-13). Those measures were severe and plainly capable of producing a chilling effect on her and on other judges speaking publicly on matters concerning the rule of law. The surrounding circumstances reinforce that link: the applicant herself described the charges as an attempt to silence the judicial community (see paragraph 17), public commentary connected the case with her criticism of the authorities (see paragraphs 18-21), and the reasons for the first-instance decision were published (see paragraph 13). The Court’s case-law recognises that adverse professional measures taken against judges because of views expressed on matters of public interest may amount to an interference under Article 10, especially where they may deter participation in debate on the administration of justice (see nos. 28396/95 and 16915/21)."
+    },
+    {
+      "Lawfulness of the interference": "The interference appears to have had a formal basis in domestic law. The prosecutor relied on specific provisions of the Criminal Code concerning abuse of power, misappropriation and bribery (see paragraphs 12 and 24), and the DCSC acted under the domestic rules allowing the lifting of a judge’s immunity, suspension from duties and salary reduction (see paragraph 13). At the same time, the quality of that legal basis was seriously undermined by the fact that the applicant challenged the DCSC as not being a “tribunal established by law” (see paragraphs 14-15), and by the wider criticism that the Disciplinary Chamber should not have continued operating after the CJEU’s interim order (see paragraph 20). Those doubts are weighty. Nevertheless, because the impugned measures were at least formally grounded in statutory provisions, the better view for Article 10 is that the case should be decided mainly on whether the interference pursued a legitimate aim and was necessary in a democratic society, rather than on the absence of any legal basis."
+    },
+    {
+      "Legitimate aims of the interference": "The interference can be regarded as pursuing legitimate aims within the meaning of Article 10 § 2. The allegations against the applicant concerned corruption-related conduct and misuse of public funds by a judge (see paragraph 12), and the authorities could therefore invoke the prevention of disorder or crime, as well as the protection of the reputation or rights of others and maintaining public confidence in the administration of justice. The DCSC itself referred to the alleged social harm caused to the administration of justice and the State Treasury (see paragraph 13). Accordingly, the interference was at least ostensibly directed at aims recognised by Article 10 § 2."
+    },
+    {
+      "Necessary in a democratic society": "The interference was not necessary in a democratic society. First, the reasons given for the most severe measures were not relevant and sufficient. The first-instance decision accepted that there was a reasonable suspicion and imposed the maximum salary reduction (see paragraph 13), yet the appellate formation of the same chamber later refused to lift immunity, finding the prosecution evidence insufficient, the key witness unreliable, and the request premature (see paragraph 15). That seriously weakens the claim that there had been a pressing social need for such drastic action. Second, the broader context strongly suggests a retaliatory element connected with the applicant’s public speech. She was a prominent critic of the judicial reforms and of the Minister of Justice (see paragraphs 8-9); the charges followed her public activity and her civil victory against the Minister over a defamatory press release (see paragraph 11); and public officials and State media portrayed her as corrupt before and after judicial decisions, in terms apt to stigmatise and intimidate (see paragraphs 19 and 21). Third, the severity of the measures was considerable: suspension from office for 238 days, a 50% salary cut, and public dissemination of the reasons (see paragraphs 13 and 16). In a field touching directly on the independence of the judiciary, judges are entitled to contribute to public debate, subject to restraint, and sanctions likely to silence such speech call for the closest scrutiny (see nos. 28396/95, 28274/08 and 16915/21). Here, the combination of weak evidential basis, highly punitive consequences, and the surrounding campaign of public denigration points to a chilling effect incompatible with pluralism and open debate in a democratic society. There was therefore a violation of Article 10."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"Existence of an interference\": \"There was an interference with the applicant’s freedom of expression. The applicant was not an ordinary private citizen but a senior judge and President of the Judges’ Association Themis, who had been actively participating in public debate on judicial reforms, criticising the recomposed NCJ and the Minister of Justice, and calling for the protection of judicial independence (see paragraphs 7-9). Soon afterwards, criminal allegations were pursued against her, her immunity was lifted, she was suspended from judicial duties, and her salary was reduced by 50% (see paragraphs 12-13). Those measures were severe and plainly capable of producing a chilling effect on her and on other judges speaking publicly on matters concerning the rule of law. The surrounding circumstances reinforce that link: the applicant herself described the charges as an attempt to silence the judicial community (see paragraph 17), public commentary connected the case with her criticism of the authorities (see paragraphs 18-21), and the reasons for the first-instance decision were published (see paragraph 13). The Court’s case-law recognises that adverse professional measures taken against judges because of views expressed on matters of public interest may amount to an interference under Article 10, especially where they may deter participation in debate on the administration of justice (see nos. 28396/95 and 16915/21).\"\n    },\n    {\n      \"Lawfulness of the interference\": \"The interference appears to have had a formal basis in domestic law. The prosecutor relied on specific provisions of the Criminal Code concerning abuse of power, misappropriation and bribery (see paragraphs 12 and 24), and the DCSC acted under the domestic rules allowing the lifting of a judge’s immunity, suspension from duties and salary reduction (see paragraph 13). At the same time, the quality of that legal basis was seriously undermined by the fact that the applicant challenged the DCSC as not being a “tribunal established by law” (see paragraphs 14-15), and by the wider criticism that the Disciplinary Chamber should not have continued operating after the CJEU’s interim order (see paragraph 20). Those doubts are weighty. Nevertheless, because the impugned measures were at least formally grounded in statutory provisions, the better view for Article 10 is that the case should be decided mainly on whether the interference pursued a legitimate aim and was necessary in a democratic society, rather than on the absence of any legal basis.\"\n    },\n    {\n      \"Legitimate aims of the interference\": \"The interference can be regarded as pursuing legitimate aims within the meaning of Article 10 § 2. The allegations against the applicant concerned corruption-related conduct and misuse of public funds by a judge (see paragraph 12), and the authorities could therefore invoke the prevention of disorder or crime, as well as the protection of the reputation or rights of others and maintaining public confidence in the administration of justice. The DCSC itself referred to the alleged social harm caused to the administration of justice and the State Treasury (see paragraph 13). Accordingly, the interference was at least ostensibly directed at aims recognised by Article 10 § 2.\"\n    },\n    {\n      \"Necessary in a democratic society\": \"The interference was not necessary in a democratic society. First, the reasons given for the most severe measures were not relevant and sufficient. The first-instance decision accepted that there was a reasonable suspicion and imposed the maximum salary reduction (see paragraph 13), yet the appellate formation of the same chamber later refused to lift immunity, finding the prosecution evidence insufficient, the key witness unreliable, and the request premature (see paragraph 15). That seriously weakens the claim that there had been a pressing social need for such drastic action. Second, the broader context strongly suggests a retaliatory element connected with the applicant’s public speech. She was a prominent critic of the judicial reforms and of the Minister of Justice (see paragraphs 8-9); the charges followed her public activity and her civil victory against the Minister over a defamatory press release (see paragraph 11); and public officials and State media portrayed her as corrupt before and after judicial decisions, in terms apt to stigmatise and intimidate (see paragraphs 19 and 21). Third, the severity of the measures was considerable: suspension from office for 238 days, a 50% salary cut, and public dissemination of the reasons (see paragraphs 13 and 16). In a field touching directly on the independence of the judiciary, judges are entitled to contribute to public debate, subject to restraint, and sanctions likely to silence such speech call for the closest scrutiny (see nos. 28396/95, 28274/08 and 16915/21). Here, the combination of weak evidential basis, highly punitive consequences, and the surrounding campaign of public denigration points to a chilling effect incompatible with pluralism and open debate in a democratic society. There was therefore a violation of Article 10.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 3055,
+    "prompt_tokens": 6017,
+    "total_tokens": 9072,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 2024,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0608675,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0608675,
+      "upstream_inference_prompt_cost": 0.0150425,
+      "upstream_inference_completions_cost": 0.045825
+    }
+  },
+  "citations": [
+    "28396/95",
+    "16915/21",
+    "28274/08"
+  ],
+  "ref_paragraphs": [
+    7,
+    8,
+    9,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    24
+  ]
+}

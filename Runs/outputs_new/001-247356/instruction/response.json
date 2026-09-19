@@ -1,0 +1,89 @@
+{
+  "item_id": "001-247356",
+  "case_name": "CASE OF KHAGHAGHUTYAN YERKKHOSUTYUN v. ARMENIA",
+  "case_number": "(Application no. 5497/17)",
+  "date": "4 December 2025",
+  "prompt_type": "instruction",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "1. Existence of an interference": "There was an interference with the applicant NGO’s freedom to receive and impart information. The NGO was engaged in a public-interest project documenting fatalities and crimes in the armed forces, had created an online database, and sought official data in order to verify and complete information already gathered from other sources and from victims’ families (see paragraphs 6-8, 13 and 16). The Ministry of Defence refused, or failed to answer, the requests, and the domestic courts ultimately upheld the refusal (see paragraphs 11, 14-15 and 18-22). Given the NGO’s role as a civil-society watchdog on a matter of evident public concern and the fact that the information was held by the State, the refusal falls within Article 10 as an interference with access to information instrumental for the exercise of freedom of expression (see no. 10090/16, no. 8819/16, no. 37685/10)."
+    },
+    {
+      "2. Lawfulness of the interference": "The interference appears to have had a basis in domestic law. The authorities relied on constitutional provisions, the Freedom of Information Act, the State and Official Secrets Act, Government Decree no. 173, and later the Minister of Defence’s Order no. 9-N, whose Annex I expressly classified summary data on incidents and accidents in the armed forces and related internal-investigation material (see paragraphs 11, 15, 18, 20 and 22; see also paragraphs 23-24, 29 and 35-39). It is true that the Order was adopted only on 9 July 2015, after the NGO had already requested the information and begun litigation, and the Constitutional Court had criticised the non-publication of such extended lists (see paragraphs 14-16 and 40). Nevertheless, the domestic courts treated the relevant provisions as valid and applicable, and the applicant NGO’s challenge to the Order failed (see paragraphs 18-21). On the facts as presented, the better view is that the interference was sufficiently grounded in domestic law, so the decisive issue is proportionality rather than lawfulness."
+    },
+    {
+      "3. Legitimate aims of the interference": "The interference pursued at least one legitimate aim under Article 10 § 2, namely the protection of national security. The Ministry of Defence expressly invoked the military-political situation, tensions at the borders and the need to keep information about incidents, accidents and their causes classified; the domestic courts accepted that disclosure could threaten national security and related the requested information to the combat capability of the armed forces (see paragraphs 17-20). The authorities also referred to privacy and investigative secrecy when responding to earlier requests (see paragraph 11, with paragraphs 23 and 25), which could additionally fall under the protection of the rights of others and prevention of disorder or crime. The principal legitimate aim, however, was national security."
+    },
+    {
+      "4. Necessary in a democratic society": "The interference was not shown to be necessary in a democratic society. The information concerned peacetime deaths and abuses in the armed forces, an area of very strong public interest touching on accountability, possible corruption, non-statutory relations, impunity and human rights protection within a State institution (see paragraphs 6, 13 and 16). The applicant NGO was not seeking the information for a private purpose but to inform the public through a database and advocacy work (see paragraphs 7, 13 and 16). Moreover, the Ministry had already disclosed comparable information for 2010-2011, which weakens the claim that such data was inherently too sensitive to release (see paragraph 9). By contrast, the domestic courts relied on broad and abstract assertions that disclosure 'may' threaten national security and that the information was linked to combat capability, without explaining concretely how the specific data requested - or at least parts of it - would create such a risk (see paragraphs 18 and 20). No genuine balancing exercise was carried out between national-security concerns and the considerable public interest in transparency; nor was any less restrictive solution examined, despite the domestic rule requiring partial disclosure where only part of the material is non-disclosable (see paragraph 30). The blanket classification introduced during the litigation and the refusal to consider redaction or partial access point to a disproportionate response (see paragraphs 15-16, 22, 38-39). In line with the Court’s approach requiring relevant and sufficient reasons and careful scrutiny where NGOs perform a watchdog function, the reasons given here were insufficient to demonstrate a pressing social need (see no. 20261/12, no. 10090/16, no. 69698/01). Accordingly, the interference was not necessary in a democratic society."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"1. Existence of an interference\": \"There was an interference with the applicant NGO’s freedom to receive and impart information. The NGO was engaged in a public-interest project documenting fatalities and crimes in the armed forces, had created an online database, and sought official data in order to verify and complete information already gathered from other sources and from victims’ families (see paragraphs 6-8, 13 and 16). The Ministry of Defence refused, or failed to answer, the requests, and the domestic courts ultimately upheld the refusal (see paragraphs 11, 14-15 and 18-22). Given the NGO’s role as a civil-society watchdog on a matter of evident public concern and the fact that the information was held by the State, the refusal falls within Article 10 as an interference with access to information instrumental for the exercise of freedom of expression (see no. 10090/16, no. 8819/16, no. 37685/10).\"\n    },\n    {\n      \"2. Lawfulness of the interference\": \"The interference appears to have had a basis in domestic law. The authorities relied on constitutional provisions, the Freedom of Information Act, the State and Official Secrets Act, Government Decree no. 173, and later the Minister of Defence’s Order no. 9-N, whose Annex I expressly classified summary data on incidents and accidents in the armed forces and related internal-investigation material (see paragraphs 11, 15, 18, 20 and 22; see also paragraphs 23-24, 29 and 35-39). It is true that the Order was adopted only on 9 July 2015, after the NGO had already requested the information and begun litigation, and the Constitutional Court had criticised the non-publication of such extended lists (see paragraphs 14-16 and 40). Nevertheless, the domestic courts treated the relevant provisions as valid and applicable, and the applicant NGO’s challenge to the Order failed (see paragraphs 18-21). On the facts as presented, the better view is that the interference was sufficiently grounded in domestic law, so the decisive issue is proportionality rather than lawfulness.\"\n    },\n    {\n      \"3. Legitimate aims of the interference\": \"The interference pursued at least one legitimate aim under Article 10 § 2, namely the protection of national security. The Ministry of Defence expressly invoked the military-political situation, tensions at the borders and the need to keep information about incidents, accidents and their causes classified; the domestic courts accepted that disclosure could threaten national security and related the requested information to the combat capability of the armed forces (see paragraphs 17-20). The authorities also referred to privacy and investigative secrecy when responding to earlier requests (see paragraph 11, with paragraphs 23 and 25), which could additionally fall under the protection of the rights of others and prevention of disorder or crime. The principal legitimate aim, however, was national security.\"\n    },\n    {\n      \"4. Necessary in a democratic society\": \"The interference was not shown to be necessary in a democratic society. The information concerned peacetime deaths and abuses in the armed forces, an area of very strong public interest touching on accountability, possible corruption, non-statutory relations, impunity and human rights protection within a State institution (see paragraphs 6, 13 and 16). The applicant NGO was not seeking the information for a private purpose but to inform the public through a database and advocacy work (see paragraphs 7, 13 and 16). Moreover, the Ministry had already disclosed comparable information for 2010-2011, which weakens the claim that such data was inherently too sensitive to release (see paragraph 9). By contrast, the domestic courts relied on broad and abstract assertions that disclosure 'may' threaten national security and that the information was linked to combat capability, without explaining concretely how the specific data requested - or at least parts of it - would create such a risk (see paragraphs 18 and 20). No genuine balancing exercise was carried out between national-security concerns and the considerable public interest in transparency; nor was any less restrictive solution examined, despite the domestic rule requiring partial disclosure where only part of the material is non-disclosable (see paragraph 30). The blanket classification introduced during the litigation and the refusal to consider redaction or partial access point to a disproportionate response (see paragraphs 15-16, 22, 38-39). In line with the Court’s approach requiring relevant and sufficient reasons and careful scrutiny where NGOs perform a watchdog function, the reasons given here were insufficient to demonstrate a pressing social need (see no. 20261/12, no. 10090/16, no. 69698/01). Accordingly, the interference was not necessary in a democratic society.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 3555,
+    "prompt_tokens": 5746,
+    "total_tokens": 9301,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 2544,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.06769,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.06769,
+      "upstream_inference_prompt_cost": 0.014365,
+      "upstream_inference_completions_cost": 0.053325
+    }
+  },
+  "citations": [
+    "10090/16",
+    "8819/16",
+    "37685/10",
+    "20261/12",
+    "69698/01"
+  ],
+  "ref_paragraphs": [
+    6,
+    7,
+    8,
+    9,
+    11,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    29,
+    30,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40
+  ]
+}

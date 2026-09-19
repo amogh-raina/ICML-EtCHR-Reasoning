@@ -1,0 +1,3 @@
+**Clarifying JSON formatting**
+
+I’m thinking about how to format quotes in JSON. It looks like using double quotes means I’d need to escape them within strings. Using single quotes around ‘Nazi’ could be okay, but maybe it’s simpler to use "'Nazi'." Since single quotes don't need escaping, that seems like a better choice. Also, I might want to mention specific cases, like "see no. 26958/95," to clarify things further.

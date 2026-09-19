@@ -1,0 +1,103 @@
+Okay, I need to analyze this case for a potential Article 10 ECHR violation. Let me start by recalling what Article 10 protects. It's about freedom of expression, which includes the right to hold opinions and receive/implement information. But there are restrictions mentioned in paragraph 2 for things like national security, public safety, etc., and importantly "for maintaining the authority and impartiality of the judiciary."
+
+The case is about a Romanian judge, Danileț, who posted two Facebook messages in January 2019. He was disciplined for impairing the honor and image of the justice system. The disciplinary bodies found his posts breached the duty of discretion. Now, I need to check if this disciplinary action violated his Article 10 rights.
+
+First, I should outline the key elements of Article 10 case law. The ECtHR has established that freedom of expression is fundamental, but restrictions must be prescribed by law, pursue a legitimate aim, and be necessary in a democratic society. For judges, there's a balancing act between their right to express and the need to maintain judicial authority and impartiality.
+
+Looking at the case facts, Danileț posted two messages. The first one suggested that army intervention to defend democracy might be constitutional. The second was a link to an article about a prosecutor's concerns, with a comment praising the prosecutor. Both were posted on his Facebook with 50k followers, so it's public.
+
+The disciplinary action was based on Article 99(a) of Law 303/2004, which covers behavior impairing the honor, professional integrity, or image of the justice system. The Disciplinary Board and High Court agreed his posts breached the duty of discretion.
+
+Now, checking the ECtHR criteria. First, was the interference prescribed by law? Yes, the domestic law seems to be clear. But foreseeability might be an issue. The Constitutional Court in Romania said Article 99(a) is abstract but still foreseeable (paragraph 49). ECtHR cases like Morissens v. Belgium (no. 11857/04) might be relevant. The user mentioned Morissens in the High Court's reasoning (paragraph 33). So the law seems to pass the "prescribed by law" test.
+
+Next, legitimate aim. The aim here is maintaining the authority and impartiality of the judiciary, which is a legitimate aim under Article 10(2). So that's covered.
+
+The key part is whether the interference was necessary in a democratic society. This requires a balancing test. The ECtHR has set standards for judges' freedom of expression. Cases like Kudeshkina v. Russia (29492/05) and Wille v. Liechtenstein (28396/95) are relevant. In Kudeshkina, the Court said that while judges have a duty of discretion, restrictions must be proportionate. Wille case emphasized that the authority and impartiality of the judiciary must be protected.
+
+In this case, Danileț is a prominent figure with a large following. His first post suggested army intervention, which could be seen as undermining confidence in democratic institutions. The second post used the phrase "sânge în instalație" which the Disciplinary Board found improper. However, both posts were on matters of public interest: the first related to a debate on the Army Chief of Staff's term extension, and the second supported a prosecutor's views on justice system issues.
+
+The ECtHR has held that judges should be able to participate in public debates, especially on matters concerning the judiciary. For example, in the case of Baka v. Hungary (20668/12), the Court noted that judges can express opinions on the functioning of the justice system. Also, the CCJE Opinion No. 25 (2022) states that judges have a duty to speak out in defense of judicial independence when it's under threat.
+
+But the context here is important. Romania was going through political turmoil at the time. The extension of the Army Chief of Staff's term was a hot topic. The High Court's reasoning (paragraphs 35-38) suggests that his statements could be seen as suggesting political control over institutions and proposing army intervention, which they felt undermined public confidence.
+
+However, the applicant argued that he was speaking as a citizen, not as a judge. The Disciplinary Board rejected this, stating that his status as a judge means he's bound by the duty of discretion regardless. But ECtHR case law says that judges do have the right to express themselves on matters of public interest, but with limitations.
+
+Looking at the dissenting opinion in the Disciplinary Board (paragraph 29), three members thought that forbidding judges from critical comments on public interest matters was excessive. They noted that his first message was about a topical issue (the Army Chief of Staff), not directly related to his judicial duties.
+
+Also, in the domestic case law provided, there are examples where judges' expressions on public matters were allowed. For instance, paragraph 53 mentions a case where a judge's remarks on the functioning and reform of the justice system were considered within limits (judgment no. 5085 of 5 December 2018). Another case (paragraph 55) had a judge supporting police against protesters, and the Judicial Inspection Board didn't find a disciplinary offense.
+
+But in this case, the applicant's posts were more provocative. The first post's rhetorical question about army deployment could be seen as suggesting a coup, which is serious. However, the applicant explained it was in the context of the Army Chief of Staff's term extension, which was a legal and political debate. The High Court acknowledged that the army's role is to preserve democracy per the Constitution (paragraph 18), so maybe his statement wasn't entirely unfounded.
+
+The second post's phrase "sânge în instalație" might be problematic. The Disciplinary Board said it overstepped propriety. But is that a valid restriction? The ECtHR has accepted that certain expressions can be restricted if they harm the judiciary's image. But in Wille, the Court said that the restriction must be proportionate.
+
+Another angle: the chilling effect. If such sanctions are imposed for public critiques, it might deter other judges from speaking out. The CCJE Opinion 25 (2022) warns against chilling effects. Also, the Inter-American Court case López Lone v. Honduras (paragraph 73) found violations when disciplinary actions were taken against judges speaking out against a coup, as it was a democratic crisis.
+
+In Romania's context, there were reports (paragraphs 71-72) of disciplinary investigations being used to pressure judges critical of the justice system's independence. This could be relevant to whether the sanction here was a form of retaliation.
+
+Now, assessing necessity. The ECtHR has a margin of appreciation but applies strict scrutiny for judges' expression. In Kudeshkina, the judge was disciplined for disclosing information about a case, which the Court found justifiable. But here, the posts are about general issues, not specific cases.
+
+The applicant's first post: discussing the possibility of army intervention. While provocative, it's about a constitutional provision (Article 118). The High Court said that such a suggestion could cast doubt on state institutions. But is that a valid reason? The Venice Commission's Report (paragraph 61) says that in democratic crises, judges should be able to speak out.
+
+The second post: supporting a prosecutor's critical view. The disciplinary bodies focused on the language ("sânge în instalație"). If the issue is the tone rather than the content, that might be a weaker justification. The ECtHR has been cautious about restricting based on tone alone unless it's clearly abusive.
+
+Also, the sanctions: a 5% pay cut for two months. That's not severe, but the question is whether the interference was necessary. If the posts did not actually undermine the judiciary's authority, then the sanction might not be justified.
+
+Looking at the dissenting opinion (paragraph 29), they argued that his messages didn't directly relate to his court or other judges, and the media's interpretations weren't his fault. The High Court countered that the media's coverage showed the messages were damaging.
+
+But ECtHR case law: in Morissens v. Belgium (no. 11857/04), the Court found that disciplinary action against a judge for public criticism of a law was a violation because the interference wasn't necessary. In that case, the judge had criticized a law in a newspaper, and the sanction was disproportionate.
+
+Another case: Egeland and Hanseid v. Norway (34438/04). But maybe more relevant is Wille v. Liechtenstein, where the judge lost his position for criticizing a new constitution. The Court found no violation because the criticism was severe and could undermine confidence. But in that case, the judge had used strong language.
+
+Wait, in Wille, the ECtHR said: "The national authorities therefore had a margin of appreciation in assessing whether the applicant’s conduct made it impossible for him to continue to discharge his judicial functions. In view of the severity of the applicant’s statements and the fact that they were made publicly, the Court considers that the interference with his right to freedom of expression was ‘necessary in a democratic society’ for the maintenance of the authority and impartiality of the judiciary." (Wille v. Liechtenstein, §64)
+
+But in Kudeshkina, the judge was disciplined for disclosing details of a specific case, which the Court found justifiable. However, here it's about general comments on the justice system.
+
+In the present case, the applicant's comments were on general issues: institutional attacks and a prosecutor's concerns. The first message's suggestion about the army might be more sensitive. But Article 118 of Romania's Constitution does state the army serves to preserve constitutional democracy, so his point might have a basis.
+
+The key is whether the statements were such that they could objectively undermine confidence in the judiciary. The Disciplinary Board and High Court thought so, but the dissenting judges disagreed.
+
+ECtHR's approach: in Bar drew v. United Kingdom (26665/05), the Court considered that a judge's membership in a political party could be restricted. But for expressions, the test is whether the expression affects the impartiality or authority.
+
+In Baka v. Hungary, the Court found a violation when a judge was removed from office for criticizing judicial reforms, as it had a chilling effect.
+
+Also, the CCJE Opinion 25 (2022) states: "In situations where democracy, the separation of powers or the rule of law are under threat, judges must be resilient and have a duty to speak out..." (paragraph 64). Romania at the time was facing issues with judicial independence (per EU reports in 71-72), so this might be a situation where speaking out is protected.
+
+The applicant's posts were part of a broader debate. His first post was about the Army Chief of Staff, which was a matter of public interest and constitutional debate. The second was supporting a prosecutor's views on justice system problems. Both seem to be within the ambit of public interest discussions that judges should be allowed to participate in, as per CCJE guidelines.
+
+The language issue: "sânge în instalație" – if it's a colloquial expression, the disciplinary bodies might have overreacted. The ECtHR has been reluctant to uphold sanctions for style over substance unless it's clearly abusive.
+
+Moreover, the applicant had a history: paragraph 57-59 show previous disciplinary actions, some upheld, some not. In one case, he wasn't punished for an interview on legislative matters. In another, he was sanctioned for sarcastic remarks about the Minister of Justice. So there's inconsistency, but in this case, the sanction was imposed.
+
+Now, applying the test: was the interference necessary? The ECtHR would look at:
+1. The content of the expression: both posts were on matters of public interest related to the justice system and constitutional issues.
+2. The context: public debate, his prominent status, but also the political climate.
+3. The modality: Facebook posts with wide reach.
+4. The impact: did it actually harm the judiciary's image? The domestic courts assumed it did based on media coverage, but the applicant argued there was no evidence.
+
+ECtHR case law suggests that for judges, restrictions on expression must be strictly necessary. In Wille, the statements were very critical of the new constitution, and the Court accepted the sanction. In Kudeshkina, it was about disclosing case details, which is different.
+
+Here, the first message's suggestion about army deployment: if interpreted as endorsing a coup, that's serious. But he framed it as a rhetorical question, and referenced the Constitution. The context was the Army Chief of Staff's term extension, which was a legal dispute. So it might be seen as a legitimate comment on a constitutional issue.
+
+The second message: supporting a prosecutor's criticism. The issue was the phrase used. If the sanction is based on the use of a particular phrase rather than the content, that might not be a sufficient justification.
+
+Also, the duty of discretion: ECtHR has said that judges have a duty, but it shouldn't prevent them from engaging in public debate on matters of public interest, especially concerning the judiciary.
+
+In the case of Morissens v. Belgium (no. 11857/04), the applicant judge had publicly criticized a new law in a newspaper. The Belgian authorities disciplined him, and the ECtHR found a violation because the interference wasn't necessary. The Court said that the judge's criticisms were directed at the legislative power and didn't affect his impartiality.
+
+Similarly, here, the applicant's criticisms were about the justice system and other institutions, not about specific cases. So perhaps the sanction was not necessary.
+
+Moreover, the High Court's reasoning (paragraph 35) said the manner of expression was inappropriate. But ECtHR has emphasized that the focus should be on the content and context, not just the tone.
+
+Another point: the censorious nature of the restriction. If the domestic law is applied in a way that stifles legitimate public debate by judges, that could violate Article 10.
+
+Given that there was a dissenting opinion in the Disciplinary Board, and previous cases where similar expressions weren't sanctioned, the consistency might be an issue.
+
+Also, the applicant's status: he was a former CSM member, vice-president, etc., so he was a senior figure. The ECtHR might expect more restraint from senior judges, but also recognize their right to contribute to public debate.
+
+In conclusion, comparing to ECtHR cases like Morissens, where public criticism of laws by a judge led to a violation finding, here the posts are on public interest matters. The first post might be more borderline, but the second one seems clearly within allowed expression.
+
+The key is whether the statements could be seen as objectively undermining confidence. The domestic courts assumed they did based on media reaction, but ECtHR might require more concrete evidence of harm.
+
+In Kudeshkina, the judge disclosed specific case information, which directly affected the judiciary's authority. Here, it's general comments. So perhaps the interference wasn't necessary.
+
+Therefore, it's likely that the ECtHR would find a violation of Article 10. The sanction seems disproportionate and not necessary in a democratic society for the protection of the judiciary's authority.

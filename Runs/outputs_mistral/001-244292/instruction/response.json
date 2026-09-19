@@ -1,0 +1,59 @@
+{
+  "item_id": "001-244292",
+  "case_name": "CASE OF UKRAINE AND THE NETHERLANDS v. RUSSIA",
+  "case_number": "(Applications nos. 8019/16, 43800/14, 28525/20 and 11055/22)",
+  "date": "9 July 2025",
+  "prompt_type": "instruction",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "3",
+    "9",
+    "9-1",
+    "10",
+    "10-1",
+    "11",
+    "11-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Existence of an interference": "There has been an interference with freedom of expression. The facts indicate that in the Russian Federation, anti-war protests were stifled through the closure of independent news organizations, a crackdown on civil society, harsh repression of peaceful protests, and severe restrictions on access to social media (see paragraph 86). These measures directly obstruct the right to receive and impart information and ideas, which lies at the core of Article 10 of the Convention."
+    },
+    {
+      "Lawfulness of the interference": "The interference appears to have a basis in domestic law. The measures described—such as the closure of media outlets and restrictions on protests—were implemented by Russian authorities, which typically act under some domestic legal framework, such as laws on media regulation, public assembly, or national security (see paragraph 86). While the domestic legal basis is not explicitly detailed in the provided facts, the alleged actions are State-sanctioned and thus presumed to be grounded in national law, as the Court generally assumes unless evidence to the contrary is provided (see no. 5029/71, Klass and Others v. Germany, on the presumption of lawfulness in State actions)."
+    },
+    {
+      "Legitimate aims of the interference": "The interference can be linked to legitimate aims under Article 10 § 2. The Russian authorities would likely justify the restrictions on the grounds of national security or the prevention of disorder or crime, particularly in the context of the armed conflict in Ukraine. National security and public safety are recognized as legitimate aims under Article 10 (see no. 5029/71, Klass and Others v. Germany, for the acceptance of national security as a legitimate aim)."
+    },
+    {
+      "Necessary in a democratic society": "The interference cannot be regarded as necessary in a democratic society. The measures described—such as the closure of independent news organizations and severe restrictions on social media—are broad and indiscriminate, targeting core political speech, which enjoys the highest level of protection under Article 10 (see no. 9815/82, Lingens v. Austria). Political expression, especially dissent during armed conflict, is central to democratic values, and restrictions must be convincing, proportionate, and the least intrusive means possible. The reported suppression of nearly all independent media and systematic repression of peaceful protests suggest a disproportionate and excessive response, inconsistent with the Court’s strict scrutiny of limitations on political speech (see no. 53984/00, Radio France and Others v. France, emphasizing media pluralism). There is no evidence that the least restrictive measures were used or that the response addressed a pressing social need in a proportionate manner."
+    }
+  ],
+  "raw_content": "```json\n{\n  \"assessment\": [\n    {\n      \"Existence of an interference\": \"There has been an interference with freedom of expression. The facts indicate that in the Russian Federation, anti-war protests were stifled through the closure of independent news organizations, a crackdown on civil society, harsh repression of peaceful protests, and severe restrictions on access to social media (see paragraph 86). These measures directly obstruct the right to receive and impart information and ideas, which lies at the core of Article 10 of the Convention.\"\n    },\n    {\n      \"Lawfulness of the interference\": \"The interference appears to have a basis in domestic law. The measures described—such as the closure of media outlets and restrictions on protests—were implemented by Russian authorities, which typically act under some domestic legal framework, such as laws on media regulation, public assembly, or national security (see paragraph 86). While the domestic legal basis is not explicitly detailed in the provided facts, the alleged actions are State-sanctioned and thus presumed to be grounded in national law, as the Court generally assumes unless evidence to the contrary is provided (see no. 5029/71, Klass and Others v. Germany, on the presumption of lawfulness in State actions).\"\n    },\n    {\n      \"Legitimate aims of the interference\": \"The interference can be linked to legitimate aims under Article 10 § 2. The Russian authorities would likely justify the restrictions on the grounds of national security or the prevention of disorder or crime, particularly in the context of the armed conflict in Ukraine. National security and public safety are recognized as legitimate aims under Article 10 (see no. 5029/71, Klass and Others v. Germany, for the acceptance of national security as a legitimate aim).\"\n    },\n    {\n      \"Necessary in a democratic society\": \"The interference cannot be regarded as necessary in a democratic society. The measures described—such as the closure of independent news organizations and severe restrictions on social media—are broad and indiscriminate, targeting core political speech, which enjoys the highest level of protection under Article 10 (see no. 9815/82, Lingens v. Austria). Political expression, especially dissent during armed conflict, is central to democratic values, and restrictions must be convincing, proportionate, and the least intrusive means possible. The reported suppression of nearly all independent media and systematic repression of peaceful protests suggest a disproportionate and excessive response, inconsistent with the Court’s strict scrutiny of limitations on political speech (see no. 53984/00, Radio France and Others v. France, emphasizing media pluralism). There is no evidence that the least restrictive measures were used or that the response addressed a pressing social need in a proportionate manner.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 6502,
+    "prompt_tokens": 14084,
+    "total_tokens": 20586,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 7969,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.069891,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.069891,
+      "upstream_inference_prompt_cost": 0.021126,
+      "upstream_inference_completions_cost": 0.048765
+    }
+  }
+}

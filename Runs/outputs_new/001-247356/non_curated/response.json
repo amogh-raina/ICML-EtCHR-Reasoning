@@ -1,0 +1,105 @@
+{
+  "item_id": "001-247356",
+  "case_name": "CASE OF KHAGHAGHUTYAN YERKKHOSUTYUN v. ARMENIA",
+  "case_number": "(Application no. 5497/17)",
+  "date": "4 December 2025",
+  "prompt_type": "non_curated",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Applicability of Article 10": "The refusal concerned access to official information requested by an NGO in order to collect, verify and publish data on fatalities and crimes in the armed forces through a public online database and related advocacy work (see paragraphs 5-8, 13-16). The request was thus closely connected to the applicant NGO’s freedom to receive and impart information on a matter of evident public interest: deaths of conscripts and accountability within the army in peacetime. In the Court’s case-law, Article 10 is engaged where access to State-held information is instrumental for watchdog activity and public debate (see nos. 20261/12, 8819/16, 10090/16, 22768/12)."
+    },
+    {
+      "Public-watchdog role and public interest": "The applicant NGO was not pursuing a private or commercial aim. Its statutory goals included conflict resolution, civil-society participation and assistance to victims of conflict (see paragraph 5). It had been active since 2012 in protecting human rights within the armed forces, assisting families of deceased soldiers, raising awareness and keeping records of army fatalities (see paragraphs 6-7, 16). Information on deaths, alleged murders, suicides, incitement to suicide, corruption and impunity in the armed forces lies at the core of democratic oversight of the military. That gives the applicant’s request enhanced weight under Article 10, even allowing for a certain margin of appreciation in military matters."
+    },
+    {
+      "Existence of an interference": "There was a clear interference with the applicant NGO’s Article 10 rights. The Ministry first refused the 2007-2009 request (see paragraphs 10-11), then failed to answer the broader 1994-2014 request (see paragraph 13), and the domestic courts ultimately refused to order disclosure because the information had meanwhile been classified under the Minister’s Order of 9 July 2015 (see paragraphs 15, 18, 20 and 22). The requested material was specific and apparently available to the authorities, as shown by the Ministry’s earlier provision of similar data for 2010 and 2011 (see paragraph 9)."
+    },
+    {
+      "Prescribed by law and legitimate aim": "The interference had a basis in domestic provisions on secrecy, privacy and investigative confidentiality (see paragraphs 11, 15, 23, 25, 29, 31-39). The aim invoked by the authorities was chiefly the protection of national security and military effectiveness, with subsidiary references to privacy and investigative secrecy (see paragraphs 11, 17-20). Those are in principle legitimate aims under Article 10 § 2. However, the way the restriction was applied raises concerns: the decisive legal basis became the Minister’s Order adopted after the applicant had already brought proceedings seeking disclosure (see paragraphs 14-16), which makes the restriction appear ad hoc and weakens foreseeability."
+    },
+    {
+      "Assessment of necessity: abstract and blanket reasoning": "The central issue is whether the refusal was necessary in a democratic society. The domestic courts relied on very general assertions that disclosure of information on incidents and accidents in the armed forces could threaten national security in the existing military-political context and related to combat capability (see paragraphs 18 and 20). They did not explain concretely how disclosure of historical data on fatalities, causes of death, dates and places—many of them occurring in peacetime and some long before the request—would specifically damage national security. Under the Court’s approach, especially where public-interest reporting is involved, restrictions based on secrecy require relevant and sufficient reasons, not abstract references to security or confidentiality (see no. 69698/01)."
+    },
+    {
+      "Failure to balance competing interests and consider narrower measures": "The authorities did not carry out a genuine balancing exercise between national security and the applicant NGO’s watchdog function. They also failed to examine whether at least part of the requested information could be disclosed. Domestic law itself required partial access where only some data were non-disclosable (see paragraph 30), and the applicant expressly accepted even incomplete information if that was all the Ministry possessed (see paragraph 13). Nevertheless, the refusal was total. No attempt was made to redact particularly sensitive operational details, personal data or material from ongoing investigations while releasing the remainder. Such a blanket approach is difficult to reconcile with Article 10 proportionality requirements (see nos. 20261/12, 8819/16, 10090/16)."
+    },
+    {
+      "Inconsistencies undermining proportionality": "Several facts weaken the Government’s justification. First, the Ministry had already disclosed comparable information for 2010-2011, including names, dates of birth and causes of death (see paragraph 9), which suggests that the subject matter was not inherently too sensitive for any disclosure. Second, the applicant’s request was aimed at verifying discrepancies in official casualty figures and ensuring accurate public information (see paragraphs 8 and 13), a purpose strongly aligned with democratic accountability. Third, the decisive classification rules were introduced only during the pending litigation (see paragraphs 14-16). Combined with the courts’ reliance on the law in force at the time of judgment rather than at the time of the request (see paragraph 24), this made the interference particularly onerous and one-sided."
+    },
+    {
+      "Overall conclusion": "While States enjoy a wider margin in military and national-security matters, that margin is not unlimited. Here, the applicant NGO sought information necessary for informed public debate on army fatalities and human-rights protection in the armed forces (see paragraphs 6-8, 13 and 16). The authorities relied on broad and largely unsubstantiated secrecy claims, did not demonstrate a specific risk, did not weigh the strong public interest, and did not consider partial disclosure or redaction (see paragraphs 18, 20, 22 and 30). In these circumstances, the interference was disproportionate and was not shown to be necessary in a democratic society under Article 10 (see nos. 20261/12, 22768/12, 8819/16, 10090/16, 69698/01)."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"Applicability of Article 10\": \"The refusal concerned access to official information requested by an NGO in order to collect, verify and publish data on fatalities and crimes in the armed forces through a public online database and related advocacy work (see paragraphs 5-8, 13-16). The request was thus closely connected to the applicant NGO’s freedom to receive and impart information on a matter of evident public interest: deaths of conscripts and accountability within the army in peacetime. In the Court’s case-law, Article 10 is engaged where access to State-held information is instrumental for watchdog activity and public debate (see nos. 20261/12, 8819/16, 10090/16, 22768/12).\"\n    },\n    {\n      \"Public-watchdog role and public interest\": \"The applicant NGO was not pursuing a private or commercial aim. Its statutory goals included conflict resolution, civil-society participation and assistance to victims of conflict (see paragraph 5). It had been active since 2012 in protecting human rights within the armed forces, assisting families of deceased soldiers, raising awareness and keeping records of army fatalities (see paragraphs 6-7, 16). Information on deaths, alleged murders, suicides, incitement to suicide, corruption and impunity in the armed forces lies at the core of democratic oversight of the military. That gives the applicant’s request enhanced weight under Article 10, even allowing for a certain margin of appreciation in military matters.\"\n    },\n    {\n      \"Existence of an interference\": \"There was a clear interference with the applicant NGO’s Article 10 rights. The Ministry first refused the 2007-2009 request (see paragraphs 10-11), then failed to answer the broader 1994-2014 request (see paragraph 13), and the domestic courts ultimately refused to order disclosure because the information had meanwhile been classified under the Minister’s Order of 9 July 2015 (see paragraphs 15, 18, 20 and 22). The requested material was specific and apparently available to the authorities, as shown by the Ministry’s earlier provision of similar data for 2010 and 2011 (see paragraph 9).\"\n    },\n    {\n      \"Prescribed by law and legitimate aim\": \"The interference had a basis in domestic provisions on secrecy, privacy and investigative confidentiality (see paragraphs 11, 15, 23, 25, 29, 31-39). The aim invoked by the authorities was chiefly the protection of national security and military effectiveness, with subsidiary references to privacy and investigative secrecy (see paragraphs 11, 17-20). Those are in principle legitimate aims under Article 10 § 2. However, the way the restriction was applied raises concerns: the decisive legal basis became the Minister’s Order adopted after the applicant had already brought proceedings seeking disclosure (see paragraphs 14-16), which makes the restriction appear ad hoc and weakens foreseeability.\"\n    },\n    {\n      \"Assessment of necessity: abstract and blanket reasoning\": \"The central issue is whether the refusal was necessary in a democratic society. The domestic courts relied on very general assertions that disclosure of information on incidents and accidents in the armed forces could threaten national security in the existing military-political context and related to combat capability (see paragraphs 18 and 20). They did not explain concretely how disclosure of historical data on fatalities, causes of death, dates and places—many of them occurring in peacetime and some long before the request—would specifically damage national security. Under the Court’s approach, especially where public-interest reporting is involved, restrictions based on secrecy require relevant and sufficient reasons, not abstract references to security or confidentiality (see no. 69698/01).\"\n    },\n    {\n      \"Failure to balance competing interests and consider narrower measures\": \"The authorities did not carry out a genuine balancing exercise between national security and the applicant NGO’s watchdog function. They also failed to examine whether at least part of the requested information could be disclosed. Domestic law itself required partial access where only some data were non-disclosable (see paragraph 30), and the applicant expressly accepted even incomplete information if that was all the Ministry possessed (see paragraph 13). Nevertheless, the refusal was total. No attempt was made to redact particularly sensitive operational details, personal data or material from ongoing investigations while releasing the remainder. Such a blanket approach is difficult to reconcile with Article 10 proportionality requirements (see nos. 20261/12, 8819/16, 10090/16).\"\n    },\n    {\n      \"Inconsistencies undermining proportionality\": \"Several facts weaken the Government’s justification. First, the Ministry had already disclosed comparable information for 2010-2011, including names, dates of birth and causes of death (see paragraph 9), which suggests that the subject matter was not inherently too sensitive for any disclosure. Second, the applicant’s request was aimed at verifying discrepancies in official casualty figures and ensuring accurate public information (see paragraphs 8 and 13), a purpose strongly aligned with democratic accountability. Third, the decisive classification rules were introduced only during the pending litigation (see paragraphs 14-16). Combined with the courts’ reliance on the law in force at the time of judgment rather than at the time of the request (see paragraph 24), this made the interference particularly onerous and one-sided.\"\n    },\n    {\n      \"Overall conclusion\": \"While States enjoy a wider margin in military and national-security matters, that margin is not unlimited. Here, the applicant NGO sought information necessary for informed public debate on army fatalities and human-rights protection in the armed forces (see paragraphs 6-8, 13 and 16). The authorities relied on broad and largely unsubstantiated secrecy claims, did not demonstrate a specific risk, did not weigh the strong public interest, and did not consider partial disclosure or redaction (see paragraphs 18, 20, 22 and 30). In these circumstances, the interference was disproportionate and was not shown to be necessary in a democratic society under Article 10 (see nos. 20261/12, 22768/12, 8819/16, 10090/16, 69698/01).\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 3747,
+    "prompt_tokens": 5312,
+    "total_tokens": 9059,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 2437,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.069485,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.069485,
+      "upstream_inference_prompt_cost": 0.01328,
+      "upstream_inference_completions_cost": 0.056205
+    }
+  },
+  "citations": [
+    "20261/12",
+    "8819/16",
+    "10090/16",
+    "22768/12",
+    "69698/01"
+  ],
+  "ref_paragraphs": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    22,
+    23,
+    24,
+    25,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+  ]
+}

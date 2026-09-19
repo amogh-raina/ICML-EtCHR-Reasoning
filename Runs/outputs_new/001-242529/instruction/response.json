@@ -1,0 +1,78 @@
+{
+  "item_id": "001-242529",
+  "case_name": "CASE OF BOGAY AND OTHERS v. UKRAINE",
+  "case_number": "(Application no. 38283/18)",
+  "date": "3 April 2025",
+  "prompt_type": "instruction",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "11",
+    "11-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Existence of an interference": "The applicants’ participation in a notified demonstration against the use of animals in circus acts was a clear exercise of expression on a matter of public interest, conveyed through banners and slogans in a public place (see paragraphs 5-7). The police then surrounded the demonstrators, searched all the applicants, handcuffed several of them, transported all of them to a police station for about two to three hours, and drew up administrative-offence reports against three applicants (see paragraphs 10-15). Measures of that kind plainly interrupted and chilled the applicants’ ability to convey their message and therefore amounted to an interference with Article 10 rights, as the Court has recognised in protest-related cases (see nos. 4048/09 and 29580/12)."
+    },
+    {
+      "Lawfulness of the interference": "The initial pat-down searches had some basis in domestic law: sections 31 and 34 of the National Police Act allowed surface inspection where there were sufficient grounds to believe a person possessed dangerous or restricted items, and the police had already found a metal rod and a knife on the second applicant and reported that other demonstrators were throwing metal objects and knives to the ground (see paragraphs 8, 11-12, 20, 29-30). However, the more intrusive part of the interference was the applicants’ removal to the police station and retention there for several hours (see paragraph 14). Under Articles 260 and 261 of the Code of Administrative Offences, any administrative arrest required a report stating the time and reasons, yet no such reports were drawn up; the internal police investigation expressly found a breach of duty on that account (see paragraphs 21(i), 27-28). Since a key element of the interference was carried out without compliance with mandatory legal safeguards, the overall interference was not fully ‘prescribed by law’. That points strongly toward a violation (see no. 29580/12)."
+    },
+    {
+      "Legitimate aims of the interference": "Even assuming that the interference had a sufficient legal basis, it pursued legitimate aims under Article 10 § 2. The police faced a potentially tense situation: an opposing group was present, one of its members lit a smoke grenade, the applicants and the opposing group exchanged hostile slogans, and dangerous items were found on some demonstrators (see paragraphs 7-12). In those circumstances, the authorities could legitimately invoke public safety, the prevention of disorder or crime, and the protection of the rights of others. The Court generally accepts those aims in protest-policing contexts (see nos. 4048/09 and 31349/20)."
+    },
+    {
+      "Necessary in a democratic society": "The decisive question is proportionality. There was some objective basis for concern, and targeted action against individuals carrying knives, rods or similar objects could have answered a pressing social need. But the demonstration had been peaceful, had been notified in advance, involved only thirty to forty participants, and did not block the circus entrance; moreover, around fifty police officers were already present and had formed a line between the groups (see paragraphs 5-7, 9, 11). Despite that, the police searched all the applicants and removed all of them from the scene, although only some were found with dangerous items and only three were even formally charged (see paragraphs 12-15). The charges brought were weakly pursued, as proceedings against two applicants were later discontinued as time-barred and there was apparently no decision regarding the first applicant (see paragraph 17). The Court’s case-law requires individualized and convincing reasons for restrictions on protest expression and is critical of blanket measures affecting all participants rather than specific wrongdoers (see nos. 31349/20 and 1162/22). Here, less restrictive options were available: separating the groups, confiscating dangerous items, or removing only those shown to pose a concrete risk. The indiscriminate search, handcuffing of some participants, and group transfer to the police station for hours were not supported by relevant and sufficient reasons in respect of all the applicants. The interference was therefore disproportionate and not necessary in a democratic society."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"Existence of an interference\": \"The applicants’ participation in a notified demonstration against the use of animals in circus acts was a clear exercise of expression on a matter of public interest, conveyed through banners and slogans in a public place (see paragraphs 5-7). The police then surrounded the demonstrators, searched all the applicants, handcuffed several of them, transported all of them to a police station for about two to three hours, and drew up administrative-offence reports against three applicants (see paragraphs 10-15). Measures of that kind plainly interrupted and chilled the applicants’ ability to convey their message and therefore amounted to an interference with Article 10 rights, as the Court has recognised in protest-related cases (see nos. 4048/09 and 29580/12).\"\n    },\n    {\n      \"Lawfulness of the interference\": \"The initial pat-down searches had some basis in domestic law: sections 31 and 34 of the National Police Act allowed surface inspection where there were sufficient grounds to believe a person possessed dangerous or restricted items, and the police had already found a metal rod and a knife on the second applicant and reported that other demonstrators were throwing metal objects and knives to the ground (see paragraphs 8, 11-12, 20, 29-30). However, the more intrusive part of the interference was the applicants’ removal to the police station and retention there for several hours (see paragraph 14). Under Articles 260 and 261 of the Code of Administrative Offences, any administrative arrest required a report stating the time and reasons, yet no such reports were drawn up; the internal police investigation expressly found a breach of duty on that account (see paragraphs 21(i), 27-28). Since a key element of the interference was carried out without compliance with mandatory legal safeguards, the overall interference was not fully ‘prescribed by law’. That points strongly toward a violation (see no. 29580/12).\"\n    },\n    {\n      \"Legitimate aims of the interference\": \"Even assuming that the interference had a sufficient legal basis, it pursued legitimate aims under Article 10 § 2. The police faced a potentially tense situation: an opposing group was present, one of its members lit a smoke grenade, the applicants and the opposing group exchanged hostile slogans, and dangerous items were found on some demonstrators (see paragraphs 7-12). In those circumstances, the authorities could legitimately invoke public safety, the prevention of disorder or crime, and the protection of the rights of others. The Court generally accepts those aims in protest-policing contexts (see nos. 4048/09 and 31349/20).\"\n    },\n    {\n      \"Necessary in a democratic society\": \"The decisive question is proportionality. There was some objective basis for concern, and targeted action against individuals carrying knives, rods or similar objects could have answered a pressing social need. But the demonstration had been peaceful, had been notified in advance, involved only thirty to forty participants, and did not block the circus entrance; moreover, around fifty police officers were already present and had formed a line between the groups (see paragraphs 5-7, 9, 11). Despite that, the police searched all the applicants and removed all of them from the scene, although only some were found with dangerous items and only three were even formally charged (see paragraphs 12-15). The charges brought were weakly pursued, as proceedings against two applicants were later discontinued as time-barred and there was apparently no decision regarding the first applicant (see paragraph 17). The Court’s case-law requires individualized and convincing reasons for restrictions on protest expression and is critical of blanket measures affecting all participants rather than specific wrongdoers (see nos. 31349/20 and 1162/22). Here, less restrictive options were available: separating the groups, confiscating dangerous items, or removing only those shown to pose a concrete risk. The indiscriminate search, handcuffing of some participants, and group transfer to the police station for hours were not supported by relevant and sufficient reasons in respect of all the applicants. The interference was therefore disproportionate and not necessary in a democratic society.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 3291,
+    "prompt_tokens": 3987,
+    "total_tokens": 7278,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 2409,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0593325,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0593325,
+      "upstream_inference_prompt_cost": 0.0099675,
+      "upstream_inference_completions_cost": 0.049365
+    }
+  },
+  "citations": [
+    "4048/09",
+    "29580/12",
+    "31349/20",
+    "1162/22"
+  ],
+  "ref_paragraphs": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    17,
+    20,
+    21,
+    29,
+    30
+  ]
+}

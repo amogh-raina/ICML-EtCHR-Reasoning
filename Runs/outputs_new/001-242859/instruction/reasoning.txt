@@ -1,0 +1,13 @@
+**Structuring assessment output**
+
+I need to create output in JSON format that includes "assessment" with a list containing four titled paragraphs. The developer wants each paragraph to represent a reasoning step, like {"Existence of an interference": "..."}.
+
+I need to make sure to reference factual paragraphs and case law numbers from a provided list — focusing on predicting violation and analyzing under Article 10. It’s important to cite by number only to avoid inaccuracies, especially regarding Russian fake news COVID cases. I'll infer likely connections in the analysis and detail step 4 thoroughly.**Analyzing potential violation**
+
+It looks like there might be a likely violation due to interference with social media comments that were fined under false information law, while still being lawful under domestic law Article 13.15(9). The aim of the law is legitimate, focusing on health and prevention of disorder. 
+
+However, it seems unnecessary since the applicant didn't knowingly share false info, and courts have shifted the burden of proof. I should mention the small audience size and limited engagement to highlight minimal harm, alongside relevant citations for the case law.**Citing legal standards**
+
+I need to use safe language to highlight that the Court emphasizes careful distinctions between facts and value judgments in sanctions for online statements. The authorities hold the burden to prove the falsity and potential harm of these statements, referencing case numbers like 20007/22 and 28232/22. 
+
+However, I wonder if these cases match the specifics I'm considering. I can cite the numbers without going into detail about the propositions, while also connecting to broader standards of political or public interest speech, like in case 64569/09.

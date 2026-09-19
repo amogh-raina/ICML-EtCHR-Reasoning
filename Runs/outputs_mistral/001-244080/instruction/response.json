@@ -1,0 +1,54 @@
+{
+  "item_id": "001-244080",
+  "case_name": "CASE OF MZHAVANADZE AND RUKHADZE v. GEORGIA",
+  "case_number": "(Applications nos. 29760/21 and 33931/21)",
+  "date": "15 July 2025",
+  "prompt_type": "instruction",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "11",
+    "11-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Existence of an interference": "The applicants were arrested and convicted for administrative offences while participating in a political demonstration protesting parliamentary election results and the newly imposed COVID-19 curfew (see paragraphs 7, 9-12, 17). Their conduct—including organizing a civil disobedience vigil against the curfew—constituted an exercise of freedom of expression under Article 10, as it involved conveying messages on matters of public interest (see paragraph 10). The arrest, prosecution, and sanctions thus interfered with their right to impart information and ideas, establishing an interference with Article 10 (see no. 50841/99)."
+    },
+    {
+      "Lawfulness of the interference": "The interference was based on Articles 166 and 173 of the Code of Administrative Offences, under which the applicants were charged and convicted (see paragraphs 17, 32). The domestic courts explicitly applied these legal provisions in their judgments (see paragraph 17), and the legal framework was sufficiently accessible and foreseeable to satisfy the ‘prescribed by law’ requirement under Article 10(2) (see no. 38676/08)."
+    },
+    {
+      "Legitimate aims of the interference": "The authorities pursued the aims of ‘prevention of disorder’ and ‘public safety’ by prosecuting the applicants for obstructing a police vehicle and disobeying orders to clear the road (see paragraphs 19, 26). These aims are explicitly listed in Article 10(2) and are legitimate in principle (see no. 41479/10)."
+    },
+    {
+      "Necessary in a democratic society": "The interference fails the ‘necessary in a democratic society’ test. The applicants’ actions were part of a political protest addressing core public-interest issues—election integrity and pandemic restrictions—both of which are highly protected under Article 10 (see paragraphs 7, 10 and no. 74768/10). The sanctions (three days’ administrative detention for the first applicant and a fine for the second) were severe for the context of a non-violent demonstration. Critically, the domestic courts relied on inconsistent police testimony (see paragraph 22) and incomplete video evidence, which did not conclusively prove the applicants’ guilt (see paragraph 18). Furthermore, the Assemblies and Demonstrations Act permits road obstruction when ‘necessitated by the number of participants’ (see paragraph 36), yet the courts did not sufficiently consider this legal exception in their reasoning. The authorities thus failed to demonstrate a pressing social need or that less restrictive measures were inadequate (see no. 18079/15). Consequently, the interference was disproportionate and notconvincingly justified."
+    }
+  ],
+  "raw_content": "```json\n{\n  \"assessment\": [\n    {\n      \"Existence of an interference\": \"The applicants were arrested and convicted for administrative offences while participating in a political demonstration protesting parliamentary election results and the newly imposed COVID-19 curfew (see paragraphs 7, 9-12, 17). Their conduct—including organizing a civil disobedience vigil against the curfew—constituted an exercise of freedom of expression under Article 10, as it involved conveying messages on matters of public interest (see paragraph 10). The arrest, prosecution, and sanctions thus interfered with their right to impart information and ideas, establishing an interference with Article 10 (see no. 50841/99).\"\n    },\n    {\n      \"Lawfulness of the interference\": \"The interference was based on Articles 166 and 173 of the Code of Administrative Offences, under which the applicants were charged and convicted (see paragraphs 17, 32). The domestic courts explicitly applied these legal provisions in their judgments (see paragraph 17), and the legal framework was sufficiently accessible and foreseeable to satisfy the ‘prescribed by law’ requirement under Article 10(2) (see no. 38676/08).\"\n    },\n    \n    {\n      \"Legitimate aims of the interference\": \"The authorities pursued the aims of ‘prevention of disorder’ and ‘public safety’ by prosecuting the applicants for obstructing a police vehicle and disobeying orders to clear the road (see paragraphs 19, 26). These aims are explicitly listed in Article 10(2) and are legitimate in principle (see no. 41479/10).\"\n    },\n    \n    {\n      \"Necessary in a democratic society\": \"The interference fails the ‘necessary in a democratic society’ test. The applicants’ actions were part of a political protest addressing core public-interest issues—election integrity and pandemic restrictions—both of which are highly protected under Article 10 (see paragraphs 7, 10 and no. 74768/10). The sanctions (three days’ administrative detention for the first applicant and a fine for the second) were severe for the context of a non-violent demonstration. Critically, the domestic courts relied on inconsistent police testimony (see paragraph 22) and incomplete video evidence, which did not conclusively prove the applicants’ guilt (see paragraph 18). Furthermore, the Assemblies and Demonstrations Act permits road obstruction when ‘necessitated by the number of participants’ (see paragraph 36), yet the courts did not sufficiently consider this legal exception in their reasoning. The authorities thus failed to demonstrate a pressing social need or that less restrictive measures were inadequate (see no. 18079/15). Consequently, the interference was disproportionate and notconvincingly justified.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 7555,
+    "prompt_tokens": 8103,
+    "total_tokens": 15658,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 7612,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.068817,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.068817,
+      "upstream_inference_prompt_cost": 0.0121545,
+      "upstream_inference_completions_cost": 0.0566625
+    }
+  }
+}

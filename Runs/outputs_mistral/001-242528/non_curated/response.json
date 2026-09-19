@@ -1,0 +1,60 @@
+{
+  "item_id": "001-242528",
+  "case_name": "CASE OF HAYK GRIGORYAN v. ARMENIA",
+  "case_number": "(Application no. 9796/17)",
+  "date": "3 April 2025",
+  "prompt_type": "non_curated",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Applicant’s journalistic activity": "The applicant was a freelance journalist engaged in newsgathering at a demonstration of significant public interest on 19 July 2016 (see paragraphs 8, 15, 23). The European Court of Human Rights consistently holds that journalistic activities, including the filming of public protests, fall squarely within the protection of Article 10 of the Convention (see no. 2594/07)."
+    },
+    {
+      "Interference with Article 10 rights": "The applicant experienced direct interference with his right to impart information when police officers physically assaulted him, seized his camera, and attempted to delete his video footage (see paragraphs 9, 11, 15). Such acts inhibiting the collection and dissemination of information constitute a clear interference with the rights guaranteed under Article 10."
+    },
+    {
+      "Lawful basis and legitimacy of the interference": "The interference lacked a lawful basis. Armenian domestic law, specifically Article 164 § 2 of the former Criminal Code, explicitly criminalises the obstruction of journalistic activities by public officials (see paragraph 34). The police officers’ actions—assaulting the applicant and attempting to erase his footage—were not only unlawful under domestic law but also contradicted their duty to facilitate journalistic work. The officers’ claim that they could not identify the applicant as a journalist due to the absence of a visible press card (see paragraph 26) is undermined by the applicant’s assertion that he verbally declared his status and by the corroborating testimony of journalist T.Y. (see paragraphs 9, 23)."
+    },
+    {
+      "Legitimate aim and proportionality": "While the authorities may argue that the interference pursued the legitimate aim of maintaining public order during a volatile protest (see paragraph 5), the specific actions taken against the applicant were neither necessary nor proportionate. The applicant was not participating in the violence but was documenting it (see paragraph 9). The police could have ensured order without resorting to physical assault, seizure of equipment, or attempts to delete footage. The European Court has ruled that such obstructive measures against journalists at demonstrations cannot be justified in a democratic society unless they respond to a pressing social need and are strictly proportionate (see no. 11882/10). In this case, the officers’ conduct—including the use of force and the attempted eradication of evidence—lacked both justification and proportionality."
+    },
+    {
+      "State’s positive obligations under Article 10": "The State failed to meet its positive obligation to protect the applicant’s Article 10 rights. Despite compelling evidence, including video footage and medical reports, confirming that the applicant was assaulted and obstructed while performing his journalistic duties, the criminal investigation has remained pending for over seven years without any prosecution (see paragraphs 13, 33). The European Court has held that a State’s failure to conduct an effective investigation into attacks on journalists may itself constitute a violation of Article 10 (see no. 1172/12). The excessive length of the investigation and the lack of accountability demonstrate a failure to uphold the applicant’s rights."
+    },
+    {
+      "Overall assessment of necessity in a democratic society": "The cumulative effect of the unlawful interference and the State’s failure to investigate effectively renders the measures incompatible with Article 10. The physical obstruction of a journalist engaged in lawful newsgathering, particularly at a public demonstration, strikes at the heart of the press’s role as a ‘public watchdog’ in a democratic society. The Court’s jurisprudence establishes that such interferences can only be tolerated under exceptional circumstances, none of which are present here (see no. 2594/07, no. 11882/10)."
+    }
+  ],
+  "raw_content": "```json\n{\n  \"assessment\": [\n    {\"Applicant’s journalistic activity\": \"The applicant was a freelance journalist engaged in newsgathering at a demonstration of significant public interest on 19 July 2016 (see paragraphs 8, 15, 23). The European Court of Human Rights consistently holds that journalistic activities, including the filming of public protests, fall squarely within the protection of Article 10 of the Convention (see no. 2594/07).\"},\n\n    {\"Interference with Article 10 rights\": \"The applicant experienced direct interference with his right to impart information when police officers physically assaulted him, seized his camera, and attempted to delete his video footage (see paragraphs 9, 11, 15). Such acts inhibiting the collection and dissemination of information constitute a clear interference with the rights guaranteed under Article 10.\"},\n\n    {\"Lawful basis and legitimacy of the interference\": \"The interference lacked a lawful basis. Armenian domestic law, specifically Article 164 § 2 of the former Criminal Code, explicitly criminalises the obstruction of journalistic activities by public officials (see paragraph 34). The police officers’ actions—assaulting the applicant and attempting to erase his footage—were not only unlawful under domestic law but also contradicted their duty to facilitate journalistic work. The officers’ claim that they could not identify the applicant as a journalist due to the absence of a visible press card (see paragraph 26) is undermined by the applicant’s assertion that he verbally declared his status and by the corroborating testimony of journalist T.Y. (see paragraphs 9, 23).\"},\n\n     {\"Legitimate aim and proportionality\": \"While the authorities may argue that the interference pursued the legitimate aim of maintaining public order during a volatile protest (see paragraph 5), the specific actions taken against the applicant were neither necessary nor proportionate. The applicant was not participating in the violence but was documenting it (see paragraph 9). The police could have ensured order without resorting to physical assault, seizure of equipment, or attempts to delete footage. The European Court has ruled that such obstructive measures against journalists at demonstrations cannot be justified in a democratic society unless they respond to a pressing social need and are strictly proportionate (see no. 11882/10). In this case, the officers’ conduct—including the use of force and the attempted eradication of evidence—lacked both justification and proportionality.\"},\n\n    {\"State’s positive obligations under Article 10\": \"The State failed to meet its positive obligation to protect the applicant’s Article 10 rights. Despite compelling evidence, including video footage and medical reports, confirming that the applicant was assaulted and obstructed while performing his journalistic duties, the criminal investigation has remained pending for over seven years without any prosecution (see paragraphs 13, 33). The European Court has held that a State’s failure to conduct an effective investigation into attacks on journalists may itself constitute a violation of Article 10 (see no. 1172/12). The excessive length of the investigation and the lack of accountability demonstrate a failure to uphold the applicant’s rights.\"},\n\n    {\"Overall assessment of necessity in a democratic society\": \"The cumulative effect of the unlawful interference and the State’s failure to investigate effectively renders the measures incompatible with Article 10. The physical obstruction of a journalist engaged in lawful newsgathering, particularly at a public demonstration, strikes at the heart of the press’s role as a ‘public watchdog’ in a democratic society. The Court’s jurisprudence establishes that such interferences can only be tolerated under exceptional circumstances, none of which are present here (see no. 2594/07, no. 11882/10).\"}\n  ],\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 4193,
+    "prompt_tokens": 5331,
+    "total_tokens": 9524,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 3927,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.039444,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.039444,
+      "upstream_inference_prompt_cost": 0.0079965,
+      "upstream_inference_completions_cost": 0.0314475
+    }
+  }
+}

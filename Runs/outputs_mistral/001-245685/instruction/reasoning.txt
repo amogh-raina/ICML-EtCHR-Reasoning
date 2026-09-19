@@ -1,0 +1,29 @@
+Okay, let's tackle this case. The user wants me to assess whether there's a violation of Article 10 of the ECHR in the case of Marko Tešić v. Serbia. I need to follow the four-step assessment strategy.
+
+First, check if there's an interference with freedom of expression. The applicant is a lawyer who was fined for his written objections. He criticized a judge's conduct in strong terms, like "outrageous", "malice", "heat of passion". The fine was imposed under Article 231 of the Code of Criminal Procedure. So yes, the fine is an interference with his expression. So step 1: interference exists. Move to step 2.
+
+Step 2: Is the interference lawful? The fine is based on Article 231 §2 of the Code. That seems to be the legal basis. So it's lawful. Proceed to step 3.
+
+Step 3: Legitimate aim. The interference needs to protect one of the legitimate aims. Article 10(2) lists things like protecting the reputation or rights of others. The presiding judge said the applicant's statements belittled and insulted the panel. So the aim here is protecting the reputation of the judiciary. That's a legitimate aim. So step 3 passes. Move to step 4.
+
+Step 4: Necessary in a democratic society. This is the key part. Need to check if the interference was proportionate. The ECtHR has cases on lawyers' expressions. For example, in case 28794/18 (probably Morice v. France), the Court considers that lawyers have a right to criticize judges, but there are limits. A fine for contempt might be okay if the expression was abusive or baseless. But here, the applicant's objections were part of his defense duties. He was trying to correct the record. The judge altered the record after the hearing (para 10). The applicant's language was strong ("truly outrageous!!!"), but he was addressing procedural issues. The domestic courts found his manner breached professional standards. But the ECtHR might see this as excessive restriction. In case 31611/96 (probably Barfod v. Denmark), the Court said that lawyers must have a certain latitude in defending their clients. Also, in 29369/10 (maybe Kálmán v. Hungary?), the Court considered that disciplinary measures against lawyers for criticism need to be carefully scrutinized. The applicant here was fined 80,000 RSD. The question is if the interference was necessary. The applicant's statements might have been provoking, but they were in the context of a legal proceeding. The ECtHR often upholds that criticism of judges, even strong, is protected if it's part of the judicial process. For example, in case 29045/95 (maybe Prager and Oberschlick v. Austria?), the Court said that value judgments are protected under Article 10. So if the applicant's statements were value judgments about the judge's conduct, they might be protected. The judge's actions (altering the record) could be seen as serious, so the criticism might be justified. The domestic courts didn't consider the context enough. So maybe the interference wasn't necessary in a democratic society. So violation yes.
+
+Wait, but the presiding judge said the record was already amended to include the correct objections. But the applicant's written objections were about the process. The fine was for the way he expressed it. The ECtHR in similar cases (like 28794/18 - Morice v. France) found that a fine for a lawyer's critical remarks was a violation. So probably here, the interference isn't necessary. So step 4: not necessary, so violation.
+
+Now, structure the assessment in four steps with references. Need to cite paragraphs from the case facts and relevant case law from the list provided.
+
+For step 1: Interference exists because he was fined for his written objections (para 10-11). So "Existence of an interference" paragraph.
+
+Step 2: Lawful because based on Article 231 (para 16). So "Lawfulness..." paragraph.
+
+Step 3: Legitimate aim is protecting reputation of judiciary (para 11, 16(1)). So "Legitimate aims..." paragraph.
+
+Step 4: Necessary in democratic society. Need to argue that it's not justified. The applicant's expressions were part of his defense, related to procedural irregularities. The strong language might be acceptable in context. Cases like 31611/96 (Barfod) or 29369/10 (maybe Kálmán) support that criticism of judges in such contexts is protected. Also, the fact that the judge altered the record (para 10) might mean the applicant's complaints were factual. However, the judge said the record was amended, but the applicant's written objections included insults like "outrageous". But the ECtHR might find that the sanctions were not proportionate. For example, in case 28794/18 (Morice), the Court found a violation when a lawyer was disciplined for criticizing a judge. So in step 4, the interference is not necessary. So violation.
+
+Now, write each step with references.
+
+Check the case law numbers. The provided list includes 28794/18 which is probably Morice v. France (2020). In that case, the ECtHR found a violation of Article 10 when a lawyer was sanctioned for criticizing a judge's decision. Similarly, 31611/96 is Barfod v. Denmark, where the Court said that lawyers have the right to make strong criticism in the context of judicial proceedings.
+
+So in step 4, argue that the interference was not necessary because the applicant's expressions, while strong, were part of his professional duty and related to procedural issues. The sanctions were disproportionate. The domestic courts didn't balance the right to expression with the need to protect the judiciary's reputation. Therefore, not necessary in a democratic society.
+
+So the prediction is violation yes.

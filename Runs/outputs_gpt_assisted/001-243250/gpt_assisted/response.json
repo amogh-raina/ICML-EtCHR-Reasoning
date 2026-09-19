@@ -1,0 +1,136 @@
+{
+  "item_id": "001-243250",
+  "case_name": "CASE OF NEMYTOV AND OTHERS v. RUSSIA",
+  "case_number": "(Applications nos. 1257/21 and 2 others – see appended list)",
+  "date": "27 May 2025",
+  "prompt_type": "gpt_assisted",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "high",
+  "violation_ground_truth": [
+    "10",
+    "10-1",
+    "11",
+    "11-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "1. Interference with freedom of expression": "The impugned acts were clear interferences with Article 10. The applicants expressed political views by means of placards and protest participation: support for a person linked to exposing police brutality, support for Mr Navalnyy, and opposition to constitutional amendments (see paragraphs 13, 18-19, 26-28, 44). They were arrested on the spot, taken to police stations, detained for hours or overnight, convicted, and punished by administrative detention or substantial fines (see paragraphs 14-17, 19-24, 29-37, 38-44). Such measures were plainly capable of chilling future political expression."
+    },
+    {
+      "2. Context and intensity of scrutiny": "The speech concerned matters of obvious public interest and political debate. Expression in the form of peaceful protest enjoys a high level of protection, and the State’s margin of appreciation is correspondingly narrow. That said, the events occurred during the COVID-19 pandemic, when public-health concerns were real and serious, especially in Moscow in May 2020 and St Petersburg in January 2021 (see paragraphs 12, 25). The Court has accepted that the pandemic could justify restrictions, but it has also stressed that even in that context blanket prohibitions on political assemblies require especially weighty reasons and safeguards (see no. 21881/20)."
+    },
+    {
+      "3. Lawfulness and legitimate aim": "The interference pursued a legitimate aim, namely the protection of health, and in part prevention of disorder (see paragraphs 48-66). There was also a domestic legal framework in the Sanitary Welfare Act, the Emergency Protection Act, regional decrees and the CAO (see paragraphs 48-59, 62-66, 75-81). However, the legal basis was not fully coherent in its application: Mr Nemytov was first convicted under Article 20.2 § 8 and then reclassified on appeal under Article 20.6.1 (see paragraphs 15-17); Mr Azar was first treated as a solo demonstrator breaching the COVID ban and then as a participant in a group event, while the conviction under the repeated-breach provision was maintained (see paragraphs 20-23). These shifts raise foreseeability concerns. Still, even assuming the measures were 'prescribed by law', the decisive issue is proportionality."
+    },
+    {
+      "4. Mr Nemytov’s and Mr Azar’s solo demonstrations in Moscow": "The Moscow incidents point strongly toward disproportionality. Both protests were peaceful, short, and centered on political messaging (see paragraphs 13, 18-19). In Mr Azar’s case, he expressly called for distancing in a 'picket line' (see paragraph 18). The authorities relied on a blanket ban on all public events, including solo pickets, without any concrete assessment of the actual health risk posed by these particular acts of expression (see paragraphs 14-17, 20-23, 56-60). Even allowing for the difficult epidemiological situation in late May 2020 (see paragraph 12), immediately arresting peaceful demonstrators and imposing 10-15 days’ administrative detention was a very severe response. The Court is generally particularly critical of custodial sanctions for non-violent political expression because of their chilling effect (see no. 21881/20)."
+    },
+    {
+      "5. Reclassification as group protest and later sanctions against Mr Nemytov": "The treatment of separate solo pickets as a single group event also appears insufficiently justified. Domestic law itself required convincing proof of common organisation, simultaneity and a unified concept before several solo demonstrations could be treated as one public event (see paragraphs 73-74). Yet in Mr Azar’s case the appellate court relied mainly on a social-media post, a police official’s testimony, and photographs not produced before the Court, while the original police materials had described a solo demonstration (see paragraphs 20-23). Likewise, in the 5 June 2020 episode Mr Nemytov received a RUB 150,000 fine for a rotation of solo pickets (see paragraphs 38-43). The authorities had to show more than ordinary public interest or thematic similarity before converting solo expression into a sanctionable group event; the domestic reasoning looks formulaic and strongly punitive. This is difficult to reconcile with the need for tolerance toward peaceful protest expression (see nos. 29356/19 and 31119/19)."
+    },
+    {
+      "6. Ms Burma’s arrest and conviction in St Petersburg": "The interference with the third applicant’s expression was even less convincingly justified. By 31 January 2021, St Petersburg still faced serious health concerns, but the authorities had already reopened a range of indoor venues and allowed certain sizeable events subject to masks, distancing and capacity limits (see paragraphs 25, 64). Against that background, maintaining an absolute ban on political public events and then imposing 10 days’ detention for alleged participation in a gathering looks selective and excessive (see paragraphs 32-37). The evidence was weak: the courts relied on boilerplate police documents, unspecified video footage, and no concrete proof that the applicant herself breached distancing rules or caused the additional consequences required by Article 20.2.2 § 1 (see paragraphs 30-33, 36, 76, 80). The domestic courts did not seriously engage with her arguments that she wore a mask, that she was merely passing through, or that indoor activities posing comparable or greater risks were permitted (see paragraphs 28, 31, 36-37)."
+    },
+    {
+      "7. Severity of sanctions and chilling effect": "Across the case, the sanctions were harsh: repeated arrest, lengthy police detention, 10 to 20 days’ administrative detention, and a very substantial fine (see paragraphs 14-17, 19-24, 29-37, 38-44). None of the facts suggest violence, incitement, or any refusal to comply with concrete health measures short of the mere act of protesting. The authorities did not explore less restrictive means, such as dispersal orders, distancing requirements, masks, or modest financial penalties. The cumulative effect of these sanctions on journalists, activists and ordinary demonstrators would be strongly chilling for political expression."
+    },
+    {
+      "8. Overall conclusion under Article 10": "Although the protection of public health was a legitimate and important aim, the domestic authorities applied COVID-19 restrictions in an overly automatic and punitive manner to peaceful political expression. The reasons given were not sufficiently relevant and sufficient, the courts did not perform a genuine balancing exercise, and the sanctions were disproportionate, particularly the use of administrative detention. In line with the strict scrutiny required for political protest and with the Court’s pandemic case-law (see no. 21881/20), the case is more likely than not to result in a finding of a violation of Article 10."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"1. Interference with freedom of expression\": \"The impugned acts were clear interferences with Article 10. The applicants expressed political views by means of placards and protest participation: support for a person linked to exposing police brutality, support for Mr Navalnyy, and opposition to constitutional amendments (see paragraphs 13, 18-19, 26-28, 44). They were arrested on the spot, taken to police stations, detained for hours or overnight, convicted, and punished by administrative detention or substantial fines (see paragraphs 14-17, 19-24, 29-37, 38-44). Such measures were plainly capable of chilling future political expression.\"\n    },\n    {\n      \"2. Context and intensity of scrutiny\": \"The speech concerned matters of obvious public interest and political debate. Expression in the form of peaceful protest enjoys a high level of protection, and the State’s margin of appreciation is correspondingly narrow. That said, the events occurred during the COVID-19 pandemic, when public-health concerns were real and serious, especially in Moscow in May 2020 and St Petersburg in January 2021 (see paragraphs 12, 25). The Court has accepted that the pandemic could justify restrictions, but it has also stressed that even in that context blanket prohibitions on political assemblies require especially weighty reasons and safeguards (see no. 21881/20).\"\n    },\n    {\n      \"3. Lawfulness and legitimate aim\": \"The interference pursued a legitimate aim, namely the protection of health, and in part prevention of disorder (see paragraphs 48-66). There was also a domestic legal framework in the Sanitary Welfare Act, the Emergency Protection Act, regional decrees and the CAO (see paragraphs 48-59, 62-66, 75-81). However, the legal basis was not fully coherent in its application: Mr Nemytov was first convicted under Article 20.2 § 8 and then reclassified on appeal under Article 20.6.1 (see paragraphs 15-17); Mr Azar was first treated as a solo demonstrator breaching the COVID ban and then as a participant in a group event, while the conviction under the repeated-breach provision was maintained (see paragraphs 20-23). These shifts raise foreseeability concerns. Still, even assuming the measures were 'prescribed by law', the decisive issue is proportionality.\"\n    },\n    {\n      \"4. Mr Nemytov’s and Mr Azar’s solo demonstrations in Moscow\": \"The Moscow incidents point strongly toward disproportionality. Both protests were peaceful, short, and centered on political messaging (see paragraphs 13, 18-19). In Mr Azar’s case, he expressly called for distancing in a 'picket line' (see paragraph 18). The authorities relied on a blanket ban on all public events, including solo pickets, without any concrete assessment of the actual health risk posed by these particular acts of expression (see paragraphs 14-17, 20-23, 56-60). Even allowing for the difficult epidemiological situation in late May 2020 (see paragraph 12), immediately arresting peaceful demonstrators and imposing 10-15 days’ administrative detention was a very severe response. The Court is generally particularly critical of custodial sanctions for non-violent political expression because of their chilling effect (see no. 21881/20).\"\n    },\n    {\n      \"5. Reclassification as group protest and later sanctions against Mr Nemytov\": \"The treatment of separate solo pickets as a single group event also appears insufficiently justified. Domestic law itself required convincing proof of common organisation, simultaneity and a unified concept before several solo demonstrations could be treated as one public event (see paragraphs 73-74). Yet in Mr Azar’s case the appellate court relied mainly on a social-media post, a police official’s testimony, and photographs not produced before the Court, while the original police materials had described a solo demonstration (see paragraphs 20-23). Likewise, in the 5 June 2020 episode Mr Nemytov received a RUB 150,000 fine for a rotation of solo pickets (see paragraphs 38-43). The authorities had to show more than ordinary public interest or thematic similarity before converting solo expression into a sanctionable group event; the domestic reasoning looks formulaic and strongly punitive. This is difficult to reconcile with the need for tolerance toward peaceful protest expression (see nos. 29356/19 and 31119/19).\"\n    },\n    {\n      \"6. Ms Burma’s arrest and conviction in St Petersburg\": \"The interference with the third applicant’s expression was even less convincingly justified. By 31 January 2021, St Petersburg still faced serious health concerns, but the authorities had already reopened a range of indoor venues and allowed certain sizeable events subject to masks, distancing and capacity limits (see paragraphs 25, 64). Against that background, maintaining an absolute ban on political public events and then imposing 10 days’ detention for alleged participation in a gathering looks selective and excessive (see paragraphs 32-37). The evidence was weak: the courts relied on boilerplate police documents, unspecified video footage, and no concrete proof that the applicant herself breached distancing rules or caused the additional consequences required by Article 20.2.2 § 1 (see paragraphs 30-33, 36, 76, 80). The domestic courts did not seriously engage with her arguments that she wore a mask, that she was merely passing through, or that indoor activities posing comparable or greater risks were permitted (see paragraphs 28, 31, 36-37).\"\n    },\n    {\n      \"7. Severity of sanctions and chilling effect\": \"Across the case, the sanctions were harsh: repeated arrest, lengthy police detention, 10 to 20 days’ administrative detention, and a very substantial fine (see paragraphs 14-17, 19-24, 29-37, 38-44). None of the facts suggest violence, incitement, or any refusal to comply with concrete health measures short of the mere act of protesting. The authorities did not explore less restrictive means, such as dispersal orders, distancing requirements, masks, or modest financial penalties. The cumulative effect of these sanctions on journalists, activists and ordinary demonstrators would be strongly chilling for political expression.\"\n    },\n    {\n      \"8. Overall conclusion under Article 10\": \"Although the protection of public health was a legitimate and important aim, the domestic authorities applied COVID-19 restrictions in an overly automatic and punitive manner to peaceful political expression. The reasons given were not sufficiently relevant and sufficient, the courts did not perform a genuine balancing exercise, and the sanctions were disproportionate, particularly the use of administrative detention. In line with the strict scrutiny required for political protest and with the Court’s pandemic case-law (see no. 21881/20), the case is more likely than not to result in a finding of a violation of Article 10.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 5095,
+    "prompt_tokens": 14922,
+    "total_tokens": 20017,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 3624,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.111426,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.111426,
+      "upstream_inference_prompt_cost": 0.035001,
+      "upstream_inference_completions_cost": 0.076425
+    }
+  },
+  "citations": [
+    "21881/20",
+    "29356/19",
+    "31119/19"
+  ],
+  "ref_paragraphs": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81
+  ]
+}

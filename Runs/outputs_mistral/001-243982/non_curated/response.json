@@ -1,0 +1,63 @@
+{
+  "item_id": "001-243982",
+  "case_name": "CASE OF GOOGLE LLC AND OTHERS v. RUSSIA",
+  "case_number": "(Application no. 37027/22)",
+  "date": "8 July 2025",
+  "prompt_type": "non_curated",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Interference with Article 10": "The imposition of administrative fines on Google LLC for its refusal to remove specific YouTube content—including a video criticising the Russian authorities’ handling of the COVID-19 pandemic and constitutional amendments, as well as content related to opposition figure Mr Navalnyy—constitutes a direct interference with the applicant companies’ right to freedom of expression under Article 10. This right encompasses the freedom to disseminate information and ideas through hosting third-party content on platforms such as YouTube, a function integral to the role of internet intermediaries (see paragraphs 6–7, 10–12)."
+    },
+    {
+      "Legitimate aim": "The measures pursued aims recognised as legitimate under Article 10(2) of the Convention, such as the prevention of disorder or crime. The requested removals related to content categorised as unlawful under section 15.3 of the Information Act, including ‘socially significant disinformation’ or ‘calls for extremist activities’ (see paragraphs 10, 43)."
+    },
+    {
+      "Quality of the law": "While the interference had a basis in domestic law—specifically Article 13.41 of the Code of Administrative Offences and section 15.3 of the Information Act (see paragraphs 43–46)—the legal framework granted the RKN broad and vaguely defined powers to issue TDRs. The laws lacked sufficient safeguards against arbitrary application, particularly as they permitted imposition of sanctions without judicial scrutiny of the content’s legality or its impact on freedom of expression (see paragraphs 5–7)."
+    },
+    {
+      "Necessity in a democratic society – Absence of balancing exercise": "The domestic courts failed to conduct any assessment of whether the interference with freedom of expression was necessary in a democratic society. The rulings imposing fines did not analyse the implications of the removals for the exercise of freedom of expression, nor did they balance the competing interests at stake. For example, the decision of 24 December 2021 explicitly ‘did not analyse the implication of the removal for the exercise of freedom of expression’ (see paragraph 8). This omission is incompatible with the ECtHR’s requirement that restrictions on political speech—afforded the highest level of protection—must be subjected to strict scrutiny (see Appleby and Others v. the United Kingdom, no. 68416/01)."
+    },
+    {
+      "Necessity in a democratic society – Disproportionate sanctions": "The sanctions imposed were grossly disproportionate to the aims pursued. The first fine amounted to approximately EUR 87 million, calculated as 5% of the aggregate revenue of Google LLC and several non-party affiliates (see paragraph 8). A subsequent fine reached approximately EUR 360 million, based on an even broader aggregation of revenue from unrelated entities (see paragraph 12). These calculations lacked any legal basis in domestic law, as the courts relied on contractual terms from YouTube’s Terms of Service rather than corporate law principles (see paragraphs 8, 12–13). Such excessive and arbitrarily calculated penalties risk a severe chilling effect, compelling intermediaries to over-censor lawful content to avoid financial ruin. This violates the principle that sanctions on intermediaries must be proportionate to avoid restricting freedom of expression (see Recommendation CM/Rec(2018)2, paragraph 49)."
+    },
+    {
+      "Necessity in a democratic society – Targeting of highly protected speech": "The content at issue included political criticism of the Russian authorities and support for opposition figures, which lies at the core of Article 10 protection. The ECtHR has consistently held that political speech enjoys the highest level of protection, and restrictions on such expression must be convincingly justified (see Appleby and Others v. the United Kingdom, no. 68416/01). Here, the authorities targeted content such as critiques of the government’s pandemic response and constitutional amendments (see paragraph 7), without demonstrating that these expressions posed a pressing social need for restriction."
+    },
+    {
+      "Relevant case law": "The present case aligns with the ECtHR’s jurisprudence on disproportionate website restrictions. In Ahmet Yıldırım v. Turkey (no. 18030/11), the Court found a violation of Article 10 where access to an entire online platform was blocked without sufficient justification. Similarly, in Cengiz and Others v. Turkey (no. 48226/10), the blocking of Google Sites for a single item of content was deemed disproportionate. In Delfi AS v. Estonia (no. 64569/09), the Court held that while intermediaries may face liability for illegal third-party content, any such regime must avoid imposing excessive burdens that stifle freedom of expression. The present case—marked by arbitrary fines, lack of judicial balancing, and targeting of political speech—falls short of these standards."
+    }
+  ],
+  "raw_content": "```json\n{\n  \"assessment\": [\n    {\"Interference with Article 10\": \"The imposition of administrative fines on Google LLC for its refusal to remove specific YouTube content—including a video criticising the Russian authorities’ handling of the COVID-19 pandemic and constitutional amendments, as well as content related to opposition figure Mr Navalnyy—constitutes a direct interference with the applicant companies’ right to freedom of expression under Article 10. This right encompasses the freedom to disseminate information and ideas through hosting third-party content on platforms such as YouTube, a function integral to the role of internet intermediaries (see paragraphs 6–7, 10–12).\"},\n\n    {\"Legitimate aim\": \"The measures pursued aims recognised as legitimate under Article 10(2) of the Convention, such as the prevention of disorder or crime. The requested removals related to content categorised as unlawful under section 15.3 of the Information Act, including ‘socially significant disinformation’ or ‘calls for extremist activities’ (see paragraphs 10, 43).\"},\n\n    \n    {\"Quality of the law\": \"While the interference had a basis in domestic law—specifically Article 13.41 of the Code of Administrative Offences and section 15.3 of the Information Act (see paragraphs 43–46)—the legal framework granted the RKN broad and vaguely defined powers to issue TDRs. The laws lacked sufficient safeguards against arbitrary application, particularly as they permitted imposition of sanctions without judicial scrutiny of the content’s legality or its impact on freedom of expression (see paragraphs 5–7).\"},\n\n    {\"Necessity in a democratic society – Absence of balancing exercise\": \"The domestic courts failed to conduct any assessment of whether the interference with freedom of expression was necessary in a democratic society. The rulings imposing fines did not analyse the implications of the removals for the exercise of freedom of expression, nor did they balance the competing interests at stake. For example, the decision of 24 December 2021 explicitly ‘did not analyse the implication of the removal for the exercise of freedom of expression’ (see paragraph 8). This omission is incompatible with the ECtHR’s requirement that restrictions on political speech—afforded the highest level of protection—must be subjected to strict scrutiny (see Appleby and Others v. the United Kingdom, no. 68416/01).\"},\n\n    {\"Necessity in a democratic society – Disproportionate sanctions\": \"The sanctions imposed were grossly disproportionate to the aims pursued. The first fine amounted to approximately EUR 87 million, calculated as 5% of the aggregate revenue of Google LLC and several non-party affiliates (see paragraph 8). A subsequent fine reached approximately EUR 360 million, based on an even broader aggregation of revenue from unrelated entities (see paragraph 12). These calculations lacked any legal basis in domestic law, as the courts relied on contractual terms from YouTube’s Terms of Service rather than corporate law principles (see paragraphs 8, 12–13). Such excessive and arbitrarily calculated penalties risk a severe chilling effect, compelling intermediaries to over-censor lawful content to avoid financial ruin. This violates the principle that sanctions on intermediaries must be proportionate to avoid restricting freedom of expression (see Recommendation CM/Rec(2018)2, paragraph 49).\"},\n\n    {\"Necessity in a democratic society – Targeting of highly protected speech\": \"The content at issue included political criticism of the Russian authorities and support for opposition figures, which lies at the core of Article 10 protection. The ECtHR has consistently held that political speech enjoys the highest level of protection, and restrictions on such expression must be convincingly justified (see Appleby and Others v. the United Kingdom, no. 68416/01). Here, the authorities targeted content such as critiques of the government’s pandemic response and constitutional amendments (see paragraph 7), without demonstrating that these expressions posed a pressing social need for restriction.\"},\n\n    {\"Relevant case law\": \"The present case aligns with the ECtHR’s jurisprudence on disproportionate website restrictions. In Ahmet Yıldırım v. Turkey (no. 18030/11), the Court found a violation of Article 10 where access to an entire online platform was blocked without sufficient justification. Similarly, in Cengiz and Others v. Turkey (no. 48226/10), the blocking of Google Sites for a single item of content was deemed disproportionate. In Delfi AS v. Estonia (no. 64569/09), the Court held that while intermediaries may face liability for illegal third-party content, any such regime must avoid imposing excessive burdens that stifle freedom of expression. The present case—marked by arbitrary fines, lack of judicial balancing, and targeting of political speech—falls short of these standards.\"}\n  ],\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 7469,
+    "prompt_tokens": 7118,
+    "total_tokens": 14587,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 7010,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0666945,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0666945,
+      "upstream_inference_prompt_cost": 0.010677,
+      "upstream_inference_completions_cost": 0.0560175
+    }
+  }
+}

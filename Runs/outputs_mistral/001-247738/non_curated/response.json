@@ -1,0 +1,69 @@
+{
+  "item_id": "001-247738",
+  "case_name": "CASE OF TSAAVA AND OTHERS v. GEORGIA",
+  "case_number": "(Applications nos. 13186/20 and 4 others)",
+  "date": "11 December 2025",
+  "prompt_type": "non_curated",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "3",
+    "10",
+    "10-1",
+    "11",
+    "11-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Applicability of Article 10": "The applicants who are journalists (Ms Baghashvili, Ms Nemsadze, Ms Vakhtangadze, Ms Khozrevanidze, Mr Grigalashvili, Mr Muradov, Mr Koshkadze, Mr Tchumburidze, Mr Bochikashvili, Ms Abashidze and Mr Diasamidze in the application Baghashvili and Others v. Georgia (no. 20129/21); Mr Tsaava and Mr Kmuzov in the application Tsaava and Kmuzov v. Georgia (no. 13186/20); Mr Svanadze in the application Svanadze v. Georgia (no. 16757/20); and Mr Berikashvili in the application Berikashvili v. Georgia (no. 39382/21) were exercising their right to freedom of expression, which includes the freedom to receive and impart information, by reporting on a matter of significant public interest, namely, a large demonstration (see paragraphs 44-46, 54-67, 105-106)."
+    },
+    {
+      "Existence of interference with Article 10 rights": "The use of force by the police, including kinetic impact projectiles, tear gas and physical violence, against the applicant journalists during the demonstration, which hindered or prevented them from carrying out their professional duties, constituted an interference with their right to freedom of expression under Article 10 of the Convention. This included direct injuries to journalists, the destruction or damage of their professional equipment, and the creation of an environment where it was dangerous or impossible for them to continue reporting (see paragraphs 47-49, 51-53, 55-56, 58, 60-65, 67-79, 105-106)."
+    },
+    {
+      "Prescribed by law": "The interference was prescribed by domestic law, namely sections 17, 30-33 of the Police Act 2013, section 11 of the Assemblies and Demonstrations Act 1997, and Ministerial Orders no. 1002 and no. 1006 (see paragraphs 177-196)."
+    },
+    {
+      "Legitimate aim": "The interference pursued legitimate aims under Article 10 § 2 of the Convention, namely the prevention of disorder and the protection of the rights of others, as well as the maintenance of public order (see paragraphs 14-43)."
+    },
+    {
+      "Necessity in a democratic society - relevance of the interference to the legitimate aims pursued": "The use of force by the police, including the use of kinetic impact projectiles specifically, was not a targeted measure aimed at protecting the police or dispersing a violent crowd in so far as many individual journalist applicants were standing calmly, posed no threat to the law-enforcement officers or other people, and were hit with kinetic impact projectiles nonetheless. This concerns all 13 journalist applicants (see paragraphs 47-49, 51-53, 54, 55, 57-58, 60-65, 67-72, 74-77, 105-106)."
+    },
+    {
+      "Necessity in a democratic society - proportionality of the interference in respect of individual journalists": "The measures employed by the police against the applicant journalists were not proportionate. The relevant domestic legal framework requires that the use of force by the police is proportionate and necessary in a democratic society (see paragraphs 180-185, 187-192, 195-196). These standards are aligned with Article 10 standards as developed in the Court’s case-law (seeونه. 28395/10). In addition, the UN Human Rights Guidance on Less-Lethal Weapons in Law Enforcement, the Venice Commission Guidelines on Peaceful Assembly, and the Recommendation CM/Rec(2016)4 of the Committee of Ministers underline the need to ensure that journalists are protected and able to perform their professional duties. Accordingly, an interference with the rights of journalists which entails a hindrance to or the prevention of their journalistic activities may only be justified if it is strictly necessary and proportionate in the light of the particular circumstances. This entails an obligation for the police to distinguish between individuals engaged in violence and those who are peacefully demonstrating, including journalists. The applicants were identifiable as journalists (see paragraphs 45, 46, 54, 56, 58, 59, 62, 63, 65) and posed no danger to the police officers when they sustained their injuries (see paragraphs 47, 49, 51, 53, 54, 55, 57, 58, 60-65, 67, 68, 71-72, 74-77, 105-106)."
+    },
+    {
+      "Necessity in a democratic society - general context of the use of force against the journalists": "The dispersion of the demonstration on the night of 20-21 June 2019 was not planned and executed in a manner providing the strongest possible safeguards for the protection of the rights of the applicant journalists. The Plan for measures aimed at safeguarding and restoring public order in Tbilisi did not make specific provisions in respect of journalists despite the high profile of the event and the likelihood of a high turnout (see paragraph 159-165). More broadly, the domestic legal framework, while setting out clear rules on the use of force by the police pursuant to Ministerial Order No. 1002, was not sufficiently observed during the dispersal (see paragraphs 188-192, and 169-171). In particular, no targeted warnings were given to the journalists before they sustained their injuries, nor were they given an opportunity to leave the area and avoid the consequences of the use of force. Furthermore, the police failed to create clear exit routes for the people gathered in front of the Parliament building (see paragraphs 32-43, 187). Finally, the use of force was not limited to those acting violently, nor were kinetic impact projectiles used only as a last resort after other means had failed, as required by Ministerial Order No. 1002 (see paragraphs 20, 21, 29-39, 188-192)."
+    },
+    {
+      "Conclusion on the alleged violation of Article 10": "Having regard to the above, the interference with the exercise of the rights of the 13 applicant journalists under Article 10 was not “necessary in a democratic society”. There has, accordingly, been a violation of Article 10 of the Convention in respect of these applicants."
+    }
+  ],
+  "raw_content": "```json\n{\n  \"assessment\": [\n    {\n      \"Applicability of Article 10\": \"The applicants who are journalists (Ms Baghashvili, Ms Nemsadze, Ms Vakhtangadze, Ms Khozrevanidze, Mr Grigalashvili, Mr Muradov, Mr Koshkadze, Mr Tchumburidze, Mr Bochikashvili, Ms Abashidze and Mr Diasamidze in the application Baghashvili and Others v. Georgia (no. 20129/21); Mr Tsaava and Mr Kmuzov in the application Tsaava and Kmuzov v. Georgia (no. 13186/20); Mr Svanadze in the application Svanadze v. Georgia (no. 16757/20); and Mr Berikashvili in the application Berikashvili v. Georgia (no. 39382/21) were exercising their right to freedom of expression, which includes the freedom to receive and impart information, by reporting on a matter of significant public interest, namely, a large demonstration (see paragraphs 44-46, 54-67, 105-106).\"\n    },\n    {\n      \"Existence of interference with Article 10 rights\": \"The use of force by the police, including kinetic impact projectiles, tear gas and physical violence, against the applicant journalists during the demonstration, which hindered or prevented them from carrying out their professional duties, constituted an interference with their right to freedom of expression under Article 10 of the Convention. This included direct injuries to journalists, the destruction or damage of their professional equipment, and the creation of an environment where it was dangerous or impossible for them to continue reporting (see paragraphs 47-49, 51-53, 55-56, 58, 60-65, 67-79, 105-106).\"\n    },\n     {\n      \"Prescribed by law\": \"The interference was prescribed by domestic law, namely sections 17, 30-33 of the Police Act 2013, section 11 of the Assemblies and Demonstrations Act 1997, and Ministerial Orders no. 1002 and no. 1006 (see paragraphs 177-196).\"\n    },\n    {\n      \"Legitimate aim\": \"The interference pursued legitimate aims under Article 10 § 2 of the Convention, namely the prevention of disorder and the protection of the rights of others, as well as the maintenance of public order (see paragraphs 14-43).\"\n    },\n    {\n      \"Necessity in a democratic society - relevance of the interference to the legitimate aims pursued\": \"The use of force by the police, including the use of kinetic impact projectiles specifically, was not a targeted measure aimed at protecting the police or dispersing a violent crowd in so far as many individual journalist applicants were standing calmly, posed no threat to the law-enforcement officers or other people, and were hit with kinetic impact projectiles nonetheless. This concerns all 13 journalist applicants (see paragraphs 47-49, 51-53, 54, 55, 57-58, 60-65, 67-72, 74-77, 105-106).\"\n    },\n    {\n      \"Necessity in a democratic society - proportionality of the interference in respect of individual journalists\": \"The measures employed by the police against the applicant journalists were not proportionate. The relevant domestic legal framework requires that the use of force by the police is proportionate and necessary in a democratic society (see paragraphs 180-185, 187-192, 195-196). These standards are aligned with Article 10 standards as developed in the Court’s case-law (seeونه. 28395/10). In addition, the UN Human Rights Guidance on Less-Lethal Weapons in Law Enforcement, the Venice Commission Guidelines on Peaceful Assembly, and the Recommendation CM/Rec(2016)4 of the Committee of Ministers underline the need to ensure that journalists are protected and able to perform their professional duties. Accordingly, an interference with the rights of journalists which entails a hindrance to or the prevention of their journalistic activities may only be justified if it is strictly necessary and proportionate in the light of the particular circumstances. This entails an obligation for the police to distinguish between individuals engaged in violence and those who are peacefully demonstrating, including journalists. The applicants were identifiable as journalists (see paragraphs 45, 46, 54, 56, 58, 59, 62, 63, 65) and posed no danger to the police officers when they sustained their injuries (see paragraphs 47, 49, 51, 53, 54, 55, 57, 58, 60-65, 67, 68, 71-72, 74-77, 105-106).\"\n    },\n    {\n      \"Necessity in a democratic society - general context of the use of force against the journalists\": \"The dispersion of the demonstration on the night of 20-21 June 2019 was not planned and executed in a manner providing the strongest possible safeguards for the protection of the rights of the applicant journalists. The Plan for measures aimed at safeguarding and restoring public order in Tbilisi did not make specific provisions in respect of journalists despite the high profile of the event and the likelihood of a high turnout (see paragraph 159-165). More broadly, the domestic legal framework, while setting out clear rules on the use of force by the police pursuant to Ministerial Order No. 1002, was not sufficiently observed during the dispersal (see paragraphs 188-192, and 169-171). In particular, no targeted warnings were given to the journalists before they sustained their injuries, nor were they given an opportunity to leave the area and avoid the consequences of the use of force. Furthermore, the police failed to create clear exit routes for the people gathered in front of the Parliament building (see paragraphs 32-43, 187). Finally, the use of force was not limited to those acting violently, nor were kinetic impact projectiles used only as a last resort after other means had failed, as required by Ministerial Order No. 1002 (see paragraphs 20, 21, 29-39, 188-192).\"\n    },\n    {\n      \"Conclusion on the alleged violation of Article 10\": \"Having regard to the above, the interference with the exercise of the rights of the 13 applicant journalists under Article 10 was not “necessary in a democratic society”. There has, accordingly, been a violation of Article 10 of the Convention in respect of these applicants.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 3234,
+    "prompt_tokens": 33197,
+    "total_tokens": 36431,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1924,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0740505,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0740505,
+      "upstream_inference_prompt_cost": 0.0497955,
+      "upstream_inference_completions_cost": 0.024255
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "item_id": "001-242528",
+  "case_name": "CASE OF HAYK GRIGORYAN v. ARMENIA",
+  "case_number": "(Application no. 9796/17)",
+  "date": "3 April 2025",
+  "prompt_type": "non_curated",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Protected journalistic activity": "The applicant was a freelance journalist who went to the Sari Tagh protest to film events of evident public interest: mass demonstrations linked to the seizure of a police building and the police response to them (see paragraphs 5, 8 and 15). Article 10 protects not only the publication of information but also journalistic newsgathering, especially in the context of protests and police operations, where the media act as a public watchdog (see no. 11882/10; see also no. 2594/07). The absence of a visible press card in the footage is relevant but not decisive, since the applicant was openly filming with a camera, another journalist repeatedly shouted that he was a journalist, and the applicant himself stated that he told the officers so (see paragraphs 9, 23 and 27)."
+    },
+    {
+      "Existence of an interference": "There was a direct interference with the applicant's Article 10 rights. The video material shows police officers turning on him when he filmed them at close range, asking \"Who are you filming?\", referring to deleting material, grabbing him, striking or attempting to strike him, and seizing his camera; his mobile phone was also allegedly taken and not returned at that stage (see paragraphs 9, 15 and 18). The applicant was later diagnosed with injuries to his lip and other trauma-related complaints shortly after the incident (see paragraph 11), and the forensic reports confirmed at least bruising caused by blunt force on the relevant date (see paragraphs 17 and 20). Such physical force and confiscation of journalistic equipment while reporting from a demonstration are capable of seriously hindering newsgathering and producing a chilling effect on press freedom (see no. 2594/07; see no. 1172/12)."
+    },
+    {
+      "Lawfulness and aim": "The general context was tense and violent: demonstrators had charged police, hit officers and thrown stones, and the police were maintaining checkpoints near the seized police facility (see paragraphs 5, 6 and 8). The authorities could therefore invoke prevention of disorder and protection of safety as legitimate concerns. However, nothing in the facts suggests that the applicant himself was participating in violence. On the contrary, the video indicates that the police reaction was triggered when he closely filmed officers dealing with a man on the ground, and one officer's words about deleting footage point to an intention to suppress recording rather than to restore order (see paragraph 9). There is also no clear legal basis identified for taking his camera and phone merely to verify whether he was a journalist (see paragraph 27)."
+    },
+    {
+      "Necessity and proportionality": "Even allowing for the operational difficulties of a violent protest, the interference appears disproportionate. The applicant was not arrested for any violent act; instead, he was grabbed, possibly struck and deprived of his camera while documenting police conduct (see paragraph 9). The officers' explanation that they took the camera only to check whether he was a journalist is weak, because Article 10 protection cannot depend solely on immediate production of a press card, especially in chaotic street conditions, and because the measures used were coercive and targeted the recording itself (see paragraphs 23 and 27). The alleged deletion of footage, the delayed return of the camera only after intervention by a senior officer, and the continued loss of the mobile phone reinforce the conclusion that the measures were not the least restrictive means available (see paragraphs 9, 15 and 18). Under the Court's case-law, strong reasons are required for any interference with the media's ability to report on public demonstrations, and those reasons are not apparent here (see no. 11882/10; see no. 2594/07)."
+    },
+    {
+      "Positive obligation to protect journalists": "Article 10 also requires the State to create an environment in which journalists can cover matters of public concern without fear of violence or arbitrary obstruction (see no. 1172/12). The domestic authorities themselves treated the case as potentially involving obstruction of a journalist's lawful professional activities by public officials, opening proceedings under the specific criminal provision protecting journalists (see paragraphs 13 and 34). That supports the view that the events were not a routine crowd-control incident but an arguable attack on press activity. In such circumstances, the State had a duty to respond with special diligence."
+    },
+    {
+      "Adequacy of the investigation under Article 10": "The investigative response was markedly deficient. Although proceedings were opened in July 2016 (see paragraph 13), the key police officers visible in the footage were not questioned until February-March 2022, almost six years later (see paragraph 26). By then, the authorities had already examined the video and later stated that information had been obtained about those who had assaulted the applicant (see paragraphs 24, 28 and 30), yet no public criminal prosecution had been initiated by February 2023 (see paragraph 31), and the investigation was still pending in July 2023 (see paragraph 33). The attempt to discuss amnesty in relation to officer E.M. before any prosecution decision further undermined the appearance of rigorous scrutiny (see paragraphs 30, 32 and 38). Such delay and ineffectiveness are difficult to reconcile with the prompt and thorough investigation required where violence against a journalist may deter media coverage of public events (see no. 1172/12)."
+    },
+    {
+      "Overall conclusion": "Taking the facts as a whole, the applicant was engaged in protected journalistic reporting on a matter of high public interest; the police used force against him, seized his equipment and interfered with his recordings while he was filming; and the authorities then failed for years to carry out a sufficiently prompt and effective investigation capable of identifying and holding those responsible to account (see paragraphs 8-9, 13, 26, 30-33). In light of the Court's standards on protection of journalistic newsgathering and attacks on reporters covering demonstrations (see no. 11882/10; see no. 2594/07; see no. 1172/12), an Article 10 violation is likely."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"Protected journalistic activity\": \"The applicant was a freelance journalist who went to the Sari Tagh protest to film events of evident public interest: mass demonstrations linked to the seizure of a police building and the police response to them (see paragraphs 5, 8 and 15). Article 10 protects not only the publication of information but also journalistic newsgathering, especially in the context of protests and police operations, where the media act as a public watchdog (see no. 11882/10; see also no. 2594/07). The absence of a visible press card in the footage is relevant but not decisive, since the applicant was openly filming with a camera, another journalist repeatedly shouted that he was a journalist, and the applicant himself stated that he told the officers so (see paragraphs 9, 23 and 27).\"\n    },\n    {\n      \"Existence of an interference\": \"There was a direct interference with the applicant's Article 10 rights. The video material shows police officers turning on him when he filmed them at close range, asking \\\"Who are you filming?\\\", referring to deleting material, grabbing him, striking or attempting to strike him, and seizing his camera; his mobile phone was also allegedly taken and not returned at that stage (see paragraphs 9, 15 and 18). The applicant was later diagnosed with injuries to his lip and other trauma-related complaints shortly after the incident (see paragraph 11), and the forensic reports confirmed at least bruising caused by blunt force on the relevant date (see paragraphs 17 and 20). Such physical force and confiscation of journalistic equipment while reporting from a demonstration are capable of seriously hindering newsgathering and producing a chilling effect on press freedom (see no. 2594/07; see no. 1172/12).\"\n    },\n    {\n      \"Lawfulness and aim\": \"The general context was tense and violent: demonstrators had charged police, hit officers and thrown stones, and the police were maintaining checkpoints near the seized police facility (see paragraphs 5, 6 and 8). The authorities could therefore invoke prevention of disorder and protection of safety as legitimate concerns. However, nothing in the facts suggests that the applicant himself was participating in violence. On the contrary, the video indicates that the police reaction was triggered when he closely filmed officers dealing with a man on the ground, and one officer's words about deleting footage point to an intention to suppress recording rather than to restore order (see paragraph 9). There is also no clear legal basis identified for taking his camera and phone merely to verify whether he was a journalist (see paragraph 27).\"\n    },\n    {\n      \"Necessity and proportionality\": \"Even allowing for the operational difficulties of a violent protest, the interference appears disproportionate. The applicant was not arrested for any violent act; instead, he was grabbed, possibly struck and deprived of his camera while documenting police conduct (see paragraph 9). The officers' explanation that they took the camera only to check whether he was a journalist is weak, because Article 10 protection cannot depend solely on immediate production of a press card, especially in chaotic street conditions, and because the measures used were coercive and targeted the recording itself (see paragraphs 23 and 27). The alleged deletion of footage, the delayed return of the camera only after intervention by a senior officer, and the continued loss of the mobile phone reinforce the conclusion that the measures were not the least restrictive means available (see paragraphs 9, 15 and 18). Under the Court's case-law, strong reasons are required for any interference with the media's ability to report on public demonstrations, and those reasons are not apparent here (see no. 11882/10; see no. 2594/07).\"\n    },\n    {\n      \"Positive obligation to protect journalists\": \"Article 10 also requires the State to create an environment in which journalists can cover matters of public concern without fear of violence or arbitrary obstruction (see no. 1172/12). The domestic authorities themselves treated the case as potentially involving obstruction of a journalist's lawful professional activities by public officials, opening proceedings under the specific criminal provision protecting journalists (see paragraphs 13 and 34). That supports the view that the events were not a routine crowd-control incident but an arguable attack on press activity. In such circumstances, the State had a duty to respond with special diligence.\"\n    },\n    {\n      \"Adequacy of the investigation under Article 10\": \"The investigative response was markedly deficient. Although proceedings were opened in July 2016 (see paragraph 13), the key police officers visible in the footage were not questioned until February-March 2022, almost six years later (see paragraph 26). By then, the authorities had already examined the video and later stated that information had been obtained about those who had assaulted the applicant (see paragraphs 24, 28 and 30), yet no public criminal prosecution had been initiated by February 2023 (see paragraph 31), and the investigation was still pending in July 2023 (see paragraph 33). The attempt to discuss amnesty in relation to officer E.M. before any prosecution decision further undermined the appearance of rigorous scrutiny (see paragraphs 30, 32 and 38). Such delay and ineffectiveness are difficult to reconcile with the prompt and thorough investigation required where violence against a journalist may deter media coverage of public events (see no. 1172/12).\"\n    },\n    {\n      \"Overall conclusion\": \"Taking the facts as a whole, the applicant was engaged in protected journalistic reporting on a matter of high public interest; the police used force against him, seized his equipment and interfered with his recordings while he was filming; and the authorities then failed for years to carry out a sufficiently prompt and effective investigation capable of identifying and holding those responsible to account (see paragraphs 8-9, 13, 26, 30-33). In light of the Court's standards on protection of journalistic newsgathering and attacks on reporters covering demonstrations (see no. 11882/10; see no. 2594/07; see no. 1172/12), an Article 10 violation is likely.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 2333,
+    "prompt_tokens": 5010,
+    "total_tokens": 7343,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1023,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.04752,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.04752,
+      "upstream_inference_prompt_cost": 0.012525,
+      "upstream_inference_completions_cost": 0.034995
+    }
+  },
+  "citations": [
+    "11882/10",
+    "2594/07",
+    "1172/12"
+  ],
+  "ref_paragraphs": [
+    5,
+    6,
+    8,
+    9,
+    11,
+    13,
+    15,
+    17,
+    18,
+    20,
+    23,
+    24,
+    26,
+    27,
+    28,
+    30,
+    31,
+    32,
+    33,
+    34,
+    38
+  ]
+}

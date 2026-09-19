@@ -1,0 +1,54 @@
+{
+  "item_id": "001-243982",
+  "case_name": "CASE OF GOOGLE LLC AND OTHERS v. RUSSIA",
+  "case_number": "(Application no. 37027/22)",
+  "date": "8 July 2025",
+  "prompt_type": "instruction",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Existence of an interference": "There has been a clear interference with the applicant companies’ right to freedom of expression under Article 10 of the Convention. The Russian authorities imposed administrative fines on Google LLC for its refusal to comply with take-down requests (TDRs) issued by Roskomnadzor concerning political content, including videos criticizing the Russian government’s COVID-19 response and constitutional amendments, as well as content supporting opposition politician Mr. Navalnyy (see paragraphs 6–8, 10–12). Furthermore, Russian courts ordered Google LLC, Google Ireland, and Google Russia to restore access to Tsargrad’s YouTube and Gmail accounts and imposed uncapped astreinte penalties for non-compliance (see paragraphs 15–21). These measures restricted the applicants’ ability to manage content on their platforms and enforced the dissemination of specific material, constituting an interference with their right to impart information."
+    },
+    {
+      "Lawfulness of the interference": "The interference was grounded in domestic law. The administrative fines were imposed under Article 13.41 of the Code of Administrative Offences (CAO), which came into force on 10 January 2021 and provides for penalties against owners of information resources failing to comply with TDRs (see paragraphs 5, 46). The TDRs themselves were issued under section 15.3 of the Information Act, which defines categories of unlawful online content (see paragraph 43). Additionally, the civil proceedings compelling the restoration of Tsargrad’s accounts relied on Article 248.1 of the Code of Commercial Procedure and Article 308.3 of the Civil Code (see paragraphs 47–48). Thus, the interference had a basis in national legislation."
+    },
+    {
+      "Legitimate aims of the interference": "The interference pursued legitimate aims as enumerated in Article 10 § 2 of the Convention. The TDRs targeted content falling under categories such as ‘calls for mass disorder’, ‘extremist activities’, and ‘socially significant disinformation’ (see paragraph 43(a)–(c)), which correspond to the protection of national security, public safety, and the prevention of disorder. Similarly, the civil proceedings sought to enforce compliance with domestic public order by overriding foreign sanctions (see paragraphs 18–19). These aims are recognized as valid justifications for restricting freedom of expression under the Convention."
+    },
+    {
+      "Necessary in a democratic society": "The interference cannot be considered ‘necessary in a democratic society’. First, the domestic courts failed to conduct a balancing exercise between the restriction and the right to freedom of expression, as the judgments imposing fines did not analyze the impact of the content removal on legitimate political discourse (see paragraph 8). Second, the calculation of the fines was arbitrary and disproportionate, as it aggregated the revenue of multiple unrelated Google entities—none of which were parties to the proceedings—without legal justification (see paragraphs 8, 12). The European Court has consistently held that sanctions on intermediaries must be proportionate to avoid a chilling effect on freedom of expression (see no. 48226/10, Cengiz and Others v. Turkey (no. 2)). Third, the astreinte penalties imposed in the civil proceedings were excessive, uncapped, and accumulated to astronomical sums (over 16 trillion US dollars by September 2022, see paragraph 35), which far exceeded any reasonable measure to secure compliance. Finally, the courts disregarded contractual terms and jurisdiction clauses (see paragraphs 16, 18) and enforced the restoration of content without assessing its legality, further undermining the necessity of the interference. The cumulative effect of these measures, combined with the lack of safeguards against overreach, demonstrates that the interference was not the least restrictive means available and lacked relevant and sufficient justification (see no. 29483/09, Ahmet Yıldırım v. Turkey)."
+    }
+  ],
+  "raw_content": "```json\n{\n  \"assessment\": [\n    {\n      \"Existence of an interference\": \"There has been a clear interference with the applicant companies’ right to freedom of expression under Article 10 of the Convention. The Russian authorities imposed administrative fines on Google LLC for its refusal to comply with take-down requests (TDRs) issued by Roskomnadzor concerning political content, including videos criticizing the Russian government’s COVID-19 response and constitutional amendments, as well as content supporting opposition politician Mr. Navalnyy (see paragraphs 6–8, 10–12). Furthermore, Russian courts ordered Google LLC, Google Ireland, and Google Russia to restore access to Tsargrad’s YouTube and Gmail accounts and imposed uncapped astreinte penalties for non-compliance (see paragraphs 15–21). These measures restricted the applicants’ ability to manage content on their platforms and enforced the dissemination of specific material, constituting an interference with their right to impart information.\"\n    },\n    \n    {\n      \"Lawfulness of the interference\": \"The interference was grounded in domestic law. The administrative fines were imposed under Article 13.41 of the Code of Administrative Offences (CAO), which came into force on 10 January 2021 and provides for penalties against owners of information resources failing to comply with TDRs (see paragraphs 5, 46). The TDRs themselves were issued under section 15.3 of the Information Act, which defines categories of unlawful online content (see paragraph 43). Additionally, the civil proceedings compelling the restoration of Tsargrad’s accounts relied on Article 248.1 of the Code of Commercial Procedure and Article 308.3 of the Civil Code (see paragraphs 47–48). Thus, the interference had a basis in national legislation.\"\n    },\n    \n    {\n      \"Legitimate aims of the interference\": \"The interference pursued legitimate aims as enumerated in Article 10 § 2 of the Convention. The TDRs targeted content falling under categories such as ‘calls for mass disorder’, ‘extremist activities’, and ‘socially significant disinformation’ (see paragraph 43(a)–(c)), which correspond to the protection of national security, public safety, and the prevention of disorder. Similarly, the civil proceedings sought to enforce compliance with domestic public order by overriding foreign sanctions (see paragraphs 18–19). These aims are recognized as valid justifications for restricting freedom of expression under the Convention.\"\n    },\n    \n    {\n      \"Necessary in a democratic society\": \"The interference cannot be considered ‘necessary in a democratic society’. First, the domestic courts failed to conduct a balancing exercise between the restriction and the right to freedom of expression, as the judgments imposing fines did not analyze the impact of the content removal on legitimate political discourse (see paragraph 8). Second, the calculation of the fines was arbitrary and disproportionate, as it aggregated the revenue of multiple unrelated Google entities—none of which were parties to the proceedings—without legal justification (see paragraphs 8, 12). The European Court has consistently held that sanctions on intermediaries must be proportionate to avoid a chilling effect on freedom of expression (see no. 48226/10, Cengiz and Others v. Turkey (no. 2)). Third, the astreinte penalties imposed in the civil proceedings were excessive, uncapped, and accumulated to astronomical sums (over 16 trillion US dollars by September 2022, see paragraph 35), which far exceeded any reasonable measure to secure compliance. Finally, the courts disregarded contractual terms and jurisdiction clauses (see paragraphs 16, 18) and enforced the restoration of content without assessing its legality, further undermining the necessity of the interference. The cumulative effect of these measures, combined with the lack of safeguards against overreach, demonstrates that the interference was not the least restrictive means available and lacked relevant and sufficient justification (see no. 29483/09, Ahmet Yıldırım v. Turkey).\"\n    }\n  ],\n  \n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 5210,
+    "prompt_tokens": 7567,
+    "total_tokens": 12777,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 4447,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0504255,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0504255,
+      "upstream_inference_prompt_cost": 0.0113505,
+      "upstream_inference_completions_cost": 0.039075
+    }
+  }
+}

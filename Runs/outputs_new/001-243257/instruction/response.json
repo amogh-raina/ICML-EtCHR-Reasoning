@@ -1,0 +1,77 @@
+{
+  "item_id": "001-243257",
+  "case_name": "CASE OF SELISHCHEVA AND OTHERS v. RUSSIA",
+  "case_number": "(Applications nos. 39056/22 and 9 others –",
+  "date": "27 May 2025",
+  "prompt_type": "instruction",
+  "model": "openai/gpt-5.4",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1",
+    "11",
+    "11-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Existence of an interference": "There was an interference with the applicants’ freedom of expression. The refusals to register them as candidates were based directly on their previous political and civic expression: participation in protests concerning Mr Navalnyy’s imprisonment, legal assistance to detained protesters, support for opposition candidates and coalitions, dissemination of protest-related content, following and reposting materials from the FBK, and anti-corruption work and statements online (see paragraphs 5-8). Those activities fall within the core of political expression, which attracts the highest level of protection under Article 10, especially where opposition speech and electoral debate are concerned (see nos. 14305/17, 20261/12). By excluding the applicants from the municipal elections because of those expressive acts, the authorities imposed a serious sanction capable of producing a chilling effect not only on them but also on others engaging in similar political speech."
+    },
+    {
+      "Lawfulness of the interference": "The interference appears not to have satisfied the requirement of lawfulness. It had a formal basis in section 4 § 3.6 of the Electoral Rights Act, as amended on 4 June 2021 (see paragraph 11). However, the same provision states that the involvement of persons other than members or employees must be established by a court decision that has entered into legal force, and must relate to the aims or forms of activity for which the organisation was designated extremist (see paragraph 11). In the present case, the electoral commissions and courts relied instead on letters from the Ministry of Justice reproducing police information from the Centre for Combating Extremism; no separate judicial decision had established the applicants’ personal involvement, and the domestic courts expressly dismissed that objection as irrelevant (see paragraphs 5 and 9). Moreover, much of the conduct relied on pre-dated the 9 June 2021 extremist designation and consisted of ordinary, then-lawful opposition activity (see paragraphs 3 and 6-8). Such an interpretation was difficult to foresee and opened the door to arbitrariness, particularly where police-collected data on political opinions and affiliations were used (see paragraphs 12-13; see also nos. 25501/07, 37920/07). This strongly suggests that the interference was not 'prescribed by law' within the meaning of Article 10 § 2."
+    },
+    {
+      "Legitimate aims of the interference": "The Government would likely argue that the measure pursued the prevention of disorder or crime and the protection of the democratic order by excluding persons involved with organisations declared extremist (see paragraphs 3 and 11). In abstract terms, combating extremism can correspond to legitimate aims under Article 10 § 2. However, in this case the facts disclosed do not show that the expressive acts relied on involved violence, incitement, hatred or any concrete threat to public safety. The impugned conduct was peaceful political campaigning, anti-corruption advocacy, online commentary and support for opposition initiatives (see paragraphs 6-8). Thus, even if a legitimate aim can be accepted at a general level, the link between the applicants’ actual expression and that aim was weak."
+    },
+    {
+      "Necessary in a democratic society": "The interference was not necessary in a democratic society. The authorities gave no relevant and sufficient reasons showing a pressing social need to exclude these applicants from elections because of their expression. The domestic courts treated police allegations as sufficient, undertook no meaningful examination of whether the applicants had engaged in extremist conduct, and ignored the fact that the relied-on activities had largely occurred before the organisations were banned and were typical forms of peaceful opposition speech (see paragraphs 6-9). The sanction was particularly severe: a three-year bar on standing for election, imposed in the context of local democratic competition, on the basis of social-media activity, signature collection, campaign work, and protest participation (see paragraphs 4-11). Less restrictive responses were plainly available, and no individualized assessment of necessity was made. The Court has repeatedly stressed that restrictions on political expression, especially against opposition figures or anti-corruption activists, require the most convincing justification and a narrow margin of appreciation applies (see nos. 14305/17, 20261/12, 37949/18, 28396/95). Here, the measure functioned as a broad exclusion of political opponents rather than a proportionate response to any demonstrated extremist danger. Accordingly, even assuming lawfulness and a legitimate aim, the interference was disproportionate."
+    }
+  ],
+  "raw_content": "{\n  \"assessment\": [\n    {\n      \"Existence of an interference\": \"There was an interference with the applicants’ freedom of expression. The refusals to register them as candidates were based directly on their previous political and civic expression: participation in protests concerning Mr Navalnyy’s imprisonment, legal assistance to detained protesters, support for opposition candidates and coalitions, dissemination of protest-related content, following and reposting materials from the FBK, and anti-corruption work and statements online (see paragraphs 5-8). Those activities fall within the core of political expression, which attracts the highest level of protection under Article 10, especially where opposition speech and electoral debate are concerned (see nos. 14305/17, 20261/12). By excluding the applicants from the municipal elections because of those expressive acts, the authorities imposed a serious sanction capable of producing a chilling effect not only on them but also on others engaging in similar political speech.\"\n    },\n    {\n      \"Lawfulness of the interference\": \"The interference appears not to have satisfied the requirement of lawfulness. It had a formal basis in section 4 § 3.6 of the Electoral Rights Act, as amended on 4 June 2021 (see paragraph 11). However, the same provision states that the involvement of persons other than members or employees must be established by a court decision that has entered into legal force, and must relate to the aims or forms of activity for which the organisation was designated extremist (see paragraph 11). In the present case, the electoral commissions and courts relied instead on letters from the Ministry of Justice reproducing police information from the Centre for Combating Extremism; no separate judicial decision had established the applicants’ personal involvement, and the domestic courts expressly dismissed that objection as irrelevant (see paragraphs 5 and 9). Moreover, much of the conduct relied on pre-dated the 9 June 2021 extremist designation and consisted of ordinary, then-lawful opposition activity (see paragraphs 3 and 6-8). Such an interpretation was difficult to foresee and opened the door to arbitrariness, particularly where police-collected data on political opinions and affiliations were used (see paragraphs 12-13; see also nos. 25501/07, 37920/07). This strongly suggests that the interference was not 'prescribed by law' within the meaning of Article 10 § 2.\"\n    },\n    {\n      \"Legitimate aims of the interference\": \"The Government would likely argue that the measure pursued the prevention of disorder or crime and the protection of the democratic order by excluding persons involved with organisations declared extremist (see paragraphs 3 and 11). In abstract terms, combating extremism can correspond to legitimate aims under Article 10 § 2. However, in this case the facts disclosed do not show that the expressive acts relied on involved violence, incitement, hatred or any concrete threat to public safety. The impugned conduct was peaceful political campaigning, anti-corruption advocacy, online commentary and support for opposition initiatives (see paragraphs 6-8). Thus, even if a legitimate aim can be accepted at a general level, the link between the applicants’ actual expression and that aim was weak.\"\n    },\n    {\n      \"Necessary in a democratic society\": \"The interference was not necessary in a democratic society. The authorities gave no relevant and sufficient reasons showing a pressing social need to exclude these applicants from elections because of their expression. The domestic courts treated police allegations as sufficient, undertook no meaningful examination of whether the applicants had engaged in extremist conduct, and ignored the fact that the relied-on activities had largely occurred before the organisations were banned and were typical forms of peaceful opposition speech (see paragraphs 6-9). The sanction was particularly severe: a three-year bar on standing for election, imposed in the context of local democratic competition, on the basis of social-media activity, signature collection, campaign work, and protest participation (see paragraphs 4-11). Less restrictive responses were plainly available, and no individualized assessment of necessity was made. The Court has repeatedly stressed that restrictions on political expression, especially against opposition figures or anti-corruption activists, require the most convincing justification and a narrow margin of appreciation applies (see nos. 14305/17, 20261/12, 37949/18, 28396/95). Here, the measure functioned as a broad exclusion of political opponents rather than a proportionate response to any demonstrated extremist danger. Accordingly, even assuming lawfulness and a legitimate aim, the interference was disproportionate.\"\n    }\n  ],\n  \"violation\": \"yes\"\n}",
+  "usage": {
+    "completion_tokens": 2455,
+    "prompt_tokens": 2659,
+    "total_tokens": 5114,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1511,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.0434725,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.0434725,
+      "upstream_inference_prompt_cost": 0.0066475,
+      "upstream_inference_completions_cost": 0.036825
+    }
+  },
+  "citations": [
+    "14305/17",
+    "20261/12",
+    "25501/07",
+    "37920/07",
+    "37949/18",
+    "28396/95"
+  ],
+  "ref_paragraphs": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ]
+}

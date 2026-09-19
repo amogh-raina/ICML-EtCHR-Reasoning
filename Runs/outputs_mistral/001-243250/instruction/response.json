@@ -1,0 +1,56 @@
+{
+  "item_id": "001-243250",
+  "case_name": "CASE OF NEMYTOV AND OTHERS v. RUSSIA",
+  "case_number": "(Applications nos. 1257/21 and 2 others – see appended list)",
+  "date": "27 May 2025",
+  "prompt_type": "instruction",
+  "model": "mistralai/mistral-medium-3-5",
+  "reasoning_effort": "medium",
+  "violation_ground_truth": [
+    "10",
+    "10-1",
+    "11",
+    "11-1"
+  ],
+  "violation_prediction": "yes",
+  "assessment": [
+    {
+      "Existence of an interference": "The applicants were prosecuted, arrested, detained, and convicted for staging solo demonstrations or participating in gatherings expressing political views. Mr Nemytov held a static solo demonstration with a placard protesting criminal prosecution (see paragraph 13), Mr Azar staged a similar solo demonstration (see paragraph 19), and Ms Burma participated in a gathering supporting a political figure (see paragraph 27). These acts constituted expressive conduct protected under Article 10. The prosecutions, administrative detentions, and fines directly interfered with their right to impart information and ideas. Therefore, there was a clear interference with the applicants’ freedom of expression."
+    },
+    {
+      "Lawfulness of the interference": "The interference had a basis in domestic law. The applicants were charged under specific provisions of the Code of Administrative Offences (CAO): Article 20.2 § 8 for repeated breaches of public event rules (see paragraphs 14, 20, 40), Article 20.2.2 § 1 for mass gatherings violating health regulations (see paragraph 30), and Article 20.6.1 for non-compliance with state of high alert rules (see paragraph 17). These charges relied on decrees issued by Moscow and St Petersburg authorities (Decree no. 12-UM in Moscow, see paragraph 57; Decree no. 121 in St Petersburg, see paragraph 62) and health orders from Rospotrebnadzor (see paragraphs 58, 65, 66). Since the interference was grounded in existing legal provisions, it was lawful."
+    },
+    {
+      "Legitimate aims of the interference": "The interference pursued legitimate aims under Article 10 § 2. The restrictions were imposed during the COVID-19 pandemic, which the WHO declared a global public health emergency (see paragraph 5). Moscow was the epicenter of the outbreak in Russia at the time, with over 50,000 cases and 2,000 deaths by May 2020 (see paragraph 12), and St Petersburg faced a severe surge in January 2021 (see paragraph 25). The domestic courts explicitly cited the protection of public health, the prevention of disorder, and the protection of the rights of others as justifications for the restrictions (see paragraphs 32, 33, 37). These aims fall within the legitimate grounds for restricting freedom of expression, specifically the protection of health and public safety (Article 10 § 2)."
+    },
+    {
+      "Necessary in a democratic society": "The interference was not necessary in a democratic society. While the COVID-19 pandemic constituted a pressing social need, the blanket prohibition on all public events—including static solo demonstrations—was disproportionate. Solo demonstrations inherently pose minimal risk of virus transmission and could have been permitted with health safeguards (e.g., masks, distancing), but the authorities imposed an absolute ban without demonstrating why less restrictive measures were insufficient (see paragraphs 13, 19, 57, 62). The domestic courts’ reasoning was inconsistent: Mr Azar’s solo demonstration was reclassified as a group event (see paragraph 23), and Ms Burma’s conviction relied on generic evidence without proving her specific breach of distancing (see paragraphs 31, 32). Furthermore, the selective enforcement of restrictions—with shopping malls, restaurants, and non-political events operating normally (see paragraph 36)—undermines the necessity claim. The ECtHR has emphasized that restrictions during public health crises must be proportionate and that solo demonstrations, as a minimal-risk form of expression, warrant heightened protection (see no. 21881/20, Communauté genevoise d’action syndicale (CGAS) v. Switzerland; see no. 29356/19, Pleshkov and Others v. Russia). The blanket ban lacked sufficient justification and was not the least restrictive means available, failing the necessity test."
+    }
+  ],
+  "raw_content": "```json\n{\n  \"assessment\": [\n    {\"Existence of an interference\": \"The applicants were prosecuted, arrested, detained, and convicted for staging solo demonstrations or participating in gatherings expressing political views. Mr Nemytov held a static solo demonstration with a placard protesting criminal prosecution (see paragraph 13), Mr Azar staged a similar solo demonstration (see paragraph 19), and Ms Burma participated in a gathering supporting a political figure (see paragraph 27). These acts constituted expressive conduct protected under Article 10. The prosecutions, administrative detentions, and fines directly interfered with their right to impart information and ideas. Therefore, there was a clear interference with the applicants’ freedom of expression.\"},\n\n    {\"Lawfulness of the interference\": \"The interference had a basis in domestic law. The applicants were charged under specific provisions of the Code of Administrative Offences (CAO): Article 20.2 § 8 for repeated breaches of public event rules (see paragraphs 14, 20, 40), Article 20.2.2 § 1 for mass gatherings violating health regulations (see paragraph 30), and Article 20.6.1 for non-compliance with state of high alert rules (see paragraph 17). These charges relied on decrees issued by Moscow and St Petersburg authorities (Decree no. 12-UM in Moscow, see paragraph 57; Decree no. 121 in St Petersburg, see paragraph 62) and health orders from Rospotrebnadzor (see paragraphs 58, 65, 66). Since the interference was grounded in existing legal provisions, it was lawful.\"},\n\n    {\"Legitimate aims of the interference\": \"The interference pursued legitimate aims under Article 10 § 2. The restrictions were imposed during the COVID-19 pandemic, which the WHO declared a global public health emergency (see paragraph 5). Moscow was the epicenter of the outbreak in Russia at the time, with over 50,000 cases and 2,000 deaths by May 2020 (see paragraph 12), and St Petersburg faced a severe surge in January 2021 (see paragraph 25). The domestic courts explicitly cited the protection of public health, the prevention of disorder, and the protection of the rights of others as justifications for the restrictions (see paragraphs 32, 33, 37). These aims fall within the legitimate grounds for restricting freedom of expression, specifically the protection of health and public safety (Article 10 § 2).\"},\n\n    {\"Necessary in a democratic society\": \"The interference was not necessary in a democratic society. While the COVID-19 pandemic constituted a pressing social need, the blanket prohibition on all public events—including static solo demonstrations—was disproportionate. Solo demonstrations inherently pose minimal risk of virus transmission and could have been permitted with health safeguards (e.g., masks, distancing), but the authorities imposed an absolute ban without demonstrating why less restrictive measures were insufficient (see paragraphs 13, 19, 57, 62). The domestic courts’ reasoning was inconsistent: Mr Azar’s solo demonstration was reclassified as a group event (see paragraph 23), and Ms Burma’s conviction relied on generic evidence without proving her specific breach of distancing (see paragraphs 31, 32). Furthermore, the selective enforcement of restrictions—with shopping malls, restaurants, and non-political events operating normally (see paragraph 36)—undermines the necessity claim. The ECtHR has emphasized that restrictions during public health crises must be proportionate and that solo demonstrations, as a minimal-risk form of expression, warrant heightened protection (see no. 21881/20, Communauté genevoise d’action syndicale (CGAS) v. Switzerland; see no. 29356/19, Pleshkov and Others v. Russia). The blanket ban lacked sufficient justification and was not the least restrictive means available, failing the necessity test.\"}\n  ],\n  \"violation\": \"yes\"\n}\n```",
+  "usage": {
+    "completion_tokens": 6014,
+    "prompt_tokens": 15682,
+    "total_tokens": 21696,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": 0,
+      "reasoning_tokens": 5035,
+      "rejected_prediction_tokens": null,
+      "image_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost": 0.068628,
+    "is_byok": false,
+    "cost_details": {
+      "upstream_inference_cost": 0.068628,
+      "upstream_inference_prompt_cost": 0.023523,
+      "upstream_inference_completions_cost": 0.045105
+    }
+  }
+}
